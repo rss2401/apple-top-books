@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 56,
+      "artistName": "田川ミ",
+      "id": "6504789818",
+      "name": "しゃこうっち。 1巻",
+      "releaseDate": "2024-07-12",
+      "kind": "books",
+      "artistId": "905195615",
+      "artistUrl": "https://books.apple.com/jp/author/%E7%94%B0%E5%B7%9D%E3%83%9F/id905195615",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/57/e2/f4/57e2f405-caed-5806-81e3-bbfb6c87d21f/23013_127023151_001_001_artwork_20240703113558.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "10015",
+          "name": "グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id10015"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11052",
+          "name": "ヒューマンドラマ",
+          "url": "https://itunes.apple.com/jp/genre/id11052"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%81%97%E3%82%83%E3%81%93%E3%81%86%E3%81%A3%E3%81%A1-1%E5%B7%BB/id6504789818"
+    }
+  ]
+}

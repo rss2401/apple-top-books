@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 100,
+      "artistName": "David Antocci",
+      "id": "1509153158",
+      "name": "Retribution: An Alivia Morgan Thriller",
+      "releaseDate": "2020-04-20",
+      "kind": "books",
+      "artistId": "1013982382",
+      "artistUrl": "https://books.apple.com/us/author/david-antocci/id1013982382",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b1/db/ee/b1dbeee8-2d7a-1e7b-d117-9b3195742b1e/0000550265.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/retribution-an-alivia-morgan-thriller/id1509153158"
+    }
+  ]
+}

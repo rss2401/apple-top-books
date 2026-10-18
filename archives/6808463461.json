@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 99,
+      "artistName": "Allie Oleander",
+      "id": "6808463461",
+      "name": "Proie sous contrat",
+      "releaseDate": "2026-10-15",
+      "kind": "books",
+      "artistId": "1807147722",
+      "artistUrl": "https://books.apple.com/fr/author/allie-oleander/id1807147722",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3f/b6/9c/3fb69c74-ba36-c8c8-a7a6-699729a23ff0/9782386902291.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "10061",
+          "name": "Thriller romantique",
+          "url": "https://itunes.apple.com/fr/genre/id10061"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/proie-sous-contrat/id6808463461"
+    }
+  ]
+}

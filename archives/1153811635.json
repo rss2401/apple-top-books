@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 56,
+      "artistName": "Blake Pierce",
+      "id": "1153811635",
+      "name": "Les Pendules à l’heure (Une Enquête de Riley Paige – Tome 4)",
+      "releaseDate": "2016-09-12",
+      "kind": "books",
+      "artistId": "1061299863",
+      "artistUrl": "https://books.apple.com/fr/author/blake-pierce/id1061299863",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication62/v4/c8/35/b4/c835b482-06b0-62a7-7c0f-122fe2763348/Once_Lured--French.jpg/100x149bb.png",
+      "genres": [
+        {
+          "genreId": "10055",
+          "name": "Détectives féminins",
+          "url": "https://itunes.apple.com/fr/genre/id10055"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id9032"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/les-pendules-%C3%A0-lheure-une-enqu%C3%AAte-de-riley-paige-tome-4/id1153811635"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 30,
+      "artistName": "大白蓮華編集部",
+      "id": "6815528188",
+      "name": "大白蓮華 2026年10月号",
+      "releaseDate": "2026-09-25",
+      "kind": "books",
+      "artistId": "1225496105",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%A4%A7%E7%99%BD%E8%93%AE%E8%8F%AF%E7%B7%A8%E9%9B%86%E9%83%A8/id1225496105",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b7/1f/fc/b71ffcba-00f6-361c-2293-89868e900bfa/27631_131721416_001_001_artwork_20260924130459.jpg/100x141bb.png",
+      "genres": [
+        {
+          "genreId": "10091",
+          "name": "哲学",
+          "url": "https://itunes.apple.com/jp/genre/id10091"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9002",
+          "name": "ノンフィクション",
+          "url": "https://itunes.apple.com/jp/genre/id9002"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E5%A4%A7%E7%99%BD%E8%93%AE%E8%8F%AF-2026%E5%B9%B410%E6%9C%88%E5%8F%B7/id6815528188"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 6,
+      "artistName": "夏海真優, アマラ & 乃希",
+      "id": "1615534911",
+      "name": "神様は異世界にお引越ししました【電子単行本版】 / 1",
+      "releaseDate": "2021-06-14",
+      "kind": "books",
+      "artistId": "1584095386",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%A4%8F%E6%B5%B7%E7%9C%9F%E5%84%AA/id1584095386",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/dc/a2/33/dca2330c-7b0e-3c1e-f960-5c58ffb47ed1/29257_124305880_001_001_artwork_20220322124800.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "11337",
+          "name": "少年",
+          "url": "https://itunes.apple.com/jp/genre/id11337"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "50000074",
+          "name": "ファンタジー",
+          "url": "https://itunes.apple.com/jp/genre/id50000074"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E7%A5%9E%E6%A7%98%E3%81%AF%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AB%E3%81%8A%E5%BC%95%E8%B6%8A%E3%81%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E9%9B%BB%E5%AD%90%E5%8D%98%E8%A1%8C%E6%9C%AC%E7%89%88-1/id1615534911"
+    }
+  ]
+}

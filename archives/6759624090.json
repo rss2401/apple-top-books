@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 97,
+      "artistName": "Peter King",
+      "id": "6759624090",
+      "name": "The Game",
+      "releaseDate": "2026-10-13",
+      "kind": "books",
+      "artistId": "364649758",
+      "artistUrl": "https://books.apple.com/us/author/peter-king/id364649758",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9f/e9/1c/9fe91c5e-18ab-c52d-ac0d-8473958426d1/9781324123644.jpg/100x152bb.png",
+      "genres": [
+        {
+          "genreId": "10125",
+          "name": "Football",
+          "url": "https://itunes.apple.com/us/genre/id10125"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9035",
+          "name": "Sports & Outdoors",
+          "url": "https://itunes.apple.com/us/genre/id9035"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/the-game/id6759624090"
+    }
+  ]
+}

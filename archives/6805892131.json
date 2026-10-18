@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 60,
+      "artistName": "One & Yusuke Murata",
+      "id": "6805892131",
+      "name": "One-Punch Man - Tome 35",
+      "releaseDate": "2026-10-15",
+      "kind": "books",
+      "artistId": "1458072830",
+      "artistUrl": "https://books.apple.com/fr/author/one/id1458072830",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d5/56/eb/d556eb66-bfc6-8260-769e-98e01b673ad0/9791042023195.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "50000071",
+          "name": "Manga : Action",
+          "url": "https://itunes.apple.com/fr/genre/id50000071"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "BD et mangas",
+          "url": "https://itunes.apple.com/fr/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "Manga",
+          "url": "https://itunes.apple.com/fr/genre/id10016"
+        },
+        {
+          "genreId": "11337",
+          "name": "Manga : Shōnen",
+          "url": "https://itunes.apple.com/fr/genre/id11337"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/one-punch-man-tome-35/id6805892131"
+    }
+  ]
+}

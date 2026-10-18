@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 94,
+      "artistName": "Siddhartha Mukherjee",
+      "id": "1609265177",
+      "name": "The Song of the Cell",
+      "releaseDate": "2022-10-25",
+      "kind": "books",
+      "artistId": "358333580",
+      "artistUrl": "https://books.apple.com/us/author/siddhartha-mukherjee/id358333580",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/5a/c5/9a/5ac59aeb-e8de-b521-551a-67232e25788a/9781982117375.jpg/100x152bb.png",
+      "genres": [
+        {
+          "genreId": "10116",
+          "name": "Life Sciences",
+          "url": "https://itunes.apple.com/us/genre/id10116"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9019",
+          "name": "Science & Nature",
+          "url": "https://itunes.apple.com/us/genre/id9019"
+        },
+        {
+          "genreId": "10115",
+          "name": "Science History",
+          "url": "https://itunes.apple.com/us/genre/id10115"
+        },
+        {
+          "genreId": "9029",
+          "name": "Professional & Technical",
+          "url": "https://itunes.apple.com/us/genre/id9029"
+        },
+        {
+          "genreId": "10086",
+          "name": "Medical",
+          "url": "https://itunes.apple.com/us/genre/id10086"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/the-song-of-the-cell/id1609265177"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 91,
+      "artistName": "Joe Abercrombie & Jean Claude Mallé",
+      "id": "6742885605",
+      "name": "Les Diables T01",
+      "releaseDate": "2025-05-14",
+      "kind": "books",
+      "artistId": "330715921",
+      "artistUrl": "https://books.apple.com/fr/author/joe-abercrombie/id330715921",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/36/b0/77/36b07798-1957-8dfc-7bb0-74d77ccc7be7/9791028131890-001-x.jpeg/100x156bb.png",
+      "genres": [
+        {
+          "genreId": "10044",
+          "name": "Fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id10044"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9020",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id9020"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/les-diables-t01/id6742885605"
+    }
+  ]
+}

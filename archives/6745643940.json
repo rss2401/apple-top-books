@@ -1,0 +1,59 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 75,
+      "artistName": "スーパーまさら & こみちぽた",
+      "id": "6745643940",
+      "name": "経験人数が見えるメガネ(2)",
+      "releaseDate": "2025-03-29",
+      "kind": "books",
+      "artistId": "1375400369",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%81%BE%E3%81%95%E3%82%89/id1375400369",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/32/81/d0/3281d05a-0af0-f4c0-1568-f88ae986efa7/BT000182850900200201900209.jpg/100x141bb.png",
+      "genres": [
+        {
+          "genreId": "50000084",
+          "name": "恋愛／ロマンス",
+          "url": "https://itunes.apple.com/jp/genre/id50000084"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11338",
+          "name": "青年",
+          "url": "https://itunes.apple.com/jp/genre/id11338"
+        },
+        {
+          "genreId": "11051",
+          "name": "学園",
+          "url": "https://itunes.apple.com/jp/genre/id11051"
+        },
+        {
+          "genreId": "50000073",
+          "name": "アダルト",
+          "url": "https://itunes.apple.com/jp/genre/id50000073"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E7%B5%8C%E9%A8%93%E4%BA%BA%E6%95%B0%E3%81%8C%E8%A6%8B%E3%81%88%E3%82%8B%E3%83%A1%E3%82%AC%E3%83%8D-2/id6745643940"
+    }
+  ]
+}

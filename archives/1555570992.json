@@ -1,5 +1,5 @@
 {
-  "resultCount": 2,
+  "resultCount": 3,
   "results": [
     {
       "month": "202604",
@@ -98,6 +98,45 @@
         }
       ],
       "url": "https://books.apple.com/us/book/enemies-with-benefits/id1555570992"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 62,
+      "artistName": "Roxie Noir",
+      "id": "1555570992",
+      "name": "Enemies With Benefits",
+      "releaseDate": "2021-02-25",
+      "kind": "books",
+      "artistId": "881659442",
+      "artistUrl": "https://books.apple.com/fr/author/roxie-noir/id881659442",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/49/30/3a/49303abb-d14d-f129-7239-37ab2dc82988/039a4b74-111e-4bb6-aa17-a7220d72f564_cover_image.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "11042",
+          "name": "Comédies romantiques",
+          "url": "https://itunes.apple.com/fr/genre/id11042"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        },
+        {
+          "genreId": "10057",
+          "name": "Romance contemporaine",
+          "url": "https://itunes.apple.com/fr/genre/id10057"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/enemies-with-benefits/id1555570992"
     }
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 83,
+      "artistName": "Barbara Trapido",
+      "id": "1487434645",
+      "name": "Brother of the More Famous Jack",
+      "releaseDate": "2011-12-01",
+      "kind": "books",
+      "artistId": "287516701",
+      "artistUrl": "https://books.apple.com/gb/author/barbara-trapido/id287516701",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6f/ef/fc/6feffc42-6d97-9673-13a7-f21489f9bdc9/1030051849.jpg/100x153bb.png",
+      "genres": [
+        {
+          "genreId": "10049",
+          "name": "Literary Fiction",
+          "url": "https://itunes.apple.com/gb/genre/id10049"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id9031"
+        },
+        {
+          "genreId": "11050",
+          "name": "Family Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id11050"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/brother-of-the-more-famous-jack/id1487434645"
+    }
+  ]
+}

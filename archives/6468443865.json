@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 53,
+      "artistName": "氷純, カミムラリドル & 眠介",
+      "id": "6468443865",
+      "name": "見切りから始める我流剣術 1巻",
+      "releaseDate": "2023-10-14",
+      "kind": "books",
+      "artistId": "757751518",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%B0%B7%E7%B4%94/id757751518",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/37/fe/a8/37fea889-28e4-242c-ac9a-e728c820cee0/23013_125975693_001_001_artwork_20231010112451.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "10015",
+          "name": "グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id10015"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "50000071",
+          "name": "アクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000071"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E8%A6%8B%E5%88%87%E3%82%8A%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%82%8B%E6%88%91%E6%B5%81%E5%89%A3%E8%A1%93-1%E5%B7%BB/id6468443865"
+    }
+  ]
+}

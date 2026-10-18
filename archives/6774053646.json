@@ -1,0 +1,54 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 60,
+      "artistName": "なごかつ",
+      "id": "6774053646",
+      "name": "背徳お姉さんの誘惑に君は勝てるか?(1)",
+      "releaseDate": "2026-06-12",
+      "kind": "books",
+      "artistId": "6774053905",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%81%AA%E3%81%94%E3%81%8B%E3%81%A4/id6774053905",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ac/5e/77/ac5e77e1-ab98-8879-a983-689e0c307497/BT000229649300100101900209.jpg/100x141bb.png",
+      "genres": [
+        {
+          "genreId": "11051",
+          "name": "学園",
+          "url": "https://itunes.apple.com/jp/genre/id11051"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "50000073",
+          "name": "アダルト",
+          "url": "https://itunes.apple.com/jp/genre/id50000073"
+        },
+        {
+          "genreId": "11338",
+          "name": "青年",
+          "url": "https://itunes.apple.com/jp/genre/id11338"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E8%83%8C%E5%BE%B3%E3%81%8A%E5%A7%89%E3%81%95%E3%82%93%E3%81%AE%E8%AA%98%E6%83%91%E3%81%AB%E5%90%9B%E3%81%AF%E5%8B%9D%E3%81%A6%E3%82%8B%E3%81%8B-1/id6774053646"
+    }
+  ]
+}

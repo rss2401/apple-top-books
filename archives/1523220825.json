@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 98,
+      "artistName": "Mary Lawson",
+      "id": "1523220825",
+      "name": "A Town Called Solace",
+      "releaseDate": "2021-02-16",
+      "kind": "books",
+      "artistId": "299126753",
+      "artistUrl": "https://books.apple.com/us/author/mary-lawson/id299126753",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/9e/eb/51/9eeb5181-b683-8ca2-f164-f05763892658/9780735281288.d.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "10049",
+          "name": "Literary Fiction",
+          "url": "https://itunes.apple.com/us/genre/id10049"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/a-town-called-solace/id1523220825"
+    }
+  ]
+}

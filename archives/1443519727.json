@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 98,
+      "artistName": "南部健太",
+      "id": "1443519727",
+      "name": "話す力はあなたの未来を驚くほど変えてくれる。",
+      "releaseDate": "2018-11-19",
+      "kind": "books",
+      "artistId": "1314431594",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%8D%97%E9%83%A8%E5%81%A5%E5%A4%AA/id1314431594",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/42/b8/4a/42b84a3e-fa6e-032e-e2d2-acf2d5f015b0/nambu2.jpg/100x141bb.png",
+      "genres": [
+        {
+          "genreId": "10006",
+          "name": "マーケティング／セールス",
+          "url": "https://itunes.apple.com/jp/genre/id10006"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9009",
+          "name": "ビジネス／マネー",
+          "url": "https://itunes.apple.com/jp/genre/id9009"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E8%A9%B1%E3%81%99%E5%8A%9B%E3%81%AF%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%82%92%E9%A9%9A%E3%81%8F%E3%81%BB%E3%81%A9%E5%A4%89%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B/id1443519727"
+    }
+  ]
+}

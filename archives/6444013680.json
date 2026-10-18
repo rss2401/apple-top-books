@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 73,
+      "artistName": "Susan M. Boyer",
+      "id": "6444013680",
+      "name": "Lowcountry Getaway",
+      "releaseDate": "2022-12-13",
+      "kind": "books",
+      "artistId": "563039639",
+      "artistUrl": "https://books.apple.com/us/author/susan-m-boyer/id563039639",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/82/07/9b/82079b56-5e65-2ba6-a50f-c7b19732763e/LowcountryGetaway_eBook_NEW.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10055",
+          "name": "Women Sleuths",
+          "url": "https://itunes.apple.com/us/genre/id10055"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "11259",
+          "name": "Cozy Mysteries",
+          "url": "https://itunes.apple.com/us/genre/id11259"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/lowcountry-getaway/id6444013680"
+    }
+  ]
+}

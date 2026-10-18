@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 74,
+      "artistName": "Anna Triss",
+      "id": "6761003030",
+      "name": "Hellstone Academy, Tome 2 : Our Dark Queen",
+      "releaseDate": "2026-04-23",
+      "kind": "books",
+      "artistId": "1461447481",
+      "artistUrl": "https://books.apple.com/fr/author/anna-triss/id1461447481",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/11/2c/f9/112cf9f5-6a08-707d-2a1a-4976c1ff343c/9782017330301-001-x.jpeg/100x162bb.png",
+      "genres": [
+        {
+          "genreId": "10057",
+          "name": "Romance contemporaine",
+          "url": "https://itunes.apple.com/fr/genre/id10057"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/hellstone-academy-tome-2-our-dark-queen/id6761003030"
+    }
+  ]
+}

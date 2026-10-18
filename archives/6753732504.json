@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 33,
+      "artistName": "David McCloskey",
+      "id": "6753732504",
+      "name": "London Station",
+      "releaseDate": "2026-09-29",
+      "kind": "books",
+      "artistId": "437014596",
+      "artistUrl": "https://books.apple.com/gb/author/david-mccloskey/id437014596",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/42/46/e3/4246e397-fa95-c351-3c4e-ba115b168c4e/1061644645.jpg/100x148bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Crime & Thrillers",
+          "url": "https://itunes.apple.com/gb/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/london-station/id6753732504"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 69,
+      "artistName": "オーギュスト・ルノワール",
+      "id": "1021881535",
+      "name": "ルノワール名画集",
+      "releaseDate": "2015-07-24",
+      "kind": "books",
+      "artistId": "1009685480",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%82%AA%E3%83%BC%E3%82%AE%E3%83%A5%E3%82%B9%E3%83%88-%E3%83%AB%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB/id1009685480",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/8f/47/ed/8f47ed36-b976-082c-df06-afb4fd5e3f65/cover.jpg/100x139bb.png",
+      "genres": [
+        {
+          "genreId": "10002",
+          "name": "アート／建築",
+          "url": "https://itunes.apple.com/jp/genre/id10002"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9007",
+          "name": "アート／エンターテインメント",
+          "url": "https://itunes.apple.com/jp/genre/id9007"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%83%AB%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E5%90%8D%E7%94%BB%E9%9B%86/id1021881535"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 91,
+      "artistName": "Jana DeLeon",
+      "id": "549039550",
+      "name": "Louisiana Longshot",
+      "releaseDate": "2012-07-01",
+      "kind": "books",
+      "artistId": "378100876",
+      "artistUrl": "https://books.apple.com/us/author/jana-deleon/id378100876",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/98/99/dd/9899ddff-b4db-8fae-c2f9-b8df9326d7e1/Fortune_high.jpg/100x153bb.png",
+      "genres": [
+        {
+          "genreId": "10055",
+          "name": "Women Sleuths",
+          "url": "https://itunes.apple.com/us/genre/id10055"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/louisiana-longshot/id549039550"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 85,
+      "artistName": "Bruno Dequier",
+      "id": "6791098553",
+      "name": "Louca - Tome 13 - Finale (Partie 1)",
+      "releaseDate": "2026-10-16",
+      "kind": "books",
+      "artistId": "589372597",
+      "artistUrl": "https://books.apple.com/fr/author/bruno-dequier/id589372597",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a5/d0/32/a5d0329f-6f9b-c3c1-4312-58b687976591/9782808519878.jpg/100x138bb.png",
+      "genres": [
+        {
+          "genreId": "9026",
+          "name": "BD et mangas",
+          "url": "https://itunes.apple.com/fr/genre/id9026"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/louca-tome-13-finale-partie-1/id6791098553"
+    }
+  ]
+}

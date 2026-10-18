@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 90,
+      "artistName": "Peter Galante & Felipe Kolb",
+      "id": "926770231",
+      "name": "Kids vs Planets: The Solar System Explained (Enhanced Version)",
+      "releaseDate": "2014-10-08",
+      "kind": "books",
+      "artistId": "704244217",
+      "artistUrl": "https://books.apple.com/gb/author/peter-galante/id704244217",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/14/0d/3b/140d3bda-6cf2-eb33-4c45-b8c8ad4e8e5a/kids_vs_planets_newtext.jpg/100x131bb.png",
+      "genres": [
+        {
+          "genreId": "11113",
+          "name": "Action & Adventure Fiction for Kids",
+          "url": "https://itunes.apple.com/gb/genre/id11113"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "11086",
+          "name": "Kids",
+          "url": "https://itunes.apple.com/gb/genre/id11086"
+        },
+        {
+          "genreId": "11112",
+          "name": "Fiction for Kids",
+          "url": "https://itunes.apple.com/gb/genre/id11112"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/kids-vs-planets-the-solar-system-explained-enhanced/id926770231"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 88,
+      "artistName": "Cathy Maxwell",
+      "id": "6462698680",
+      "name": "Adventures of a Scottish Heiress",
+      "releaseDate": "2009-10-13",
+      "kind": "books",
+      "artistId": "214000612",
+      "artistUrl": "https://books.apple.com/us/author/cathy-maxwell/id214000612",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/49/a7/a6/49a7a6b4-98d9-4f24-3e31-e6d182c6c479/1057954537.jpg/100x162bb.png",
+      "genres": [
+        {
+          "genreId": "10059",
+          "name": "Historical Romance",
+          "url": "https://itunes.apple.com/us/genre/id10059"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/adventures-of-a-scottish-heiress/id6462698680"
+    }
+  ]
+}

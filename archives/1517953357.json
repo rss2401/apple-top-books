@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 58,
+      "artistName": "Genevieve Ko",
+      "id": "1517953357",
+      "name": "Better Baking",
+      "releaseDate": "2016-09-27",
+      "kind": "books",
+      "artistId": "364570423",
+      "artistUrl": "https://books.apple.com/us/author/genevieve-ko/id364570423",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/54/e2/9c/54e29ce6-a453-e452-e58f-f06989f3ca2a/1058023795.jpg/100x126bb.png",
+      "genres": [
+        {
+          "genreId": "10030",
+          "name": "Cooking Methods",
+          "url": "https://itunes.apple.com/us/genre/id10030"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9028",
+          "name": "Cookbooks, Food & Wine",
+          "url": "https://itunes.apple.com/us/genre/id9028"
+        },
+        {
+          "genreId": "10028",
+          "name": "Special Diet Cookbooks",
+          "url": "https://itunes.apple.com/us/genre/id10028"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/better-baking/id1517953357"
+    }
+  ]
+}

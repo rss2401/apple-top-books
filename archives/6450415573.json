@@ -1,0 +1,54 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 90,
+      "artistName": "弘兼憲史, 諏訪符馬, 伏瀬, 川上泰樹 & 樹林伸",
+      "id": "6450415573",
+      "name": "島耕作シリーズ40周年記念 全シリーズ1話完全無料試し読みパック",
+      "releaseDate": "2023-06-22",
+      "kind": "books",
+      "artistId": "583294491",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%BC%98%E5%85%BC%E6%86%B2%E5%8F%B2/id583294491",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/90/63/58/90635877-6c68-d457-0ebb-228688dec086/BT000136958800100101900206.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "11338",
+          "name": "青年",
+          "url": "https://itunes.apple.com/jp/genre/id11338"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "50000082",
+          "name": "ノンフィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000082"
+        },
+        {
+          "genreId": "11052",
+          "name": "ヒューマンドラマ",
+          "url": "https://itunes.apple.com/jp/genre/id11052"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E5%B3%B6%E8%80%95%E4%BD%9C%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA40%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5-%E5%85%A8%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA1%E8%A9%B1%E5%AE%8C%E5%85%A8%E7%84%A1%E6%96%99%E8%A9%A6%E3%81%97%E8%AA%AD%E3%81%BF%E3%83%91%E3%83%83%E3%82%AF/id6450415573"
+    }
+  ]
+}

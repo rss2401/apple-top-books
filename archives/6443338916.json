@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 21,
+      "artistName": "南乃映月, 狭山ひびき & 硝音あや",
+      "id": "6443338916",
+      "name": "王太子に婚約破棄されたので、もうバカのふりはやめようと思います 1巻",
+      "releaseDate": "2022-09-14",
+      "kind": "books",
+      "artistId": "1252491394",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%8D%97%E4%B9%83%E6%98%A0%E6%9C%88/id1252491394",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/75/10/09/751009f6-8df4-136b-b297-091ff4e27c83/23013_124778204_001_001_artwork_20220906113713.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "11339",
+          "name": "少女",
+          "url": "https://itunes.apple.com/jp/genre/id11339"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "50000074",
+          "name": "ファンタジー",
+          "url": "https://itunes.apple.com/jp/genre/id50000074"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E7%8E%8B%E5%A4%AA%E5%AD%90%E3%81%AB%E5%A9%9A%E7%B4%84%E7%A0%B4%E6%A3%84%E3%81%95%E3%82%8C%E3%81%9F%E3%81%AE%E3%81%A7-%E3%82%82%E3%81%86%E3%83%90%E3%82%AB%E3%81%AE%E3%81%B5%E3%82%8A%E3%81%AF%E3%82%84%E3%82%81%E3%82%88%E3%81%86%E3%81%A8%E6%80%9D%E3%81%84%E3%81%BE%E3%81%99-1%E5%B7%BB/id6443338916"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 84,
+      "artistName": "Vanessa Chan",
+      "id": "6446854882",
+      "name": "The Storm We Made",
+      "releaseDate": "2024-01-02",
+      "kind": "books",
+      "artistId": "971258301",
+      "artistUrl": "https://books.apple.com/us/author/vanessa-chan/id971258301",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/98/52/58/9852589a-591d-8bba-297a-5c377677781b/9781668015162.jpg/100x152bb.png",
+      "genres": [
+        {
+          "genreId": "10047",
+          "name": "Historical Fiction",
+          "url": "https://itunes.apple.com/us/genre/id10047"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        },
+        {
+          "genreId": "10049",
+          "name": "Literary Fiction",
+          "url": "https://itunes.apple.com/us/genre/id10049"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/the-storm-we-made/id6446854882"
+    }
+  ]
+}

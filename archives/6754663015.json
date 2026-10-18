@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 93,
+      "artistName": "Mark Ezra",
+      "id": "6754663015",
+      "name": "A Nest of Wasps",
+      "releaseDate": "2026-07-30",
+      "kind": "books",
+      "artistId": "479535561",
+      "artistUrl": "https://books.apple.com/gb/author/mark-ezra/id479535561",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e6/2a/d3/e62ad3f4-c786-9faa-27c1-f16f6b0ba26b/1060500228.jpg/100x153bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Crime & Thrillers",
+          "url": "https://itunes.apple.com/gb/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/a-nest-of-wasps/id6754663015"
+    }
+  ]
+}

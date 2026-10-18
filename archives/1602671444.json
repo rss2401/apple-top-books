@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 89,
+      "artistName": "Ann Patchett",
+      "id": "1602671444",
+      "name": "The Patron Saint Of Liars",
+      "releaseDate": "2011-04-04",
+      "kind": "books",
+      "artistId": "20883864",
+      "artistUrl": "https://books.apple.com/us/author/ann-patchett/id20883864",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/8a/3a/9f/8a3a9fd3-d1d3-1435-5c15-cae5884f4d3b/9780547548401.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "11050",
+          "name": "Family Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id11050"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        },
+        {
+          "genreId": "10041",
+          "name": "Religious Fiction",
+          "url": "https://itunes.apple.com/us/genre/id10041"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        },
+        {
+          "genreId": "10057",
+          "name": "Contemporary Romance",
+          "url": "https://itunes.apple.com/us/genre/id10057"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/the-patron-saint-of-liars/id1602671444"
+    }
+  ]
+}

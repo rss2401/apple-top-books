@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 92,
+      "artistName": "芥川龍之介",
+      "id": "1034232334",
+      "name": "芥川竜之介全集",
+      "releaseDate": "2015-08-27",
+      "kind": "books",
+      "artistId": "106372604",
+      "artistUrl": "https://books.apple.com/jp/author/%E8%8A%A5%E5%B7%9D%E9%BE%8D%E4%B9%8B%E4%BB%8B/id106372604",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication60/v4/6a/bd/eb/6abdeba0-1672-8c53-3039-a6c071dcf07c/mzm.merhhdwd.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10042",
+          "name": "名作",
+          "url": "https://itunes.apple.com/jp/genre/id10042"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "小説／文学",
+          "url": "https://itunes.apple.com/jp/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E8%8A%A5%E5%B7%9D%E7%AB%9C%E4%B9%8B%E4%BB%8B%E5%85%A8%E9%9B%86/id1034232334"
+    }
+  ]
+}

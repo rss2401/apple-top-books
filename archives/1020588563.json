@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 100,
+      "artistName": "片岡義男",
+      "id": "1020588563",
+      "name": "片岡義男全集",
+      "releaseDate": "2015-07-14",
+      "kind": "books",
+      "artistId": "589121557",
+      "artistUrl": "https://books.apple.com/jp/author/%E7%89%87%E5%B2%A1%E7%BE%A9%E7%94%B7/id589121557",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/21/77/0f/21770f87-924b-6caf-5a79-b862088833d1/0000000001506A.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10042",
+          "name": "名作",
+          "url": "https://itunes.apple.com/jp/genre/id10042"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "小説／文学",
+          "url": "https://itunes.apple.com/jp/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E7%89%87%E5%B2%A1%E7%BE%A9%E7%94%B7%E5%85%A8%E9%9B%86/id1020588563"
+    }
+  ]
+}

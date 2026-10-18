@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 66,
+      "artistName": "Éric Naulleau",
+      "id": "6814433410",
+      "name": "Le jour où je suis devenu OQTF",
+      "releaseDate": "2026-10-14",
+      "kind": "books",
+      "artistId": "499671414",
+      "artistUrl": "https://books.apple.com/fr/author/%C3%A9ric-naulleau/id499671414",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/02/d5/4b/02d54b9d-6b85-ca56-8d0d-5f603fed0c36/9782213735894-001-x.jpeg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "9034",
+          "name": "Politique et actualité",
+          "url": "https://itunes.apple.com/fr/genre/id9034"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/le-jour-o%C3%B9-je-suis-devenu-oqtf/id6814433410"
+    }
+  ]
+}

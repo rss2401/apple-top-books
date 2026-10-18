@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 60,
+      "artistName": "Samantha James",
+      "id": "6462700214",
+      "name": "His Wicked Promise",
+      "releaseDate": "2009-03-17",
+      "kind": "books",
+      "artistId": "364509204",
+      "artistUrl": "https://books.apple.com/us/author/samantha-james/id364509204",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/8f/48/cb/8f48cbf5-fbf7-1b2b-534d-ddeee51a5915/1057958199.jpg/100x163bb.png",
+      "genres": [
+        {
+          "genreId": "10059",
+          "name": "Historical Romance",
+          "url": "https://itunes.apple.com/us/genre/id10059"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/his-wicked-promise/id6462700214"
+    }
+  ]
+}

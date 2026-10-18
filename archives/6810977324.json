@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 65,
+      "artistName": "ヤングジャンプ編集部",
+      "id": "6810977324",
+      "name": "ヤングジャンプ 2026 No.46",
+      "releaseDate": "2026-10-15",
+      "kind": "books",
+      "artistId": "1231287471",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%83%A4%E3%83%B3%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E7%B7%A8%E9%9B%86%E9%83%A8/id1231287471",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a4/7e/d4/a47ed449-11fc-701d-c9a6-0238fa086d60/08RM2646000000000001.jpg/100x141bb.png",
+      "genres": [
+        {
+          "genreId": "10015",
+          "name": "グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id10015"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%83%A4%E3%83%B3%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97-2026-no-46/id6810977324"
+    }
+  ]
+}

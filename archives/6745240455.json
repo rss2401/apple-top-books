@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 95,
+      "artistName": "Tanya Sweeney",
+      "id": "6745240455",
+      "name": "Esther is Now Following You",
+      "releaseDate": "2026-01-29",
+      "kind": "books",
+      "artistId": "1811492700",
+      "artistUrl": "https://books.apple.com/gb/author/tanya-sweeney/id1811492700",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e3/56/2d/e3562d4c-85cb-e262-9640-d41ef1c7db19/9781529958324.jpg/100x156bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Crime & Thrillers",
+          "url": "https://itunes.apple.com/gb/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/gb/genre/id9003"
+        },
+        {
+          "genreId": "10061",
+          "name": "Romantic Suspense",
+          "url": "https://itunes.apple.com/gb/genre/id10061"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/esther-is-now-following-you/id6745240455"
+    }
+  ]
+}

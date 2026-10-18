@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 82,
+      "artistName": "Stephen Desberg",
+      "id": "6785153923",
+      "name": "Le Scorpion - Tome 15 - Le Secret du Scorpion",
+      "releaseDate": "2026-10-16",
+      "kind": "books",
+      "artistId": "504548712",
+      "artistUrl": "https://books.apple.com/fr/author/stephen-desberg/id504548712",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/2c/e9/02/2ce902df-d444-557f-1124-0d52a7abe443/9782505146308.jpg/100x132bb.png",
+      "genres": [
+        {
+          "genreId": "9026",
+          "name": "BD et mangas",
+          "url": "https://itunes.apple.com/fr/genre/id9026"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/le-scorpion-tome-15-le-secret-du-scorpion/id6785153923"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 54,
+      "artistName": "Norman Ohler",
+      "id": "1602733311",
+      "name": "Blitzed",
+      "releaseDate": "2017-03-07",
+      "kind": "books",
+      "artistId": "319710643",
+      "artistUrl": "https://books.apple.com/us/author/norman-ohler/id319710643",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/b5/bc/3b/b5bc3b1d-cde0-c803-3f0a-ef3c9c5bafb9/9781328664099.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "9015",
+          "name": "History",
+          "url": "https://itunes.apple.com/us/genre/id9015"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "10075",
+          "name": "European History",
+          "url": "https://itunes.apple.com/us/genre/id10075"
+        },
+        {
+          "genreId": "10078",
+          "name": "Military History",
+          "url": "https://itunes.apple.com/us/genre/id10078"
+        },
+        {
+          "genreId": "9034",
+          "name": "Politics & Current Events",
+          "url": "https://itunes.apple.com/us/genre/id9034"
+        },
+        {
+          "genreId": "11264",
+          "name": "Political Science",
+          "url": "https://itunes.apple.com/us/genre/id11264"
+        },
+        {
+          "genreId": "9019",
+          "name": "Science & Nature",
+          "url": "https://itunes.apple.com/us/genre/id9019"
+        },
+        {
+          "genreId": "10115",
+          "name": "Science History",
+          "url": "https://itunes.apple.com/us/genre/id10115"
+        },
+        {
+          "genreId": "9008",
+          "name": "Biographies & Memoirs",
+          "url": "https://itunes.apple.com/us/genre/id9008"
+        },
+        {
+          "genreId": "11031",
+          "name": "Historical Bios & Memoirs",
+          "url": "https://itunes.apple.com/us/genre/id11031"
+        },
+        {
+          "genreId": "9025",
+          "name": "Health, Mind & Body",
+          "url": "https://itunes.apple.com/us/genre/id9025"
+        },
+        {
+          "genreId": "10094",
+          "name": "Psychology",
+          "url": "https://itunes.apple.com/us/genre/id10094"
+        },
+        {
+          "genreId": "11228",
+          "name": "Military & Warfare",
+          "url": "https://itunes.apple.com/us/genre/id11228"
+        },
+        {
+          "genreId": "9029",
+          "name": "Professional & Technical",
+          "url": "https://itunes.apple.com/us/genre/id9029"
+        },
+        {
+          "genreId": "10086",
+          "name": "Medical",
+          "url": "https://itunes.apple.com/us/genre/id10086"
+        },
+        {
+          "genreId": "10080",
+          "name": "World History",
+          "url": "https://itunes.apple.com/us/genre/id10080"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/blitzed/id1602733311"
+    }
+  ]
+}

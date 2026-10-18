@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 95,
+      "artistName": "Steve Hamilton",
+      "id": "6755738388",
+      "name": "Ice Run",
+      "releaseDate": "2007-04-01",
+      "kind": "books",
+      "artistId": "296424045",
+      "artistUrl": "https://books.apple.com/us/author/steve-hamilton/id296424045",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/69/8b/df/698bdf3f-66ab-7784-1491-a8632b9e3c66/1063047425.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/ice-run/id6755738388"
+    }
+  ]
+}

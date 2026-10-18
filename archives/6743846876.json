@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 78,
+      "artistName": "Peter F. Hamilton, Pierre K. Rey & Jean-Daniel Brèque",
+      "id": "6743846876",
+      "name": "L'Aube de la Nuit, T1 : Rupture dans le réel - première partie : Émergence",
+      "releaseDate": "2025-06-25",
+      "kind": "books",
+      "artistId": "279984751",
+      "artistUrl": "https://books.apple.com/fr/author/peter-f-hamilton/id279984751",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a9/a5/2f/a9a52fa6-5cd1-0a47-67af-6e92b8056166/9791028132057-001-x.jpeg/100x162bb.png",
+      "genres": [
+        {
+          "genreId": "10063",
+          "name": "Science-fiction",
+          "url": "https://itunes.apple.com/fr/genre/id10063"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9020",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id9020"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/laube-de-la-nuit-t1-rupture-dans-le-r%C3%A9el-premi%C3%A8re/id6743846876"
+    }
+  ]
+}

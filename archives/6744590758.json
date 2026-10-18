@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 53,
+      "artistName": "Andrea Mara",
+      "id": "6744590758",
+      "name": "It Should Have Been You",
+      "releaseDate": "2026-01-13",
+      "kind": "books",
+      "artistId": "1379916879",
+      "artistUrl": "https://books.apple.com/us/author/andrea-mara/id1379916879",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7a/d7/0a/7ad70af9-d2a9-4c3b-9173-0500b540e77b/9780593832103.d.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/it-should-have-been-you/id6744590758"
+    }
+  ]
+}

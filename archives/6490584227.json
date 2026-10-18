@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 80,
+      "artistName": "Lynn Painter",
+      "id": "6490584227",
+      "name": "Better than the movies",
+      "releaseDate": "2024-04-24",
+      "kind": "books",
+      "artistId": "1536432053",
+      "artistUrl": "https://books.apple.com/fr/author/lynn-painter/id1536432053",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9a/2e/6b/9a2e6b37-4f72-93b2-158d-4887cb1ef374/9782487412057-001-x.jpeg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "11177",
+          "name": "Fiction pour jeunes adultes",
+          "url": "https://itunes.apple.com/fr/genre/id11177"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "11165",
+          "name": "Jeunes adultes",
+          "url": "https://itunes.apple.com/fr/genre/id11165"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/better-than-the-movies/id6490584227"
+    }
+  ]
+}

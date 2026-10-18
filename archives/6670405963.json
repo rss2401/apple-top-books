@@ -1,0 +1,63 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 66,
+      "artistName": "Guillaume Federighi, dit Hey Gee",
+      "id": "6670405963",
+      "name": "La dépression",
+      "releaseDate": "2024-09-02",
+      "kind": "books",
+      "artistId": "1601665950",
+      "artistUrl": "https://books.apple.com/fr/author/guillaume-federighi-dit-hey-gee/id1601665950",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c2/30/df/c230dfef-078b-e010-3586-91c6d66875ee/9782384271054.jpg/100x139bb.png",
+      "genres": [
+        {
+          "genreId": "11196",
+          "name": "Passage à l’âge adulte pour jeunes adultes",
+          "url": "https://itunes.apple.com/fr/genre/id11196"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "11165",
+          "name": "Jeunes adultes",
+          "url": "https://itunes.apple.com/fr/genre/id11165"
+        },
+        {
+          "genreId": "11177",
+          "name": "Fiction pour jeunes adultes",
+          "url": "https://itunes.apple.com/fr/genre/id11177"
+        },
+        {
+          "genreId": "11223",
+          "name": "Passage à l’âge adulte pour jeunes adultes",
+          "url": "https://itunes.apple.com/fr/genre/id11223"
+        },
+        {
+          "genreId": "11184",
+          "name": "Famille et relations pour jeunes adultes",
+          "url": "https://itunes.apple.com/fr/genre/id11184"
+        },
+        {
+          "genreId": "11086",
+          "name": "Enfants",
+          "url": "https://itunes.apple.com/fr/genre/id11086"
+        },
+        {
+          "genreId": "11112",
+          "name": "Fiction pour enfants",
+          "url": "https://itunes.apple.com/fr/genre/id11112"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/la-d%C3%A9pression/id6670405963"
+    }
+  ]
+}
