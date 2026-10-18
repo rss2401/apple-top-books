@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 3,
   "results": [
     {
       "formattedPrice": "Free",
@@ -35,6 +35,82 @@
         "Sci-Fi & Fantasy",
         "Fantasy"
       ]
+    },
+    {
+      "artistIds": [
+        1177889846,
+        1511043124
+      ],
+      "artistId": 1177889846,
+      "artistName": "Laura Greenwood & Ariana Jade",
+      "genres": [
+        "Paranormal Romance",
+        "Books",
+        "Romance",
+        "Sci-Fi & Fantasy",
+        "Fantasy"
+      ],
+      "price": 2.99,
+      "genreIds": [
+        "10058",
+        "38",
+        "9003",
+        "9020",
+        "10044"
+      ],
+      "releaseDate": "2025-03-11T07:00:00Z",
+      "trackId": 6743140744,
+      "trackName": "The Tea Witch's Secret",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>Hana knows she shouldn't fall for Oliver, even if his familiar training constantly leads him back to her for healing.&#xa0;</b><br /><br />As a tea witch and healer, Hana knows her role in Purple Oak Oasis, and as the heir of the Steeper family, she knows better than to fall for someone she shouldn't. But the heart wants what it wants, and for Hana Steeper, that means Oliver Fields.&#xa0;<br /><br />Oliver's trouble with his owl familiar leads him to the infirmary, where he gets to flirt with the very cute Hana as much as he wants. When their friendship turns into something more, it's not long before they're unable to resist.&#xa0;<br /><br />Are their feelings stronger than the rules they should be listening to?<br /><br />-&#xa0;<br /><br />The Tea Witch's Secret is a cozy fantasy romance with a friends-to-lovers m/f forbidden romance, an enthusiastic owl familiar, and a healer determined to do her job.&#xa0;",
+      "formattedPrice": "$2.99",
+      "trackCensoredName": "The Tea Witch's Secret",
+      "artistViewUrl": "https://books.apple.com/us/artist/laura-greenwood-ariana-jade/1177889846?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-tea-witchs-secret/id6743140744?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0a/8f/cc/0a8fccfb-6279-3192-41dd-d6d9649b996e/0002784542.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0a/8f/cc/0a8fccfb-6279-3192-41dd-d6d9649b996e/0002784542.jpg/100x100bb.jpg",
+      "averageUserRating": 3.5,
+      "userRatingCount": 55,
+      "country": "USA"
+    },
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0a/8f/cc/0a8fccfb-6279-3192-41dd-d6d9649b996e/0002784542.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0a/8f/cc/0a8fccfb-6279-3192-41dd-d6d9649b996e/0002784542.jpg/100x100bb.jpg",
+      "trackCensoredName": "The Tea Witch's Secret",
+      "artistViewUrl": "https://books.apple.com/gb/artist/laura-greenwood-ariana-jade/1177889846?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-tea-witchs-secret/id6743140744?uo=4",
+      "artistIds": [
+        1177889846,
+        1511043124
+      ],
+      "artistId": 1177889846,
+      "artistName": "Laura Greenwood & Ariana Jade",
+      "price": 2.99,
+      "genres": [
+        "Paranormal Romance",
+        "Books",
+        "Romance",
+        "Sci-Fi & Fantasy",
+        "Fantasy"
+      ],
+      "trackId": 6743140744,
+      "trackName": "The Tea Witch's Secret",
+      "releaseDate": "2025-03-11T07:00:00Z",
+      "genreIds": [
+        "10058",
+        "38",
+        "9003",
+        "9020",
+        "10044"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>Hana knows she shouldn't fall for Oliver, even if his familiar training constantly leads him back to her for healing.&#xa0;</b><br /><br />As a tea witch and healer, Hana knows her role in Purple Oak Oasis, and as the heir of the Steeper family, she knows better than to fall for someone she shouldn't. But the heart wants what it wants, and for Hana Steeper, that means Oliver Fields.&#xa0;<br /><br />Oliver's trouble with his owl familiar leads him to the infirmary, where he gets to flirt with the very cute Hana as much as he wants. When their friendship turns into something more, it's not long before they're unable to resist.&#xa0;<br /><br />Are their feelings stronger than the rules they should be listening to?<br /><br />-&#xa0;<br /><br />The Tea Witch's Secret is a cozy fantasy romance with a friends-to-lovers m/f forbidden romance, an enthusiastic owl familiar, and a healer determined to do her job.&#xa0;",
+      "formattedPrice": "£2.99",
+      "averageUserRating": 3.5,
+      "userRatingCount": 8,
+      "country": "GBR"
     }
   ]
 }

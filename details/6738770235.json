@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "¥760",
+      "artistIds": [
+        1376443053
+      ],
+      "trackCensoredName": "ホタルの嫁入り(6)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%A9%98%E3%82%AA%E3%83%AC%E3%82%B3/1376443053?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%AE%E5%AB%81%E5%85%A5%E3%82%8A-6/id6738770235?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3f/d4/08/3fd4083e-7246-8acb-e1cd-3f74e9004e71/BT000136336800600601900203.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3f/d4/08/3fd4083e-7246-8acb-e1cd-3f74e9004e71/BT000136336800600601900203.jpg/100x100bb.jpg",
+      "artistId": 1376443053,
+      "artistName": "橘オレコ",
+      "genres": [
+        "女性",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "恋愛／ロマンス",
+        "ミステリー"
+      ],
+      "price": 760,
+      "releaseDate": "2024-12-19T08:00:00Z",
+      "trackId": 6738770235,
+      "trackName": "ホタルの嫁入り(6)",
+      "genreIds": [
+        "11340",
+        "38",
+        "9026",
+        "10016",
+        "50000084",
+        "50000081"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "殺し屋と従者。令嬢を巡る男の戦いに決着!<br /><br />紗都子を抱え、高い崖を這い上がる康太郎。<br />その先には、憎悪の眼でふたりを見下ろす進平の姿が。<br />進平と康太郎。<br />相容れない男たちの戦い、ついに決着―――!!<br /><br />紗都子は進平への恋心を自覚する。<br />しかし、その心を弄ぶかのように<br />朝霧から告げられた次なる課題は…<br /><br />「進平とまぐわっておいで」!?",
+      "averageUserRating": 4.5,
+      "userRatingCount": 43,
+      "country": "JPN"
+    }
+  ]
+}

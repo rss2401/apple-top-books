@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        504548712
+      ],
+      "formattedPrice": "7,99 €",
+      "artistId": 504548712,
+      "artistName": "Stephen Desberg",
+      "genres": [
+        "BD et mangas",
+        "Livres"
+      ],
+      "price": 7.99,
+      "trackName": "Le Scorpion - Tome 15 - Le Secret du Scorpion",
+      "trackId": 6785153923,
+      "genreIds": [
+        "9026",
+        "38"
+      ],
+      "releaseDate": "2026-10-16T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Rien ne se passe jamais comme prévu pour le Scorpion… Il savait pertinemment que libérer sa fille de Tuugar, au Caire, en échange du trésor gagné à la Vallée des Rois, n’allait pas être chose aisée. Mais comment aurait-il pu imaginer que le palais serait cloîtré à cause de la peste qui se propage en son sein ? Et, surtout, que vaut la fortune quand la mort est imminente ? Tuugar n’exige rien de moins qu’un miracle : il ne rendra sa fille au Scorpion que s’il lui rapporte l’authentique Mandylion, le linge sacré avec lequel Jésus s’est essuyé le visage. Le temps presse pour sauver sa fille de cette terrible épidémie. Interrogatoires, recherches en bibliothèque, visite nocturne de ruines : d’Alexandrie à Constantinople, le Scorpion mène l’enquête. Mais il n’est pas le seul à vouloir mettre la main sur cette relique. La Sabbatéenne, âme damnée du Sultan, l’a promise aux Russes pour apaiser les esprits, tandis que Monsieur de Manonville n’a d’autre choix que de le retrouver s’il veut sauver sa lignée - et la France - du déshonneur. Cette quête les mènera en Grèce, puis jusqu’au monastère bulgare du mont Athos… <br /><br />Après le diptyque signé Luigi Critone, c’est Stefano Carloni qui reprend le dessin du Scorpion ! Tout comme dans les cinq tomes des Nouvelles Aventures de Barbe-Rouge, ce sont ses plus belles couleurs directes qu’il met à présent au service de la série créée par Stephen Desberg et Enrico Marini : les décors sont fabuleux ; les lumières, incroyables ; et le Scorpion, toujours aussi irrésistible…",
+      "trackCensoredName": "Le Scorpion - Tome 15 - Le Secret du Scorpion",
+      "artistViewUrl": "https://books.apple.com/fr/artist/stephen-desberg/504548712?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/le-scorpion-tome-15-le-secret-du-scorpion/id6785153923?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/2c/e9/02/2ce902df-d444-557f-1124-0d52a7abe443/9782505146308.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/2c/e9/02/2ce902df-d444-557f-1124-0d52a7abe443/9782505146308.jpg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

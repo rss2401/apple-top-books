@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1601665950
+      ],
+      "trackCensoredName": "La dépression",
+      "artistViewUrl": "https://books.apple.com/fr/artist/guillaume-federighi-dit-hey-gee/1601665950?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/la-d%C3%A9pression/id6670405963?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c2/30/df/c230dfef-078b-e010-3586-91c6d66875ee/9782384271054.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c2/30/df/c230dfef-078b-e010-3586-91c6d66875ee/9782384271054.jpg/100x100bb.jpg",
+      "formattedPrice": "Gratuit",
+      "artistId": 1601665950,
+      "artistName": "Guillaume Federighi, dit Hey Gee",
+      "genres": [
+        "Passage à l’âge adulte pour jeunes adultes",
+        "Livres",
+        "Jeunes adultes",
+        "Fiction pour jeunes adultes",
+        "Passage à l’âge adulte pour jeunes adultes",
+        "Famille et relations pour jeunes adultes",
+        "Enfants",
+        "Fiction pour enfants"
+      ],
+      "price": 0,
+      "genreIds": [
+        "11196",
+        "38",
+        "11165",
+        "11177",
+        "11223",
+        "11184",
+        "11086",
+        "11112"
+      ],
+      "trackId": 6670405963,
+      "trackName": "La dépression",
+      "releaseDate": "2024-09-02T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "La dépression ne se résume pas à une profonde tristesse. Pour Bindu, il peut être difficile de se lever le matin ou de se concentrer à l’école. Même travailler sur un projet de création passionnant peut s’avérer difficile, avec des émotions similaires à des montagnes russes. Mais grâce à son traitement, elle apprend à se sentir mieux. Découvre comment elle fait face à ce trouble de l’humeur avec l’aide de professionnels et de sa famille, et explore la vie au-delà de la dépression.<br /><br />À PROPOS DES AUTEURS <br /><br /><b>Guillaume Federighi</b>, alias <b>Hey Gee</b>, est un auteur-illustrateur franco-américain. Il a commencé sa carrière en 1998 à Paris, en France. Il a également passé quelques décennies à explorer le monde du street art et du graffiti dans différentes capitales européennes. Après s’être installé à New York en 2008, il a travaillé avec de nombreuses entreprises et marques, se forgeant une réputation dans le domaine de la conception graphique et de l’illustration pour son style distinctif consistant à traduire des idées complexes en histoires visuelles simples et intemporelles. Il est également propriétaire et directeur créatif de Hey Gee Studio, une agence de création basée à New York. <br /><br /><b>Gifty</b> est née en 2007 dans le camp de réfugiés de Tobandu, en Sierra Leone. À la naissance, elle a eu des problèmes de foie. Il est rapidement apparu qu’elle aurait besoin d’une greffe de foie pour survivre. Cette possibilité n’existait pas là où elle vivait. Sa seule chance de survie était d’être adoptée dans un pays où elle pourrait être opérée. Avec l’aide d’une organisation internationale, elle a pu trouver une famille aux États-Unis et recevoir une greffe à l’âge de deux ans et demi. Cependant, cinq jours après la transplantation, elle a été victime d’un grave accident vasculaire cérébral hémorragique. Elle a été rapatriée pour subir une opération d’urgence du cerveau. L’AVC lui a laissé des handicaps physiques et quelques déficiences cognitives. Aujourd’hui adolescente, elle aime écouter de la musique, écrire des poèmes, dessiner des vêtements et participer à l’activisme social. Elle rêve d’avoir une place dans ce monde et de trouver la sérénité.",
+      "averageUserRating": 4.5,
+      "userRatingCount": 36,
+      "country": "FRA"
+    }
+  ]
+}

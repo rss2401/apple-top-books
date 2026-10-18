@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1061299863
+      ],
+      "artistId": 1061299863,
+      "artistName": "Blake Pierce",
+      "genres": [
+        "Détectives féminins",
+        "Livres",
+        "Policier et suspense"
+      ],
+      "trackId": 1153811635,
+      "trackName": "Les Pendules à l’heure (Une Enquête de Riley Paige – Tome 4)",
+      "releaseDate": "2016-09-12T07:00:00Z",
+      "genreIds": [
+        "10055",
+        "38",
+        "9032"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "«&#xa0;Un chef-d’œuvre de suspense et de mystère. Pierce développe à merveille la psychologie de ses personnages. On a l’impression d’être dans leur tête, de connaître leurs peurs et de célébrer leurs victoires. L’intrigue est intelligente et vous tiendra en haleine tout le long du roman. Difficile de lâcher ce livre plein de rebondissements.&#xa0;»<br />\n– Books and Movie Reviews, Roberto Mattos (à propos de SANS LAISSER DE TRACES)<br /><br />\nLES PENDULES A L’HEURE est le quatrième tome de la populaire série de thrillers RILEY PAIGE, qui commence avec SANS LAISSER DE TRACES (tome 1)!<br /><br />\nOn retrouve des cadavres de femmes le long d’une autoroute du Delaware. Certaines disparaissent pendant des jours. D’autres sont abandonnées, mortes, le cou brisé, les bras pointant vers le haut ou vers le bas. Pour le FBI, il devient évident que ces meurtres sont l’œuvre d’un tueur en série dangereux et insondable. Il ne s’arrêtera jamais de tuer.<br /><br />\nVoulant à tout prix résoudre cette affaire énigmatique, le FBI exhorte Riley Paige à retourner sur le terrain. La brillante Riley, quoique hantée par ses souvenirs, a le sentiment d’avoir enfin trouvé la paix. Elle est bien décidée à aider sa fille, April, à surmonter son traumatisme. Pourtant, quand les meurtres s’enchaînent, de plus en plus choquants – et quand son ancien partenaire, Bill, la supplie de l’aider –, Riley comprend qu’elle ne peut plus refuser.&#xa0;<br /><br />\nSon enquête la lance sur les traces des auto-stoppeuses, des fugueuses et de gamines délaissées. Quand elle découvre que le tueur retient prisonnière d’autres femmes, et qu’il est encore possible de les sauver, plus rien ne l’arrête. Encore une fois, son enquête la rapproche d’un abîme familier… Le fragile équilibre de sa vie de famille s’effondre, et sa propre santé mentale est mise à rude épreuve. Dans une course effrénée contre le temps, elle devra plonger dans l’esprit du tueur pour sauver ces femmes – et elle-même – d’une terrible fin.<br /><br />\nSombre thriller psychologique au suspense insoutenable, LES PENDULES A L’HEURE est le quatrième tome de la série. Son intrigue et son personnage principal attachant vous pousseront à lire jusqu'à tard dans la nuit.<br /><br />\nLe tome 5 des enquêtes de Riley Paige sera bientôt disponible.",
+      "trackCensoredName": "Les Pendules à l’heure (Une Enquête de Riley Paige – Tome 4)",
+      "artistViewUrl": "https://books.apple.com/fr/artist/blake-pierce/1061299863?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-pendules-%C3%A0-lheure-une-enqu%C3%AAte-de-riley-paige-tome-4/id1153811635?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication62/v4/c8/35/b4/c835b482-06b0-62a7-7c0f-122fe2763348/Once_Lured--French.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication62/v4/c8/35/b4/c835b482-06b0-62a7-7c0f-122fe2763348/Once_Lured--French.jpg/100x100bb.jpg",
+      "formattedPrice": "4,99 €",
+      "price": 4.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 151,
+      "country": "FRA"
+    }
+  ]
+}

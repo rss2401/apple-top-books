@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Hot Blooded",
+      "artistViewUrl": "https://books.apple.com/us/artist/lisa-jackson/278357221?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/hot-blooded/id960807024?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1e/31/90/1e319056-f73f-baf7-1f7d-6867a468f60c/9781420138474.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1e/31/90/1e319056-f73f-baf7-1f7d-6867a468f60c/9781420138474.jpg/100x100bb.jpg",
+      "artistIds": [
+        278357221
+      ],
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books",
+        "Police Procedural",
+        "Romance",
+        "Romantic Suspense"
+      ],
+      "price": 9.99,
+      "releaseDate": "2015-02-01T08:00:00Z",
+      "genreIds": [
+        "9032",
+        "38",
+        "10052",
+        "9003",
+        "10061"
+      ],
+      "trackId": 960807024,
+      "trackName": "Hot Blooded",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>A cunning serial killer torments a New Orleans radio host in this thriller series debut by the #1 <i>New York Times</i> bestselling author of <i>Afraid to Die</i>. </b><br /><br />A prostitute lies strangled in a seedy French Quarter hotel room. Miles away, in a rambling plantation house on Lake Ponchartrain, late-night radio host Dr. Samantha Leeds receives a threatening crank call. But who would think to link the two?<br /><br />As more dead bodies turn up, Samantha's ominous caller persists, along with someone claiming to be a woman from her past—who's been dead for years. With Detective Rick Bentz convinced that the serial killer prowling the streets is somebody close to Samantha, she doesn't dare trust anyone. Especially not Ty Wheeler, her seductive new neighbor who seems to know more about her than a stranger should.<br /> Somebody has discovered Samantha's darkest secret. Somebody is convinced that lives must be sacrificed to pay for her sins. So far, the victims have been strangers. But as a cold-blooded killer grows bolder, Samantha wonders if she will be the next to die.",
+      "formattedPrice": "$9.99",
+      "artistId": 278357221,
+      "artistName": "Lisa Jackson",
+      "averageUserRating": 4,
+      "userRatingCount": 324,
+      "country": "USA"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        502375175
+      ],
+      "artistId": 502375175,
+      "artistName": "Muhammad Sadiq",
+      "genres": [
+        "Fantasy",
+        "Books",
+        "Sci-Fi & Fantasy",
+        "Paranormal Fantasy",
+        "Contemporary"
+      ],
+      "price": 0,
+      "trackId": 6806273098,
+      "trackName": "A Spot of Tea and Magic",
+      "genreIds": [
+        "10044",
+        "38",
+        "9020",
+        "11004",
+        "11001"
+      ],
+      "releaseDate": "2026-08-28T07:00:00Z",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>The tea house found her before she found herself.</b><br /><br />Tamsin Ashdown has spent her whole life being told her magic is the wrong sort. It runs to warm kitchens and mended things — hearth-magic, quiet and small — and the world she grew up in had no use for it. So she learned to keep it to herself, drifted from job to job, and came to understand that she was, in the way of overlooked people, very nearly invisible.<br /><br />Then a letter arrives. Her great-aunt Morwenna is dead, and has left Tamsin everything: a crumbling tea house in a village called Hollowmere, on a road that does not appear on any map. Tamsin goes to sell it and come back. She does not expect to open the green door and find, inside the cold dark building, a hearth that seems to be waiting for her. She does not expect a whole village that has quietly been failing without someone to keep its fire. She does not expect to find, for the first time in her life, that the thing she was always ashamed of is the one thing that was always needed.<br /><br />She lights the fire. She brews the tea. And Hollowmere begins, slowly, warmly, to wake.<br /><br />A Spot of Tea and Magic is a cozy fantasy about a woman who inherits a magical tea house, a village that was waiting for her, and the quiet extraordinary power of being exactly what a place needs. The first book in The Hollowmere Tea House series.<br /><br />She went to sell a dead woman's tea house. She came home instead.",
+      "formattedPrice": "Free",
+      "trackCensoredName": "A Spot of Tea and Magic",
+      "artistViewUrl": "https://books.apple.com/gb/artist/muhammad-sadiq/502375175?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/a-spot-of-tea-and-magic/id6806273098?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/2d/a0/ed/2da0ed8b-8f88-81ca-33d8-4ee5934ddf6a/0004401664.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/2d/a0/ed/2da0ed8b-8f88-81ca-33d8-4ee5934ddf6a/0004401664.jpg/100x100bb.jpg",
+      "country": "GBR"
+    }
+  ]
+}

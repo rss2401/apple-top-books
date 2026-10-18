@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1848154621
+      ],
+      "artistId": 1848154621,
+      "artistName": "Lisa Jy",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance"
+      ],
+      "trackId": 6754390020,
+      "trackName": "No safe place",
+      "releaseDate": "2026-02-12T08:00:00Z",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Modène, Italie.<br /><br />Felicia, jeune barmaid, cache derrière son sourire une relation qui l’étouffe. Coincée aux côtés d’un compagnon jaloux et possessif, elle tente de respirer entre deux silences.<br /><br />Jules, son meilleur ami, pilote de F1, la convainc d’assister à un Grand Prix. Elle accepte, soucieuse de se changer les idées. Dans le paddock, elle croise Charlie Levy, le coéquipier de Jules. Talentueux, sûr de lui, mais aussi froid que la glace, il l’exaspère. Mais pour la première fois depuis longtemps, elle se sent vivante...<br /><br />Charlie n’a qu’un rêve, devenir champion de F1. L’amour, il n’a pas le temps pour ça, et n’a surtout pas les codes. On ne lui a jamais appris à aimer, alors pourquoi faire des efforts alors qu’il peut avoir une fille différente dans son lit chaque nuit.<br /><br />Elle a l’impression d’étouffer et il ne sait pas comment aimer.<br /><br />Il a peur de tout perdre, elle a peur de se perdre.<br /><br />Mais le lien qui les unit est un véritable brasier, où tout se mélange, jusqu’à brouiller les cartes.<br /><br />Et si l’amour était la course de leur vie ?",
+      "trackCensoredName": "No safe place",
+      "artistViewUrl": "https://books.apple.com/fr/artist/lisa-jy/1848154621?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/no-safe-place/id6754390020?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5f/81/bd/5f81bd06-fb3d-8105-9460-549e9ddd61da/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5f/81/bd/5f81bd06-fb3d-8105-9460-549e9ddd61da/cover.jpg/100x100bb.jpg",
+      "formattedPrice": "2,99 €",
+      "price": 2.99,
+      "country": "FRA"
+    }
+  ]
+}

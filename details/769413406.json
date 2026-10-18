@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "artistIds": [
@@ -30,6 +30,37 @@
       "releaseDate": "2014-03-18T07:00:00Z",
       "averageUserRating": 4.5,
       "userRatingCount": 596
+    },
+    {
+      "artistIds": [
+        546189032
+      ],
+      "trackCensoredName": "Maybe Someday",
+      "artistViewUrl": "https://books.apple.com/gb/artist/colleen-hoover/546189032?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/maybe-someday/id769413406?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/55/1b/88/551b88c1-7cf3-d12f-71be-5eef1f8fd72c/9781471135521.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/55/1b/88/551b88c1-7cf3-d12f-71be-5eef1f8fd72c/9781471135521.jpg/100x100bb.jpg",
+      "artistId": 546189032,
+      "artistName": "Colleen Hoover",
+      "genres": [
+        "Romance",
+        "Books"
+      ],
+      "price": 5.99,
+      "genreIds": [
+        "9003",
+        "38"
+      ],
+      "releaseDate": "2014-03-18T07:00:00Z",
+      "trackId": 769413406,
+      "trackName": "Maybe Someday",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>A passionate tale of friendship, betrayal and romance </b><b>from #1 </b><i><b>Sunday Times</b></i><b> bestselling author of the global phenomenon </b><i><b>VERITY</b></i><b>, a major motion picture starring Anne Hathaway and Dakota Johnson.</b><br /><br />‘The reigning queen of BookTok’ <i><b>GUARDIAN</b></i><br /><br />‘One of the most influential voices of the last decade’ <i><b>ELLE</b></i><br /><br />‘One of the world's most successful writers’<b> </b><i><b>DAILY MAIL</b></i><br /><br />At twenty-two years old, Sydney is enjoying a great life: She’s in college, working a steady job, in love with her wonderful boyfriend, Hunter, and rooming with her best friend, Tori. <br /><br />But everything changes when she discovers that Hunter is cheating on her – and she’s forced to decide what her next move should be.<br /><br />Soon, Sydney finds herself captivated by her mysterious and attractive neighbour, Ridge. She can't take her eyes off him or stop listening to the passionate way he plays his guitar every evening out on his balcony. And there’s something about Sydney that Ridge can’t ignore, either. <br /><br /><b>They soon find themselves needing each other in more ways than one.</b>",
+      "formattedPrice": "£5.99",
+      "averageUserRating": 4.5,
+      "userRatingCount": 627,
+      "country": "GBR"
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1376443053
+      ],
+      "trackCensoredName": "ホタルの嫁入り(9)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%A9%98%E3%82%AA%E3%83%AC%E3%82%B3/1376443053?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%AE%E5%AB%81%E5%85%A5%E3%82%8A-9/id6752487476?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/eb/52/6b/eb526bf6-b1b5-78b5-dc3e-095d928705a4/BT000136336800900901900203.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/eb/52/6b/eb526bf6-b1b5-78b5-dc3e-095d928705a4/BT000136336800900901900203.jpg/100x100bb.jpg",
+      "artistId": 1376443053,
+      "artistName": "橘オレコ",
+      "price": 760,
+      "trackId": 6752487476,
+      "trackName": "ホタルの嫁入り(9)",
+      "releaseDate": "2025-09-19T07:00:00Z",
+      "genreIds": [
+        "50000084",
+        "38",
+        "9026",
+        "10016",
+        "11340",
+        "50000081"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "地獄の果てまであなたを離さない<br /><br />紗都子を奪還するため、<br />進平は冷酷な“殺し屋”としての本性をふたたび解放する。<br /><br />一方、憔悴しきった紗都子も<br />とある人物の来訪をきっかけに<br />進平と結ばれることを力強く決意する。<br />「します私 命懸けの嫁入りを」<br /><br />離れていてもそれぞれ覚悟をきめた二人は<br />季節外れのホタルに導かれるーー!",
+      "formattedPrice": "¥760",
+      "genres": [
+        "恋愛／ロマンス",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "女性",
+        "ミステリー"
+      ],
+      "averageUserRating": 5,
+      "userRatingCount": 26,
+      "country": "JPN"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "¥500",
+      "artistIds": [
+        1231287471
+      ],
+      "trackCensoredName": "ヤングジャンプ 2026 No.46",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E3%83%A4%E3%83%B3%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E7%B7%A8%E9%9B%86%E9%83%A8/1231287471?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%A4%E3%83%B3%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97-2026-no-46/id6810977324?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a4/7e/d4/a47ed449-11fc-701d-c9a6-0238fa086d60/08RM2646000000000001.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a4/7e/d4/a47ed449-11fc-701d-c9a6-0238fa086d60/08RM2646000000000001.jpg/100x100bb.jpg",
+      "artistId": 1231287471,
+      "artistName": "ヤングジャンプ編集部",
+      "genres": [
+        "グラフィックノベル",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ"
+      ],
+      "price": 500,
+      "releaseDate": "2026-10-15T07:00:00Z",
+      "trackId": 6810977324,
+      "trackName": "ヤングジャンプ 2026 No.46",
+      "genreIds": [
+        "10015",
+        "38",
+        "9026",
+        "10016"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "【本号のデジタル版には特別付録「3号連続!!! 『ジャンケットバンク』VIP専用パス第2弾 Ver.獅子神敬一」は収録されておりません。あらかじめご了承ください。】※デジタル版ヤングジャンプは、紙版の同号より未掲載のコンテンツがございます。試し読みファイルのデジタル版目次や注意書きをご確認の上ご購入ください。/「ヤングジャンプ 2026 No.46」、紙と同時に配信!/【表紙&巻頭グラビア】蓬莱舞/【次世代ヒロイン発掘企画!! YJブルーム】阿嘉紗香/【巻頭カラー】『のあ先輩はともだち。』(あきやまえんま)/【センターカラー】『やがて絵筆を映ろし君は』(起田ねぐせ)、『メルヘンクラウン』(赤坂アカ×あおいくじら×アジチカ)/【出張掲載】『いとこのお姉ちゃんに甘えちゃう?』(五十嵐恭平)/【センターグラビア】櫻井おとの/【巻末グラビア】旭萌花(I'mew)/ほか、17作品を掲載!",
+      "country": "JPN"
+    }
+  ]
+}

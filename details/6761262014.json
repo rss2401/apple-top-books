@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1236807603,
+        1623307611,
+        682448045
+      ],
+      "formattedPrice": "¥380",
+      "artistId": 1236807603,
+      "artistName": "梨香, スズキイオリ & HIROKAZU",
+      "genres": [
+        "ファンタジー",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "グラフィックノベル"
+      ],
+      "price": 380,
+      "trackId": 6761262014,
+      "trackName": "異世界に来たけど、生活魔法しか使えません THE COMIC 1巻",
+      "releaseDate": "2026-04-14T07:00:00Z",
+      "genreIds": [
+        "50000074",
+        "38",
+        "9026",
+        "10016",
+        "10015"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "地味スキル×前世の知識で貧乏脱出!? 事務員の青山薫は、グレンジャー子爵家の長女・ペイシェンスに転生してしまう。突然の出来事に戸惑うが、自分を慕ってくれる弟たちを心の支えに異世界での生活を始める。しかし、グレンジャー家は日々の食事すら事欠くほどに貧乏で、幼い弟たちも慢性的な栄養不足に苦しんでいた。ペイシェンスは魔法を習得して貧しい生活からの脱却を目指すが、彼女の宿した魔法は地味スキルの生活魔法で…。地味スキルと前世の知識で貧乏脱出を目指す、異世界お姉ちゃん奮闘記、開幕!!【連載時のカラーページを完全収録!】",
+      "trackCensoredName": "異世界に来たけど、生活魔法しか使えません THE COMIC 1巻",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%A2%A8%E9%A6%99-%E3%82%B9%E3%82%BA%E3%82%AD%E3%82%A4%E3%82%AA%E3%83%AA-hirokazu/1236807603?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AB%E6%9D%A5%E3%81%9F%E3%81%91%E3%81%A9-%E7%94%9F%E6%B4%BB%E9%AD%94%E6%B3%95%E3%81%97%E3%81%8B%E4%BD%BF%E3%81%88%E3%81%BE%E3%81%9B%E3%82%93-the-comic-1%E5%B7%BB/id6761262014?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7e/0f/c7/7e0fc7e4-1c41-ce85-5582-0a18c8de3785/23013_130647626_001_001_artwork_20260402125135.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7e/0f/c7/7e0fc7e4-1c41-ce85-5582-0a18c8de3785/23013_130647626_001_001_artwork_20260402125135.jpg/100x100bb.jpg",
+      "averageUserRating": 5,
+      "userRatingCount": 13,
+      "country": "JPN"
+    }
+  ]
+}

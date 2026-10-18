@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "正義と微笑",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E5%A4%AA%E5%AE%B0%E6%B2%BB/173331980?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E6%AD%A3%E7%BE%A9%E3%81%A8%E5%BE%AE%E7%AC%91/id568753899?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication7/v4/48/fd/15/48fd1545-e6e1-9e4b-9cf3-c5508465e5e4/coverArt.cf7de1.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication7/v4/48/fd/15/48fd1545-e6e1-9e4b-9cf3-c5508465e5e4/coverArt.cf7de1.jpg/100x100bb.jpg",
+      "artistIds": [
+        173331980
+      ],
+      "genres": [
+        "名作",
+        "ブック",
+        "小説／文学"
+      ],
+      "genreIds": [
+        "10042",
+        "38",
+        "9031"
+      ],
+      "trackId": 568753899,
+      "trackName": "正義と微笑",
+      "releaseDate": "1977-10-21T07:00:00Z",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "「正義と微笑」は明治から昭和時代にかけて活躍した日本の小説家である太宰治の短編小説。この作品は底本の「パンドラの匣」1973(昭和48)年10月20日に収録されている。",
+      "formattedPrice": "無料",
+      "artistId": 173331980,
+      "artistName": "太宰治",
+      "price": 0,
+      "averageUserRating": 4.5,
+      "userRatingCount": 149,
+      "country": "JPN"
+    }
+  ]
+}

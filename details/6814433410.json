@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        499671414
+      ],
+      "artistId": 499671414,
+      "artistName": "Éric Naulleau",
+      "genres": [
+        "Politique et actualité",
+        "Livres"
+      ],
+      "trackId": 6814433410,
+      "trackName": "Le jour où je suis devenu OQTF",
+      "releaseDate": "2026-10-14T07:00:00Z",
+      "genreIds": [
+        "9034",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "«Le type s’était levé depuis le fond du wagon et avançait vers&#xa0; moi. Il s’arrêta à ma hauteur, planta ses yeux dans les miens et&#xa0; demanda : ‘Vous êtes bien Éric Naulleau ?’ J’acquiesçai&#xa0; mécaniquement.<br />Je sentis le crachat dégouliner le long de ma joue.<br />Le type partit à toutes jambes. Personne n’avait réagi autour&#xa0; de moi.&#xa0; <br />Oui, le type courait, mais c’est moi qui devais fuir à présent.<br />Ce livre est le récit d’une expulsion.»<br /><br />Éric Naulleau a quitté le quartier parisien où il vivait depuis&#xa0; plus de 30 ans parce qu’il n’y était plus en sécurité. Devenu OQTF&#xa0; français, il raconte cet arrachement forcé, signal inquiétant de&#xa0; perte de repères et d’inversion des valeurs. Il livre un récit coup&#xa0; de poing sur la situation alarmante qu’il observe en France.<br /><br />Éric Naulleau est chroniqueur et écrivain. Il a obtenu le Prix du&#xa0; Livre incorrect en 2013 et le Prix Roland-Dorgelès en 2024.",
+      "trackCensoredName": "Le jour où je suis devenu OQTF",
+      "artistViewUrl": "https://books.apple.com/fr/artist/%C3%A9ric-naulleau/499671414?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/le-jour-o%C3%B9-je-suis-devenu-oqtf/id6814433410?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/02/d5/4b/02d54b9d-6b85-ca56-8d0d-5f603fed0c36/9782213735894-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/02/d5/4b/02d54b9d-6b85-ca56-8d0d-5f603fed0c36/9782213735894-001-x.jpeg/100x100bb.jpg",
+      "formattedPrice": "14,99 €",
+      "price": 14.99,
+      "country": "FRA"
+    }
+  ]
+}

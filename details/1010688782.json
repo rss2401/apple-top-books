@@ -1,0 +1,50 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$2.99",
+      "artistIds": [
+        193507446
+      ],
+      "artistId": 193507446,
+      "artistName": "Sylvia Plath",
+      "genres": [
+        "Literary Fiction",
+        "Books",
+        "Fiction & Literature",
+        "Classics",
+        "Drama",
+        "Nonfiction",
+        "Social Science",
+        "Society",
+        "Poetry"
+      ],
+      "price": 2.99,
+      "genreIds": [
+        "10049",
+        "38",
+        "9031",
+        "10042",
+        "11047",
+        "9002",
+        "10120",
+        "11076",
+        "10093"
+      ],
+      "releaseDate": "2015-08-11T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>One of&#xa0;<i>The Atlantic</i>’s Great American Novels</b><br /><br /><b>“A coming–of–age masterpiece.” —<i>Boston Globe</i></b><br /><br /><b>\"It is this perfectly wrought prose and the freshness of Plath's voice in <i>The Bell Jar </i>that make this book enduring in its appeal.\"<i> —USA Today</i></b><br /><br /><b><i>The Bell Jar</i> is Sylvia Plath’s masterwork—an acclaimed and timeless work of psychological fiction about a young woman falling into the grip of mental illness and societal pressures.</b><br /><br />The story chronicles the breakdown of Esther Greenwood, a bright, beautiful, enormously talented college student facing a profound identity crisis while coming of age in 1950s America, as she navigates the pressures of society along with her own ambitions. While at a prestigious, competitively won position at a New York City magazine one summer, Esther finds herself struggling with the looming expectations of marriage, motherhood, and giving up on her dreams to achieve them. She becomes increasingly disillusioned and her mental health deteriorates, ultimately leading her to undergo harsh treatment and therapy.<br /><br />\"Funny, intense, enormously human\"&#xa0;(<i>Cosmopolitan</i>), <i>The Bell Jar</i> is a poignant exploration into the darkest and most harrowing corners of the human psyche and remains an extraordinary accomplishment from one of the country's most luminous talents.",
+      "trackCensoredName": "The Bell Jar",
+      "artistViewUrl": "https://books.apple.com/us/artist/sylvia-plath/193507446?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-bell-jar/id1010688782?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1e/95/26/1e952675-1845-af08-6c5f-fcf88697f23a/9780062444479.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1e/95/26/1e952675-1845-af08-6c5f-fcf88697f23a/9780062444479.jpg/100x100bb.jpg",
+      "trackId": 1010688782,
+      "trackName": "The Bell Jar",
+      "averageUserRating": 4.5,
+      "userRatingCount": 568,
+      "country": "USA"
+    }
+  ]
+}

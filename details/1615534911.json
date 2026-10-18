@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1584095386,
+        1496581344,
+        1557486954
+      ],
+      "artistId": 1584095386,
+      "artistName": "夏海真優, アマラ & 乃希",
+      "genres": [
+        "少年",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "ファンタジー"
+      ],
+      "price": 0,
+      "genreIds": [
+        "11337",
+        "38",
+        "9026",
+        "10016",
+        "50000074"
+      ],
+      "releaseDate": "2021-06-14T07:00:00Z",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "第2回なろうコン大賞受賞作が待望のコミカライズ!現代の廃村でひっそり生きる土地神・赤鞘。そんな彼の元に異世界の最高神・アンヴァレンスが突然、訪ねて来る。恐縮しまくる赤鞘だが、事情を聴けば、異世界は諸々あって神様不足。こちらの世界に来て、豊穣と繁栄の神である彼に、ぜひ力を貸してほしいとのこと……。申し入れを受け入れ異世界にやってきた赤鞘の目の前に広がっていたのは、生物の気配が薄い荒野だった。赤鞘は助手である天使・エルトヴァエルと共に、土地を再生、復活させる一大プロジェクトに取り掛かる。特に可もなく不可もない“元人間”の神様が、異世界で涙と感動の冒険活劇を繰り広げません! (断定)。※当作品1～2巻は『MiCCOMiコミックス』名義で過去に配信された内容と同一になります。重複購入にご注意ください。",
+      "formattedPrice": "無料",
+      "trackCensoredName": "神様は異世界にお引越ししました【電子単行本版】 / 1",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E5%A4%8F%E6%B5%B7%E7%9C%9F%E5%84%AA-%E3%82%A2%E3%83%9E%E3%83%A9-%E4%B9%83%E5%B8%8C/1584095386?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E7%A5%9E%E6%A7%98%E3%81%AF%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AB%E3%81%8A%E5%BC%95%E8%B6%8A%E3%81%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E9%9B%BB%E5%AD%90%E5%8D%98%E8%A1%8C%E6%9C%AC%E7%89%88-1/id1615534911?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/dc/a2/33/dca2330c-7b0e-3c1e-f960-5c58ffb47ed1/29257_124305880_001_001_artwork_20220322124800.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/dc/a2/33/dca2330c-7b0e-3c1e-f960-5c58ffb47ed1/29257_124305880_001_001_artwork_20220322124800.jpg/100x100bb.jpg",
+      "trackId": 1615534911,
+      "trackName": "神様は異世界にお引越ししました【電子単行本版】 / 1",
+      "country": "JPN"
+    }
+  ]
+}

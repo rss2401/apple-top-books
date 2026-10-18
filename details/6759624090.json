@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        364649758
+      ],
+      "artistId": 364649758,
+      "artistName": "Peter King",
+      "genres": [
+        "Football",
+        "Books",
+        "Sports & Outdoors"
+      ],
+      "price": 21.99,
+      "releaseDate": "2026-10-13T07:00:00Z",
+      "genreIds": [
+        "10125",
+        "38",
+        "9035"
+      ],
+      "trackId": 6759624090,
+      "trackName": "The Game",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "With his signature blend of history, insider reporting, sharp opinion, and vivid anecdote, Peter King offers an extraordinary front-row-seat chronicle of the modern NFL, taking us into the defining moments, teams, controversies, and more.<br /><br />\n\"After four decades inside the NFL, Peter King has stories no one else can tell.\" —Troy Aikman<br /><br />\n\"[A] joyful, insightful, colorful, remarkable look at the modern rise and reign of the NFL through the lens of football’s greatest chronicler and storyteller.\" —Jeff Pearlman, New York Times bestselling author<br /><br />For 40 years, Peter King’s unmatched access, curiosity, and passion have made him synonymous with the National Football League. He broke countless stories, giving us the human side of the sport and influencing countless reporters. Players trusted him; coaches and owners revealed information to him. He gathered it all into notebooks and columns that kept fans riveted.<br /><br />Now, in The Game, King has brought all his knowledge and insight together in one place to tell the story of the modern NFL as no one else could. Moving from the mid-1980s, when the league went head-to-head with baseball in popularity, to the present, when it dominates every other entertainment in America, King narrates the NFL’s explosive rise from the inside. He puts us in the room with Pete Rozelle, toward the end of the legendary commissioner’s career and life. He takes us on the Madden Cruiser, on a cross-country journey with John Madden. He goes behind the scenes in the Reggie White free-agency saga, when the small-town Green Bay Packers made the canniest offer you’ll ever hear. He gives us Deion Sanders’s philosophy on how to be great on the field and how to work the system off it. He shows us Steve Young, lying in a bed with IVs in each arm after the greatest game of his life on the biggest stage. He shares the bizarre story of how a tanning bed and some well-timed push-ups helped catapult Peyton Manning to the top of the 1998 draft. He reveals Nick Foles’s mastery of a moment no one thought he could be equal to. He brings us inside the worlds of referees, of owners, of NFL drafts. Looking at the future, he fires a warning shot about the greed overtaking the game.<br /><br />Time and again, King was in limousines, on planes, in locker rooms, and on sidelines where players and coaches told him why they did what they did, whom they hated, whom they thought highly of, what they dreamed of achieving. The result is The Game—a portrait of the modern NFL in all its messy glory, from one of the greatest storytellers the sport has ever produced.",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9f/e9/1c/9fe91c5e-18ab-c52d-ac0d-8473958426d1/9781324123644.jpg/100x100bb.jpg",
+      "trackCensoredName": "The Game",
+      "artistViewUrl": "https://books.apple.com/us/artist/peter-king/364649758?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-game/id6759624090?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9f/e9/1c/9fe91c5e-18ab-c52d-ac0d-8473958426d1/9781324123644.jpg/60x60bb.jpg",
+      "formattedPrice": "$21.99",
+      "country": "USA"
+    }
+  ]
+}

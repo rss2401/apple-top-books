@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$0.99",
+      "artistIds": [
+        364509204
+      ],
+      "artistId": 364509204,
+      "artistName": "Samantha James",
+      "genres": [
+        "Historical Romance",
+        "Books",
+        "Romance"
+      ],
+      "price": 0.99,
+      "genreIds": [
+        "10059",
+        "38",
+        "9003"
+      ],
+      "releaseDate": "2009-03-17T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>A young widow's marriage to a Highland warrior unleashes a long-hidden passion in the <i>New York Times</i>–bestselling author's medieval Scottish romance.</b><br />\n   When Egan MacBain takes beautiful Glenda MacKay as his bride, it appears that he's done so for the noblest of reasons. In truth, he has vowed at last to claim the woman he's always loved—yet once lost—to another man. The rugged Highlander is determined to keep his passion hidden, for he will only show his tenderness once she is tamed.\n   <br />\n   Glenda agreed to marry Egan for the protection of his name. The young widow never expected that vows of love would leave her lips again, nor did she believe she'd ever hold any man so dear. But now she finds herself succumbing to the strong, silent warrior who fills her with a forbidden yearning for the love—and the child—that he so wickedly promised.",
+      "trackCensoredName": "His Wicked Promise",
+      "artistViewUrl": "https://books.apple.com/us/artist/samantha-james/364509204?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/his-wicked-promise/id6462700214?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/8f/48/cb/8f48cbf5-fbf7-1b2b-534d-ddeee51a5915/1057958199.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/8f/48/cb/8f48cbf5-fbf7-1b2b-534d-ddeee51a5915/1057958199.jpg/100x100bb.jpg",
+      "trackId": 6462700214,
+      "trackName": "His Wicked Promise",
+      "averageUserRating": 4.5,
+      "userRatingCount": 6,
+      "country": "USA"
+    }
+  ]
+}

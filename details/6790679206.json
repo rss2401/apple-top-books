@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        89696985
+      ],
+      "formattedPrice": "11,99 €",
+      "artistId": 89696985,
+      "artistName": "Rachel Reid",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance",
+        "Romance jeunes adultes"
+      ],
+      "price": 11.99,
+      "trackName": "Game changers - Tome 3 Tough Guy - Edition France",
+      "trackId": 6790679206,
+      "genreIds": [
+        "10057",
+        "38",
+        "9003",
+        "11040"
+      ],
+      "releaseDate": "2026-10-08T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Ils n'ont rien en commun. En apparence.<br /><br />Ryan Price est un défenseur redouté au sein de la NHL. Sur la glace, il protège ses coéquipiers grâce à sa carrure imposante. En dehors, il souffre de crises d'anxiété qui le paralysent et l'isolent. Lorsque l'équipe de Toronto le recrute, il décide de ne plus se cacher, et emménage dans le quartier queer de la ville. Lorsqu'il croise Fabian Salah, le fils de son ancienne famille d'accueil, son passé se heurte à son futur.<br /><br />Fabian est un musicien talentueux, qui a le hockey en horreur. Pourtant, il n'a jamais oublié Ryan, ce géant au cœur tendre, avec qui il avait failli échanger un baiser au lycée. Leurs retrouvailles font remonter une attirance et des sentiments trop longtemps ignorés.<br /><br />En lui faisant découvrir Toronto, Fabian ouvre de nouveaux horizons à Ryan, qui se sent vivant pour la première fois depuis longtemps. Mais le hockeyeur est tiraillé entre une carrière exigeante et un futur avec Fabian. Et si son plus grand défi ne se jouait pas sur la glace ?",
+      "trackCensoredName": "Game changers - Tome 3 Tough Guy - Edition France",
+      "artistViewUrl": "https://books.apple.com/fr/artist/rachel-reid/89696985?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/game-changers-tome-3-tough-guy-edition-france/id6790679206?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/4c/42/39/4c4239f3-971f-611a-563c-bb1259776d61/9782385792671.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/4c/42/39/4c4239f3-971f-611a-563c-bb1259776d61/9782385792671.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 7,
+      "country": "FRA"
+    }
+  ]
+}

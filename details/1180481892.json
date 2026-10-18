@@ -1,0 +1,41 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "百々の拷問蔵 第1巻",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E5%B0%8F%E6%B1%A0%E4%B8%80%E5%A4%AB-%E7%A5%9E%E7%94%B0%E3%81%9F%E3%81%91%E5%BF%97/784953135?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E7%99%BE%E3%80%85%E3%81%AE%E6%8B%B7%E5%95%8F%E8%94%B5-%E7%AC%AC1%E5%B7%BB/id1180481892?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication71/v4/7a/8c/07/7a8c074d-1c85-8ee3-47fe-27555e32f94a/27547_120306043_001_001_artwork_20161125201640.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication71/v4/7a/8c/07/7a8c074d-1c85-8ee3-47fe-27555e32f94a/27547_120306043_001_001_artwork_20161125201640.jpg/100x100bb.jpg",
+      "artistIds": [
+        784953135,
+        608820045
+      ],
+      "genres": [
+        "青年",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "歴史"
+      ],
+      "genreIds": [
+        "11338",
+        "38",
+        "9026",
+        "10016",
+        "50000079"
+      ],
+      "trackId": 1180481892,
+      "trackName": "百々の拷問蔵 第1巻",
+      "releaseDate": "2012-12-19T08:00:00Z",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "江戸の咎人にはすべからく奉行所にて裁きの沙汰あり。しかしその公平なる裁きをかいくぐろうとする不届き千万の大罪人あり。お上の目を盗まんとする下郎共、皆涼しい顔して小伝馬町牢屋敷の門をくぐるが、そこにはお天道様すらその中を知らぬ、地獄のお白洲、人呼んで「拷問蔵」あり…。魍魎百鬼の極悪人を赤子のようにひねる鬼の牢屋同心・壱場文蔵と、仏のような微笑で心の鉄錠をこじ開ける、百々鼓太郎が、あらゆる江戸の悪を白日のもとに晒す!",
+      "formattedPrice": "無料",
+      "artistId": 784953135,
+      "artistName": "小池一夫 & 神田たけ志",
+      "price": 0,
+      "country": "JPN"
+    }
+  ]
+}

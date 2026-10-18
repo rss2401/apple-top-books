@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        378100876
+      ],
+      "artistId": 378100876,
+      "artistName": "Jana DeLeon",
+      "genres": [
+        "Women Sleuths",
+        "Books",
+        "Mysteries & Thrillers"
+      ],
+      "price": 0,
+      "trackId": 549039550,
+      "trackName": "Louisiana Longshot",
+      "releaseDate": "2012-07-01T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<i>It was a hell of a long shot.... </i>\n<br /><br />\nCIA assassin Fortune Redding is about to undertake her most difficult mission ever—in Sinful, Louisiana. With a leak at the CIA and a price placed on her head by one of the world’s largest arms dealers, Fortune has to go off-grid, but she never expected to be this far out of her element. Posing as a former beauty queen turned librarian in a small bayou town seems worse than death to Fortune, but she’s determined to fly below the radar until her boss finds the leak and puts the arms dealer out of play. Unfortunately, she hasn’t even unpacked a suitcase before her newly inherited dog digs up a human bone in her backyard. \n<br /><br />\nThrust into the middle of a bayou murder mystery, Fortune teams up with a couple of seemingly sweet old ladies whose looks completely belie their hold on the little town. To top things off, the handsome local deputy is asking her too many questions. If she’s not careful, this investigation might blow her cover and get her killed. Armed with her considerable skills and a group of elderly ladies the locals dub The Geritol Mafia, Fortune has no choice but to solve the murder before it’s too late.\n<br /><br />\n<b>What authors are saying: </b>\n<br /><br />\n<i>“Southern wit at its best!”</i> - NYT Bestselling author Gemma Halliday \n<br /><br />\n<i>“Sinfully funny!”</i> - NYT Bestselling author CC Hunter/Christie Craig\n<br /><br />\n<b>What readers are saying:</b>\n<br /><br />\n<i>“If you like Janet Evanovich’s Stephanie Plum series, you’ll love Miss Fortune.”\n<br /><br />\n“This was a hoot!!! If you like mysteries and Southern eccentrics, this is the book for you. More twists and turns than the Louisiana bayou.”\n<br /><br />\n“It has a flavor of Miss Congeniality, but it is much more than that.”\n<br /><br />\n“I read this book in one night, unable to put it down because I couldn’t wait to see what happened next.”\n<br /><br />\n“I’ve rarely thanked writers for the entertainment they provide. Nevertheless, I feel strangely compelled not only to thank this author, but to recommend this book to everybody and anybody – I give it five laugh out loud stars!”</i>",
+      "formattedPrice": "Free",
+      "trackCensoredName": "Louisiana Longshot",
+      "artistViewUrl": "https://books.apple.com/us/artist/jana-deleon/378100876?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/louisiana-longshot/id549039550?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/98/99/dd/9899ddff-b4db-8fae-c2f9-b8df9326d7e1/Fortune_high.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/98/99/dd/9899ddff-b4db-8fae-c2f9-b8df9326d7e1/Fortune_high.jpg/100x100bb.jpg",
+      "genreIds": [
+        "10055",
+        "38",
+        "9032"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 3474,
+      "country": "USA"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1376443053
+      ],
+      "trackCensoredName": "ホタルの嫁入り(7)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%A9%98%E3%82%AA%E3%83%AC%E3%82%B3/1376443053?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%AE%E5%AB%81%E5%85%A5%E3%82%8A-7/id6742439533?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3a/82/f8/3a82f81d-4810-485c-f60e-c5de572f81f5/BT000136336800700701900203.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3a/82/f8/3a82f81d-4810-485c-f60e-c5de572f81f5/BT000136336800700701900203.jpg/100x100bb.jpg",
+      "artistId": 1376443053,
+      "artistName": "橘オレコ",
+      "price": 760,
+      "trackId": 6742439533,
+      "trackName": "ホタルの嫁入り(7)",
+      "releaseDate": "2025-03-18T07:00:00Z",
+      "genreIds": [
+        "11340",
+        "38",
+        "9026",
+        "10016",
+        "50000081",
+        "50000084"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "あなたを好きになりました。<br /><br />朝霧を苦しめる客を島から追放するため<br />紗都子たちが企てた大胆な計画――<br />それは、進平を女装させ遊女として送り込むことだった!!<br /><br />「作戦が成功したら紗都子に褒めてもらえる!」と、<br />意気揚々と血しぶきを浴びながら敵を斬り倒していく進平。<br /><br />一方その頃、紗都子の胸には<br />ある重大な決意が芽生えていた――",
+      "formattedPrice": "¥760",
+      "genres": [
+        "女性",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "ミステリー",
+        "恋愛／ロマンス"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 36,
+      "country": "JPN"
+    }
+  ]
+}

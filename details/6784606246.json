@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        406533910,
+        1169727453
+      ],
+      "artistId": 406533910,
+      "artistName": "Rebecca Robinson & Fabrice Canepa",
+      "genres": [
+        "Fantasy",
+        "Livres",
+        "SF et fantasy"
+      ],
+      "trackId": 6784606246,
+      "trackName": "Les Cités de sel, T2 : Le Cruel et la Damnée",
+      "releaseDate": "2026-10-14T07:00:00Z",
+      "genreIds": [
+        "10044",
+        "38",
+        "9020"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Arrachée aux bras de Reid, son époux, et ramenée de force dans sa patrie, Vaasa s'est vue privée de son statut de souveraine et réduite à celui de simple pion sur l'échiquier politique asteryen. Se trouvant désormais sous la tutelle d'Ozik, redoutable sorcier et adorateur du dieu Zetyr, Vaasa va devoir faire face à l'annulation de son mariage, des fiançailles forcées et un retour difficile dans un royaume qui n'est plus vraiment le sien. Confrontée aux machinations d'Ozik qui semble décidé à s'arroger le véritable pouvoir en Asterya, Vaasa n'aura d'autre choix que de l'affronter sur son propre terrain.<br /><br />À l'autre bout du continent, Reid s'est résolu au contraire à passer de la diplomatie à la guerre ouverte. Mais se lancer dans une campagne militaire d'envergure est loin d'être évident. Et la rage du loup de Mireh se retrouve très vite muselée par la bureaucratie de l'Icrurie. Alors que le temps lui est compté et que ses alliés se défilent un à un, Reid décide de s'infiltrer lui-même en Asterya pour y retrouver la femme qu'il aime et la ramener chez eux.<br /><br />Mais la magie de Vaasa devient toujours plus incontrôlable et Ozik semble être le seul à pouvoir lui apprendre à maîtriser son mystérieux pouvoir. Un message cryptique laissé par sa mère et faisant allusion à un collier à présent disparu pourrait cependant lui offrir une alternative et l'aider à se libérer définitivement de la tutelle du sorcier.<br /><br />Parmi les prétendants qui aspirent à épouser Vaasa, un fantôme tout droit surgi de son passé pourrait également lui offrir une échappatoire. Mais la trahison qu'elle devrait consentir pour cela ne risque-t-elle pas de sonner le glas de son véritable amour&#xa0;?<br /><br />«&#xa0;Un univers fascinant, des personnages intrigants et une romance enthousiasmante en font une série incontournable&#xa0;!&#xa0;» C.J. Redwine, autrice de la série Ravenspire, bestseller du New York Times<br /><br />«&#xa0;Magique et fantastique, Le Loup et le Serpent est un roman absolument captivant. Impossible à lâcher !&#xa0;» Paige Crutcher, autrice de A Circle of Uncommon Witches<br /><br />« Rebecca Robinson révèle son talent pour créer un monde original et immersif, mais également sa maîtrise de l'art subtil d'une romance slow burn sulfureuse.&#xa0;» Kate Golden, autrice de la saga Les Pierres sacrées<br /><br />«&#xa0;Le premier tome de romantasy écrit par Robinson mêle habilement magie mystérieuse et mariage d'état pour créer une réelle tension [...] Robinson se réapproprie avec talent le trope Enemies to lovers et place l'histoire d'amour slow burn entre Reid et Vaasa au premier plan de son roman.&#xa0;» Publishers Weekly<br /><br />«&#xa0;Le roman entremêle violence et sorcellerie pour tisser un récit initiatique convaincant à la découverte de l'amour, de la famille et, par-dessus tout, de soi-même.&#xa0;» Booklist",
+      "trackCensoredName": "Les Cités de sel, T2 : Le Cruel et la Damnée",
+      "artistViewUrl": "https://books.apple.com/fr/artist/rebecca-robinson-fabrice-canepa/406533910?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-cit%C3%A9s-de-sel-t2-le-cruel-et-la-damn%C3%A9e/id6784606246?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a7/66/8f/a7668f9a-0617-7757-05fd-f726e1b6dc9e/9791028137205-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a7/66/8f/a7668f9a-0617-7757-05fd-f726e1b6dc9e/9791028137205-001-x.jpeg/100x100bb.jpg",
+      "formattedPrice": "9,99 €",
+      "price": 9.99,
+      "country": "FRA"
+    }
+  ]
+}

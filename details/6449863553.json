@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "trackCensoredName": "The Nothing Man",
@@ -30,6 +30,37 @@
       "formattedPrice": "£0.99",
       "averageUserRating": 4.5,
       "userRatingCount": 9
+    },
+    {
+      "formattedPrice": "£7.99",
+      "artistIds": [
+        365938130
+      ],
+      "trackCensoredName": "The Nothing Man",
+      "artistViewUrl": "https://books.apple.com/gb/artist/catherine-ryan-howard/365938130?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-nothing-man/id6449863553?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/50/90/4a/50904a94-8c33-59cf-d485-e39686e3e2ec/1038972939.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/50/90/4a/50904a94-8c33-59cf-d485-e39686e3e2ec/1038972939.jpg/100x100bb.jpg",
+      "genres": [
+        "Crime & Thrillers",
+        "Books"
+      ],
+      "artistId": 365938130,
+      "artistName": "Catherine Ryan Howard",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "releaseDate": "2020-08-06T07:00:00Z",
+      "trackId": 6449863553,
+      "trackName": "The Nothing Man",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>***THE <i>IRISH TIMES</i> AND KINDLE No. 1 BESTSELLER***</b><br /><br /><b>I was the girl who survived the Nothing Man.</b><br /><b>Now I am the woman who is going to catch him...</b><br /><br />\n   You've just read the opening pages of <i>The Nothing Man</i>, the true crime memoir Eve Black has written about her obsessive search for the man who killed her family nearly two decades ago.<br /><br />\n   Supermarket security guard Jim Doyle is reading it too, and with each turn of the page his rage grows. Because Jim was - <i>is</i> - the Nothing Man.<br /><br />\n   The more Jim reads, the more he realises how dangerously close Eve is getting to the truth. He knows she won't give up until she finds him. He has no choice but to stop her first...<br /><br /><i>An absolutely unputdownable psychological thriller with a killer twist, perfect for fans of Freida McFadden, Lisa Jewell, Adele Parks, Jennifer Hillier and Alice Feeney.</i><br /><br /><b>'The queen of high-concept crime fiction... I was utterly wowed' </b>Jane Casey<br /><b>'Whipsmart, thrilling and utterly compelling' </b>Liz Nugent<br /><b>'I cannot put it down!' </b>Georgia Hardstark<br /><br />\n   Readers love THE NOTHING MAN!<br /><b><br />\n    'Up there as one of the best plots ever' </b>Reader review, 5 stars <br /><br /><b>'Brilliant concept, brilliantly executed' </b>Reader review, 5 stars <br /><br /><b>'Clever. Original. Engaging read' </b>Reader review, 5 stars <br /><br /><b>'I haven't read anything like this before and it worked so well' </b>Reader review, 5 stars <br /><br /><b>'Dark, stunning and absolutely chilling' </b>Reader review, 5 stars",
+      "price": 7.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 16,
+      "country": "GBR"
     }
   ]
 }

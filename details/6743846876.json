@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        279984751,
+        1804885756,
+        508898187
+      ],
+      "formattedPrice": "2,99 €",
+      "artistId": 279984751,
+      "artistName": "Peter F. Hamilton, Pierre K. Rey & Jean-Daniel Brèque",
+      "genres": [
+        "Science-fiction",
+        "Livres",
+        "SF et fantasy"
+      ],
+      "price": 2.99,
+      "trackName": "L'Aube de la Nuit, T1 : Rupture dans le réel - première partie : Émergence",
+      "trackId": 6743846876,
+      "genreIds": [
+        "10063",
+        "38",
+        "9020"
+      ],
+      "releaseDate": "2025-06-25T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "La saga la plus célèbre du grand maître du space opera !<br /><br />Début du XXVIIe siècle. L'âge d'or de l'humanité est à portée de main. Des centaines de planètes colonisées s'étendent à travers la galaxie, abritant une multitude de cultures prospères et variées. D'immenses flottes de vaisseaux marchands sillonnent l'espace sous la protection des Forces spatiales de la Confédération. Mais des différences irréductibles opposent encore les Édénistes, adeptes de l'ingénierie génétique, télépathiquement liés à leurs vaisseaux vivants, et les Adamistes, farouches partisans de l'héritage humain.<br /><br />Les deux factions devront pourtant s'unir, car, sur une planète primitive, la rencontre fortuite d'un criminel renégat et d'une entité extraterrestre déclenche un phénomène terrifiant&#xa0;: la rupture dans le réel, dont le souvenir hante l'espace depuis l'aube des temps...<br />&#xa0;<br /><br />«&#xa0;L'imagination la plus puissante de la science-fiction.&#xa0;» Ken Follett<br /><br />«&#xa0;Hamilton relance la SF britannique à une vitesse interstellaire.&#xa0;» The Times",
+      "trackCensoredName": "L'Aube de la Nuit, T1 : Rupture dans le réel - première partie : Émergence",
+      "artistViewUrl": "https://books.apple.com/fr/artist/peter-f-hamilton-pierre-k-rey-jean-daniel-br%C3%A8que/279984751?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/laube-de-la-nuit-t1-rupture-dans-le-r%C3%A9el-premi%C3%A8re/id6743846876?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a9/a5/2f/a9a52fa6-5cd1-0a47-67af-6e92b8056166/9791028132057-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a9/a5/2f/a9a52fa6-5cd1-0a47-67af-6e92b8056166/9791028132057-001-x.jpeg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 16,
+      "country": "FRA"
+    }
+  ]
+}

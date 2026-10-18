@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1013982382
+      ],
+      "artistId": 1013982382,
+      "artistName": "David Antocci",
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books"
+      ],
+      "price": 0,
+      "releaseDate": "2020-04-20T07:00:00Z",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "trackId": 1509153158,
+      "trackName": "Retribution: An Alivia Morgan Thriller",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "2021 Readers' Favorite&#xa0;Gold Medal Winner!<br /><br />\"Comparable to a James Patterson or Jack Carr thriller, this sensational novel promises to thrill everyone who loves terrorism novels jam-packed with action\" -&#xa0;★★★★★ Susan Sewell for Readers' Favorite<br /><br />She killed the most wanted terrorist in the world. Now they're coming after her.<br /><br />The Rally for US was meant to be a day of celebration. Instead, that crisp October morning turned into the bloodiest terror attack to strike the city of Boston in more than a decade. And the terrorists are just getting started. To hunt down the insurgents, the New England Special Terrorist Division—NEST—turn to their most senior and capable agent, Alivia Morgan. Ripped from her home and family to join the battle, she had no idea just how deeply personal the fight would become.&#xa0;&#xa0;<br /><br />Captured, alone, and armed only with her years of training and experience in Special Ops and the elite Army Rangers, Alivia realizes she's in a race against time. Can she escape with her life and stop the impending attacks before the clock runs out?<br /><br />What Amazon Reviewers are saying:<br /><br />★★★★★ 'Fast-paced action that never slows down until the end sentence.'<br />★★★★★ 'David Antocci has written a thrilling first book to what looks to be a fantastic new series.'<br />★★★★★ 'This is a riveting action-packed thriller that I could not put down.'&#xa0;<br />★★★★★ 'Great characters, fast action and a female hero! What more could you possibly want?'<br />★★★★★ 'Want a fast-paced action novel to read? This is it.'",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b1/db/ee/b1dbeee8-2d7a-1e7b-d117-9b3195742b1e/0000550265.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b1/db/ee/b1dbeee8-2d7a-1e7b-d117-9b3195742b1e/0000550265.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/david-antocci/1013982382?uo=4",
+      "trackCensoredName": "Retribution: An Alivia Morgan Thriller",
+      "formattedPrice": "Free",
+      "trackViewUrl": "https://books.apple.com/us/book/retribution-an-alivia-morgan-thriller/id1509153158?uo=4",
+      "averageUserRating": 4.5,
+      "userRatingCount": 643,
+      "country": "USA"
+    }
+  ]
+}

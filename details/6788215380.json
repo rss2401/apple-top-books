@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "artistIds": [
@@ -26,6 +26,33 @@
       ],
       "trackId": 6788215380,
       "trackName": "Ruthless Prey"
+    },
+    {
+      "trackCensoredName": "Ruthless Prey",
+      "artistViewUrl": "https://books.apple.com/us/artist/john-sandford/20888342?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/ruthless-prey/id6788215380?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a4/b6/e7/a4b6e7fa-5288-3e11-1b22-32042073e252/9780593852118.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a4/b6/e7/a4b6e7fa-5288-3e11-1b22-32042073e252/9780593852118.d.jpg/100x100bb.jpg",
+      "artistIds": [
+        20888342
+      ],
+      "artistId": 20888342,
+      "artistName": "John Sandford",
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books"
+      ],
+      "trackId": 6788215380,
+      "trackName": "Ruthless Prey",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "releaseDate": "2027-03-30T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>Lucas Davenport must avenge the murder of a loved one, in this latest thriller from #1 <i>New York Times </i>bestselling author John Sandford.</b><br /><br />When Lucas Davenport’s ex-girlfriend Jennifer Carey— the head of the Channel 3 investigative team and also the mother of his child, Sarah— is found dead in the horse barn behind her family home, nestled in an old affluent suburb in Minneapolis, the authorities immediately rule it a suicide. Lucas is devastated to hear of his family’s loss but isn’t as convinced that Jennifer was suffering before her death.<br /><br />Lucas begins to dig deeper into the case and learns from Jennifer’s news team that she had been investigating a few controversial stories, suggesting to Lucas considerable animus by their targets. But would these groups go as far as ordering the murder of Jennifer Carey? And, if so, what else are they hiding? As Lucas dives deeper into Jennifer’s work—research she thought she’d long buried—he uncovers secrets much darker than he ever believed, and if he’s not careful, more than just his family could be at risk.",
+      "country": "USA"
     }
   ]
 }

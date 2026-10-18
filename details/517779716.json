@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Talisman",
+      "artistViewUrl": "https://books.apple.com/us/artist/stephen-king/2024797?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-talisman/id517779716?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/82/88/46/82884645-8b72-df7c-4eee-3b535d683d80/9781451698367.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/82/88/46/82884645-8b72-df7c-4eee-3b535d683d80/9781451698367.jpg/100x100bb.jpg",
+      "artistIds": [
+        2024797
+      ],
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books",
+        "Sci-Fi & Fantasy",
+        "Fantasy",
+        "Fiction & Literature"
+      ],
+      "price": 11.99,
+      "releaseDate": "2012-09-25T07:00:00Z",
+      "genreIds": [
+        "9032",
+        "38",
+        "9020",
+        "10044",
+        "9031"
+      ],
+      "trackId": 517779716,
+      "trackName": "The Talisman",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b><b>The iconic, “extraordinary” (<i>The Washington Post</i>) collaboration between bestselling authors Stephen King and Peter Straub—an epic #1 <i>New York Times</i> bestselling fantasy thriller about a young boy’s quest to save his mother’s life.</b></b><br /><br />Jack Sawyer, twelve years old, is about to begin a most fantastic journey, an exalting, terrifying quest for the mystical Talisman—the only thing that can save Jack’s dying mother. But to reach his goal, Jack must make his way not only across the breadth of the United States but also through the wondrous and menacing parallel world of the Territories.<br /><br />In the Territories, Jack finds another realm, where the air is so sweet and clear a man can smell a radish being pulled from the ground a mile away—and a life can be snuffed out instantly in the continuing struggle between good and evil. Here Jack discovers “Twinners,” reflections of the people he knows on earth—most notably Queen Laura DeLoessian, the Twinner of Jack’s own imperiled mother. As Jack “flips” between worlds, making his way westward toward the redemptive Talisman, a sequence of heart-stopping encounters challenges him at every step.<br /><br />An unforgettable epic of adventure and resounding triumph, <i>The Talisman </i>is one of the most influential and highly praised works of fantasy ever written.",
+      "formattedPrice": "$11.99",
+      "artistId": 2024797,
+      "artistName": "Stephen King",
+      "averageUserRating": 4.5,
+      "userRatingCount": 817,
+      "country": "USA"
+    }
+  ]
+}

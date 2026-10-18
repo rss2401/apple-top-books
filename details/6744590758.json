@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$1.99",
+      "artistIds": [
+        1379916879
+      ],
+      "artistId": 1379916879,
+      "artistName": "Andrea Mara",
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books",
+        "Fiction & Literature"
+      ],
+      "price": 1.99,
+      "genreIds": [
+        "9032",
+        "38",
+        "9031"
+      ],
+      "releaseDate": "2026-01-13T08:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>“Andrea Mara is fantastic. If you love short chapters and cliffhangers and nonstop suspense, this is for you!” —Freida McFadden, #1 <i>New York Times </i>bestseller of <i>The Housemaid</i><br /><br />A gripping new thriller from Andrea Mara, the #1 international bestselling author of ALL HER FAULT, now streaming on Peacock&#xa0; <br /><br />Your neighbors have secrets. How far would they go to keep them?</b><br /><br />You press send and your message disappears. Full of secrets about your neighbors, it’s meant for your sister. But it doesn’t reach her – it goes to the entire local community WhatsApp group instead.<br /><br />As rumor spreads like wildfire through the picture-perfect neighborhood, you convince yourself that people will move on, that this will quickly be forgotten. But then you receive the first death threat.<br /><br />The next day, a woman has been murdered. And what’s even more chilling is that she had the same address as you – 26 Oakpark – but in a different part of town. Did the killer get the wrong house? It won’t be long before you find out…",
+      "trackCensoredName": "It Should Have Been You",
+      "artistViewUrl": "https://books.apple.com/us/artist/andrea-mara/1379916879?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/it-should-have-been-you/id6744590758?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7a/d7/0a/7ad70af9-d2a9-4c3b-9173-0500b540e77b/9780593832103.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7a/d7/0a/7ad70af9-d2a9-4c3b-9173-0500b540e77b/9780593832103.d.jpg/100x100bb.jpg",
+      "trackId": 6744590758,
+      "trackName": "It Should Have Been You",
+      "averageUserRating": 4,
+      "userRatingCount": 69,
+      "country": "USA"
+    }
+  ]
+}

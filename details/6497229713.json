@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "trackCensoredName": "SEAL Team 9, Tome 1 - Alt",
@@ -32,6 +32,39 @@
       "artistName": "Clara Nové",
       "averageUserRating": 4.5,
       "userRatingCount": 52
+    },
+    {
+      "artistIds": [
+        1530206955
+      ],
+      "artistId": 1530206955,
+      "artistName": "Clara Nové",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance"
+      ],
+      "price": 5.99,
+      "genreIds": [
+        "10057",
+        "38",
+        "9003"
+      ],
+      "releaseDate": "2024-05-16T07:00:00Z",
+      "trackId": 6497229713,
+      "trackName": "SEAL Team 9, Tome 1 - Alt",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Tireur d’élite au sein des Navy SEALs, Alt n’a pas de place pour une vie de famille. Rien ne compte plus que sa carrière et son équipe. Lorsqu’il est sélectionné pour une mission inhabituelle, promouvoir l’armée auprès d’une classe de primaire, il est d’abord réfractaire à l’idée. Mais contre toute attente le militaire se laisse séduire, en particulier par la jolie institutrice.<br /><br />À l'autre bout du pays, Astrid, a renoncé à l'amour après une relation difficile. Les hommes, c’est fini pour elle ! Elle trouve d’ailleurs refuge auprès de ses élèves. Pourtant, lorsqu'elle échange avec Alt, ses certitudes vacillent.<br /><br />Cette correspondance les rapproche bien plus qu’ils ne l’auraient imaginé. Alt et Astrid partagent leurs rêves, leurs espoirs et leurs secrets, se découvrant peu à peu à travers leurs mots. Une relation à distance semble parfaite. Aucun risque de se rencontrer, aucun risque d’aller plus loin…",
+      "formattedPrice": "5,99 €",
+      "trackCensoredName": "SEAL Team 9, Tome 1 - Alt",
+      "artistViewUrl": "https://books.apple.com/fr/artist/clara-nov%C3%A9/1530206955?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/seal-team-9-tome-1-alt/id6497229713?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/4b/2e/19/4b2e192c-198e-d694-f91f-931351c42d60/9782017243595-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/4b/2e/19/4b2e192c-198e-d694-f91f-931351c42d60/9782017243595-001-x.jpeg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 55,
+      "country": "FRA"
     }
   ]
 }

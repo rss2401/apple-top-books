@@ -1,0 +1,46 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/gb/artist/sarah-beth-durst/358475723?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/2b/0e/3f/2b0e3fde-1493-e4f5-db2e-92aeabf0fffc/9781035042357.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/2b/0e/3f/2b0e3fde-1493-e4f5-db2e-92aeabf0fffc/9781035042357.jpg/100x100bb.jpg",
+      "artistIds": [
+        358475723
+      ],
+      "trackCensoredName": "The Spellshop",
+      "formattedPrice": "£0.99",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-spellshop/id6464297812?uo=4",
+      "artistId": 358475723,
+      "artistName": "Sarah Beth Durst",
+      "price": 0.99,
+      "genreIds": [
+        "10044",
+        "38",
+        "9020",
+        "9003",
+        "11042",
+        "9031",
+        "10058"
+      ],
+      "releaseDate": "2024-07-11T07:00:00Z",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>‘I have read and loved this book so much’ – Lucy Jane Wood, author of <i>Rewitched </i></b><br /><br />💖 <b>Perfect for fans of Travis Baldree's <i>Legends and Lattes </i>and TJ Klune, <i>The Spellshop</i> is a cosy fantasy tale full of stolen spellbooks, unexpected friendships, sweet jams and even sweeter romance. </b>💖<br /><br />✨ <i>Every home needs a little magic . . . </i>✨<br /><br />Kiela has always had trouble dealing with people. But, as librarian at the Great Library of Alyssium, she hasn’t had to.<br /><br />She and her assistant Caz, a sentient spider plant, have spent most of the last eleven years sequestered among the empire’s precious spellbooks, protecting the magic for the city’s elite. But a revolution is brewing, and when the library goes up in flames Kiela and Caz steal whatever books they can and flee to the faraway island where she grew up. To her dismay, in addition to a nosy – and very handsome – neighbour, she finds the town in disarray.<br /><br />The empire has slowly been draining power from the island, and now Kiela is determined to make things right. But opening up her own spellshop comes with its own risks – the consequence of sharing magic with commoners is death. And as Kiela starts to make a place for herself among the townspeople, she realizes she must break down the walls she has kept so high . . .<br /><br />✨ <b>From award-winning author Sarah Beth Durst, <i>The Spellshop</i> is a cottagecore cosy fantasy following a woman’s unexpected journey through the low-stakes market of illegal spell-selling and the high-risk business of starting over. </b>✨<br /><br /><b>* * *<br /><br />Readers are in their cottagecore era . . .</b><br /><br />‘If you ever played one of those cosy magical farming games and always wished there was a book like it: look no further’ ⭐⭐⭐⭐⭐<br /><br />‘This book honestly has the sweetest, clumsiest romance I never knew I needed’ ⭐⭐⭐⭐⭐<br /><br />‘It has THE MOST ADORABLE magical creatures’ ⭐⭐⭐⭐⭐<br /><br />‘I want whatever this is (a cute shop where I sell spells and make jam and a hot man builds me floor to ceiling bookshelves)’ ⭐⭐⭐⭐⭐<br /><br />‘This was the most heartfelt, wholesome, cosiest and cutest book I’ve ever read’ ⭐⭐⭐⭐⭐",
+      "trackName": "The Spellshop",
+      "trackId": 6464297812,
+      "genres": [
+        "Fantasy",
+        "Books",
+        "Sci-Fi & Fantasy",
+        "Romance",
+        "Romantic Comedies",
+        "Fiction & Literature",
+        "Paranormal Romance"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 65,
+      "country": "GBR"
+    }
+  ]
+}

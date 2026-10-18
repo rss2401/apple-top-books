@@ -1,0 +1,41 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        704244217,
+        704244220
+      ],
+      "artistId": 704244217,
+      "artistName": "Peter Galante & Felipe Kolb",
+      "genres": [
+        "Action & Adventure Fiction for Kids",
+        "Books",
+        "Kids",
+        "Fiction for Kids"
+      ],
+      "price": 0,
+      "trackId": 926770231,
+      "trackName": "Kids vs Planets: The Solar System Explained (Enhanced Version)",
+      "genreIds": [
+        "11113",
+        "38",
+        "11086",
+        "11112"
+      ],
+      "releaseDate": "2014-10-08T07:00:00Z",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "Age range: 6-12 Years old (6-year-old; 7-year-old; 8-year-old)<br />\nReading level: 6-12 Years old (6-year-old; 7-year-old; 8-year-old)<br /><br />\n*Are your curious kids always quizzing you about the solar system and our neighboring planets?*<br />\nThis fun and exciting adventure will give your child an easy to understand introduction to our planetary neighbors and our solar system and help you avoid the dreaded barrage of “Why?”&#xa0;<br />\nWe call them 21st Century Fairy Tales / Science-Based Fairy Tales.<br /><br />\nWith this 58-page book:&#xa0;<br />\n-Planets spring to life with 3d animation!<br />\n-Capture your child’s imagination with interactive scenes and vibrant illustrations on every page.<br />\n-Learn more about the solar system with our story expansion content.<br />\n-Learn how to make your own kids books with our behind-the-scenes making of Kids vs. Planets: The Solar System Explained.&#xa0;<br /><br />\n*Are your curious kids always quizzing you about the solar system and our neighboring planets?*<br /><br />\nThis book will help you:<br />\n-Provide a fun introduction that will help your children relate more deeply to the concept when they encounter it later on in life.<br />\n-Connect with your kids and create an open atmosphere to help facilitate fun and educational discussions with them.<br />\n-Encourage more curious questions from your young one!<br /><br />\nFollow along with the story and pick up some unconventional tips and the secret methods on how to explain difficult concepts to young children.<br /><br />\nThis book has been designed and tested to help keep your kids engaged and interested – to maximize their absorption, and frankly...to make story time even more fun!<br /><br />\nKids of different ages can enjoy this book, and will read it again and again.",
+      "formattedPrice": "Free",
+      "trackCensoredName": "Kids vs Planets: The Solar System Explained (Enhanced Version)",
+      "artistViewUrl": "https://books.apple.com/gb/artist/peter-galante-felipe-kolb/704244217?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/kids-vs-planets-the-solar-system-explained-enhanced/id926770231?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/14/0d/3b/140d3bda-6cf2-eb33-4c45-b8c8ad4e8e5a/kids_vs_planets_newtext.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/14/0d/3b/140d3bda-6cf2-eb33-4c45-b8c8ad4e8e5a/kids_vs_planets_newtext.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 408,
+      "country": "GBR"
+    }
+  ]
+}

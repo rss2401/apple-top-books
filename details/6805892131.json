@@ -1,0 +1,41 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1458072830,
+        815251630
+      ],
+      "artistId": 1458072830,
+      "artistName": "One & Yusuke Murata",
+      "genres": [
+        "Manga : Action",
+        "Livres",
+        "BD et mangas",
+        "Manga",
+        "Manga : Shōnen"
+      ],
+      "trackId": 6805892131,
+      "trackName": "One-Punch Man - Tome 35",
+      "releaseDate": "2026-10-15T07:00:00Z",
+      "genreIds": [
+        "50000071",
+        "38",
+        "9026",
+        "10016",
+        "11337"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Saitama est trop puissant ; tellement puissant qu'il élimine tous les monstres les plus farouches avec un simple coup de poing. Découvrez l'histoire du plus puissant des super-héros dans ce manga qui va vous mettre K.O. !!</b><br /><br />Saitama a emménagé dans son nouveau logement ! Mais ses voisins venus le saluer vont tomber sur quelqu'un d'autre... Pendant ce temps, au milieu de la ville Z devenue un champ de ruines, Saitama fouille avec Genos les décombres de son ancien appartement afin de retrouver quelques affaires.<br /><br />Il fait alors la rencontre d'un étrange chien et d'un drôle de singe qui vont lui coller aux basques et le suivre jusqu'à son nouvel et impressionnant appart !",
+      "trackCensoredName": "One-Punch Man - Tome 35",
+      "artistViewUrl": "https://books.apple.com/fr/artist/one-yusuke-murata/1458072830?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/one-punch-man-tome-35/id6805892131?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d5/56/eb/d556eb66-bfc6-8260-769e-98e01b673ad0/9791042023195.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d5/56/eb/d556eb66-bfc6-8260-769e-98e01b673ad0/9791042023195.jpg/100x100bb.jpg",
+      "formattedPrice": "4,99 €",
+      "price": 4.99,
+      "country": "FRA"
+    }
+  ]
+}

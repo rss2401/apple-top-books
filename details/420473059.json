@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Ragtime",
+      "artistViewUrl": "https://books.apple.com/us/artist/e-l-doctorow/2030421?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/ragtime/id420473059?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/40/83/70/4083705d-2968-8d50-7b4c-aa79c78b3bde/9780307762948.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/40/83/70/4083705d-2968-8d50-7b4c-aa79c78b3bde/9780307762948.jpg/100x100bb.jpg",
+      "artistIds": [
+        2030421
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Books",
+        "Fiction & Literature",
+        "Historical Fiction"
+      ],
+      "price": 1.99,
+      "releaseDate": "1975-06-12T07:00:00Z",
+      "genreIds": [
+        "10049",
+        "38",
+        "9031",
+        "10047"
+      ],
+      "trackId": 420473059,
+      "trackName": "Ragtime",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>First published in 1975, <i>Ragtime</i> changed our very concept of what a novel could be—a singular tapestry hailed as “an extraordinarily deft, lyrical, rich novel that catches the spirit of the country” (<i>The New Yorker</i>) between the turn of the century and the First World War.<br /><br />Selected by the Modern Library and <i>The Guardian</i> as one of the 100 best novels of all time</b><br /><br /><b>The inspiration for the Tony Award–winning musical!</b><br /><br />The story opens in 1906 in New Rochelle, New York, at the home of an affluent American family. One lazy Sunday afternoon, the famous escape artist Harry Houdini swerves his car into a telephone pole outside their house. And almost magically, the line between fantasy and historical fact, between real and imaginary characters, disappears. Henry Ford, Emma Goldman, J. P. Morgan, Evelyn Nesbit, Sigmund Freud, and Emiliano Zapata slip in and out of the tale, crossing paths with Doctorow’s imagined family and other fictional characters, including an immigrant peddler and a ragtime musician from Harlem whose insistence on a point of justice drives him to revolutionary violence.",
+      "formattedPrice": "$1.99",
+      "artistId": 2030421,
+      "artistName": "E.L. Doctorow",
+      "averageUserRating": 4,
+      "userRatingCount": 298,
+      "country": "USA"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        367527918
+      ],
+      "formattedPrice": "15,99 €",
+      "artistId": 367527918,
+      "artistName": "Donato Carrisi",
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "price": 15.99,
+      "trackName": "Le Mensonge de l'orchidée",
+      "trackId": 6810214361,
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "releaseDate": "2026-10-07T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "UN CRIME MONSTRUEUX, IRRÉSOLU DEPUIS DES DÉCENNIES…<br />&#xa0; <br />En 2005, dans le village italien de Nazareth, un père de famille assassine sa femme et ses enfants avant de se rendre aux autorités, marquant à jamais le village au fer rouge.<br />&#xa0; <br />En 2015, Victoria Anthon, écrivaine solitaire en quête d’inspiration, reçoit une lettre anonyme remettant en cause la vérité sur les meurtres.<br />&#xa0; <br />Entre secrets de famille, rituels macabres, visions troublantes et témoins hantés, Victoria découvre qu’un mal ancien frappe tous ceux qui approchent Nazareth.<br />&#xa0; <br />Et qu’elle devra révéler la vérité, au péril de sa vie.",
+      "trackCensoredName": "Le Mensonge de l'orchidée",
+      "artistViewUrl": "https://books.apple.com/fr/artist/donato-carrisi/367527918?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/le-mensonge-de-lorchid%C3%A9e/id6810214361?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1f/c4/b8/1fc4b877-4b1d-783a-ccd6-b6ad53453293/9782702196601-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1f/c4/b8/1fc4b877-4b1d-783a-ccd6-b6ad53453293/9782702196601-001-x.jpeg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

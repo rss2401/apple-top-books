@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        200903821
+      ],
+      "formattedPrice": "£0.99",
+      "genres": [
+        "Biography",
+        "Books"
+      ],
+      "artistId": 200903821,
+      "artistName": "Richard E Grant",
+      "price": 0.99,
+      "genreIds": [
+        "9008",
+        "38"
+      ],
+      "releaseDate": "2022-09-29T07:00:00Z",
+      "trackId": 1616018058,
+      "trackName": "A Pocketful of Happiness",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>NOW STARRING IN BBC1'S CELEBRITY TRAITORS</b><br /><br /><b>'A gorgeously candid account of acting and show business. And an intimate and heartfelt story of love, loss and a life spent together. It is an honour to be invited in on these diaries. I cannot remember being so moved by a book' Dolly Alderton</b><br /><br /><b>'Fascinating, funny and heart wrenching' Dame Julie Walters</b><br /><br /><b>'An emotional rollercoaster - profoundly moving and wonderfully entertaining. A brilliant memoir about living, loving and losing' Bernardine Evaristo</b><br /><br /><b>‘One of the bravest, strongest, funniest memoirs I’ve ever read’ Bonnie Garmus, bestselling author of </b><i><b>Lessons in Chemistry</b></i><br /><br /><b>An intimate and uplifting memoir by Richard E. Grant.</b><br /><br />Born in Swaziland in 1957, Richard E. Grant moved to the UK to pursue his acting career, and has been a fixture on our screens since his breakout role in <i>Withnail and I </i>in 1987. When his beloved wife Joan died in 2021 after almost forty years together, she set him a challenge: to find a pocketful of happiness in every day.<br /><br />The result is this book.<br /><br />Set between the present day and flashbacks to delightfully indiscreet diary entries recalling landmarks from his remarkable life and glittering career, this is an immensely personal and profound memoir that celebrates and cherishes life’s unexpected joys.<br /><br /><b>Funny, moving and perceptive, </b><i><b>A Pocketful of Happiness </b></i><b>is an insight into the life of a much loved British actor.</b>",
+      "trackCensoredName": "A Pocketful of Happiness",
+      "artistViewUrl": "https://books.apple.com/gb/artist/richard-e-grant/200903821?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/a-pocketful-of-happiness/id1616018058?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/60/4b/af/604baf36-31d1-4c66-ded9-e86ddb998234/9781398519480.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/60/4b/af/604baf36-31d1-4c66-ded9-e86ddb998234/9781398519480.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 50,
+      "country": "GBR"
+    }
+  ]
+}

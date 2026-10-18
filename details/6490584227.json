@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1536432053
+      ],
+      "formattedPrice": "2,99 €",
+      "artistId": 1536432053,
+      "artistName": "Lynn Painter",
+      "genres": [
+        "Fiction pour jeunes adultes",
+        "Livres",
+        "Jeunes adultes"
+      ],
+      "price": 2.99,
+      "trackName": "Better than the movies",
+      "trackId": 6490584227,
+      "genreIds": [
+        "11177",
+        "38",
+        "11165"
+      ],
+      "releaseDate": "2024-04-24T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "« Parfois, on est tellement perdu dans nos propres illusions qu’on passe à côté de ce qui aurait pu vraiment arriver. »<br /><br />Liz Buxbaum est fan de comédies romantiques. Elle croit en l’Amour avec un grand A depuis toujours, et – elle en est sûre – le prince charmant est forcément là, quelque part, à l’attendre. Pourtant, à l’approche de la fin du lycée, ses espoirs de trouver le garçon idéal s’amenuisent.<br />Mais voilà que Michael Young, son amour d’enfance, revient s’installer dans le quartier après dix ans loin d’elle. À quelques semaines du bal de promo, ce ne peut être qu’un signe du destin !<br />Pour attirer l’attention de Michael et l’accompagner au bal, Liz est prête à tout ; même à former une alliance avec Wes Bennet, son détestable voisin et ennemi d’enfance…",
+      "trackCensoredName": "Better than the movies",
+      "artistViewUrl": "https://books.apple.com/fr/artist/lynn-painter/1536432053?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/better-than-the-movies/id6490584227?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9a/2e/6b/9a2e6b37-4f72-93b2-158d-4887cb1ef374/9782487412057-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9a/2e/6b/9a2e6b37-4f72-93b2-158d-4887cb1ef374/9782487412057-001-x.jpeg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 51,
+      "country": "FRA"
+    }
+  ]
+}

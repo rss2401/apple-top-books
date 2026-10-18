@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        358333580
+      ],
+      "artistId": 358333580,
+      "artistName": "Siddhartha Mukherjee",
+      "genres": [
+        "Life Sciences",
+        "Books",
+        "Science & Nature",
+        "Science History",
+        "Professional & Technical",
+        "Medical"
+      ],
+      "price": 2.99,
+      "releaseDate": "2022-10-25T07:00:00Z",
+      "genreIds": [
+        "10116",
+        "38",
+        "9019",
+        "10115",
+        "9029",
+        "10086"
+      ],
+      "trackId": 1609265177,
+      "trackName": "The Song of the Cell",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>Winner of the PROSE Award for Excellence in Biological and Life Sciences and the Chautauqua Prize!</b><br /><br /><b>Named a <i>New York Times </i>Notable Book and a Best Book of the Year by <i>The Economist</i>, <i>Oprah Daily, BookPage, Book Riot, </i>the New York Public Library, and more!</b><br /><br /><b>In <i>The Song of the Cell</i>, the extraordinary author of the Pulitzer Prize–winning <i>The Emperor of All Maladies</i> and the #1 <i>New York Times</i> bestseller <i>The Gene</i> traces the history of cell biology and its transformation of modern medicine in a book that “blends cutting-edge research, impeccable scholarship, intrepid reporting, and gorgeous prose into an encyclopedic study that reads like a literary page-turner” (<i>Oprah Daily</i>).</b><br /><br />Mukherjee begins this magnificent story in the late 1600s, when a distinguished English polymath, Robert Hooke, and an eccentric Dutch cloth-merchant, Antonie van Leeuwenhoek looked down their handmade microscopes. What they saw introduced a radical concept that swept through biology and medicine, touching virtually every aspect of the two sciences, and altering both forever. It was the fact that complex living organisms are assemblages of tiny, self-contained, self-regulating units. Our organs, our physiology, our selves—hearts, blood, brains—are built from these compartments. Hooke christened them “<i>cells.</i>”<br /><br />The discovery of cells—and the reframing of the human body as a cellular ecosystem—announced the birth of a new kind of medicine based on the therapeutic manipulations of cells. A hip fracture, a cardiac arrest, Alzheimer’s dementia, AIDS, pneumonia, lung cancer, kidney failure, arthritis, COVID pneumonia—all could be reconceived as the results of cells, or systems of cells, functioning abnormally. And all could be perceived as loci of cellular therapies.<br /><br />Filled with writing so vivid, lucid, and suspenseful that complex science becomes thrilling, <i>The Song of the Cell</i> tells the story of how scientists discovered cells, began to understand them, and are now using that knowledge to create new humans. Told in six parts, and laced with Mukherjee’s own experience as a researcher, a doctor, and a prolific reader, <i>The Song of the Cell</i> is both panoramic and intimate—a masterpiece on what it means to be human.<br /><br />“In an account both lyrical and capacious, Mukherjee takes us through an evolution of human understanding: from the seventeenth-century discovery that humans are made up of cells to our cutting-edge technologies for manipulating and deploying cells for therapeutic purposes” (<i>The New Yorker</i>).",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/5a/c5/9a/5ac59aeb-e8de-b521-551a-67232e25788a/9781982117375.jpg/100x100bb.jpg",
+      "trackCensoredName": "The Song of the Cell",
+      "artistViewUrl": "https://books.apple.com/us/artist/siddhartha-mukherjee/358333580?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-song-of-the-cell/id1609265177?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/5a/c5/9a/5ac59aeb-e8de-b521-551a-67232e25788a/9781982117375.jpg/60x60bb.jpg",
+      "formattedPrice": "$2.99",
+      "averageUserRating": 4.5,
+      "userRatingCount": 165,
+      "country": "USA"
+    }
+  ]
+}

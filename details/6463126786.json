@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "¥380",
+      "artistIds": [
+        1376443053
+      ],
+      "trackCensoredName": "ホタルの嫁入り(2)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%A9%98%E3%82%AA%E3%83%AC%E3%82%B3/1376443053?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%AE%E5%AB%81%E5%85%A5%E3%82%8A-2/id6463126786?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/04/f2/c6/04f2c603-817b-42e0-c6c5-d17eda5b4bdc/BT000136336800200201900203.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/04/f2/c6/04f2c603-817b-42e0-c6c5-d17eda5b4bdc/BT000136336800200201900203.jpg/100x100bb.jpg",
+      "artistId": 1376443053,
+      "artistName": "橘オレコ",
+      "genres": [
+        "女性",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "恋愛／ロマンス",
+        "ミステリー"
+      ],
+      "price": 380,
+      "releaseDate": "2023-09-12T07:00:00Z",
+      "trackId": 6463126786,
+      "trackName": "ホタルの嫁入り(2)",
+      "genreIds": [
+        "11340",
+        "38",
+        "9026",
+        "10016",
+        "50000084",
+        "50000081"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "愛が重い殺し屋×華族令嬢…距離が、近づく<br /><br />時は明治。余命わずかな令嬢・紗都子は、誘拐され“遊女島”に囚われる。<br />殺し屋・進平を味方につけるため、嘘の婚約をするも<br />進平から異常に愛され、さらに逃げられない状況に…<br /><br />遊女に扮して脱出する計画を立てる二人だが、<br />他の男が紗都子に触れるのを、進平は許せず!?<br />「紗都子を守るのは、俺だから」<br /><br />進平にほだされるほど、嘘の婚約に罪悪感が膨らむ紗都子。<br />そんな紗都子の様子に、進平が気付き――?<br /><br />交わらないはずの二人が、近づく。",
+      "averageUserRating": 4.5,
+      "userRatingCount": 87,
+      "country": "JPN"
+    }
+  ]
+}

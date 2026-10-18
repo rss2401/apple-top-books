@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "formattedPrice": "1,99 €",
@@ -34,6 +34,41 @@
       ],
       "averageUserRating": 4,
       "userRatingCount": 206
+    },
+    {
+      "trackCensoredName": "Dans la ligne de tir",
+      "artistViewUrl": "https://books.apple.com/fr/artist/pauline-libersart/674539869?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/dans-la-ligne-de-tir/id1439445109?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f3/3b/cd/f33bcdc2-f071-aa90-5e62-5cdc82b1a7c4/9782017070917-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f3/3b/cd/f33bcdc2-f071-aa90-5e62-5cdc82b1a7c4/9782017070917-001-x.jpeg/100x100bb.jpg",
+      "formattedPrice": "7,99 €",
+      "artistIds": [
+        674539869
+      ],
+      "price": 7.99,
+      "artistId": 674539869,
+      "artistName": "Pauline Libersart",
+      "releaseDate": "2018-11-09T08:00:00Z",
+      "genreIds": [
+        "9003",
+        "38",
+        "10057",
+        "10061"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Lucy vient d’atterrir en plein cauchemar. Ou plutôt, de s’y crasher. Son avion s’est écrasé en pleine jungle amazonienne, et ils ne sont qu’une poignée de survivants, terrifiés, fatigués, perdus au milieu de nulle part, dans un environnement hostile…<br />C’est alors que surgissent deux soldats intimidants et surentraînés, chargés de les ramener sains et saufs à la civilisation. Pour les sauver, ils sont prêts à tout. Et Lucy comprend que, si jamais elle s’en sort, sa vie ne sera plus jamais la même. Car dans cet enfer de verdure est née la plus intense des passions.",
+      "trackName": "Dans la ligne de tir",
+      "trackId": 1439445109,
+      "genres": [
+        "Romance",
+        "Livres",
+        "Romance contemporaine",
+        "Thriller romantique"
+      ],
+      "averageUserRating": 4,
+      "userRatingCount": 207,
+      "country": "FRA"
     }
   ]
 }

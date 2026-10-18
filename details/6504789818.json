@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "しゃこうっち。 1巻",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E7%94%B0%E5%B7%9D%E3%83%9F/905195615?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%81%97%E3%82%83%E3%81%93%E3%81%86%E3%81%A3%E3%81%A1-1%E5%B7%BB/id6504789818?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/57/e2/f4/57e2f405-caed-5806-81e3-bbfb6c87d21f/23013_127023151_001_001_artwork_20240703113558.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/57/e2/f4/57e2f405-caed-5806-81e3-bbfb6c87d21f/23013_127023151_001_001_artwork_20240703113558.jpg/100x100bb.jpg",
+      "artistIds": [
+        905195615
+      ],
+      "genres": [
+        "グラフィックノベル",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "ヒューマンドラマ"
+      ],
+      "genreIds": [
+        "10015",
+        "38",
+        "9026",
+        "10016",
+        "11052"
+      ],
+      "trackId": 6504789818,
+      "trackName": "しゃこうっち。 1巻",
+      "releaseDate": "2024-07-12T07:00:00Z",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "どうにか決まった転職先は、九州北部の田舎の小さな小さな「自動車学校」でした。 東京での仕事をクビになった坂越真直は、地元である大分県西部の玖瑠町へUターンすることに。 母と姉の圧を受けながら見つけた仕事は、地域に一ヵ所しかない、かつて自分も通った自動車教習所での一般職。 けれど、真直が通っていた当時、印象最悪だった指導員の和達とも再会してしまったうえ、一年以内に指導員の国家資格を取得しないと、またも無職に!? 軽い気持ちで決めた先で、自然と動物とクセ強な同僚たちに囲まれ揉まれ、新入社員・真直が目指す道は――。",
+      "formattedPrice": "無料",
+      "artistId": 905195615,
+      "artistName": "田川ミ",
+      "price": 0,
+      "country": "JPN"
+    }
+  ]
+}

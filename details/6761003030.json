@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1461447481
+      ],
+      "formattedPrice": "7,99 €",
+      "artistId": 1461447481,
+      "artistName": "Anna Triss",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance"
+      ],
+      "price": 7.99,
+      "trackName": "Hellstone Academy, Tome 2 : Our Dark Queen",
+      "trackId": 6761003030,
+      "genreIds": [
+        "10057",
+        "38",
+        "9003"
+      ],
+      "releaseDate": "2026-04-23T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Cassie Miller pensait pouvoir encaisser la cruelle vérité sur le meurtre de son jumeau. Mais ce qu’elle a découvert dépasse l’entendement et s’avère bien plus dévastateur que prévu. Tapis dans l’ombre, ses ennemis planifient sa perte&#xa0; : brisée et consciente qu’un seul faux pas pourrait lui coûter la vie, Cassie vacille.<br />&#xa0; <br />Cependant, à Hellstone Academy, la faiblesse n’est pas une option&#xa0; : c’est une condamnation. Et Cassie dispose non pas d’un mais de trois atouts pour ne pas fléchir. Arès, Hadès et Hermès s’imposent comme ses ténébreux protecteurs dans un monde régi par la loi du plus fort. Entre eux quatre, la passion est aussi brûlante que la guerre qui gronde et leur soutien, une force inestimable. Ils élimineront quiconque tentera de les séparer.<br />&#xa0; <br />Cassie s’efforce d’avancer comme une reine en devenir chez les Bloody Shadows. Elle est déterminée à obtenir de véritables réponses, mais aussi prête à tout pour prouver qu’elle mérite son statut de future héritière des Hydres… aux côtés de ses trois princes sanguinaires.<br />&#xa0; <br />Bienvenue à Hellstone Academy. Ici, la loi du plus fort n’est pas une devise. C’est une sentence.&#xa0;",
+      "trackCensoredName": "Hellstone Academy, Tome 2 : Our Dark Queen",
+      "artistViewUrl": "https://books.apple.com/fr/artist/anna-triss/1461447481?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/hellstone-academy-tome-2-our-dark-queen/id6761003030?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/11/2c/f9/112cf9f5-6a08-707d-2a1a-4976c1ff343c/9782017330301-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/11/2c/f9/112cf9f5-6a08-707d-2a1a-4976c1ff343c/9782017330301-001-x.jpeg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 48,
+      "country": "FRA"
+    }
+  ]
+}

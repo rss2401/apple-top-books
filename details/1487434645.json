@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/gb/artist/barbara-trapido/287516701?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6f/ef/fc/6feffc42-6d97-9673-13a7-f21489f9bdc9/1030051849.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6f/ef/fc/6feffc42-6d97-9673-13a7-f21489f9bdc9/1030051849.jpg/100x100bb.jpg",
+      "artistIds": [
+        287516701
+      ],
+      "trackCensoredName": "Brother of the More Famous Jack",
+      "formattedPrice": "£7.99",
+      "trackViewUrl": "https://books.apple.com/gb/book/brother-of-the-more-famous-jack/id1487434645?uo=4",
+      "artistId": 287516701,
+      "artistName": "Barbara Trapido",
+      "price": 7.99,
+      "genreIds": [
+        "10049",
+        "38",
+        "9031",
+        "11050"
+      ],
+      "releaseDate": "2011-12-01T08:00:00Z",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "A JOYFUL 40TH ANNIVERSARY EDITION OF A COMING-OF-AGE CLASSIC<br/>\n________________________<br/>\n<br/>\n&#39;There are few modern tales of first love and its disillusions that are as thoroughly realised, as brilliantly lewd, and as hilariously satisfying to men and women of all ages as this one&#39; - Rachel Cusk<br/>\n<br/>\nEighteen-year-old Katherine - bright, stylish, frustratedly suburban - doesn&#39;t know how her life will change when the brilliant Jacob Goldman first offers her a place at university. When she enters the Goldmans&#39; rambling bohemian home, presided over by the beatific matriarch Jane, she realises that Jacob and his family are everything she has been waiting for.<br/>\n<br/>\nBut when a romantic entanglement ends in tears, Katherine is forced into exile from the family she loves most. And her journey back into the fold, after more than a decade away, will yield all kinds of delightful surprises...<br/>\n________________________<br/>\n<br/>\n&#39;The perfect book&#39; - Meg Mason<br/>\n&#39;The best possible company in this difficult world&#39; - Ann Patchett<br/>\n&#39;A daisy bomb of joy&#39; - Maria Semple<br/>\n&#39;Funny, charming, teeming with life, and real&#39; - Nick Hornby<br/>\n&#39;I adored it … Redolent of classics like The Constant Nymph with both its true voice and wonderfully sage and sanguine heroine&#39; - Sophie Dahl<br/>\n&#39;One of those books that when people have read it, they just push it into your hands silently: &#34;You have to read this book, you will love this book.&#34; There&#39;s no other book I love more&#39; - Caroline O&#39;Donoghue, Sentimental Garbage<br/>\n&#39;Reading it again is as comforting as eating toast and Marmite between clean, fresh sheets&#39; - Rachel Cooke, Sunday Times<br/>\n&#39;Think Brideshead Revisited set in the 1970s, only sexier and much funnier. It kills me that I didn&#39;t read it at university, when I really needed it&#39; - Meg Rosoff, New Statesman",
+      "trackName": "Brother of the More Famous Jack",
+      "trackId": 1487434645,
+      "genres": [
+        "Literary Fiction",
+        "Books",
+        "Fiction & Literature",
+        "Family Fiction & Literature"
+      ],
+      "averageUserRating": 4,
+      "userRatingCount": 8,
+      "country": "GBR"
+    }
+  ]
+}

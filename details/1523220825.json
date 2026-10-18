@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        299126753
+      ],
+      "artistId": 299126753,
+      "artistName": "Mary Lawson",
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Literary Fiction"
+      ],
+      "price": 1.99,
+      "releaseDate": "2021-02-16T08:00:00Z",
+      "genreIds": [
+        "9031",
+        "38",
+        "10049"
+      ],
+      "trackId": 1523220825,
+      "trackName": "A Town Called Solace",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>NATIONAL BESTSELLER • LONGLISTED FOR THE 2021 BOOKER PRIZE • NAMED A BEST BOOK OF THE YEAR BY THE <i>GLOBE AND MAIL, </i>CBC AND THE <i>DAILY TELEGRAPH&#xa0;• New York Times</i> bestselling author Mary Lawson, acclaimed for digging into the \"wilderness of the human heart,\" is back after almost a decade with a fresh and timely novel that is different in subject but just as emotional and atmospheric as her beloved earlier work.</b><br /><br /><i>A Town Called Solace</i>, the brilliant and emotionally radiant new novel from Mary Lawson, her first in nearly a decade, opens on a family in crisis. Sixteen-year-old Rose is missing. Angry and rebellious, she had a row with her mother, stormed out of the house and simply disappeared. Left behind is seven-year-old Clara, Rose’s adoring little sister. Isolated by her parents’ efforts to protect her from the truth, Clara is bewildered and distraught. Her sole comfort is Moses, the cat next door, whom she is looking after for his elderly owner, Mrs. Orchard, who went into hospital weeks ago and has still not returned.<br /><br />Enter Liam Kane, mid-thirties, newly divorced, newly unemployed, newly arrived in this small northern town, who moves into Mrs. Orchard’s house—where, in Clara’s view, he emphatically does not belong. Within a matter of hours he receives a visit from the police. It seems he is suspected of a crime.<br /><br />At the end of her life, Elizabeth Orchard is also thinking about a crime, one committed thirty years previously that had tragic consequences for two families, and in particular for one small child. She desperately wants to make amends before she dies.<br /><br />Told through three distinct, compelling points of view, the novel cuts back and forth among these unforgettable characters to uncover the layers of grief, remorse, and love that connect them. <i>A Town Called Solace</i> is a masterful, suspenseful, darkly funny and deeply humane novel by one of our great storytellers.",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/9e/eb/51/9eeb5181-b683-8ca2-f164-f05763892658/9780735281288.d.jpg/100x100bb.jpg",
+      "trackCensoredName": "A Town Called Solace",
+      "artistViewUrl": "https://books.apple.com/us/artist/mary-lawson/299126753?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/a-town-called-solace/id1523220825?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/9e/eb/51/9eeb5181-b683-8ca2-f164-f05763892658/9780735281288.d.jpg/60x60bb.jpg",
+      "formattedPrice": "$1.99",
+      "averageUserRating": 4.5,
+      "userRatingCount": 125,
+      "country": "USA"
+    }
+  ]
+}

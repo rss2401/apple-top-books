@@ -1,0 +1,47 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1069247933,
+        1209298865
+      ],
+      "formattedPrice": "¥710",
+      "artistId": 1069247933,
+      "artistName": "蝉川夏哉 & 碓井ツカサ",
+      "genres": [
+        "ファンタジー",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "異世界",
+        "ヒューマンドラマ",
+        "青年"
+      ],
+      "price": 710,
+      "trackId": 6819294229,
+      "trackName": "異世界居酒屋「げん」 15巻",
+      "releaseDate": "2026-08-05T07:00:00Z",
+      "genreIds": [
+        "50000074",
+        "38",
+        "9026",
+        "10016",
+        "11345",
+        "11052",
+        "11338"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "累計860万部(電子版含む)突破の大人気シリーズ『異世界居酒屋「のぶ」』公式スピンアウト!王都・パリシィアに、また夏がやってきました。夏バテした貴族も学生も、失った食欲を取り戻すために「げん」に大集合!冷や汁やトムヤムムーなど、暑さを吹き飛ばす美味しい料理たちが数々登場します。一方、隣国・連合王国に向かった奈々海は、「のぶ」に登場するあの人物との衝撃の出会いが……!?巻末には蝉川夏哉氏による書き下ろし短編も特別収録!",
+      "trackCensoredName": "異世界居酒屋「げん」 15巻",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E8%9D%89%E5%B7%9D%E5%A4%8F%E5%93%89-%E7%A2%93%E4%BA%95%E3%83%84%E3%82%AB%E3%82%B5/1069247933?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E7%95%B0%E4%B8%96%E7%95%8C%E5%B1%85%E9%85%92%E5%B1%8B-%E3%81%92%E3%82%93-15%E5%B7%BB/id6819294229?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/90/12/76/90127628-a6b2-d5ba-ec7d-3e43652ae560/BT000074870501501501900209.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/90/12/76/90127628-a6b2-d5ba-ec7d-3e43652ae560/BT000074870501501501900209.jpg/100x100bb.jpg",
+      "averageUserRating": 4,
+      "userRatingCount": 5,
+      "country": "JPN"
+    }
+  ]
+}

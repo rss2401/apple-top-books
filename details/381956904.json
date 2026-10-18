@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        2035433
+      ],
+      "artistId": 2035433,
+      "artistName": "Stephen E. Ambrose",
+      "genres": [
+        "History",
+        "Books",
+        "U.S. History",
+        "Military History"
+      ],
+      "price": 2.99,
+      "releaseDate": "1999-07-15T07:00:00Z",
+      "genreIds": [
+        "9015",
+        "38",
+        "10079",
+        "10078"
+      ],
+      "trackId": 381956904,
+      "trackName": "The Victors",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>From America’s preeminent military historian and bestselling author of <i>Band of Brothers</i>, Stephen E. Ambrose, comes the definitive telling of the average Americans who fought in the eleven month campaign, beginning with D-Day, that ultimately liberated Western Europe and ended the Nazi regime.</b><br /><br />In <i>The Victors</i>, acclaimed historian Stephen E. Ambrose delivers a sweeping account of the final year of World War II in Europe, drawing from his landmark works <i>D-Day</i>, <i>Citizen Soldiers</i>, <i>Pegasus Bridge</i>, <i>Band of Brothers</i>, and <i>Eisenhower</i>. Combining strategic insight with vivid eyewitness testimony, Ambrose chronicles the Allied campaign from the beaches of Normandy to the collapse of Nazi Germany.<br /><br />The stories within this volume encompass the war’s defining battles and daring operations: British airborne troops seizing Pegasus Bridge in the opening engagement of D-Day, American paratroopers fighting from Utah Beach through the Battle of the Bulge, and Allied forces advancing toward Hitler’s Eagle’s Nest. Ambrose also illuminates the momentous decisions made by Eisenhower, Bradley, Patton, and other commanders as they directed the invasion and the bloody drive across Europe.<br /><br />Yet the heart of <i>The Victors</i> belongs to the ranks, the ordinary boys and men, who endured the terror, exhilaration, hunger, cold, and filth of combat. Drawing on thousands of interviews and oral histories, Ambrose captures the intimate world of the individual rifleman alongside the vast scale of the European theater, revealing how civilians were transformed into a formidable fighting force.<br /><br />Comprehensive and deeply human, <i>The Victors</i> is both a history of Allied triumph and a tribute to the men who made it possible. Through their courage, sacrifice, and perseverance, Ambrose re-creates the extraordinary campaign that liberated Western Europe and brought the Nazi regime to an end.",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/a4/1c/21/a41c2181-ecd1-a763-77a0-d5702f4bd3f5/9780684864549.jpg/100x100bb.jpg",
+      "trackCensoredName": "The Victors",
+      "artistViewUrl": "https://books.apple.com/us/artist/stephen-e-ambrose/2035433?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-victors/id381956904?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/a4/1c/21/a41c2181-ecd1-a763-77a0-d5702f4bd3f5/9780684864549.jpg/60x60bb.jpg",
+      "formattedPrice": "$2.99",
+      "averageUserRating": 4,
+      "userRatingCount": 65,
+      "country": "USA"
+    }
+  ]
+}

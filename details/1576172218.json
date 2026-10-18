@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Insomnia",
+      "artistViewUrl": "https://books.apple.com/us/artist/sarah-pinborough/375165294?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/insomnia/id1576172218?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/6b/69/50/6b695080-bfeb-ae7d-13d5-f42e3ced2652/9780062856876.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/6b/69/50/6b695080-bfeb-ae7d-13d5-f42e3ced2652/9780062856876.jpg/100x100bb.jpg",
+      "artistIds": [
+        375165294
+      ],
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books",
+        "Fiction & Literature",
+        "Historical Mysteries",
+        "Literary Fiction"
+      ],
+      "price": 2.99,
+      "releaseDate": "2022-04-12T07:00:00Z",
+      "genreIds": [
+        "9032",
+        "38",
+        "9031",
+        "10051",
+        "10049"
+      ],
+      "trackId": 1576172218,
+      "trackName": "Insomnia",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "Named One of the Best Thrillers by the Washington Post<br /><br />\"Possibly my favorite of Pinborough’s yet, and that’s saying something. It’s an absolute rollercoaster of a ride: twist upon twist, expertly handled. I actually gasped out loud several times. So atmospheric and sexy… A triumph!\" —&#xa0;Lucy Foley,&#xa0;New York Times&#xa0;bestselling author,&#xa0;on&#xa0;Dead to Her<br /><br />In this mind-bending domestic thriller from the bestselling author of&#xa0;Behind Her Eyes, Emma Averell worries that her sudden insomnia is a sign that she’s slowly going insane—like the mother she’s worked so hard to leave in her past, soon to be a series on Paramount+<br /><br />In the dead of night, madness lies...<br /><br />Emma Averell loves her life—her high-powered legal career, her two beautiful children, and her wonderful stay-at-home husband—but it wasn’t always so perfect. When she was just five years old, Emma and her older sister went into foster care because of a deeply disturbing incident with their mother. Her sister can remember a time when their mother was loving and \"normal,\" but Emma can only remember her as one thing—a monster. <br /><br />And that monster emerged right around their mother’s fortieth birthday, the same milestone Emma is approaching now.<br /><br />Emma desperately wants to keep her childhood trauma in the past, but as she stops being able to sleep, she also can’t stop thinking about what happened all those years ago. Is the madness in her blood? Could she end up hurting her family in her foggy, half-awake state, just like her mother? This question of generational trauma haunts her every waking moment. Or is there another explanation for the strange things that keep happening around her? As an increasingly unreliable narrator of her own life, Emma must unravel the dark strands of her past to protect the people she loves… or risk losing it all, including her sanity.<br /><br />Unsettling and utterly addicting, Insomnia is a heart-pounding page-turner of a thriller that will have you up all night.",
+      "formattedPrice": "$2.99",
+      "artistId": 375165294,
+      "artistName": "Sarah Pinborough",
+      "averageUserRating": 4,
+      "userRatingCount": 201,
+      "country": "USA"
+    }
+  ]
+}

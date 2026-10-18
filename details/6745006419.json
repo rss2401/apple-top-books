@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1538750322
+      ],
+      "artistId": 1538750322,
+      "artistName": "Alex James Eccleston",
+      "genres": [
+        "New Adult Romance",
+        "Books",
+        "Romance",
+        "Romantic Comedies",
+        "Contemporary Romance"
+      ],
+      "price": 0,
+      "trackId": 6745006419,
+      "trackName": "After All These Years",
+      "genreIds": [
+        "11040",
+        "38",
+        "9003",
+        "11042",
+        "10057"
+      ],
+      "releaseDate": "2025-04-24T07:00:00Z",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<i><b>A totally addictive, will-they-won't-they YA romance that's perfect for cosy evenings and hopeless romantics.</b></i><br /><br /><b>Soulmates… are they always destined to be together?</b><br /><br />Aaron and Kayla have been inseparable since they were kids.<br /><br />For Aaron, Kayla has been his world—and the love of his life—since he was eight years old. His soulmate.<br /><br />For Kayla, it's complicated. She adores Aaron, but juggling high school drama, her social life, and a boyfriend like Brett Thompson—the most popular guy in Springtane—doesn't leave much room for her nerdy best friend.<br /><br />Despite the distance that popularity, parties, and peer pressure create, Aaron remains Kayla's rock, the one person she can always count on. But when college comes knocking, everything changes. With Aaron heading to Houston and Kayla staying in California, the miles between them feel impossible to bridge.<br /><br />Will Aaron and Kayla's bond survive the growing distance between them? Or will life's twists and turns pull these soulmates apart for good?",
+      "formattedPrice": "Free",
+      "trackCensoredName": "After All These Years",
+      "artistViewUrl": "https://books.apple.com/gb/artist/alex-james-eccleston/1538750322?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/after-all-these-years/id6745006419?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/4d/a4/a4/4da4a470-530d-adfd-fffd-3ad8f58366f1/0002852723.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/4d/a4/a4/4da4a470-530d-adfd-fffd-3ad8f58366f1/0002852723.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 6,
+      "country": "GBR"
+    }
+  ]
+}

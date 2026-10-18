@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1376443053
+      ],
+      "formattedPrice": "¥380",
+      "artistId": 1376443053,
+      "artistName": "橘オレコ",
+      "genres": [
+        "女性",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "ミステリー",
+        "恋愛／ロマンス"
+      ],
+      "price": 380,
+      "trackId": 6590618105,
+      "trackName": "ホタルの嫁入り(5)",
+      "releaseDate": "2024-08-19T07:00:00Z",
+      "genreIds": [
+        "11340",
+        "38",
+        "9026",
+        "10016",
+        "50000081",
+        "50000084"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "200万部突破!令嬢と殺し屋、恋が始まる<br /><br />島を裏から支配する遊女・朝霧に命じられ、紗都子と進平は町へ使いに出る。<br />二人きりで過ごし、進平のことをより知って、紗都子の胸中に特別な想いが芽生え…<br />「あなたのことを、もっと知りたい――」<br /><br />そんな紗都子の変化に気付いた康太郎は、従者として、そして一人の男として、進平と紗都子を引き離そうと、強引に…!?<br /><br />それぞれの想いが激変し、物語が激進する――!",
+      "trackCensoredName": "ホタルの嫁入り(5)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%A9%98%E3%82%AA%E3%83%AC%E3%82%B3/1376443053?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%AE%E5%AB%81%E5%85%A5%E3%82%8A-5/id6590618105?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/9d/2c/77/9d2c776e-0b3e-6da8-664b-73bbbf3027a6/BT000136336800500501900203.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/9d/2c/77/9d2c776e-0b3e-6da8-664b-73bbbf3027a6/BT000136336800500501900203.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 43,
+      "country": "JPN"
+    }
+  ]
+}

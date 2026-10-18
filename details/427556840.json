@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Garner Files",
+      "artistViewUrl": "https://books.apple.com/us/artist/james-garner/27650011?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-garner-files/id427556840?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/42/4b/9c/424b9c70-41bf-2873-e834-15c57ca9d86f/9781451642629.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/42/4b/9c/424b9c70-41bf-2873-e834-15c57ca9d86f/9781451642629.jpg/100x100bb.jpg",
+      "artistIds": [
+        27650011
+      ],
+      "genres": [
+        "Biographies & Memoirs",
+        "Books"
+      ],
+      "price": 1.99,
+      "releaseDate": "2011-11-01T07:00:00Z",
+      "genreIds": [
+        "9008",
+        "38"
+      ],
+      "trackId": 427556840,
+      "trackName": "The Garner Files",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>Told in the charming and self-deprecating style that has made him one of America’s most beloved celebrities—the real story behind Hollywood legend James Garner, from his Depression-era childhood to his colorful career.</b><br /><br />His incredible story, in his own words.<br /><br /> One of Hollywood’s all-time great leading men, James Garner enjoyed a remarkable career spanning six decades, and whether you know him as Bret Maverick or Jim Rockford, his appeal bridges generations. Few know the real story, now told in this intimate memoir of growing up in Depression-era Oklahoma and triumphing in Hollywood.<br /><br /> After physical abuse at the hands of his stepmother, Garner left home at fourteen. He was Oklahoma’s first draftee of the Korean War, receiving two Purple Hearts for combat wounds. Back in Los Angeles in need of a job, Garner reluctantly tried acting and was surprised to find his career taking off. Working with such luminaries as Julie Andrews, Marlon Brando, Steve McQueen, and Clint Eastwood, he became a star in his own right. He threw himself into his work, and despite stage fright and bouts of depression, constant physical pain and epic battles with the Hollywood establishment, he became the acting equivalent of a national monument.<br /><br /> Written with Jon Winokur, <i>The Garner Files </i>is a wry, engaging self-portrait chronicling the vagaries of a screen career along with the cast of personal and professional characters that helped shape a great American life.",
+      "formattedPrice": "$1.99",
+      "artistId": 27650011,
+      "artistName": "James Garner",
+      "averageUserRating": 4,
+      "userRatingCount": 225,
+      "country": "USA"
+    }
+  ]
+}

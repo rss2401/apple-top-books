@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "trackCensoredName": "Redline",
@@ -34,6 +34,41 @@
       "artistName": "Apolline Vercel",
       "averageUserRating": 4,
       "userRatingCount": 41
+    },
+    {
+      "artistIds": [
+        1863063952
+      ],
+      "artistId": 1863063952,
+      "artistName": "Apolline Vercel",
+      "genres": [
+        "Romance",
+        "Livres",
+        "Romance contemporaine",
+        "Thriller romantique"
+      ],
+      "price": 8.99,
+      "genreIds": [
+        "9003",
+        "38",
+        "10057",
+        "10061"
+      ],
+      "releaseDate": "2026-04-15T07:00:00Z",
+      "trackId": 6762311294,
+      "trackName": "Redline",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "À Las Vegas, Alyssia Scott s'accorde une nuit avec Travis Townsend, pilote de Formule 1 aussi séduisant que sûr de lui. Une parenthèse sans promesse. Du moins, c'est ce qu'elle croit… jusqu'à ce qu'elle découvre qu'elle attend son enfant.<br /><br />Travis n'a qu'un objectif : devenir champion du monde. Mais lorsqu'Alyssia revient dans sa vie, il refuse de rester à l'écart. Cette fois, il veut être présent. Pour le bébé. Et pour elle.<br /><br />Alyssia a pourtant appris trop tôt ce que la vitesse peut coûter. Depuis la mort de ses parents, elle cherche la sécurité, loin des risques et des passions qui emportent tout. Comment faire confiance à un homme dont le métier consiste à repousser les limites ?<br /><br />Entre les circuits et Monaco, leur attirance se transforme en sentiments qu'ils n'avaient pas prévus. Mais tandis que Travis se rapproche de son rêve, des menaces viennent mettre en péril sa carrière et l'avenir qu'ils commencent à imaginer ensemble.<br /><br />Pour la première fois, gagner ne suffira pas.<br /><br />Une romance sportive intense, entre grossesse imprévue, désir et suspense, dans les coulisses de la Formule 1.<br /><br /><i>Ce roman est une romance contemporaine destinée à un <b>public adulte (18+)</b>. Il contient des scènes de sexe explicites, un langage cru et aborde des thèmes sensibles tels que le deuil, la perte de parents, une grossesse à risque (complications médicales) ainsi que des scènes de suspense incluant violence et agressions. La possessivité du héros est un trait central de l'intrigue (mâle alpha).</i>",
+      "formattedPrice": "8,99 €",
+      "trackCensoredName": "Redline",
+      "artistViewUrl": "https://books.apple.com/fr/artist/apolline-vercel/1863063952?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/redline/id6762311294?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/34/43/a9/3443a90a-da6a-b2c7-df04-8bcc0bb9bc63/0004216484.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/34/43/a9/3443a90a-da6a-b2c7-df04-8bcc0bb9bc63/0004216484.jpg/100x100bb.jpg",
+      "averageUserRating": 4,
+      "userRatingCount": 46,
+      "country": "FRA"
     }
   ]
 }

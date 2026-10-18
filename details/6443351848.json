@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "trackId": 6443351848,
+      "trackName": "In Their Hands",
+      "artistIds": [
+        821855137
+      ],
+      "artistId": 821855137,
+      "artistName": "Julia Sykes",
+      "genres": [
+        "Romantic Suspense",
+        "Books",
+        "Romance"
+      ],
+      "price": 0,
+      "releaseDate": "2022-10-25T07:00:00Z",
+      "genreIds": [
+        "10061",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>I'm a pawn in a brewing mafia war, a captive bride in a power play between two cold-hearted monsters.</b><br /><br />\r\n\r\nMy father sold me to the devil: an arranged marriage with Dante Torrio, sadistic capo and would-be Boss.<br /><br />\r\n\r\nBut before their bargain is complete, I'm stolen away by Luca Vitale, heir to the Vitale crime family.<br /><br />\r\n\r\nI hate Luca for forcing me into marriage, but he'll do anything to mold me into his obedient wife.<br /><br />\r\n\r\nThe longer I remain trapped with him, the more I come to crave the dark pleasure my unyielding husband offers me.<br /><br />\r\n\r\nHe is fiercely possessive and jealously guards me.<br /><br />\r\n\r\nHe protects me from his enemies, especially Dante, who is determined to steal me back.<br /><br />\r\n\r\nWhich fate would be worse? To belong to the ruthless mafia prince or to the devil himself?",
+      "trackCensoredName": "In Their Hands",
+      "artistViewUrl": "https://books.apple.com/gb/artist/julia-sykes/821855137?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/in-their-hands/id6443351848?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/73/84/5c/73845c77-04e8-5f0d-09d2-a00270b79911/5c00db3a-4062-424f-af50-01b421407251_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/73/84/5c/73845c77-04e8-5f0d-09d2-a00270b79911/5c00db3a-4062-424f-af50-01b421407251_cover_image.jpg/100x100bb.jpg",
+      "averageUserRating": 3.5,
+      "userRatingCount": 24,
+      "country": "GBR"
+    }
+  ]
+}

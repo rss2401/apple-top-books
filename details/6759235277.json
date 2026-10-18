@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1376443053
+      ],
+      "trackCensoredName": "ホタルの嫁入り(11)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%A9%98%E3%82%AA%E3%83%AC%E3%82%B3/1376443053?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%AE%E5%AB%81%E5%85%A5%E3%82%8A-11/id6759235277?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/71/34/d8/7134d853-74d5-ca74-2ab2-66190e4af805/BT000136336801101101900203.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/71/34/d8/7134d853-74d5-ca74-2ab2-66190e4af805/BT000136336801101101900203.jpg/100x100bb.jpg",
+      "artistId": 1376443053,
+      "artistName": "橘オレコ",
+      "price": 760,
+      "trackId": 6759235277,
+      "trackName": "ホタルの嫁入り(11)",
+      "releaseDate": "2026-02-19T08:00:00Z",
+      "genreIds": [
+        "50000084",
+        "38",
+        "9026",
+        "10016",
+        "50000081",
+        "11340"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "2026年10月TVアニメ化決定!!<br /><br />「邪魔者が一人もいない世界で幸せになろう」<br />奥村家の地下牢に閉じ込められた進平は、<br />強烈な嫉妬に呑まれながらも<br />今まで感じたことのない自らの心の闇と対峙していた。<br /><br />一方、紗都子の意志とは裏腹に<br />光春との縁談は粛々と進んでいってしまう。<br />そして迎える、結婚式当日――<br />祝福の光が満ちる時、進平の歪んだ愛が解き放たれる。",
+      "formattedPrice": "¥760",
+      "genres": [
+        "恋愛／ロマンス",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "ミステリー",
+        "女性"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 19,
+      "country": "JPN"
+    }
+  ]
+}

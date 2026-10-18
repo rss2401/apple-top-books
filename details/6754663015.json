@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/gb/artist/mark-ezra/479535561?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e6/2a/d3/e62ad3f4-c786-9faa-27c1-f16f6b0ba26b/1060500228.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e6/2a/d3/e62ad3f4-c786-9faa-27c1-f16f6b0ba26b/1060500228.jpg/100x100bb.jpg",
+      "artistIds": [
+        479535561
+      ],
+      "trackCensoredName": "A Nest of Wasps",
+      "formattedPrice": "£0.99",
+      "trackViewUrl": "https://books.apple.com/gb/book/a-nest-of-wasps/id6754663015?uo=4",
+      "artistId": 479535561,
+      "artistName": "Mark Ezra",
+      "price": 0.99,
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "releaseDate": "2026-07-30T07:00:00Z",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "Former spy Felicity Jardine is caught up in the long tentacles of an operation at the British Embassy Athens from the 1980s, in this gripping new spy thriller by the author of the CWA Steel Dagger shortlisted A Sting in her Tale.<br /><br />After a month of various people clearing up various messes, Felicity Jardine is finally cleared to go back to her little village cottage. But when a celebratory cream tea with her new and well-connected friend Percy is interrupted by a sniper's bullet, she's off again, to a safe house in Notting Hill. There her only contact is her former colleague Matthew, still with MI6, who offers her a bit of investigation she can do online to pass the time. But Felicity is not one to work from home when she can be out and getting stuck in, especially when someone on the inside seems to be betraying her...",
+      "trackName": "A Nest of Wasps",
+      "trackId": 6754663015,
+      "genres": [
+        "Crime & Thrillers",
+        "Books"
+      ],
+      "country": "GBR"
+    }
+  ]
+}

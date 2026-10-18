@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/gb/artist/stephanie-harte/1474103858?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/cd/cf/af/cdcfaf0b-b210-cb04-cca3-a36cb29a3861/9781805577539.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/cd/cf/af/cdcfaf0b-b210-cb04-cca3-a36cb29a3861/9781805577539.jpg/100x100bb.jpg",
+      "artistIds": [
+        1474103858
+      ],
+      "trackCensoredName": "Dublin Rebel",
+      "formattedPrice": "£2.99",
+      "trackViewUrl": "https://books.apple.com/gb/book/dublin-rebel/id6758851468?uo=4",
+      "artistId": 1474103858,
+      "artistName": "Stephanie Harte",
+      "price": 2.99,
+      "genreIds": [
+        "9032",
+        "38",
+        "9031",
+        "11050"
+      ],
+      "releaseDate": "2026-10-18T07:00:00Z",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "The BRAND-NEW penultimate instalment in Stephanie Harte's gripping, gritty gangland series, perfect for fans of Mobland, House of Guinness and Peaky Blinders, from the bestselling author of Double Trouble.<br /><br />The O'Connors and the Kelly’s have an old score to settle<br /><br />London, 1985<br /><br />Orla O’Connor has spent her entire life trying to escape the weight of her family name. Raised on one brutal rule — blood comes first — she knows the O’Connors never forget betrayal, and they never forgive it. Grudges are inherited like family heirlooms, passed down through generations soaked in violence and revenge.<br /><br />When a long-buried feud between the O’Connors and the Kellys erupts once again, Orla finds herself trapped between loyalty to her family and a dangerous love that could destroy everything. Shay Quigley has already pulled her into a world of secrets, bloodshed, and impossible choices, where trust is fragile and feelings are deadlier than enemies.<br /><br />As tensions rise and war looms closer, Orla must choose between the life expected of her and the future she desperately wants. But with a baby depending on her, every decision carries devastating consequences — because in her world, loyalty can be the most lethal weapon of all.<br /><br />Praise for Stephanie Harte:<br /><br />'Stephanie Harte at her best. A must read for all fans of gangland crime.' Bestselling author Kerry Kaya.<br /><br />'This book was so gripping and intense I read it in a day!' 5 star reader review<br /><br />'That was brilliant from start to finish. What a wicked ending.' 5 star reader review<br /><br />'This book delivers everything you could want from a crime family, The story is very gritty.' 5 star reader review<br /><br />'Great from the first page to the last. It will grip you and you will forget to breathe as it takes hold of you.' 5 star reader review",
+      "trackName": "Dublin Rebel",
+      "trackId": 6758851468,
+      "genres": [
+        "Crime & Thrillers",
+        "Books",
+        "Fiction & Literature",
+        "Family Fiction & Literature"
+      ],
+      "country": "GBR"
+    }
+  ]
+}

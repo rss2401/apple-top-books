@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Lowcountry Getaway",
+      "artistViewUrl": "https://books.apple.com/us/artist/susan-m-boyer/563039639?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/lowcountry-getaway/id6444013680?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/82/07/9b/82079b56-5e65-2ba6-a50f-c7b19732763e/LowcountryGetaway_eBook_NEW.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/82/07/9b/82079b56-5e65-2ba6-a50f-c7b19732763e/LowcountryGetaway_eBook_NEW.jpg/100x100bb.jpg",
+      "artistIds": [
+        563039639
+      ],
+      "genres": [
+        "Women Sleuths",
+        "Books",
+        "Mysteries & Thrillers",
+        "Cozy Mysteries",
+        "Fiction & Literature"
+      ],
+      "price": 0.99,
+      "releaseDate": "2022-12-13T08:00:00Z",
+      "genreIds": [
+        "10055",
+        "38",
+        "9032",
+        "11259",
+        "9031"
+      ],
+      "trackId": 6444013680,
+      "trackName": "Lowcountry Getaway",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b><i>Christmas in the Islands…</i></b>Nate Andrews whisked the entire Talbot clan off for a holiday adventure in the U.S. Virgin Islands. As they relax on the beach of sunny St. John, Liz Talbot grapples with the secret her husband has kept since the day she met him—he’s a very wealthy man. Will all that money change everything?<br />\nMeanwhile, the wild donkeys on the island follow Daddy around like he’s their leader, and Mamma has made new friends. Beverly Baker and Frankie Summey are conducting a do-it-yourself investigation. They’re hot on the trail of Beverly’s husband, Melvin, and his mistress, the tantrum yoga instructor. When Mamma is caught masterminding an undercover operation, naturally, Liz and Nate step in.<br />\nAs the family gathers around the Christmas tree, Beverly and Frankie stumble into the crosshairs of a dangerous criminal organization. Liz and Nate scramble to find a killer before three sweet Southern belles wind up in a tropical prison.",
+      "formattedPrice": "$0.99",
+      "artistId": 563039639,
+      "artistName": "Susan M. Boyer",
+      "averageUserRating": 4.5,
+      "userRatingCount": 102,
+      "country": "USA"
+    }
+  ]
+}

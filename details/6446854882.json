@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Storm We Made",
+      "artistViewUrl": "https://books.apple.com/us/artist/vanessa-chan/971258301?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-storm-we-made/id6446854882?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/98/52/58/9852589a-591d-8bba-297a-5c377677781b/9781668015162.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/98/52/58/9852589a-591d-8bba-297a-5c377677781b/9781668015162.jpg/100x100bb.jpg",
+      "artistIds": [
+        971258301
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Books",
+        "Fiction & Literature",
+        "Literary Fiction"
+      ],
+      "price": 1.99,
+      "releaseDate": "2024-01-02T08:00:00Z",
+      "genreIds": [
+        "10047",
+        "38",
+        "9031",
+        "10049"
+      ],
+      "trackId": 6446854882,
+      "trackName": "The Storm We Made",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b><b>NATIONAL BESTSELLER * A <i>GOOD MORNING AMERICA</i> BOOK CLUB PICK * LONGLISTED FOR THE CENTER FOR FICTION FIRST NOVEL PRIZE</b><br /><br /><b>Set in World War II Malaya during the Japanese occupation, this “espionage-laden family epic” (<i>Vanity Fair</i>), an ordinary housewife becomes an unlikely spy—and her dark secrets will test even the most unbreakable ties.</b></b><br /><br />Malaya, 1945. Cecily Alcantara’s family is in terrible danger: her fifteen-year-old son, Abel, has disappeared, and her youngest daughter, Jasmin, is confined in a basement to prevent being pressed into service at the comfort stations. Her eldest daughter Jujube, who works at a tea house frequented by drunk Japanese soldiers, becomes angrier by the day.<br /><br />Cecily knows two things: that this is all her fault; and that her family must never learn the truth.<br /><br />A decade prior, Cecily had been desperate to be more than a housewife to a low-level bureaucrat in British-colonized Malaya. A chance meeting with the charismatic General Fujiwara lured her into a life of espionage, pursuing dreams of an “Asia for Asians.” Ten years later as the war reaches its apex, her actions have caught up with her. Now her family is on the brink of destruction—and she will do anything to save them.<br /><br />Told from the perspectives of four unforgettable characters,<i> The Storm We Made</i> spans years of pain, triumph, and perseverance. “The tenderness in its details, the ordinary ways that these characters love and laugh in the face of the extraordinary…Chan shows us, with clarity and care, how the truest mirror comes from the intimacy of human connection” (<i>The New York Times Book Review</i>).",
+      "formattedPrice": "$1.99",
+      "artistId": 971258301,
+      "artistName": "Vanessa Chan",
+      "averageUserRating": 4,
+      "userRatingCount": 125,
+      "country": "USA"
+    }
+  ]
+}

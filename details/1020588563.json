@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/21/77/0f/21770f87-924b-6caf-5a79-b862088833d1/0000000001506A.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/21/77/0f/21770f87-924b-6caf-5a79-b862088833d1/0000000001506A.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E7%89%87%E5%B2%A1%E7%BE%A9%E7%94%B7/589121557?uo=4",
+      "trackCensoredName": "片岡義男全集",
+      "formattedPrice": "無料",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E7%89%87%E5%B2%A1%E7%BE%A9%E7%94%B7%E5%85%A8%E9%9B%86/id1020588563?uo=4",
+      "artistIds": [
+        589121557
+      ],
+      "artistId": 589121557,
+      "artistName": "片岡義男",
+      "genres": [
+        "名作",
+        "ブック",
+        "小説／文学"
+      ],
+      "releaseDate": "2015-07-14T07:00:00Z",
+      "genreIds": [
+        "10042",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "「片岡義男全集」は日本の小説家、エッセイスト、写真家、翻訳家、評論家である片岡義男の随筆集。この作品には、著者の有名な「エルヴィスから始まった」「少女時代」「物のかたちのバラッド」などが収録されている。",
+      "trackId": 1020588563,
+      "trackName": "片岡義男全集",
+      "price": 0,
+      "averageUserRating": 4.5,
+      "userRatingCount": 16,
+      "country": "JPN"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$9.99",
+      "artistIds": [
+        6823367451
+      ],
+      "artistId": 6823367451,
+      "artistName": "Freida McFaden",
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books",
+        "Fiction & Literature"
+      ],
+      "price": 9.99,
+      "genreIds": [
+        "9032",
+        "38",
+        "9031"
+      ],
+      "releaseDate": "2026-10-15T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "At 3:41 every morning, someone inside Pemberton House begs Julia Barlow for help.\nEveryone has an explanation.\nThe plumbing is old.\nHer grandmother is confused.\nJulia is under stress.\nAnd the family has always told stories about the witch who cursed the house in 1692.\nJulia does not trust stories.\nShe trusts records.\nAfter losing her job as an archivist, she returns to her grandmother’s sprawling Massachusetts estate with nowhere else to go. There she finds a sealed north wing, a grandfather clock that stops at the same impossible time every night, and family papers that do not match the history she was raised to believe.\nThen she opens the grave of Elinor Dane—the woman supposedly executed for witchcraft more than three centuries ago.\nThere is no body.\nThere is modern medical tubing.\nAnd there is an object belonging to a woman who disappeared from Pemberton only twenty-four years earlier.\nNow Julia and groundskeeper Eli Voss must uncover what happened to both their missing mothers before the people controlling Pemberton’s secrets decide Julia has learned too much.\nBecause the house may not be haunted.\nBut someone has spent years making sure frightened women believe it is.\nThe Witch is a gothic psychological thriller featuring an ancestral mansion, a missing mother, a false witch legend, hidden rooms, manipulated memories, family secrets, archival investigation, and a final mystery that leaves just enough room for the supernatural.",
+      "trackCensoredName": "The Witch",
+      "artistViewUrl": "https://books.apple.com/us/artist/freida-mcfaden/6823367451?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-witch/id6823367425?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/24/a2/57/24a257cd-ed49-e628-6a24-1ac121b6b59f/2d053425-e119-448e-8e45-2ee3beccfe12_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/24/a2/57/24a257cd-ed49-e628-6a24-1ac121b6b59f/2d053425-e119-448e-8e45-2ee3beccfe12_cover_image.jpg/100x100bb.jpg",
+      "trackId": 6823367425,
+      "trackName": "The Witch",
+      "country": "USA"
+    }
+  ]
+}

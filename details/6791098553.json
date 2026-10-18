@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        589372597
+      ],
+      "formattedPrice": "5,99 €",
+      "artistId": 589372597,
+      "artistName": "Bruno Dequier",
+      "genres": [
+        "BD et mangas",
+        "Livres"
+      ],
+      "price": 5.99,
+      "trackName": "Louca - Tome 13 - Finale (Partie 1)",
+      "trackId": 6791098553,
+      "genreIds": [
+        "9026",
+        "38"
+      ],
+      "releaseDate": "2026-10-16T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "À peine rentrés au pays, Louca et Nathan arrivent à qualifier l'équipe des Phœnix pour la finale de la Coupe du Griffon. Mais, alors que le match le plus important de leur vie approche, ils apprennent une nouvelle incroyable&#xa0;: Nathan est vivant mais plongé dans le coma depuis des années. Les deux amis se ruent vers l'hôpital et, là, ils assistent à un miracle&#xa0;: Nathan s'est réveillé&#xa0;! Le fantôme de Nathan n'a qu'une hâte&#xa0;: réintégrer son corps&#xa0;! Mais, alors qu'il essaie, il se voit projeté au lycée Quanfrin. Il se rue vers l'hôpital et retente une réintégration, qui échoue à nouveau. Alors que le match va commencer, Nathan est à nouveau renvoyé brutalement et inexplicablement dans son ancienne école. Après plusieurs voyages dans le temps, il comprend la terrible vérité&#xa0;: il est coincé dans une boucle temporelle infernale&#xa0;!",
+      "trackCensoredName": "Louca - Tome 13 - Finale (Partie 1)",
+      "artistViewUrl": "https://books.apple.com/fr/artist/bruno-dequier/589372597?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/louca-tome-13-finale-partie-1/id6791098553?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a5/d0/32/a5d0329f-6f9b-c3c1-4312-58b687976591/9782808519878.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a5/d0/32/a5d0329f-6f9b-c3c1-4312-58b687976591/9782808519878.jpg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

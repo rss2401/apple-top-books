@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Patron Saint Of Liars",
+      "artistViewUrl": "https://books.apple.com/us/artist/ann-patchett/20883864?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-patron-saint-of-liars/id1602671444?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/8a/3a/9f/8a3a9fd3-d1d3-1435-5c15-cae5884f4d3b/9780547548401.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/8a/3a/9f/8a3a9fd3-d1d3-1435-5c15-cae5884f4d3b/9780547548401.jpg/100x100bb.jpg",
+      "artistIds": [
+        20883864
+      ],
+      "genres": [
+        "Family Fiction & Literature",
+        "Books",
+        "Fiction & Literature",
+        "Religious Fiction",
+        "Romance",
+        "Contemporary Romance"
+      ],
+      "price": 2.99,
+      "releaseDate": "2011-04-04T07:00:00Z",
+      "genreIds": [
+        "11050",
+        "38",
+        "9031",
+        "10041",
+        "9003",
+        "10057"
+      ],
+      "trackId": 1602671444,
+      "trackName": "The Patron Saint Of Liars",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "A&#xa0;New York Times&#xa0;Notable Book<br /><br />Acclaimed author Ann Patchett's debut novel, hailed as \"beautifully written . . . a first novel that second- and third-time novelists would envy for its grace, insight, and compassion” (Boston Herald)<br /><br />St. Elizabeth’s, a home for unwed mothers in Habit, Kentucky, usually harbors its residents for only a little while. Not so Rose Clinton, a beautiful, mysterious woman who comes to the home pregnant but not unwed, and stays. She plans to give up her child, thinking she cannot be the mother it needs. But when Cecilia is born, Rose makes a place for herself and her daughter amid St. Elizabeth’s extended family of nuns and an ever-changing collection of pregnant teenage girls. Rose’s past won’t be kept away, though, even by St. Elizabeth’s; she cannot remain untouched by what she has left behind, even as she cannot change who she has become in the leaving.",
+      "formattedPrice": "$2.99",
+      "artistId": 20883864,
+      "artistName": "Ann Patchett",
+      "averageUserRating": 4,
+      "userRatingCount": 341,
+      "country": "USA"
+    }
+  ]
+}

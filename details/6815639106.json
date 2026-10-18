@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        364510223
+      ],
+      "artistId": 364510223,
+      "artistName": "Jenna Petersen",
+      "genres": [
+        "Romance historique",
+        "Livres",
+        "Romance"
+      ],
+      "trackId": 6815639106,
+      "trackName": "Au service de la couronne (Tome 3) - La séduction est éternelle",
+      "releaseDate": "2026-10-07T07:00:00Z",
+      "genreIds": [
+        "10059",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Audacieuse, belle et d’une intelligence redoutable, Emily a toujours semblé invincible. Toutefois, après avoir été blessée, elle juge qu’il vaut mieux pour elle, et pour l’agence d’espionnes dont elle fait partie, que sa prochaine mission présente moins de risques. Désormais, elle doit assurer la sécurité du respecté – et très séduisant – Grant Ashbury, qui semble être la cible d’un ennemi mystérieux. Or, à l’insu de la jeune femme, Grant est lui aussi chargé de la protéger…",
+      "trackCensoredName": "Au service de la couronne (Tome 3) - La séduction est éternelle",
+      "artistViewUrl": "https://books.apple.com/fr/artist/jenna-petersen/364510223?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/au-service-de-la-couronne-tome-3-la-s%C3%A9duction-est-%C3%A9ternelle/id6815639106?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e9/fb/6d/e9fb6d68-0e9c-3d97-293a-c97a7e4dd518/9782290433430.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e9/fb/6d/e9fb6d68-0e9c-3d97-293a-c97a7e4dd518/9782290433430.jpg/100x100bb.jpg",
+      "formattedPrice": "5,99 €",
+      "price": 5.99,
+      "country": "FRA"
+    }
+  ]
+}

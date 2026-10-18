@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "¥380",
+      "artistIds": [
+        1376443053
+      ],
+      "trackCensoredName": "ホタルの嫁入り【電子特典 短冊ポスター画像つき】(3)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%A9%98%E3%82%AA%E3%83%AC%E3%82%B3/1376443053?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%AE%E5%AB%81%E5%85%A5%E3%82%8A-%E9%9B%BB%E5%AD%90%E7%89%B9%E5%85%B8-%E7%9F%AD%E5%86%8A%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%94%BB%E5%83%8F%E3%81%A4%E3%81%8D-3/id6473400197?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/d3/ea/47/d3ea4777-b7b7-aa56-8b09-f790caddd292/BT000136336800300301900203.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/d3/ea/47/d3ea4777-b7b7-aa56-8b09-f790caddd292/BT000136336800300301900203.jpg/100x100bb.jpg",
+      "artistId": 1376443053,
+      "artistName": "橘オレコ",
+      "genres": [
+        "女性",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "ミステリー",
+        "恋愛／ロマンス"
+      ],
+      "price": 380,
+      "releaseDate": "2023-12-19T08:00:00Z",
+      "trackId": 6473400197,
+      "trackName": "ホタルの嫁入り【電子特典 短冊ポスター画像つき】(3)",
+      "genreIds": [
+        "11340",
+        "38",
+        "9026",
+        "10016",
+        "50000081",
+        "50000084"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "【電子特典】短冊ポスター画像つき!※紙版の初版には、同じ絵柄の帯ポスターが付きます。<br /><br />話題沸騰100万部!殺し屋と令嬢の契約婚<br /><br />遊女屋での危機を脱した紗都子と進平は<br />秘密裏に手配した舟で、島からの脱出を試みる。<br />「私は恋より夢が大事です」<br />「俺は 紗都子と結婚したい」<br />本土を目指すわずかな間、本心をぶつけ合い打ち解ける二人。<br />しかし、そこへ迫る影が――",
+      "averageUserRating": 4.5,
+      "userRatingCount": 62,
+      "country": "JPN"
+    }
+  ]
+}

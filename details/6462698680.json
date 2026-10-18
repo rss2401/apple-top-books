@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Adventures of a Scottish Heiress",
+      "artistViewUrl": "https://books.apple.com/us/artist/cathy-maxwell/214000612?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/adventures-of-a-scottish-heiress/id6462698680?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/49/a7/a6/49a7a6b4-98d9-4f24-3e31-e6d182c6c479/1057954537.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/49/a7/a6/49a7a6b4-98d9-4f24-3e31-e6d182c6c479/1057954537.jpg/100x100bb.jpg",
+      "artistIds": [
+        214000612
+      ],
+      "genres": [
+        "Historical Romance",
+        "Books",
+        "Romance"
+      ],
+      "price": 0.99,
+      "releaseDate": "2009-10-13T07:00:00Z",
+      "genreIds": [
+        "10059",
+        "38",
+        "9003"
+      ],
+      "trackId": 6462698680,
+      "trackName": "Adventures of a Scottish Heiress",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>\"This spirited and tender yarn is a joyride that careens from adventure to adventure&#xa0;.&#xa0;.&#xa0;. Readers&#xa0;.&#xa0;.&#xa0;. of Julia Quinn and Victoria Alexander shouldn't miss [it].\" —<i>Publishers Weekly</i></b><br />\n   The Runaway Heiress\n   <br />\n   Like many a Regency miss, Lyssa Harrell longs for love, but knows her duty lies in marriage. Still, when her father promises her hand to a dissolute but well-connected lord, she does the unthinkable .&#xa0;.&#xa0;. she flees to Scotland. Not to Gretna Green, but to her family — and to the castle where her mother once had been so happy. In this romantic land she will discover her heart's desire.\n   <br />\n   A Man Seeking His Fortune\n   <br />\n   But she doesn't count on Ian Campion. The ruggedly handsome man has his orders: fetch the runaway daughter home! Ian has a price on his head and a dire need for the reward Lyssa's father offers. Tracking Lyssa down is easy enough, convincing her to return is difficult .&#xa0;.&#xa0;. and not seducing her is impossible.\n   <br />\n   And Their Scandalous Adventures\n   <br />\n   Soon, Lyssa is on the adventure of a lifetime. She has to sleep in the great outdoors, and flee from mysterious attempts on her life. She knows she's ruined in the eyes of society, but she is willing to risk everything for the unimaginable passion she finds in Ian's strong arms. And when they return to civilization, the two must confront the most perilous adventure of all .&#xa0;.&#xa0;. admitting their unanticipated love.\n   <br />\n   \"Cathy Maxwell can't be beat.\" —<i>New York Times </i>bestselling author Jill Barnett",
+      "formattedPrice": "$0.99",
+      "artistId": 214000612,
+      "artistName": "Cathy Maxwell",
+      "averageUserRating": 4.5,
+      "userRatingCount": 44,
+      "country": "USA"
+    }
+  ]
+}

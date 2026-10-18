@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "¥760",
+      "artistIds": [
+        1376443053
+      ],
+      "trackCensoredName": "ホタルの嫁入り(8)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%A9%98%E3%82%AA%E3%83%AC%E3%82%B3/1376443053?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%AE%E5%AB%81%E5%85%A5%E3%82%8A-8/id6746473375?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/19/73/91/1973913a-802f-845b-14ed-c7679ec3d279/BT000136336800800801900203.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/19/73/91/1973913a-802f-845b-14ed-c7679ec3d279/BT000136336800800801900203.jpg/100x100bb.jpg",
+      "artistId": 1376443053,
+      "artistName": "橘オレコ",
+      "genres": [
+        "女性",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "ミステリー",
+        "恋愛／ロマンス"
+      ],
+      "price": 760,
+      "releaseDate": "2025-06-18T07:00:00Z",
+      "trackId": 6746473375,
+      "trackName": "ホタルの嫁入り(8)",
+      "genreIds": [
+        "11340",
+        "38",
+        "9026",
+        "10016",
+        "50000081",
+        "50000084"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "270万部突破!作中最大の衝撃展開!!<br /><br />「帰ろう紗都子 私たちの家に」<br />天女島に現れた、紗都子の父・十兵衛。<br />そして桐ケ谷家の兵士たちが次々と<br />銃の引き金を引き、進平を撃ち抜く。<br /><br />目の前で進平が撃たれ、三枝が撃たれ、<br />多くの人が傷つき、死んだ―――<br /><br />紗都子の心は深く傷つき、<br />床に伏せる日々が続いていたなか、<br />とある人物が紗都子に助け船を…?",
+      "averageUserRating": 4.5,
+      "userRatingCount": 32,
+      "country": "JPN"
+    }
+  ]
+}

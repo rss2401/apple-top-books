@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1796196935
+      ],
+      "formattedPrice": "2,99 €",
+      "artistId": 1796196935,
+      "artistName": "Ambre Chalumeau",
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "price": 2.99,
+      "trackName": "Les vivants",
+      "trackId": 6741919118,
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "releaseDate": "2025-03-12T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "«&#xa0; Elle demande de répéter.<br />On demande toujours de répéter, alors qu’en fait on a très bien entendu.<br />Quelque part dans notre crâne, un globule blanc se lève et pète du coude la vitre à ne casser qu’en cas d’urgence, celle qu’on pensait ne jamais avoir à briser : on sait qu’on devrait déclencher un protocole spécial pour accueillir la nouvelle, sauf que personne n’a été briefé, les stagiaires sont incapables, en plus on est samedi soir les bureaux sont déserts, y’a bien les anciens qui sauraient quoi faire, les vieux neurones du fond là, paniqués en permanence, ils nous ont dit qu’un jour ça pouvait arriver mais on les écoute plus ils radotent tellement, et maintenant qu’on a besoin d’eux putain ils sont où ?&#xa0; <br />Et aussi simplement que ça, une nuit comme les autres devient un Début.&#xa0; »<br />&#xa0; <br />Histoire du passage à l’âge adulte, histoire d’émotions contraires, Les Vivants est un premier roman à la sincérité désarmante où le drame et la comédie nous illuminent à chaque page.",
+      "trackCensoredName": "Les vivants",
+      "artistViewUrl": "https://books.apple.com/fr/artist/ambre-chalumeau/1796196935?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-vivants/id6741919118?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/d2/9b/67/d29b6775-7230-b259-76f2-b175a99f69c3/9782234097476-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/d2/9b/67/d29b6775-7230-b259-76f2-b175a99f69c3/9782234097476-001-x.jpeg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 32,
+      "country": "FRA"
+    }
+  ]
+}
