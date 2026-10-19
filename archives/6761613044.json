@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 30,
+      "artistName": "Michael Robotham",
+      "id": "6761613044",
+      "name": "Bruderherz",
+      "releaseDate": "2026-09-23",
+      "kind": "books",
+      "artistId": "121605465",
+      "artistUrl": "https://books.apple.com/de/author/michael-robotham/id121605465",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/bd/36/a2/bd36a2af-78d0-4f71-af54-7689c9c23888/9783641347475.jpg/100x158bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/bruderherz/id6761613044"
+    }
+  ]
+}

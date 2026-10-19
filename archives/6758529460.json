@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 14,
+      "artistName": "Donna Grant",
+      "id": "6758529460",
+      "name": "Between Twilight",
+      "releaseDate": "2026-10-19",
+      "kind": "books",
+      "artistId": "358474175",
+      "artistUrl": "https://books.apple.com/us/author/donna-grant/id358474175",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/8c/91/45/8c914535-1a1b-f3d0-a8b2-7156419771df/BetweenTwilight_IBOOK.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10058",
+          "name": "Paranormal Romance",
+          "url": "https://itunes.apple.com/us/genre/id10058"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        },
+        {
+          "genreId": "10061",
+          "name": "Romantic Suspense",
+          "url": "https://itunes.apple.com/us/genre/id10061"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/between-twilight/id6758529460"
+    }
+  ]
+}

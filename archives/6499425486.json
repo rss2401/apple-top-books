@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 79,
+      "artistName": "Elke Heidenreich",
+      "id": "6499425486",
+      "name": "Altern",
+      "releaseDate": "2024-05-13",
+      "kind": "books",
+      "artistId": "26959209",
+      "artistUrl": "https://books.apple.com/de/author/elke-heidenreich/id26959209",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/21/c4/5d/21c45d83-9f6e-6aed-120f-6b3d2b66a375/9783446280403.jpg/100x163bb.png",
+      "genres": [
+        {
+          "genreId": "9008",
+          "name": "Biografien und Memoiren",
+          "url": "https://itunes.apple.com/de/genre/id9008"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/altern/id6499425486"
+    }
+  ]
+}

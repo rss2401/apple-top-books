@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 77,
+      "artistName": "Jo Nesbø",
+      "id": "1183346776",
+      "name": "Durst",
+      "releaseDate": "2017-09-15",
+      "kind": "books",
+      "artistId": "30689916",
+      "artistUrl": "https://books.apple.com/de/author/jo-nesb%C3%B8/id30689916",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f6/9c/74/f69c740a-089c-2c89-7ff5-c66c213ef293/9783843714822.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "10050",
+          "name": "Hard-boiled-Krimis",
+          "url": "https://itunes.apple.com/de/genre/id10050"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/durst/id1183346776"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 84,
+      "artistName": "Jennifer L. Armentrout",
+      "id": "6499003170",
+      "name": "La Guerre des deux Reines (e-book) - Tome 04",
+      "releaseDate": "2024-05-23",
+      "kind": "books",
+      "artistId": "531528746",
+      "artistUrl": "https://books.apple.com/fr/author/jennifer-l-armentrout/id531528746",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5c/68/70/5c68702a-261e-59e0-d636-b2b2a8f37325/9782378764432.jpg/100x145bb.png",
+      "genres": [
+        {
+          "genreId": "10044",
+          "name": "Fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id10044"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9020",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id9020"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/la-guerre-des-deux-reines-e-book-tome-04/id6499003170"
+    }
+  ]
+}

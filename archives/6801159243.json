@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 53,
+      "artistName": "Izzy Maxen",
+      "id": "6801159243",
+      "name": "Reign of the Fallen 1: A Queen Bound in Darkness",
+      "releaseDate": "2026-10-08",
+      "kind": "books",
+      "artistId": "1621635651",
+      "artistUrl": "https://books.apple.com/de/author/izzy-maxen/id1621635651",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/2b/e0/d4/2be0d498-061e-eb6b-a5ea-b501a382eab3/9783646613049.jpg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "10044",
+          "name": "Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id10044"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9020",
+          "name": "Science-Fiction und Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id9020"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/reign-of-the-fallen-1-a-queen-bound-in-darkness/id6801159243"
+    }
+  ]
+}

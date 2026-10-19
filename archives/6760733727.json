@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 88,
+      "artistName": "Apolline Vercel",
+      "id": "6760733727",
+      "name": "Juste Pour T'oublier",
+      "releaseDate": "2026-03-17",
+      "kind": "books",
+      "artistId": "1863063952",
+      "artistUrl": "https://books.apple.com/fr/author/apolline-vercel/id1863063952",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/17/2d/8d/172d8dea-164b-b3a7-9777-e2eceda88eb7/0004172324.jpg/100x149bb.png",
+      "genres": [
+        {
+          "genreId": "10057",
+          "name": "Romance contemporaine",
+          "url": "https://itunes.apple.com/fr/genre/id10057"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/juste-pour-toublier/id6760733727"
+    }
+  ]
+}

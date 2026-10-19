@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 89,
+      "artistName": "Miguel de Cervantes",
+      "id": "1541360524",
+      "name": "Don Quixote",
+      "releaseDate": "2026-09-24",
+      "kind": "books",
+      "artistId": "360630183",
+      "artistUrl": "https://books.apple.com/de/author/miguel-de-cervantes/id360630183",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/d8/4e/e9/d84ee971-0ccf-1582-194d-dcd50a6ecd51/9789895621934.jpg/100x156bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9012",
+          "name": "Humor",
+          "url": "https://itunes.apple.com/de/genre/id9012"
+        },
+        {
+          "genreId": "9007",
+          "name": "Kultur und Unterhaltung",
+          "url": "https://itunes.apple.com/de/genre/id9007"
+        },
+        {
+          "genreId": "11021",
+          "name": "Film",
+          "url": "https://itunes.apple.com/de/genre/id11021"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/don-quixote/id1541360524"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 64,
+      "artistName": "Amy Tordoff",
+      "id": "6761611998",
+      "name": "Die Liebe am Ende der Zeit",
+      "releaseDate": "2026-10-01",
+      "kind": "books",
+      "artistId": "1810131448",
+      "artistUrl": "https://books.apple.com/de/author/amy-tordoff/id1810131448",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/27/34/6e/27346e15-eddf-ed0b-ee97-f2f9aac4a5b8/9783641332792.jpg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "10044",
+          "name": "Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id10044"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9020",
+          "name": "Science-Fiction und Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id9020"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/die-liebe-am-ende-der-zeit/id6761611998"
+    }
+  ]
+}

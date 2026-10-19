@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 45,
+      "artistName": "J.H. Croix",
+      "id": "6772359970",
+      "name": "Believe In Us",
+      "releaseDate": "2026-10-19",
+      "kind": "books",
+      "artistId": "1128506708",
+      "artistUrl": "https://books.apple.com/us/author/j-h-croix/id1128506708",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/97/a1/2f/97a12f30-7e82-bdd7-1fb7-623846d740d6/caf4aefd-c7eb-4d63-b471-8d3934194be9_cover_image.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/believe-in-us/id6772359970"
+    }
+  ]
+}

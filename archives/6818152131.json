@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 77,
+      "artistName": "K.F. Breene",
+      "id": "6818152131",
+      "name": "Schülerin des Feuers - Buch eins GRATIS",
+      "releaseDate": "2023-08-16",
+      "kind": "books",
+      "artistId": "596677356",
+      "artistUrl": "https://books.apple.com/de/author/k-f-breene/id596677356",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/28/16/46/281646d0-c94a-563c-563c-37e4d879a814/1069041869.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "11001",
+          "name": "Zeitgenössisch",
+          "url": "https://itunes.apple.com/de/genre/id11001"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9020",
+          "name": "Science-Fiction und Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id9020"
+        },
+        {
+          "genreId": "10044",
+          "name": "Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id10044"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/sch%C3%BClerin-des-feuers-buch-eins-gratis/id6818152131"
+    }
+  ]
+}

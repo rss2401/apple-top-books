@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 95,
+      "artistName": "Harlan Coben & Reese Witherspoon",
+      "id": "6762355571",
+      "name": "Près de moi pour toujours",
+      "releaseDate": "2026-09-24",
+      "kind": "books",
+      "artistId": "2079141",
+      "artistUrl": "https://books.apple.com/fr/author/harlan-coben/id2079141",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/83/54/28/835428ca-0bed-7327-ff01-11b4a720566b/9782714405562.jpg/100x161bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/pr%C3%A8s-de-moi-pour-toujours/id6762355571"
+    }
+  ]
+}

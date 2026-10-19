@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 63,
+      "artistName": "Nadine Dela",
+      "id": "6801159562",
+      "name": "Iced Matcha and other Mistakes",
+      "releaseDate": "2026-10-08",
+      "kind": "books",
+      "artistId": "1574499280",
+      "artistUrl": "https://books.apple.com/de/author/nadine-dela/id1574499280",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ec/ed/c3/ecedc3d6-4e02-33e9-8f9a-f1c8f459a2f8/9783646614053.jpg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "11040",
+          "name": "New Adult-Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id11040"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/iced-matcha-and-other-mistakes/id6801159562"
+    }
+  ]
+}

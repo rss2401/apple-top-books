@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 91,
+      "artistName": "Curzio Malaparte",
+      "id": "1610310625",
+      "name": "Technique du coup d'État",
+      "releaseDate": "2022-03-16",
+      "kind": "books",
+      "artistId": "332336431",
+      "artistUrl": "https://books.apple.com/fr/author/curzio-malaparte/id332336431",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/74/24/17/7424173c-5d35-6d6d-42cd-1d6544a67262/9782246830894-001-x.jpeg/100x158bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/technique-du-coup-d%C3%A9tat/id1610310625"
+    }
+  ]
+}

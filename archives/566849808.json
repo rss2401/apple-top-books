@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 98,
+      "artistName": "宮沢賢治",
+      "id": "566849808",
+      "name": "猫の事務所",
+      "releaseDate": "1990-01-29",
+      "kind": "books",
+      "artistId": "106372375",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id106372375",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/c1/88/86/c18886e7-0ebd-3001-1000-b6a2686b8e88/0000000000464.jpg/100x156bb.png",
+      "genres": [
+        {
+          "genreId": "10042",
+          "name": "名作",
+          "url": "https://itunes.apple.com/jp/genre/id10042"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "小説／文学",
+          "url": "https://itunes.apple.com/jp/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E7%8C%AB%E3%81%AE%E4%BA%8B%E5%8B%99%E6%89%80/id566849808"
+    }
+  ]
+}

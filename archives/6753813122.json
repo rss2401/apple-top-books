@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 68,
+      "artistName": "Camilla Trinchieri & Sonja Hauser",
+      "id": "6753813122",
+      "name": "Toskanische Verschwörung - Kriminalroman (Nico Doyle ermittelt 5)",
+      "releaseDate": "2026-06-23",
+      "kind": "books",
+      "artistId": "486493111",
+      "artistUrl": "https://books.apple.com/de/author/camilla-trinchieri/id486493111",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/54/d0/fa/54d0fa80-4241-8b0c-cdde-183517b2b461/9783458786702.jpg/100x161bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "9024",
+          "name": "Lifestyle und Wohnen",
+          "url": "https://itunes.apple.com/de/genre/id9024"
+        },
+        {
+          "genreId": "11259",
+          "name": "Cosy Crime",
+          "url": "https://itunes.apple.com/de/genre/id11259"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/toskanische-verschw%C3%B6rung-kriminalroman-nico-doyle-ermittelt/id6753813122"
+    }
+  ]
+}

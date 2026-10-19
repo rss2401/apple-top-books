@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 82,
+      "artistName": "Jo Nesbø",
+      "id": "409314006",
+      "name": "Kakerlaken",
+      "releaseDate": "1608-01-01",
+      "kind": "books",
+      "artistId": "30689916",
+      "artistUrl": "https://books.apple.com/de/author/jo-nesb%C3%B8/id30689916",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3d/8b/c1/3d8bc19b-7257-61f0-efd9-4f4ef8f14c68/9783548920726.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/kakerlaken/id409314006"
+    }
+  ]
+}

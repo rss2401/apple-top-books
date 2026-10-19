@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 90,
+      "artistName": "Andrée Michaud",
+      "id": "6748012975",
+      "name": "Baignades - Grand prix de littérature policière 2026",
+      "releaseDate": "2025-08-20",
+      "kind": "books",
+      "artistId": "1131926140",
+      "artistUrl": "https://books.apple.com/fr/author/andr%C3%A9e-michaud/id1131926140",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ed/28/5e/ed285e0e-b3b4-2079-7679-3e3bb9118484/9782743668150.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/baignades-grand-prix-de-litt%C3%A9rature-polici%C3%A8re-2026/id6748012975"
+    }
+  ]
+}

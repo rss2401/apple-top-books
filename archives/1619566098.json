@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 89,
+      "artistName": "Analia Noir",
+      "id": "1619566098",
+      "name": "Tu Seras Ma Soumise (L'Intégrale)",
+      "releaseDate": "2022-04-14",
+      "kind": "books",
+      "artistId": "1020487223",
+      "artistUrl": "https://books.apple.com/fr/author/analia-noir/id1020487223",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/1f/89/5a/1f895aec-61f7-8d79-39eb-d5831d419274/0000866082.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "11040",
+          "name": "Romance jeunes adultes",
+          "url": "https://itunes.apple.com/fr/genre/id11040"
+        },
+        {
+          "genreId": "10061",
+          "name": "Thriller romantique",
+          "url": "https://itunes.apple.com/fr/genre/id10061"
+        },
+        {
+          "genreId": "10057",
+          "name": "Romance contemporaine",
+          "url": "https://itunes.apple.com/fr/genre/id10057"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/tu-seras-ma-soumise-lint%C3%A9grale/id1619566098"
+    }
+  ]
+}

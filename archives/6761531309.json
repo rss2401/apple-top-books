@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 86,
+      "artistName": "Chris Carter",
+      "id": "6761531309",
+      "name": "Du kriegst mich nicht",
+      "releaseDate": "2026-07-30",
+      "kind": "books",
+      "artistId": "700970128",
+      "artistUrl": "https://books.apple.com/de/author/chris-carter/id700970128",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/91/d0/74/91d07497-964d-0d8a-b649-b47841761e02/9783843739085.jpg/100x152bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/du-kriegst-mich-nicht/id6761531309"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 85,
+      "artistName": "Jo Nesbø",
+      "id": "409314375",
+      "name": "Die Fährte",
+      "releaseDate": "2004-10-01",
+      "kind": "books",
+      "artistId": "30689916",
+      "artistUrl": "https://books.apple.com/de/author/jo-nesb%C3%B8/id30689916",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6d/cf/9b/6dcf9b6c-3328-5237-555f-495f4ec6db13/9783548920818.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "10052",
+          "name": "Polizeiromane",
+          "url": "https://itunes.apple.com/de/genre/id10052"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/die-f%C3%A4hrte/id409314375"
+    }
+  ]
+}

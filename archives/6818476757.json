@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 50,
+      "artistName": "遠藤浩輝",
+      "id": "6818476757",
+      "name": "無敗のふたり(6)",
+      "releaseDate": "2026-10-16",
+      "kind": "books",
+      "artistId": "608947862",
+      "artistUrl": "https://books.apple.com/jp/author/%E9%81%A0%E8%97%A4%E6%B5%A9%E8%BC%9D/id608947862",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/07/c0/58/07c0587c-99da-4aa3-b1b9-8373f031f561/BT000164116100600601900206.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000087",
+          "name": "スポーツ",
+          "url": "https://itunes.apple.com/jp/genre/id50000087"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11337",
+          "name": "少年",
+          "url": "https://itunes.apple.com/jp/genre/id11337"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E7%84%A1%E6%95%97%E3%81%AE%E3%81%B5%E3%81%9F%E3%82%8A-6/id6818476757"
+    }
+  ]
+}

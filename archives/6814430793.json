@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 48,
+      "artistName": "G. F. Unger",
+      "id": "6814430793",
+      "name": "G. F. Unger Sonder-Edition 357",
+      "releaseDate": "2026-10-17",
+      "kind": "books",
+      "artistId": "609482092",
+      "artistUrl": "https://books.apple.com/de/author/g-f-unger/id609482092",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/44/a6/a1/44a6a1b1-993f-e504-aff7-6e1f96807dd7/9783819805585.jpg/100x133bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "10039",
+          "name": "Action und Abenteuer",
+          "url": "https://itunes.apple.com/de/genre/id10039"
+        },
+        {
+          "genreId": "10047",
+          "name": "Historische Romane",
+          "url": "https://itunes.apple.com/de/genre/id10047"
+        },
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "10042",
+          "name": "Klassiker",
+          "url": "https://itunes.apple.com/de/genre/id10042"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/g-f-unger-sonder-edition-357/id6814430793"
+    }
+  ]
+}

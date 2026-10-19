@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 98,
+      "artistName": "Tami Fischer",
+      "id": "1587878209",
+      "name": "Mountains and Storms",
+      "releaseDate": "2021-12-01",
+      "kind": "books",
+      "artistId": "1455961649",
+      "artistUrl": "https://books.apple.com/de/author/tami-fischer/id1455961649",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fd/ee/65/fdee65f3-650d-33e9-ab3a-05b014f612d5/1035001815.jpg/100x156bb.png",
+      "genres": [
+        {
+          "genreId": "11040",
+          "name": "New Adult-Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id11040"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "10057",
+          "name": "Zeitgenössische Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10057"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/mountains-and-storms/id1587878209"
+    }
+  ]
+}

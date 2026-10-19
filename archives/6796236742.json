@@ -1,0 +1,68 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 98,
+      "artistName": "Mira Frey",
+      "id": "6796236742",
+      "name": "Falling for Pumpkin Spice",
+      "releaseDate": "2026-08-27",
+      "kind": "books",
+      "artistId": "1835362928",
+      "artistUrl": "https://books.apple.com/de/author/mira-frey/id1835362928",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/17/55/67/1755676f-e49a-c359-7dd7-ef56c5aa9be5/9783690908306.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "11040",
+          "name": "New Adult-Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id11040"
+        },
+        {
+          "genreId": "11042",
+          "name": "Romantische Komödien",
+          "url": "https://itunes.apple.com/de/genre/id11042"
+        },
+        {
+          "genreId": "10057",
+          "name": "Zeitgenössische Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10057"
+        },
+        {
+          "genreId": "11232",
+          "name": "Unschuldige Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id11232"
+        },
+        {
+          "genreId": "9002",
+          "name": "Sachbücher",
+          "url": "https://itunes.apple.com/de/genre/id9002"
+        },
+        {
+          "genreId": "10120",
+          "name": "Sozialwissenschaft",
+          "url": "https://itunes.apple.com/de/genre/id10120"
+        },
+        {
+          "genreId": "11076",
+          "name": "Gesellschaft",
+          "url": "https://itunes.apple.com/de/genre/id11076"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/falling-for-pumpkin-spice/id6796236742"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 52,
+      "artistName": "Azra Reed",
+      "id": "6739130940",
+      "name": "Valentina - T02",
+      "releaseDate": "2025-02-19",
+      "kind": "books",
+      "artistId": "1753254111",
+      "artistUrl": "https://books.apple.com/fr/author/azra-reed/id1753254111",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a8/5b/d1/a85bd136-9e26-cc9d-8404-37942443756c/9791042900267-001-x.jpeg/100x158bb.png",
+      "genres": [
+        {
+          "genreId": "10057",
+          "name": "Romance contemporaine",
+          "url": "https://itunes.apple.com/fr/genre/id10057"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        },
+        {
+          "genreId": "10061",
+          "name": "Thriller romantique",
+          "url": "https://itunes.apple.com/fr/genre/id10061"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/valentina-t02/id6739130940"
+    }
+  ]
+}

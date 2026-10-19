@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 78,
+      "artistName": "Peter Prange",
+      "id": "1108655867",
+      "name": "Unsere wunderbaren Jahre",
+      "releaseDate": "2016-10-13",
+      "kind": "books",
+      "artistId": "273742810",
+      "artistUrl": "https://books.apple.com/de/author/peter-prange/id273742810",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/13/a5/d9/13a5d924-0a33-b985-b9b1-31af9874a219/1019076718.jpg/100x152bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "11050",
+          "name": "Familienbelletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id11050"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/unsere-wunderbaren-jahre/id1108655867"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 66,
+      "artistName": "Jo Nesbø",
+      "id": "470170041",
+      "name": "Die Larve",
+      "releaseDate": "2011-09-30",
+      "kind": "books",
+      "artistId": "30689916",
+      "artistUrl": "https://books.apple.com/de/author/jo-nesb%C3%B8/id30689916",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d9/b4/48/d9b448fe-2ee5-9611-7681-4b93a45a6ec1/9783843700719.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/die-larve/id470170041"
+    }
+  ]
+}

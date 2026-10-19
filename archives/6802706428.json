@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 74,
+      "artistName": "Daisy Bloom",
+      "id": "6802706428",
+      "name": "Contracted to Him: A Billionaire Romance",
+      "releaseDate": "2026-08-17",
+      "kind": "books",
+      "artistId": "1758423300",
+      "artistUrl": "https://books.apple.com/gb/author/daisy-bloom/id1758423300",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/44/28/28/44282854-bf71-04d4-708e-6c88028d27be/6610001334314.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/gb/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "10061",
+          "name": "Romantic Suspense",
+          "url": "https://itunes.apple.com/gb/genre/id10061"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/contracted-to-him-a-billionaire-romance/id6802706428"
+    }
+  ]
+}

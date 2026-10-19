@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 54,
+      "artistName": "Jo Nesbø",
+      "id": "409312715",
+      "name": "Rotkehlchen",
+      "releaseDate": "2010-09-08",
+      "kind": "books",
+      "artistId": "30689916",
+      "artistUrl": "https://books.apple.com/de/author/jo-nesb%C3%B8/id30689916",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ef/ff/18/efff18ce-cb01-d24e-a67a-0aa4c8167b14/9783548920665.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "10052",
+          "name": "Polizeiromane",
+          "url": "https://itunes.apple.com/de/genre/id10052"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/rotkehlchen/id409312715"
+    }
+  ]
+}

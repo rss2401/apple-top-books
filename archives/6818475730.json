@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 52,
+      "artistName": "井龍一 & 瀬尾知汐",
+      "id": "6818475730",
+      "name": "罪と罰のスピカ(8)",
+      "releaseDate": "2026-10-16",
+      "kind": "books",
+      "artistId": "954686231",
+      "artistUrl": "https://books.apple.com/jp/author/%E4%BA%95%E9%BE%8D%E4%B8%80/id954686231",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/7b/d6/58/7bd658c6-9d6b-be01-6e70-7bb465b55a54/BT000171651400800801900206.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000081",
+          "name": "ミステリー",
+          "url": "https://itunes.apple.com/jp/genre/id50000081"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11337",
+          "name": "少年",
+          "url": "https://itunes.apple.com/jp/genre/id11337"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E7%BD%AA%E3%81%A8%E7%BD%B0%E3%81%AE%E3%82%B9%E3%83%94%E3%82%AB-8/id6818475730"
+    }
+  ]
+}

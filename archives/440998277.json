@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 43,
+      "artistName": "Daniel Suarez",
+      "id": "440998277",
+      "name": "DAEMON",
+      "releaseDate": "2010-03-19",
+      "kind": "books",
+      "artistId": "29538645",
+      "artistUrl": "https://books.apple.com/de/author/daniel-suarez/id29538645",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/23/ea/29/23ea29d0-87a4-aefb-184e-3d0fd11b7943/1019017738.jpg/100x152bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/daemon/id440998277"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 100,
+      "artistName": "Ali Hazelwood",
+      "id": "6463899538",
+      "name": "Bride – Die unergründliche Übernatürlichkeit der Liebe",
+      "releaseDate": "2024-02-06",
+      "kind": "books",
+      "artistId": "1549344169",
+      "artistUrl": "https://books.apple.com/de/author/ali-hazelwood/id1549344169",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/78/c7/60/78c7605a-2a99-29bb-1ce5-45614c1ba7e5/9783841231659.jpg/100x158bb.png",
+      "genres": [
+        {
+          "genreId": "10058",
+          "name": "Paranormale Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10058"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "11042",
+          "name": "Romantische Komödien",
+          "url": "https://itunes.apple.com/de/genre/id11042"
+        },
+        {
+          "genreId": "9020",
+          "name": "Science-Fiction und Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id9020"
+        },
+        {
+          "genreId": "10044",
+          "name": "Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id10044"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "10057",
+          "name": "Zeitgenössische Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10057"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/bride-die-unergr%C3%BCndliche-%C3%BCbernat%C3%BCrlichkeit-der-liebe/id6463899538"
+    }
+  ]
+}

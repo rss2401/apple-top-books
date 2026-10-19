@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 87,
+      "artistName": "Don Winslow",
+      "id": "1063752214",
+      "name": "Germany",
+      "releaseDate": "2016-03-01",
+      "kind": "books",
+      "artistId": "205125532",
+      "artistUrl": "https://books.apple.com/de/author/don-winslow/id205125532",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/fa/63/27/fa632775-abc0-7bd3-1003-42c4595e690d/1019131661.jpg/100x152bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/germany/id1063752214"
+    }
+  ]
+}

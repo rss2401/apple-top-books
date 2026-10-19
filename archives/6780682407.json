@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 61,
+      "artistName": "Roland Perez",
+      "id": "6780682407",
+      "name": "Le goût du possible",
+      "releaseDate": "2026-09-17",
+      "kind": "books",
+      "artistId": "446582247",
+      "artistUrl": "https://books.apple.com/fr/author/roland-perez/id446582247",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c0/d1/be/c0d1be94-f201-a6a8-5fa9-f7a237424f17/9782385298425.jpg/100x165bb.png",
+      "genres": [
+        {
+          "genreId": "10049",
+          "name": "Fiction et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id10049"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/le-go%C3%BBt-du-possible/id6780682407"
+    }
+  ]
+}
