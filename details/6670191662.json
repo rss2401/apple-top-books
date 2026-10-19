@@ -34,23 +34,23 @@
       "userRatingCount": 106
     },
     {
-      "trackCensoredName": "少年探偵団",
-      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9/368035988?uo=4",
-      "trackViewUrl": "https://books.apple.com/jp/book/%E5%B0%91%E5%B9%B4%E6%8E%A2%E5%81%B5%E5%9B%A3/id6670191662?uo=4",
       "formattedPrice": "無料",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/91/b3/b7/91b3b75b-6327-b87f-3ad2-ad9dc5a2d9d1/mza_11108904002750813370.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/91/b3/b7/91b3b75b-6327-b87f-3ad2-ad9dc5a2d9d1/mza_11108904002750813370.png/100x100bb.jpg",
       "artistIds": [
         368035988
       ],
-      "artistId": 368035988,
-      "artistName": "江戸川乱歩",
+      "trackCensoredName": "少年探偵団",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9/368035988?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E5%B0%91%E5%B9%B4%E6%8E%A2%E5%81%B5%E5%9B%A3/id6670191662?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/91/b3/b7/91b3b75b-6327-b87f-3ad2-ad9dc5a2d9d1/mza_11108904002750813370.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/91/b3/b7/91b3b75b-6327-b87f-3ad2-ad9dc5a2d9d1/mza_11108904002750813370.png/100x100bb.jpg",
       "genres": [
         "名作",
         "ブック",
         "小説／文学"
       ],
       "price": 0,
+      "artistName": "江戸川乱歩",
+      "artistId": 368035988,
       "genreIds": [
         "10042",
         "38",

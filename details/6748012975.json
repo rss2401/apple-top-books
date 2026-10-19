@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1131926140
+      ],
+      "trackCensoredName": "Baignades - Grand prix de littérature policière 2026",
+      "artistViewUrl": "https://books.apple.com/fr/artist/andr%C3%A9e-michaud/1131926140?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/baignades-grand-prix-de-litt%C3%A9rature-polici%C3%A8re-2026/id6748012975?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ed/28/5e/ed285e0e-b3b4-2079-7679-3e3bb9118484/9782743668150.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ed/28/5e/ed285e0e-b3b4-2079-7679-3e3bb9118484/9782743668150.jpg/100x100bb.jpg",
+      "artistId": 1131926140,
+      "artistName": "Andrée Michaud",
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "price": 9.49,
+      "releaseDate": "2025-08-20T07:00:00Z",
+      "trackId": 6748012975,
+      "trackName": "Baignades - Grand prix de littérature policière 2026",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Max, Laurence sa femme et leur fille Charlie viennent d'arriver au camping de Lac aux Oies pour passer de merveilleuses vacances. Mais à peine Charlie est-elle dans l'eau que le responsable du camp lui intime do sortir et de s'habiller décemment. Un autre incident, encore plus traumatisant, va se produire, conduisant Max à quitter les lieux. En pleine nuit, sous l'orage, à bord d'un camping car dont il ne maîtrise pas bien la conduite. Il va prendre la mauvaise direction. Pour le pire... <br /> Un thriller implacable dans lequel Andrée Michaud explore la destruction d'une famille.",
+      "formattedPrice": "9,49 €",
+      "country": "FRA"
+    }
+  ]
+}

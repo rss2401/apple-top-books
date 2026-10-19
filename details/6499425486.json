@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        26959209
+      ],
+      "formattedPrice": "16,99 €",
+      "price": 16.99,
+      "releaseDate": "2024-05-13T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Reihe Leben: Elke Heidenreich schreibt ganz persönlich über ein Thema, das uns alle betrifft. Ein ehrliches Buch über das Altern, das Mut macht.<br /><br />Alle wollen alt werden, niemand will alt sein. Der Widerspruch ist absurd, das Leiden daran real. Wie lernen wir, so gut wie möglich damit zurechtzukommen? Geht das, alt werden und ein erfülltes Leben führen? Elke Heidenreich hat sich mit dem Altwerden beschäftigt. Herausgekommen ist dabei ein Buch, wie nur sie es schreiben kann. Persönlich, ehrlich, doch nie gnadenlos, mit einem Wort: lebensklug.  Sie denkt über ihr eigenes Leben nach, und das heißt vor allem, über ihre Beziehungen zu anderen Menschen. Im Alter trägt man die Konsequenzen für alles, was man getan hat. Aber mit ihm kommt auch Gelassenheit, und man begreift: \"Das meiste ist vollkommen unwichtig. Man sollte einfach atmen und dankbar sein.\"",
+      "trackCensoredName": "Altern",
+      "artistViewUrl": "https://books.apple.com/de/artist/elke-heidenreich/26959209?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/altern/id6499425486?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/21/c4/5d/21c45d83-9f6e-6aed-120f-6b3d2b66a375/9783446280403.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/21/c4/5d/21c45d83-9f6e-6aed-120f-6b3d2b66a375/9783446280403.jpg/100x100bb.jpg",
+      "trackId": 6499425486,
+      "trackName": "Altern",
+      "genreIds": [
+        "9008",
+        "38",
+        "9031"
+      ],
+      "genres": [
+        "Biografien und Memoiren",
+        "Bücher",
+        "Belletristik und Literatur"
+      ],
+      "artistId": 26959209,
+      "artistName": "Elke Heidenreich",
+      "averageUserRating": 3.5,
+      "userRatingCount": 112,
+      "country": "DEU"
+    }
+  ]
+}

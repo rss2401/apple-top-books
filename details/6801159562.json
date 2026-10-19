@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1574499280
+      ],
+      "artistId": 1574499280,
+      "artistName": "Nadine Dela",
+      "genres": [
+        "New Adult-Liebesromane",
+        "Bücher",
+        "Liebesromane"
+      ],
+      "price": 3.99,
+      "releaseDate": "2026-10-08T07:00:00Z",
+      "trackId": 6801159562,
+      "trackName": "Iced Matcha and other Mistakes",
+      "genreIds": [
+        "11040",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Manche Orte lassen dich nicht los. Manche Menschen auch nicht.</b><br /><br />Ava wollte nicht bleiben. Sie wollte Antworten finden, als sie nach dem Tod ihrer Mutter nach Silver Pine Falls reiste. Doch zwischen den Spuren der Vergangenheit, dem kleinen Café Pine &amp; Ember und einer verschneiten Kleinstadt, die sich schneller nach Ankommen anfühlt, als sie erwartet hätte, gerät ihr sorgfältig geplanter Weg immer mehr ins Wanken.&#xa0;<br />Auch Ryan, der Besitzer des Pine &amp; Ember, bringt ihre Welt durcheinander. Er ist aufmerksam, und er scheint in Ava mehr zu sehen, als sie selbst noch sehen kann. Je mehr Zeit sie miteinander verbringen, desto schwieriger wird es, zwischen Abschied und Neuanfang zu unterscheiden. Vielleicht ist Zuhause manchmal kein Ort, den man verlässt – sondern einer, der erst gefunden werden muss.<br />Verschneite Tage in Kanada – eine gefühlvolle Winter Romance über Neuanfänge und leise Liebe.<b>Tropes: </b>Small Town, Slow Burn, Forced Proximity, Grumpy x Sunshine, Rivals to LoversRomantisch, nachdenklich, mutig – eine knisternde Liebesgeschichte ohne Spice.Für alle, die das warme Kleinstadtgefühl von Gilmore Girls und Sullivan's Crossing lieben.Diese Cosy Small Town Romance ist ein in sich abgeschlossener <b>Einzelband</b>.<br /><b><br />Manchmal braucht es mehr Mut, um zu bleiben, als um zu gehen.</b>",
+      "trackCensoredName": "Iced Matcha and other Mistakes",
+      "formattedPrice": "3,99 €",
+      "trackViewUrl": "https://books.apple.com/de/book/iced-matcha-and-other-mistakes/id6801159562?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ec/ed/c3/ecedc3d6-4e02-33e9-8f9a-f1c8f459a2f8/9783646614053.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ec/ed/c3/ecedc3d6-4e02-33e9-8f9a-f1c8f459a2f8/9783646614053.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/nadine-dela/1574499280?uo=4",
+      "country": "DEU"
+    }
+  ]
+}

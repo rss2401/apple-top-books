@@ -10,26 +10,26 @@
       "artistIds": [
         173331980
       ],
+      "formattedPrice": "無料",
+      "artistId": 173331980,
+      "artistName": "太宰治",
+      "trackName": "正義と微笑",
+      "trackId": 568753899,
       "genres": [
         "名作",
         "ブック",
         "小説／文学"
       ],
+      "price": 0,
+      "releaseDate": "1977-10-21T07:00:00Z",
       "genreIds": [
         "10042",
         "38",
         "9031"
       ],
-      "trackId": 568753899,
-      "trackName": "正義と微笑",
-      "releaseDate": "1977-10-21T07:00:00Z",
       "kind": "ebook",
       "currency": "JPY",
       "description": "「正義と微笑」は明治から昭和時代にかけて活躍した日本の小説家である太宰治の短編小説。この作品は底本の「パンドラの匣」1973(昭和48)年10月20日に収録されている。",
-      "formattedPrice": "無料",
-      "artistId": 173331980,
-      "artistName": "太宰治",
-      "price": 0,
       "averageUserRating": 4.5,
       "userRatingCount": 149,
       "country": "JPN"

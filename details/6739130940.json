@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1753254111
+      ],
+      "formattedPrice": "9,99 €",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance",
+        "Thriller romantique"
+      ],
+      "artistId": 1753254111,
+      "artistName": "Azra Reed",
+      "price": 9.99,
+      "trackId": 6739130940,
+      "trackName": "Valentina - T02",
+      "releaseDate": "2025-02-19T08:00:00Z",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003",
+        "10061"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Peu importe où tu iras, <i>hermosa</i>, je finis toujours par récupérer ce qui m’appartient.</b><br /><br /><b><b>Ce livre est une Dark Romance destinée à un public adulte et averti.<br /></b><br />La guerre des cartels scellera-t-elle le destin de Valentina ?</b><br /><br />Prisonnière des griffes d’Angel Cortès, elle ne peut compter que sur elle-même.&#xa0;<i>À moins que l’homme qui l’avait capturée ne vienne la sauver ?</i><br /><br />Pendant ce temps, rien ne semble pouvoir arrêter l'ascension fulgurante de Preto.&#xa0;<b>Son ambition le pousse à ignorer tous les avertissements, quitte à attiser la convoitise de nouveaux ennemis.</b>&#xa0;Au cœur de cette escalade de violence, Preto n'a pas peur de défier Angel Cortès pour récupérer celle qu'il n'arrive pas à oublier.&#xa0;<i>Et s'il peut en profiter pour prendre son trône et contrôler le trafic de drogue au Mexique, il n'hésitera pas à rendre cette guerre plus que sanglante.</i><br /><br />Dans cet univers où les alliances se brisent plus vite qu’elles ne se forment, une trahison amère pourrait fragiliser les fondations mêmes du cartel.&#xa0;<br /><br /><i>Et la rancœur de Preto n'en serait que plus profonde si elle venait de celle à qui il vient juste d'accorder sa confiance…</i>",
+      "trackCensoredName": "Valentina - T02",
+      "artistViewUrl": "https://books.apple.com/fr/artist/azra-reed/1753254111?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/valentina-t02/id6739130940?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a8/5b/d1/a85bd136-9e26-cc9d-8404-37942443756c/9791042900267-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a8/5b/d1/a85bd136-9e26-cc9d-8404-37942443756c/9791042900267-001-x.jpeg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 213,
+      "country": "FRA"
+    }
+  ]
+}

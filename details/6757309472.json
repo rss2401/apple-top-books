@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1753254111
+      ],
+      "formattedPrice": "9,99 €",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance",
+        "Thriller romantique"
+      ],
+      "artistId": 1753254111,
+      "artistName": "Azra Reed",
+      "price": 9.99,
+      "trackId": 6757309472,
+      "trackName": "Mariposa - Tome 1",
+      "releaseDate": "2026-04-01T07:00:00Z",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003",
+        "10061"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Ne t’envole pas, Papillon.</b><br /><br />Alors qu’elle ne cherchait qu’à fuir son chaos quotidien, Mariposa se retrouve entraînée dans l’univers brutal de Côme King&#xa0;: héritier d’un dangereux trafiquant d'art américain, qui attend de la retrouver depuis des années.<br /><br />Elle connaît l'horreur depuis sa plus tendre enfance, mais rien n’aurait pu la préparer à l’emprise de celui qui la considère comme l’outil de sa vengeance. Mariposa, le frêle papillon à peine sorti de sa chrysalide, n’aurait jamais dû bouleverser ses projets.<br /><br />Au milieu des balles, du sang et de la haine, Mariposa espère se libérer des griffes de Côme, mais rien ne garantit qu’elle en ressortira indemne…",
+      "trackCensoredName": "Mariposa - Tome 1",
+      "artistViewUrl": "https://books.apple.com/fr/artist/azra-reed/1753254111?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/mariposa-tome-1/id6757309472?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/df/44/2f/df442fec-7819-cbae-7499-6293883aba17/9791042905538-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/df/44/2f/df442fec-7819-cbae-7499-6293883aba17/9791042905538-001-x.jpeg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 38,
+      "country": "FRA"
+    }
+  ]
+}

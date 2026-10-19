@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1455961649
+      ],
+      "price": 0,
+      "genres": [
+        "New Adult-Liebesromane",
+        "Bücher",
+        "Liebesromane",
+        "Zeitgenössische Liebesromane"
+      ],
+      "artistId": 1455961649,
+      "artistName": "Tami Fischer",
+      "genreIds": [
+        "11040",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "trackId": 1587878209,
+      "trackName": "Mountains and Storms",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Manche Entscheidungen zerstören dein Leben …<br /><br />»Mountains and Storms« taucht ein in die Vergangenheit von Maxx Williams und erzählt nicht nur von fatalen Fehlern, sondern auch von der ersten großen Liebe. Eine Kurzgeschichte zum New-Adult-Roman »Moving Mountains« von Bestseller-Autorin Tami Fischer – exklusiv als eBook.<br /><br />Als Maxx die wunderschöne Rose kennenlernt, ist er augenblicklich hin und weg. Sie ist nicht nur wahnsinnig heiß, sondern auch selbstbewusst, schlagfertig und ganz offenbar sehr an ihm interessiert. Die Partynacht mit ihr ist magisch und unvergesslich. Maxx' Leben wird danach nicht mehr so sein, wie es war …<br /><br />»Mountains and Storms« erzählt die Vorgeschichte zu »Moving Mountains«, dem vierten Roman innerhalb der Fletcher-University-Reihe. Alle Bände der Reihe sind auch unabhängig voneinander lesbar.<br /><br />Weitere New-Adult-Romane der Fletcher-University-Reihe:<br />Burning Bridges (Ella &amp; Ches)Sinking Ships (Carla &amp; Mitchell)Hiding Hurricanes (Lenny &amp; Creed)Moving Mountains (Savannah &amp; Maxx), mit Kurzgeschichte »Mountains and Storms«Crushing Colors (Summer &amp; Brigham)",
+      "formattedPrice": "Gratis",
+      "trackCensoredName": "Mountains and Storms",
+      "artistViewUrl": "https://books.apple.com/de/artist/tami-fischer/1455961649?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/mountains-and-storms/id1587878209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fd/ee/65/fdee65f3-650d-33e9-ab3a-05b014f612d5/1035001815.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fd/ee/65/fdee65f3-650d-33e9-ab3a-05b014f612d5/1035001815.jpg/100x100bb.jpg",
+      "releaseDate": "2021-12-01T08:00:00Z",
+      "averageUserRating": 3.5,
+      "userRatingCount": 219,
+      "country": "DEU"
+    }
+  ]
+}

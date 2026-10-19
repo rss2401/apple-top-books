@@ -1,0 +1,41 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        954686231,
+        1728620056
+      ],
+      "artistId": 954686231,
+      "artistName": "井龍一 & 瀬尾知汐",
+      "genres": [
+        "ミステリー",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "少年"
+      ],
+      "price": 800,
+      "genreIds": [
+        "50000081",
+        "38",
+        "9026",
+        "10016",
+        "11337"
+      ],
+      "releaseDate": "2026-10-16T07:00:00Z",
+      "trackId": 6818475730,
+      "trackName": "罪と罰のスピカ(8)",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "殺意と罪に満ちた、心を”見る”少女の断罪サスペンス・第8巻!<br />死人に口なし。<br />だが、彼女は覗いているーー。<br />犯人不明。目的不明。捜査の難航が続く、廃墟で起きた集団不審死事件。<br />警察とスピカ、それぞれが事件を追う中<br />SNS上に一本の動画が投稿される。<br />それは、怪談【百年ノ笑ミ】の元ネタとして語られる<br />事件の実録映像だった! ーー突如浮かび上がる第三者の存在。<br />裏に潜むのは悪意?信仰?それとも殺意?<br />全てが明らかになる中で、スピカが下す選択はーー?<br />「秘密って守るより<br /> 誰かと共有した方が楽しいでしょ?」<br />世界中で殺人鬼の感染が始まる。",
+      "trackCensoredName": "罪と罰のスピカ(8)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E4%BA%95%E9%BE%8D%E4%B8%80-%E7%80%AC%E5%B0%BE%E7%9F%A5%E6%B1%90/954686231?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E7%BD%AA%E3%81%A8%E7%BD%B0%E3%81%AE%E3%82%B9%E3%83%94%E3%82%AB-8/id6818475730?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/7b/d6/58/7bd658c6-9d6b-be01-6e70-7bb465b55a54/BT000171651400800801900206.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/7b/d6/58/7bd658c6-9d6b-be01-6e70-7bb465b55a54/BT000171651400800801900206.jpg/100x100bb.jpg",
+      "formattedPrice": "¥800",
+      "country": "JPN"
+    }
+  ]
+}

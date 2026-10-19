@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        595101005
+      ],
+      "formattedPrice": "13,99 €",
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "artistId": 595101005,
+      "artistName": "Agnès Martin-Lugand",
+      "price": 13.99,
+      "trackId": 6739238856,
+      "trackName": "Les Renaissances",
+      "releaseDate": "2025-02-20T08:00:00Z",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Il est des regards qui abîment, d'autres qui réparent...</b><br /><br />À la faveur du comptoir d'un bistrot et du hasard, un homme et une femme font connaissance.<br />Rebecca est une romancière en mal d'inspiration qui voit sa vie lui échapper.<br />Lino, un artisan passionné d'histoire de l'art, rongé par son passé et sa quête d'absolu.<br />Enclin aux confidences, il se livre à elle avant de disparaître dans la nuit.<br />Fascinée par son histoire, elle se lance sur ses traces avec le projet fou de faire de lui le héros de son prochain roman.",
+      "trackCensoredName": "Les Renaissances",
+      "artistViewUrl": "https://books.apple.com/fr/artist/agn%C3%A8s-martin-lugand/595101005?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-renaissances/id6739238856?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ef/71/c5/ef71c585-5baf-69f3-1a5c-a520c474654a/9782749961460.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ef/71/c5/ef71c585-5baf-69f3-1a5c-a520c474654a/9782749961460.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 179,
+      "country": "FRA"
+    }
+  ]
+}

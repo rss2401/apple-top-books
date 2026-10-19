@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        596677356
+      ],
+      "price": 0,
+      "genres": [
+        "Zeitgenössisch",
+        "Bücher",
+        "Science-Fiction und Fantasy",
+        "Fantasy"
+      ],
+      "artistId": 596677356,
+      "artistName": "K.F. Breene",
+      "genreIds": [
+        "11001",
+        "38",
+        "9020",
+        "10044"
+      ],
+      "trackId": 6818152131,
+      "trackName": "Schülerin des Feuers - Buch eins GRATIS",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Übersinnliche Kopfgeldjägerin ist nicht gerade der Job, den man auf LinkedIn angibt. Aber mit meiner seltenen Art von Magie ist das immer noch der beste Weg, um mich über Wasser zu halten.<br/>\n<br/>\nUnd es lief auch ganz gut, bis mich ein mächtiger, steinalter, unglaublich attraktiver Vampir erpresst. Ich soll für ihn arbeiten, um einen streng geheimen Fall zu lösen.<br/>\n<br/>\nJeder weiß, dass man Vampiren nicht trauen darf. Noch dazu, wenn sie einen sehr hartnäckig zu verführen versuchen ...",
+      "formattedPrice": "Gratis",
+      "trackCensoredName": "Schülerin des Feuers - Buch eins GRATIS",
+      "artistViewUrl": "https://books.apple.com/de/artist/k-f-breene/596677356?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/sch%C3%BClerin-des-feuers-buch-eins-gratis/id6818152131?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/28/16/46/281646d0-c94a-563c-563c-37e4d879a814/1069041869.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/28/16/46/281646d0-c94a-563c-563c-37e4d879a814/1069041869.jpg/100x100bb.jpg",
+      "releaseDate": "2023-08-16T07:00:00Z",
+      "country": "DEU"
+    }
+  ]
+}

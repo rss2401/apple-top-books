@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        273742810
+      ],
+      "formattedPrice": "4,99 €",
+      "price": 4.99,
+      "releaseDate": "2016-10-13T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Der große Deutschland-Roman über die Geschichte der Bundesrepublik - jetzt die 2. Staffel in der ARD</b><br />Es ist der 20. Juni 1948. Das neue Geld ist da – die D-Mark. 40 DM \"Kopfgeld\" gibt es für jeden. Für die drei so verschiedenen Schwestern Ruth, Ulla und Gundel, Töchter des geachteten Fabrikanten Wolf in Altena. Für Tommy, den charmanten Improvisateur, für den ehrgeizigen Jung-Kaufmann Benno, für Bernd, dem Sicherheit das Wichtigste ist. Was werden die sechs Freunde mit ihrem Geld beginnen? Welche Träume und Hoffnungen wollen sie damit verwirklichen? Schicksalhaft sind sie alle verbunden – vom Wirtschaftswunder über die Geschäfte zwischen den beiden deutschen Staaten bis zum Begrüßungsgeld nach dem Mauerfall. Sechs Freunde und ihre Familien machen ihren Weg, erleben über drei Generationen die Bundesrepublik der D-Mark – und den Beginn der neuen, europäischen Währung. Authentisch, spannend und detailreich ist der Roman ›Unsere wunderbaren Jahre‹ von Bestseller-Autor Peter Prange ein Spiegel unserer Biographien.<br />Wie wir wurden, was wir sind: Der Bestseller-Roman über die Bundesrepublik – eine bewegende Familiengeschichte von Erfolgsautor Peter Prange, in der die gesamte Nachkriegszeit bis zur Gegenwart lebendig wird.<br /><br />Staffel 1 der großen ARD-Verfilmung begeisterte 8 Millionen Zuschauer. Am 11. März startet die Fortsetzung des TV-Highlights. Die ganze Geschichte finden Sie im Roman von Peter Prange.&#xa0;<br /><br />Sein aktueller Roman in zwei Bänden ›Der Traumpalast‹ führt in die Geschichte Deutschlands in den zwanziger Jahren.",
+      "trackCensoredName": "Unsere wunderbaren Jahre",
+      "artistViewUrl": "https://books.apple.com/de/artist/peter-prange/273742810?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/unsere-wunderbaren-jahre/id1108655867?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/13/a5/d9/13a5d924-0a33-b985-b9b1-31af9874a219/1019076718.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/13/a5/d9/13a5d924-0a33-b985-b9b1-31af9874a219/1019076718.jpg/100x100bb.jpg",
+      "trackId": 1108655867,
+      "trackName": "Unsere wunderbaren Jahre",
+      "genreIds": [
+        "9031",
+        "38",
+        "11050"
+      ],
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher",
+        "Familienbelletristik und Literatur"
+      ],
+      "artistId": 273742810,
+      "artistName": "Peter Prange",
+      "averageUserRating": 4,
+      "userRatingCount": 76,
+      "country": "DEU"
+    }
+  ]
+}

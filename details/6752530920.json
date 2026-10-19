@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        357914854
+      ],
+      "formattedPrice": "5,99 €",
+      "genres": [
+        "Romance historique",
+        "Livres",
+        "Romance"
+      ],
+      "artistId": 357914854,
+      "artistName": "Anne Gracie",
+      "price": 5.99,
+      "trackId": 6752530920,
+      "trackName": "Les archanges du diable (Tome 5) - L'épouse andalouse",
+      "releaseDate": "2025-10-01T07:00:00Z",
+      "genreIds": [
+        "10059",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Pendant la guerre d’indépendance espagnole, le lieutenant Luke Ripton s’est marié à la hâte pour sauver une jeune fille d’une union forcée avant de la mettre à l’abri dans un couvent. Huit ans plus tard, il n’a d’autre choix que de retrouver cette épouse dont il ne veut pas. \nDepuis près d’une décennie, Isabella rêve de son beau prince aux cheveux noirs. Ses illusions sont brisées lorsqu’elle découvre cet homme autoritaire, auquel se heurte sa nature farouche. Contraints de rester liés par leurs vœux de mariage, ils pourraient bien donner libre cours à leur fureur… et à d’autres sentiments.",
+      "trackCensoredName": "Les archanges du diable (Tome 5) - L'épouse andalouse",
+      "artistViewUrl": "https://books.apple.com/fr/artist/anne-gracie/357914854?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-archanges-du-diable-tome-5-l%C3%A9pouse-andalouse/id6752530920?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/bd/64/ed/bd64ed88-72bd-1c3d-ede9-fd483883504f/9782290420737.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/bd/64/ed/bd64ed88-72bd-1c3d-ede9-fd483883504f/9782290420737.jpg/100x100bb.jpg",
+      "averageUserRating": 4,
+      "userRatingCount": 7,
+      "country": "FRA"
+    }
+  ]
+}

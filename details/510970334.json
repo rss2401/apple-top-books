@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "formattedPrice": "Gratuit",
       "artistIds": [
         2684161
       ],
@@ -10,14 +11,8 @@
       "trackViewUrl": "https://books.apple.com/fr/book/les-mis%C3%A9rables-tome-iv/id510970334?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication7/v4/9d/b3/2f/9db32f96-3042-3245-e6a7-d57093cdc7b7/coverArt.808734.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication7/v4/9d/b3/2f/9db32f96-3042-3245-e6a7-d57093cdc7b7/coverArt.808734.jpg/100x100bb.jpg",
-      "formattedPrice": "Gratuit",
       "artistId": 2684161,
       "artistName": "Victor Hugo",
-      "genres": [
-        "Fiction historique",
-        "Livres",
-        "Romans et littérature"
-      ],
       "price": 0,
       "genreIds": [
         "10047",
@@ -30,8 +25,13 @@
       "kind": "ebook",
       "currency": "EUR",
       "description": "Toute l'action de ce tome est sous-tendue par l'émeute de june 1832 et la barricade de la rue Saint-Denis. Victor Hugo estime même que c'est en quelque sorte là le cœur du roman. Le premier livre replace les évènements dans le contexte historique de la situation insurrectionnelle à Paris au début de l'année 1832.",
+      "genres": [
+        "Fiction historique",
+        "Livres",
+        "Romans et littérature"
+      ],
       "averageUserRating": 4.5,
-      "userRatingCount": 98,
+      "userRatingCount": 99,
       "country": "FRA"
     }
   ]

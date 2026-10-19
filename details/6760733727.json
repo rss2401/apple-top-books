@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1863063952
+      ],
+      "trackCensoredName": "Juste Pour T'oublier",
+      "artistViewUrl": "https://books.apple.com/fr/artist/apolline-vercel/1863063952?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/juste-pour-toublier/id6760733727?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/17/2d/8d/172d8dea-164b-b3a7-9777-e2eceda88eb7/0004172324.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/17/2d/8d/172d8dea-164b-b3a7-9777-e2eceda88eb7/0004172324.jpg/100x100bb.jpg",
+      "artistId": 1863063952,
+      "artistName": "Apolline Vercel",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance"
+      ],
+      "price": 7.99,
+      "releaseDate": "2026-03-17T07:00:00Z",
+      "trackId": 6760733727,
+      "trackName": "Juste Pour T'oublier",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Seth Wakowski</b> a tout pour lui : star incontestée de l'équipe de basket des Mischiefs, il mène une vie de rêve à New York. Mais derrière son image de séducteur impénitent se cache un jeune père célibataire, prêt à tout pour offrir la meilleure vie possible à sa fille d'un an, Jasmine. Lorsque le propriétaire de l'équipe exige qu'il se range et trouve une épouse pour faire taire les scandales, Seth sait qu'il doit agir vite.<br /><br /><b>Layla Jackson</b>, vingt-deux ans, a la langue bien pendue et déteste tout ce que Seth représente. Brillante et farouchement indépendante, elle se bat au quotidien pour aider sa mère à s'occuper de sa grand-mère atteinte d'Alzheimer. Mais l'argent vient à manquer, et la santé de sa « Gaga » décline dangereusement.<br /><br />Entre le basketteur arrogant et la jeune femme au fort caractère, l'animosité est évidente. Pourtant, Seth lui propose l'impensable : un mariage de convenance. En échange de son aide pour élever Jasmine et redorer son image publique, il financera les soins médicaux de sa grand-mère.<br /><br />Ce qui ne devait être qu'un simple arrangement commercial bascule lorsque la cohabitation s'en mêle. Entre les piques cinglantes, une proximité forcée et une tension sexuelle à couper le souffle, la frontière entre la fausse relation et les vrais sentiments devient dangereusement floue. Et quand le passé sombre de la famille maternelle de Jasmine menace leur nouvel équilibre, Seth et Layla vont devoir faire front commun.<br /><br /><i>Entre les faux-semblants et la réalité, il n'y a qu'un pas. Franchiront-ils la ligne ?</i><br /><br /><i><b>Avertissement : Romance pour public averti (contient des scènes explicites et aborde des thématiques familiales sensibles)</b>.</i>",
+      "formattedPrice": "7,99 €",
+      "averageUserRating": 4.5,
+      "userRatingCount": 19,
+      "country": "FRA"
+    }
+  ]
+}

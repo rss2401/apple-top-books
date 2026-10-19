@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "12,99 €",
+      "artistIds": [
+        1549344169
+      ],
+      "trackCensoredName": "Bride – Die unergründliche Übernatürlichkeit der Liebe",
+      "artistViewUrl": "https://books.apple.com/de/artist/ali-hazelwood/1549344169?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/bride-die-unergr%C3%BCndliche-%C3%BCbernat%C3%BCrlichkeit-der-liebe/id6463899538?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/78/c7/60/78c7605a-2a99-29bb-1ce5-45614c1ba7e5/9783841231659.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/78/c7/60/78c7605a-2a99-29bb-1ce5-45614c1ba7e5/9783841231659.jpg/100x100bb.jpg",
+      "genres": [
+        "Paranormale Liebesromane",
+        "Bücher",
+        "Liebesromane",
+        "Romantische Komödien",
+        "Science-Fiction und Fantasy",
+        "Fantasy",
+        "Belletristik und Literatur",
+        "Zeitgenössische Liebesromane"
+      ],
+      "price": 12.99,
+      "artistId": 1549344169,
+      "artistName": "Ali Hazelwood",
+      "trackId": 6463899538,
+      "trackName": "Bride – Die unergründliche Übernatürlichkeit der Liebe",
+      "releaseDate": "2024-02-06T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Der Bestseller von Ali Hazelwood über eine Liebe zwischen zwei Welten: Forbidden Love, Fated Mates, Enemies to Lovers - in einer übernatürlich romantischen, prickelnd heißen Lovestory aus einem neuen Teil des Aliversums. Misery Lark, Tochter eines mächtigen Vampirfürsten, war schon immer eine Außenseiterin. Mit ihren Reißzähnen weiß sie nichts anzufangen und führt ein anonymes Dasein unter den Menschen. Ausgerechnet sie soll sich nun für eine mehr als brisante Bündnisehe mit einem der Werwölfe, den ewigen Todfeinden der Vampire, zur Verfügung stellen.<br /><br />Dabei scheint ihr zukünftiger Ehemann, der Alpha Lowe Moreland, ebenso erbarmungslos und unberechenbar zu sein wie der Rest seines Rudels. Das beherrscht er allerdings nicht nur mit absoluter Autorität, sondern, wie Misery bald feststellt, auch mit viel Sinn für Gerechtigkeit und – ganz anders als die Vampire – nicht ohne Gefühl. Aber sie spürt, dass er ihr nicht traut – und wenn er nur wüsste, wie recht er damit hat. Denn Misery hat ganz eigene Gründe, sich auf dieses Bündnis einzulassen. Und dafür ist sie bereit, alles zu opfern, selbst wenn das ein Leben allein unter Wölfen bedeutet. Doch womit Misery nicht gerechnet hat, ist die alles überwindende Ungleichartigkeit der Liebe ...<br /><br />\"Hazelwood ist ein absolutes Romance-Powerhouse.\" Christina Lauren. <br /> &#xa0;\"Leidenschaftlich und witzig und von einer urweltlichen Intensität – Ali Hazelwoods Debüt im Paranormalen führt uns in eine Welt, die genauso faszinierend ist wie ihre Charaktere.\" Nalini Singh, New-York-Times-Bestsellerautorin.",
+      "genreIds": [
+        "10058",
+        "38",
+        "9003",
+        "11042",
+        "9020",
+        "10044",
+        "9031",
+        "10057"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 461,
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        609482092
+      ],
+      "artistId": 609482092,
+      "artistName": "G. F. Unger",
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher",
+        "Historische Romane",
+        "Krimis und Thriller",
+        "Klassiker",
+        "Action und Abenteuer"
+      ],
+      "price": 2.49,
+      "releaseDate": "2026-10-17T07:00:00Z",
+      "trackId": 6814746993,
+      "trackName": "G. F. Unger 2398",
+      "genreIds": [
+        "9031",
+        "38",
+        "10047",
+        "9032",
+        "10042",
+        "10039"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Mit fünfzehn Jahren ist er davongeritten. Jetzt, zehn Jahre später, kommt er in die Heimat zurück. Was können zehn Jahre aus einem jungen Burschen machen? Für Matt Oarson waren es zehn raue Jahre - eine lange Zeit, die ihm wie ein ganzes Menschenalter erscheint - und die ihn zu einem Revolvermann gemacht hat.<br /><br />Revolvermann! Ein anrüchiges Wort ist das.<br /><br />Vielleicht hätte sein harter Vater ihn anders anpacken müssen - aber vielleicht hätte auch das die Dinge nicht aufgehalten. Vielleicht ist es sein Schicksal, immer reiten zu müssen und die Unruhe des Blutes wie ein Zugvogel zu spüren. Matt Oarson sitzt auf einem großen Rappwallach und er ist selbst ein großer Mann. Seine Bewegungen sind glatt und geschmeidig. Alles an ihm erscheint wunderbar eingespielt. Auf seinem Gesicht haben die harten Kämpferjahre ihre Zeichen hinterlassen. Und am ganzen Körper trägt er noch die Spuren aus jener Zeit, als er ein Junge unter rauen und wilden Männern war und sich erst einen Platz unter ihnen erobern musste.<br /><br />Eines Tages kamen dann bestimmte Nachrichten aus dem Long Rim Valley zu ihm. Da fühlte er, dass er heimreiten musste.<br /><br />Nun hält er auf seinem großen Rappwallach oben auf einer Kehre des Passweges und späht in das Tal hinunter ...",
+      "trackCensoredName": "G. F. Unger 2398",
+      "formattedPrice": "2,49 €",
+      "trackViewUrl": "https://books.apple.com/de/book/g-f-unger-2398/id6814746993?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/57/d1/6d/57d16dfa-d2f7-e4c7-f263-aff9075c2aec/9783819804267.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/57/d1/6d/57d16dfa-d2f7-e4c7-f263-aff9075c2aec/9783819804267.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/g-f-unger/609482092?uo=4",
+      "country": "DEU"
+    }
+  ]
+}

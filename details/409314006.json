@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        30689916
+      ],
+      "formattedPrice": "4,99 €",
+      "price": 4.99,
+      "releaseDate": "1608-01-01T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Ein toter Botschafter und ein Ermittler am Rand des Abgrunds</b><br /><br />Ein toter Diplomat, eine Polizei, die Grenzen kennt – und ein Ermittler, der keine mehr sieht. Je tiefer er in das Leben des Opfers eintaucht, desto deutlicher wird: Hinter dieser Tat steckt mehr als ein einzelner Mord.<br /><br />*** In einer Stadt ohne Gesetz jagt er die Wahrheit ***<br /><br />In Bangkok wurde der norwegische Botschafter ermordet. Harry soll die thailändische Polizei unterstützen und taucht tief ein in die Unterwelt einer Stadt, in der Moral und Gesetz keine Rolle spielen. Dabei findet er mehr über den Ermordeten heraus, als seinen Vorgesetzten lieb ist.<br /><br />Ein Ermittler, der für die Wahrheit jede Grenze überschreitet – auch die eigenenFür Fans harter, psychologisch intensiver Krimis und der erfolgreichen Harry-Hole-ReiheEin fesselnder Krimi zwischen Diplomatie, Macht und Korruption<br />Ein früher Fall von Harry Hole, der tief in die Schattenseiten einer glitzernden Metropole führt. Düster, gnadenlos und voller moralischer Grauzonen – skandinavische Spannung, die weit über Norwegen hinausreicht. Ein Muss für alle Fans harter Ermittlerkrimis.",
+      "trackCensoredName": "Kakerlaken",
+      "artistViewUrl": "https://books.apple.com/de/artist/jo-nesb%C3%B8/30689916?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/kakerlaken/id409314006?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3d/8b/c1/3d8bc19b-7257-61f0-efd9-4f4ef8f14c68/9783548920726.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3d/8b/c1/3d8bc19b-7257-61f0-efd9-4f4ef8f14c68/9783548920726.jpg/100x100bb.jpg",
+      "trackId": 409314006,
+      "trackName": "Kakerlaken",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher"
+      ],
+      "artistId": 30689916,
+      "artistName": "Jo Nesbø",
+      "averageUserRating": 4,
+      "userRatingCount": 242,
+      "country": "DEU"
+    }
+  ]
+}

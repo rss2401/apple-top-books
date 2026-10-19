@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/106372375?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/c1/88/86/c18886e7-0ebd-3001-1000-b6a2686b8e88/0000000000464.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/c1/88/86/c18886e7-0ebd-3001-1000-b6a2686b8e88/0000000000464.jpg/100x100bb.jpg",
+      "artistIds": [
+        106372375
+      ],
+      "artistId": 106372375,
+      "artistName": "宮沢賢治",
+      "genres": [
+        "名作",
+        "ブック",
+        "小説／文学"
+      ],
+      "price": 0,
+      "trackId": 566849808,
+      "trackName": "猫の事務所",
+      "releaseDate": "1990-01-29T08:00:00Z",
+      "genreIds": [
+        "10042",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "1926(大正15)年に文芸雑誌『月曜』発表された、宮沢賢治の数少ない生前発表童話のひとつ。猫の歴史と地理を調べる猫の第六事務所。そこには大きな黒猫の事務長、一番書記の白猫、二番書記の虎猫、三番書記の三毛猫、そして嫌われ者の四番書記の竈(かま)猫がいた。ある時、やさしかった黒猫までもがいじめに加わるようになり、竈猫は仕事を取り上げられてしまう。そんなとき獅子が現れ事務所の解散を命じる。猫たちののん気な仕事ぶりが、役立たずの官衙(役所)を見事に風刺している快作。物語の最後、「ぼくは半分獅子に同感です」と結ばれるその真意とは……。『猫の事務所』の舞台となった「第六事務所」は、花巻市の旧稗貫郡役所がモデルと言われる。",
+      "trackCensoredName": "猫の事務所",
+      "formattedPrice": "無料",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E7%8C%AB%E3%81%AE%E4%BA%8B%E5%8B%99%E6%89%80/id566849808?uo=4",
+      "averageUserRating": 4,
+      "userRatingCount": 801,
+      "country": "JPN"
+    }
+  ]
+}

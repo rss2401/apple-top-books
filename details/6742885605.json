@@ -6,7 +6,11 @@
         330715921,
         534887173
       ],
-      "formattedPrice": "2,99 €",
+      "trackCensoredName": "Les Diables T01",
+      "artistViewUrl": "https://books.apple.com/fr/artist/joe-abercrombie-jean-claude-mall%C3%A9/330715921?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-diables-t01/id6742885605?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/36/b0/77/36b07798-1957-8dfc-7bb0-74d77ccc7be7/9791028131890-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/36/b0/77/36b07798-1957-8dfc-7bb0-74d77ccc7be7/9791028131890-001-x.jpeg/100x100bb.jpg",
       "artistId": 330715921,
       "artistName": "Joe Abercrombie & Jean Claude Mallé",
       "genres": [
@@ -15,22 +19,18 @@
         "SF et fantasy"
       ],
       "price": 2.99,
-      "trackName": "Les Diables T01",
+      "releaseDate": "2025-05-14T07:00:00Z",
       "trackId": 6742885605,
+      "trackName": "Les Diables T01",
       "genreIds": [
         "10044",
         "38",
         "9020"
       ],
-      "releaseDate": "2025-05-14T07:00:00Z",
       "kind": "ebook",
       "currency": "EUR",
       "description": "Une épopée viscérale, crue, grinçante à souhait avec un cast de héros réjouissants de noirceur : découvrez&#xa0;la nouvelle saga de Joe Abercrombie, traduite en quinze langues et bientôt adaptée à l'écran par James Cameron !<br /><br />L'Europe est au bord du gouffre.<br /><br />La peste et la famine la ravagent, des monstres rôdent dans l'ombre et des princes avides ne songent qu'à leurs dévorantes ambitions. Une seule certitude demeure&#xa0;: les elfes reviendront, et ils mangeront tout le monde.<br /><br />Mais parfois, les chemins les plus sombres mènent à la lumière. Des routes sur lesquelles les Justes n'ont pas l'audace de s'engager.<br /><br />Enfouie dans les entrailles du splendide Palais Céleste, le fief de la foi, la Chapelle des Saints Expédients est un secret jalousement gardé. Car pour sa congrégation - un ramassis de monstres condamnés -, il n'existe pas de crimes interdits, de ligne rouge infranchissable...&#xa0;ni de mission qui finisse autrement que dans un bain de sang.<br /><br />Pour l'infortuné frère Diaz, bombardé vicaire de la chapelle, le défi est de convertir au bien la lie de la terre afin qu'elle défende une noble cause&#xa0;: asseoir une voleuse sur le trône de Troie et réunifier les Églises d'Occident et d'Orient avant l'apocalypse à venir.<br /><br />Quand on s'aventure en Enfer, mieux vaut avoir les Diables à ses côtés.<br />&#xa0;<br /><br />«&#xa0;Joe Abercrombie à son meilleur&#xa0;: excitant, drôle et féroce. Les passionnés d'histoire comme moi adoreront le mélange d'histoire et de Fantasy rehaussé par une multitude de brillants petites trouvailles.&#xa0;»&#xa0;Django Wexler, Les Mille Noms<br /><br />«&#xa0;Abercrombie est le champion toutes catégories en matière de personnages marquants, qui prennent littéralement vie sur la page. Ici, il s'est surpassé. Ce roman à la fois drôle, profond et tragique est mené sur un rythme haletant. J'en ai aimé chaque ligne, et je brûle d'impatience de savoir où nous conduira cette histoire. Droit en enfer, comme je le soupçonne et l'espère&#xa0;!&#xa0;»&#xa0;Nicholas Eames, Wyld<br /><br />«&#xa0;Un roman incroyablement drôle, incroyablement bourré d'action et, au bout du compte, incroyablement bouleversant. Pour tout dire, il m'a retourné les tripes.&#xa0;»&#xa0;Tamsyn Muir, Gideon la&#xa0;Neuvième<br /><br />«&#xa0;Sanglant, vif et violent&#xa0;: un livre exceptionnellement bon, au style acéré et énergique. Une histoire bourrée d'humour noir et délicieusement irrévérente signée par un&#xa0;maître en son art. Si tous les «&#xa0;arbres&#xa0;» de la Fantasy forment une immense forêt, Abercrombie est un sacré incendiaire&#xa0;!&#xa0;»&#xa0;Jeremy Szal, Stormblood<br /><br />«&#xa0;Les Douze Salopards en Fantasy, et avec de véritables monstres. Une aventure épique qui transcende les genres. Le meilleur Abercrombie à ce jour. En attendant le prochain.&#xa0;»&#xa0;Christopher Buehlman, Entre ciel et enfer<br /><br />«&#xa0;Diaboliquement drôle, un vrai plaisir coupable. Maniant sa plume grinçante et tranchante comme une lame, une marque déposée chez lui, Abercrombie donne le meilleur de lui-même dans une histoire où de monstrueux héros découvrent leur part d'humanité.&#xa0;»&#xa0;Pierce Brown, Red Rising",
-      "trackCensoredName": "Les Diables T01",
-      "artistViewUrl": "https://books.apple.com/fr/artist/joe-abercrombie-jean-claude-mall%C3%A9/330715921?uo=4",
-      "trackViewUrl": "https://books.apple.com/fr/book/les-diables-t01/id6742885605?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/36/b0/77/36b07798-1957-8dfc-7bb0-74d77ccc7be7/9791028131890-001-x.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/36/b0/77/36b07798-1957-8dfc-7bb0-74d77ccc7be7/9791028131890-001-x.jpeg/100x100bb.jpg",
+      "formattedPrice": "2,99 €",
       "averageUserRating": 4.5,
       "userRatingCount": 23,
       "country": "FRA"

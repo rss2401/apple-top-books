@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1621635651
+      ],
+      "artistId": 1621635651,
+      "artistName": "Izzy Maxen",
+      "genres": [
+        "Fantasy",
+        "Bücher",
+        "Science-Fiction und Fantasy"
+      ],
+      "price": 4.99,
+      "releaseDate": "2026-10-08T07:00:00Z",
+      "trackId": 6801159243,
+      "trackName": "Reign of the Fallen 1: A Queen Bound in Darkness",
+      "genreIds": [
+        "10044",
+        "38",
+        "9020"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Wenn eine Königin töten muss, wen sie liebt – kann ausgerechnet ihr Feind sie retten? <br /></b>Die junge Königin Rogue herrscht mit eiserner Hand über das magische Fae-Reich Elarion. Doch das Magienetz, das alles zusammenhält, beginnt sich aufzulösen. Rogues Berater fordern einen König an ihrer Seite – allerdings wird dieser, wie jeder Mann, der mit ihr das Bett teilt, mit dem Leben bezahlen. Als der stolze Halbblut-Fae Vaden vor ihren Thron gezerrt wird, spürt Rogue etwas, das sie seit Langem nicht mehr gefühlt hat: Stille. Seine bloße Berührung besänftigt ihre Magie – und macht Rogue süchtig nach mehr. Während zwischen ihnen eine tödliche Anziehung beginnt, wird in den Schatten bereits Verrat geschmiedet. Und auch Vaden ist kein Verbündeter, nicht Rogues Rettung. Er ist gekommen, um die Frau zu töten, die seinen Bruder auf dem Gewissen hat. &#xa0;&#xa0;<br />Eine Königin, deren größte Stärke zugleich ihr schrecklichster Fluch ist. Denn jede Nähe bedeutet Verlust.&#xa0;Er kam, um sie zu töten – und wurde der Einzige, der sie wirklich erreicht.&#xa0;<b>Tropes</b>: Enemies to Lovers, Forbidden Love, Forced Proximity, Chosen One, Morally Grey&#xa0;Direkte, leidenschaftliche Szenen, die die Handlung vorantreiben: 3 von 5 Chilis 🌶️🌶️🌶️Diese <b>düstere New Adult Romantasy</b> ist eine<b> zusammenhängende Dilogie</b>, deren Bände in chronologischer Reihenfolge gelesen werden sollten.&#xa0;<br /><b>Wo lodernder Hass gegen Sehnsucht kämpft und jede Berührung den Tod bedeutet ... sucht die Liebe ihren Platz.&#xa0;</b>",
+      "trackCensoredName": "Reign of the Fallen 1: A Queen Bound in Darkness",
+      "formattedPrice": "4,99 €",
+      "trackViewUrl": "https://books.apple.com/de/book/reign-of-the-fallen-1-a-queen-bound-in-darkness/id6801159243?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/2b/e0/d4/2be0d498-061e-eb6b-a5ea-b501a382eab3/9783646613049.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/2b/e0/d4/2be0d498-061e-eb6b-a5ea-b501a382eab3/9783646613049.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/izzy-maxen/1621635651?uo=4",
+      "country": "DEU"
+    }
+  ]
+}

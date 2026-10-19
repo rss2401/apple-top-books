@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        40770274,
+        393485773
+      ],
+      "price": 1.99,
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Belletristik und Literatur"
+      ],
+      "artistId": 40770274,
+      "artistName": "Mick Herron & Stefanie Schäfer",
+      "genreIds": [
+        "9032",
+        "38",
+        "9031"
+      ],
+      "trackId": 6751953066,
+      "trackName": "Down Cemetery Road",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Sarah Tucker lebt in einem beschaulichen Vorort von Oxford, in der Rolle als Hausfrau gestrandet. Als jedoch nach einer Explosion in der Nachbarschaft ein Kind spurlos verschwindet, findet sie keine Ruhe mehr und holt sich Hilfe bei der Privatermittlerin Zoë Boehm. Gemeinsam bringen die beiden Frauen mehr Geheimnisse als Antworten ans Licht – Menschen, die lange für tot gehalten wurden, weilen unter den Lebenden, während sich immer mehr schnell zu den Toten gesellen. Vom ruhigen, abgründigen Pflaster Oxfords in ein Netz aus Verschwörungen von hochoffizieller Seite.",
+      "formattedPrice": "1,99 €",
+      "trackCensoredName": "Down Cemetery Road",
+      "artistViewUrl": "https://books.apple.com/de/artist/mick-herron-stefanie-sch%C3%A4fer/40770274?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/down-cemetery-road/id6751953066?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a5/3d/c6/a53dc61d-d15a-11b3-5834-2696820709f6/9783257615784.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a5/3d/c6/a53dc61d-d15a-11b3-5834-2696820709f6/9783257615784.jpg/100x100bb.jpg",
+      "releaseDate": "2025-10-22T07:00:00Z",
+      "averageUserRating": 4,
+      "userRatingCount": 10,
+      "country": "DEU"
+    }
+  ]
+}

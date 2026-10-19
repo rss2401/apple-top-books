@@ -8,20 +8,22 @@
       ],
       "artistId": 364570423,
       "artistName": "Genevieve Ko",
+      "price": 1.99,
       "genres": [
         "Cooking Methods",
         "Books",
         "Cookbooks, Food & Wine",
         "Special Diet Cookbooks"
       ],
-      "price": 1.99,
+      "releaseDate": "2016-09-27T07:00:00Z",
+      "trackId": 1517953357,
+      "trackName": "Better Baking",
       "genreIds": [
         "10030",
         "38",
         "9028",
         "10028"
       ],
-      "releaseDate": "2016-09-27T07:00:00Z",
       "kind": "ebook",
       "currency": "USD",
       "description": "<b>An Epicurious </b><b>and Tasting Table </b><b>Fall Pick</b><b>. \"A beautiful and thoughtful master class on how to bake your cake and eat it too.\"—Carla Hall, TV chef and author of <i>Carla Hall's Soul Food</i></b><br />\n    After more than a dozen years developing recipes for food and health magazines and collaborating with noted pastry chefs, Genevieve Ko was determined to create treats that were just as indulgent as their original counterparts, as well as more full flavored and nourishing. In a word, better. Healthful oils prove superior to butter, giving Mocha Chip Cookies crisp shells and molten insides, liberating the citrus in Lemon Layer Cake with Olive Oil Curd, and tenderizing Melting Walnut Snowballs. Refined white sugar pales beside concentrated sweeteners like pure maple syrup, brown sugar, and molasses in muffins and granola. Pomegranate Pistachio Baklava uses reduced pomegranate syrup instead of the usual saccharine one. Nubby flours with personality—whole wheat, spelt, rye, buckwheat, graham flour, and almond flour—bring richness to such desserts as Glazed Apple Cider Doughnuts. And pureed fruits and vegetables (beets in Red Velvet Roulade with Strawberry Cream Cheese; grated zucchini in Chocolate School Party Sheet Cake) keep desserts extra moist.<br />\n    \"The best baking book I have seen in many years.\"—Sarabeth Levine, James Beard Award-winning pastry chef and restaurant owner<br />\n    \"Ingenious&#xa0;recasting of favorite recipes.\"—<i>Entertainment Weekly</i><br />\n    \"Motivated to update classics with more alternative flours and less sugar,&#xa0;Ko has created some of the most innovative flavor combinations you'll find in a baking book, such as Fennel and Currant Corn Bread; Buckwheat Almond Apple Cake; Toasted Walnut and Grape Clafoutis; Chestnut Kisses.\"—<i>The </i><i>Washington Post</i>",
@@ -30,8 +32,6 @@
       "trackViewUrl": "https://books.apple.com/us/book/better-baking/id1517953357?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/54/e2/9c/54e29ce6-a453-e452-e58f-f06989f3ca2a/1058023795.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/54/e2/9c/54e29ce6-a453-e452-e58f-f06989f3ca2a/1058023795.jpg/100x100bb.jpg",
-      "trackId": 1517953357,
-      "trackName": "Better Baking",
       "country": "USA"
     }
   ]

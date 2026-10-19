@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        205125532
+      ],
+      "formattedPrice": "9,99 €",
+      "price": 9.99,
+      "releaseDate": "2016-03-01T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Er ist wortkarg und unbestechlich. Privatermittler Frank Decker, Ex-Soldat und Ex-Polizist. Sein Job: verschollene Menschen aufzuspüren. Als die hinreißend schöne Frau seines langjährigen Freundes verschwindet, macht er sich mit unerbittlicher Konsequenz auf die Suche. Die Spur führt ihn aus dem sonnigen Florida ins nasskalte Deutschland. Es beginnt eine atemlose Jagd quer durch Deutschland – und seine dunkelsten Seiten: Mädchenhandel, Rotlichtbezirke, Erpressung.",
+      "trackCensoredName": "Germany",
+      "artistViewUrl": "https://books.apple.com/de/artist/don-winslow/205125532?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/germany/id1063752214?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/fa/63/27/fa632775-abc0-7bd3-1003-42c4595e690d/1019131661.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/fa/63/27/fa632775-abc0-7bd3-1003-42c4595e690d/1019131661.jpg/100x100bb.jpg",
+      "trackId": 1063752214,
+      "trackName": "Germany",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher"
+      ],
+      "artistId": 205125532,
+      "artistName": "Don Winslow",
+      "averageUserRating": 4,
+      "userRatingCount": 189,
+      "country": "DEU"
+    }
+  ]
+}

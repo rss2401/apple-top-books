@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        531528746
+      ],
+      "trackCensoredName": "La Guerre des deux Reines (e-book) - Tome 04",
+      "artistViewUrl": "https://books.apple.com/fr/artist/jennifer-l-armentrout/531528746?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/la-guerre-des-deux-reines-e-book-tome-04/id6499003170?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5c/68/70/5c68702a-261e-59e0-d636-b2b2a8f37325/9782378764432.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5c/68/70/5c68702a-261e-59e0-d636-b2b2a8f37325/9782378764432.jpg/100x100bb.jpg",
+      "artistId": 531528746,
+      "artistName": "Jennifer L. Armentrout",
+      "genres": [
+        "Fantasy",
+        "Livres",
+        "SF et fantasy"
+      ],
+      "price": 12.99,
+      "releaseDate": "2024-05-23T07:00:00Z",
+      "trackId": 6499003170,
+      "trackName": "La Guerre des deux Reines (e-book) - Tome 04",
+      "genreIds": [
+        "10044",
+        "38",
+        "9020"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>La guerre n'est que le commencement...</b>\n<br />\n<i>Du désespoir des couronnes dorées...</i>\n<br /><br />Peu de gens sont aussi rusés et cruels que la reine du sang, Casteel en est parfaitement conscient. Mais personne, pas même lui, n'aurait pu se préparer à ses stupéfiantes révélations et à la cruauté de ses actes.<br /><br />\n<i>Et enfantée d'une chair mortelle...</i>\n<br /><br />Rien n'empêchera Poppy de délivrer son roi et d'anéantir tout ce que représente la Couronne sanglante. Aidée par les gardiens de la puissance originelle de la Vie et soutenue par les Lycans, elle compte bien faire la guerre à sa façon pour bâtir un avenir où les deux royaumes pourront vivre en paix.<br /><br />\n<i>Une grande puissance originelle se lève...</i>\n<br /><br />Mais le combat ne fait que commencer. D'anciennes puissances continuent de se réveiller, levant le voile sur l'horreur qui a commencé des siècles plus tôt. Pour mettre fin à ce qu'a engendré la reine du sang, Poppy risque de voir la prophétie s'accomplir – et de devenir ce qu'elle redoute le plus.<br /><br />\n<i>L'Annonciatrice qui amènera la Mort et la Destruction.</i>",
+      "formattedPrice": "12,99 €",
+      "averageUserRating": 4.5,
+      "userRatingCount": 112,
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1020487223
+      ],
+      "trackCensoredName": "Tu Seras Ma Soumise (L'Intégrale)",
+      "artistViewUrl": "https://books.apple.com/fr/artist/analia-noir/1020487223?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/tu-seras-ma-soumise-lint%C3%A9grale/id1619566098?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/1f/89/5a/1f895aec-61f7-8d79-39eb-d5831d419274/0000866082.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/1f/89/5a/1f895aec-61f7-8d79-39eb-d5831d419274/0000866082.jpg/100x100bb.jpg",
+      "artistId": 1020487223,
+      "artistName": "Analia Noir",
+      "genres": [
+        "Romance",
+        "Livres",
+        "Romance jeunes adultes",
+        "Thriller romantique",
+        "Romance contemporaine"
+      ],
+      "price": 5.99,
+      "releaseDate": "2022-04-14T07:00:00Z",
+      "trackId": 1619566098,
+      "trackName": "Tu Seras Ma Soumise (L'Intégrale)",
+      "genreIds": [
+        "9003",
+        "38",
+        "11040",
+        "10061",
+        "10057"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Tu Seras Ma Soumise (L'Intégrale)</b><br /><i>Retrouvez les tomes 1, 2 , et 3&#xa0;dans ce coffret exceptionnel ! </i><br /><br />Ambre a détesté Greg immédiatement lorsque sa mère lui a présenté celui qui dorénavant partageait sa vie Mais Ambre a maintenant besoin d'une aide financière pour ses études...et c'est le seul vers lequel elle peut se tourner.<br />Greg tient sa revanche: en échange de l'argent, il va faire de cette toute jeune fille en fleur sa soumise, corps et âme, pour toute la durée de l'été.<br />Ambre n'a pas le choix que de plonger dans son univers pervers et devenir son esclave...<br />&#xa0;",
+      "formattedPrice": "5,99 €",
+      "averageUserRating": 3.5,
+      "userRatingCount": 23,
+      "country": "FRA"
+    }
+  ]
+}

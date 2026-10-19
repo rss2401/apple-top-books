@@ -1,0 +1,41 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1437214139,
+        904511590
+      ],
+      "artistId": 1437214139,
+      "artistName": "浅草九十九 & 株式会社Cygames",
+      "genres": [
+        "ヒューマンドラマ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "青年"
+      ],
+      "price": 720,
+      "releaseDate": "2026-10-19T07:00:00Z",
+      "trackId": 6822305030,
+      "trackName": "ウマ娘 プリティーダービー うまむすめし(8)",
+      "genreIds": [
+        "11052",
+        "38",
+        "9026",
+        "10016",
+        "11338"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "「ということで! アイ、ブリを捌きます!」<br />トレーニングでも火花を散らすアーモンドアイとラッキーライラック。<br />お昼は一緒に絶品ブリしゃぶ鍋をご堪能♪<br />他にも「ステイゴールド達の焼肉」「レッドディザイアと紅白まんじゅう」「サクラチトセオーと薬膳ディップソース」など、ウマ娘たちと様々な“食” が織りなす日常をお届けします!<br />ウマ娘たちの“おいしいひとしな”をめしあがれ♪",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/77/fe/45/77fe4521-8bdb-bebd-715d-c0a916748b17/BT000137886200800801900203.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%B5%85%E8%8D%89%E4%B9%9D%E5%8D%81%E4%B9%9D-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEcygames/1437214139?uo=4",
+      "trackCensoredName": "ウマ娘 プリティーダービー うまむすめし(8)",
+      "formattedPrice": "¥720",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%82%A6%E3%83%9E%E5%A8%98-%E3%83%97%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC-%E3%81%86%E3%81%BE%E3%82%80%E3%81%99%E3%82%81%E3%81%97-8/id6822305030?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/77/fe/45/77fe4521-8bdb-bebd-715d-c0a916748b17/BT000137886200800801900203.jpg/60x60bb.jpg",
+      "country": "JPN"
+    }
+  ]
+}

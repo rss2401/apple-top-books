@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        30689916
+      ],
+      "formattedPrice": "4,99 €",
+      "price": 4.99,
+      "releaseDate": "2011-09-30T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b> Harry Hole kehrt nach Oslo zurück, um den Sohn seiner großen Liebe vor dem Gefängnis zu bewahren. Oleg soll einen Freund ermordet haben – doch Harry glaubt nicht an diese einfache Lösung. </b><br /><br /><b>Ein Mordfall, der Harry Hole zurückholt</b><br /><br />Harry Hole ist endgültig aus dem Polizeidienst ausgestiegen und lebt zurückgezogen in Hongkong. Doch dann erreicht ihn ein Alarmruf: Oleg, der Sohn seiner großen Liebe Rakel, sitzt im Gefängnis. Er ist wegen Mordes an einem Freund angeklagt.<br /><br />Sämtliche Indizien deuten darauf hin, dass Oleg tatsächlich der Täter ist. Für Harry Hole ist der Fall damit jedoch nicht abgeschlossen. Er glaubt nicht an diese einfache Lösung und kehrt nach Oslo zurück, um den wahren Mörder zu finden.<br /><br /><b>Die Wahrheit hinter den Indizien</b><br /><br />Harry nimmt eigene Ermittlungen auf und stellt die scheinbar eindeutigen Beweise infrage. Dabei wird er nicht nur mit einem Mordfall konfrontiert, sondern auch mit seiner eigenen Vergangenheit.<br />Harry Hole ist aus dem Polizeidienst ausgestiegen und lebt in HongkongOleg, der Sohn seiner großen Liebe Rakel, sitzt wegen Mordes im GefängnisAlle Indizien sprechen gegen Oleg – doch Harry zweifelt an seiner SchuldEine Rückkehr nach Oslo auf der Suche nach dem wahren MörderEin persönlicher Fall, der Harry Hole zwingt, sich seiner eigenen Vergangenheit zu stellenDer neunte Fall für den Kommissar und Ermittler Harry Hole<br /><b>Harry Hole stellt sich seiner Vergangenheit</b><br /><br />Für Harry Hole wird die Suche nach dem wahren Mörder zu einer persönlichen Reise. Er muss die Vergangenheit annehmen, vor der er sich zurückgezogen hat, um Oleg zu helfen und die Wahrheit hinter dem Mordfall aufzudecken.<br /><br /><b> &#xa0;Der neunte der Harry-Hole-Krimi-Reihe ist für alle, die intelligente Ermittlungen, persönliche Verbindungen und die Suche nach der Wahrheit schätzen. </b>",
+      "trackCensoredName": "Die Larve",
+      "artistViewUrl": "https://books.apple.com/de/artist/jo-nesb%C3%B8/30689916?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/die-larve/id470170041?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d9/b4/48/d9b448fe-2ee5-9611-7681-4b93a45a6ec1/9783843700719.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d9/b4/48/d9b448fe-2ee5-9611-7681-4b93a45a6ec1/9783843700719.jpg/100x100bb.jpg",
+      "trackId": 470170041,
+      "trackName": "Die Larve",
+      "genreIds": [
+        "9032",
+        "38",
+        "9031"
+      ],
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Belletristik und Literatur"
+      ],
+      "artistId": 30689916,
+      "artistName": "Jo Nesbø",
+      "averageUserRating": 4,
+      "userRatingCount": 471,
+      "country": "DEU"
+    }
+  ]
+}

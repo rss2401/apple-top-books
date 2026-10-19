@@ -2,14 +2,14 @@
   "resultCount": 1,
   "results": [
     {
-      "trackCensoredName": "背徳お姉さんの誘惑に君は勝てるか?(1)",
       "artistViewUrl": "https://books.apple.com/jp/artist/%E3%81%AA%E3%81%94%E3%81%8B%E3%81%A4/6774053905?uo=4",
-      "trackViewUrl": "https://books.apple.com/jp/book/%E8%83%8C%E5%BE%B3%E3%81%8A%E5%A7%89%E3%81%95%E3%82%93%E3%81%AE%E8%AA%98%E6%83%91%E3%81%AB%E5%90%9B%E3%81%AF%E5%8B%9D%E3%81%A6%E3%82%8B%E3%81%8B-1/id6774053646?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ac/5e/77/ac5e77e1-ab98-8879-a983-689e0c307497/BT000229649300100101900209.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ac/5e/77/ac5e77e1-ab98-8879-a983-689e0c307497/BT000229649300100101900209.jpg/100x100bb.jpg",
       "artistIds": [
         6774053905
       ],
+      "artistId": 6774053905,
+      "artistName": "なごかつ",
       "genres": [
         "学園",
         "ブック",
@@ -18,6 +18,10 @@
         "アダルト",
         "青年"
       ],
+      "price": 0,
+      "trackId": 6774053646,
+      "trackName": "背徳お姉さんの誘惑に君は勝てるか?(1)",
+      "releaseDate": "2026-06-12T07:00:00Z",
       "genreIds": [
         "11051",
         "38",
@@ -26,16 +30,12 @@
         "50000073",
         "11338"
       ],
-      "trackId": 6774053646,
-      "trackName": "背徳お姉さんの誘惑に君は勝てるか?(1)",
-      "releaseDate": "2026-06-12T07:00:00Z",
       "kind": "ebook",
       "currency": "JPY",
       "description": "「たぁくん 大学デビューしちゃおーぜぃ」<br /><br />憧れの美大に入学し、期待に胸を膨らませるタイヨウ。だが彼の隣人は、綺麗だけど自堕落な先輩・ミハルだった。真面目さを気に入られたタイヨウは、ミハルから数々の誘惑を仕掛けられる日々を送ることに!<br /><br />果たしてタイヨウは、この甘い罠に打ち勝てるのか――!?<br /><br />理性を試される、背徳的日常ラブコメ!",
+      "trackCensoredName": "背徳お姉さんの誘惑に君は勝てるか?(1)",
       "formattedPrice": "無料",
-      "artistId": 6774053905,
-      "artistName": "なごかつ",
-      "price": 0,
+      "trackViewUrl": "https://books.apple.com/jp/book/%E8%83%8C%E5%BE%B3%E3%81%8A%E5%A7%89%E3%81%95%E3%82%93%E3%81%AE%E8%AA%98%E6%83%91%E3%81%AB%E5%90%9B%E3%81%AF%E5%8B%9D%E3%81%A6%E3%82%8B%E3%81%8B-1/id6774053646?uo=4",
       "country": "JPN"
     }
   ]

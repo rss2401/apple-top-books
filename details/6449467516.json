@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        546189032
+      ],
+      "artistId": 546189032,
+      "artistName": "Colleen Hoover",
+      "genres": [
+        "Literarische Belletristik",
+        "Bücher",
+        "Belletristik und Literatur"
+      ],
+      "price": 4.99,
+      "releaseDate": "2023-07-18T07:00:00Z",
+      "trackId": 6449467516,
+      "trackName": "Too Late – Wenn Nein sagen zur tödlichen Gefahr wird",
+      "genreIds": [
+        "10049",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Ein brandgefährliches Dreiecksspiel – Colleen Hoover, so brisant und tough wie nie zuvor!</b><br /><br />Die definitive Ausgabe von TOO LATE – WENN NEIN SAGEN ZUR TÖDLICHEN GEFAHR WIRD<br /><br />- Die Lieblingstextversion der Autorin – komplett überarbeitet und neu übersetzt<br /><br />Asa: Drogendealer, Betrüger, notorischer Frauenheld. Er hat nur eine Schwachstelle: Sloan, seine große Liebe, von der er besessen ist.<br /><br />Carter: Undercover-Cop. Sein Auftrag: Asa zu überführen. Sein Unglück: dass ausgerechnet Sloan die erste Frau ist, in die er sich verliebt.<br /><br />Sloan würde für die, die sie liebt, durch die Hölle und zurück gehen. Und das tut sie, jeden einzelnen Tag. Sich mit dem verführerischen Asa Jackson einzulassen, bedeutet für sie die dringend benötigte finanzielle Sicherheit, auch wenn sie dafür ihre Moral aufgeben muss. Denn ohne Asa kann sie die Pflege ihres Bruders nicht bezahlen. Doch Asas Liebe zu ihr ist von einer abgründigen Obsession – und diese wird von Tag zu Tag gefährlicher. <br />Als Carter in Asas Geschäfte eingeschleust wird, fühlt Sloan sich sofort zu ihm hingezogen, obwohl sie weiß, dass Asa ihn umbringen würde, wenn er es herausfindet. Und Asa war schon immer allen in seinem Leben einen Schritt voraus, auch Sloan. Niemand hat sich ihm jemals in den Weg gestellt. Niemand außer Carter.<br /><br />Gemeinsam müssen Sloan und Carter einen Ausweg finden, bevor es zu spät ist.<br /><br /><b>Colleen Hoovers unbekannte andere Seite – ein dramatischer Spannungsroman über eine gefährliche Liebe</b>",
+      "trackCensoredName": "Too Late – Wenn Nein sagen zur tödlichen Gefahr wird",
+      "formattedPrice": "4,99 €",
+      "trackViewUrl": "https://books.apple.com/de/book/too-late-wenn-nein-sagen-zur-t%C3%B6dlichen-gefahr-wird/id6449467516?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/c8/bc/b4/c8bcb4fa-0aed-9924-c4e8-d0c2fb50d6f8/1040723544.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/c8/bc/b4/c8bcb4fa-0aed-9924-c4e8-d0c2fb50d6f8/1040723544.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/colleen-hoover/546189032?uo=4",
+      "userRatingCount": 145,
+      "averageUserRating": 4.5,
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        29538645
+      ],
+      "artistId": 29538645,
+      "artistName": "Daniel Suarez",
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Belletristik und Literatur"
+      ],
+      "price": 4.99,
+      "releaseDate": "2010-03-19T07:00:00Z",
+      "trackId": 440998277,
+      "trackName": "DAEMON",
+      "genreIds": [
+        "9032",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Es beobachtet. Es lernt. Und es tötet.<br />Auf dem Bildschirm erschien das körnige Videobild eines Mannes. Er nickte müde in die Kamera.<br />«Detective Sebeck. Darf ich mich vorstellen? Ich war Matthew Sobol, zu Lebzeiten Chef von CyberStorm Entertainment.»<br />Sebeck beugte sich vor.<br />«Wie ich sehe, sind Sie mit den Mordfällen Pavlos und Singh befasst. Um Ihnen unnötigen Aufwand zu ersparen, sage ich Ihnen: Ich habe beide getötet. Warum, werden Sie bald erfahren. Allerdings haben Sie ein Problem. Sie können mich nicht verhaften. Sie können mich nicht aufhalten. Denn ich bin tot.»<br />Matthew Sobol ist einer der reichsten Männer des Silicon Valley und ein Computergenie. Doch seit langem leidet er an einer unheilbaren Krankheit. Exakt in der Sekunde seines Todes nehmen rund um den Erdball Computerprogramme ihre Arbeit auf – zunächst unbemerkt, aber sehr bald schon wird deutlich, dass ein DAEMON den gesamten digitalisierten Planeten infiziert hat. Ein DAEMON, der herrscht, ein DAEMON, der tötet. Und in einer Welt, in der alle vernetzt sind, kann ihm keiner entkommen.<br />«Unbarmherzig spannend.» (Daily Telegraph)<br />«Dieses fesselnde Debüt ist das perfekte Geschenk für einen Computerfreak oder einfach für jemanden, der Nervenkitzel und Techno-Spannung schätzt … Eine Wendung zum Schluss, die allen Erwartungen zuwiderläuft, lässt den Leser beklommen und ungeduldig auf die versprochene Fortsetzung warten.» (Publishers Weekly)<br />«Die Wirklichkeit steckt überall in diesem Roman, sie ist aufregend und macht einem Angst.» (Time Magazine)<br />«Ein erstklassiges Debüt mit einigen der besten Action-Szenen, die ich je gelesen habe. Für Spannungsleser und Science-Fiction-Fans gleichermaßen geeignet.» (Independent on Sunday)<br />«‹Daemon› ist das einzig Wahre – ein erschreckender Blick auf das, was schiefgehen kann, wenn wir immer abhängiger von Computer-Netzwerken werden.» (Craig Newmark, Gründer von Craiglist)<br />«Ein phantastischer Techno-Thriller! Suarez zeichnet das faszinierende Bild eines rechnergesteuerten Terrorismus, vereinigt dabei bereits existierende wie in naher Zukunft erwartbare Technologien und erzählt eine glaubwürdige und ziemlich ausgekochte Story.» (William O'Brien, Leiter der Abteilung Cybersecurity und Kommunikation des Weißen Hauses)",
+      "trackCensoredName": "DAEMON",
+      "formattedPrice": "4,99 €",
+      "trackViewUrl": "https://books.apple.com/de/book/daemon/id440998277?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/23/ea/29/23ea29d0-87a4-aefb-184e-3d0fd11b7943/1019017738.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/23/ea/29/23ea29d0-87a4-aefb-184e-3d0fd11b7943/1019017738.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/daniel-suarez/29538645?uo=4",
+      "userRatingCount": 484,
+      "averageUserRating": 4.5,
+      "country": "DEU"
+    }
+  ]
+}

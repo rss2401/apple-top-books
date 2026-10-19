@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E8%8A%A5%E5%B7%9D%E9%BE%8D%E4%B9%8B%E4%BB%8B/106372604?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/7d/c7/08/7dc708dd-d4aa-1741-8df0-2b30f39c9234/0000000000170.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/7d/c7/08/7dc708dd-d4aa-1741-8df0-2b30f39c9234/0000000000170.jpg/100x100bb.jpg",
+      "artistIds": [
+        106372604
+      ],
+      "artistId": 106372604,
+      "artistName": "芥川龍之介",
+      "genres": [
+        "名作",
+        "ブック",
+        "小説／文学"
+      ],
+      "price": 0,
+      "trackId": 566847461,
+      "trackName": "杜子春",
+      "releaseDate": "1924-07-02T08:00:00Z",
+      "genreIds": [
+        "10042",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "中国の古典『杜子春』を童話化した作品で、1920(大正9)年に児童文学者、鈴木三重吉が主宰する雑誌『紅い鳥』に発表された。かつては裕福な家庭の息子だった若者、杜子春はいまでは落ちぶれて、その日の暮らしにも困るほどの生活に苦しんでいた。そんな彼の前に、ある日、ひとりの老人が現れる。老人は不思議な力で、杜子春を再び贅沢な暮らしに引き戻す。しかし、またしても財産を使い果たした杜子春は、老人が仙人であることを知ると弟子になることを懇願する。そのために、何が起きても喋らない事を約束するのだが……。不思議な力に翻弄される杜子春の姿を通して、「幸せとは何か?」を問いかけていく。原典は、中国唐代の伝奇小説、鄭還古作『杜子春伝』。",
+      "trackCensoredName": "杜子春",
+      "formattedPrice": "無料",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E6%9D%9C%E5%AD%90%E6%98%A5/id566847461?uo=4",
+      "averageUserRating": 4.5,
+      "userRatingCount": 946,
+      "country": "JPN"
+    }
+  ]
+}

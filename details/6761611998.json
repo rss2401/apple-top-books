@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1810131448
+      ],
+      "artistId": 1810131448,
+      "artistName": "Amy Tordoff",
+      "genres": [
+        "Fantasy",
+        "Bücher",
+        "Science-Fiction und Fantasy",
+        "Liebesromane"
+      ],
+      "price": 4.99,
+      "releaseDate": "2026-10-01T07:00:00Z",
+      "trackId": 6761611998,
+      "trackName": "Die Liebe am Ende der Zeit",
+      "genreIds": [
+        "10044",
+        "38",
+        "9020",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Eine berührende Geschichte über den Sinn des Lebens und die Unsterblichkeit der Liebe</b><br /><br />Wir schreiben das Jahr 1605. Seit Beatrix auf dem Sterbebett das ewige Leben gewährt wurde, führt sie ein Dasein in den Schatten. Nacht für Nacht wandert sie durch die Gassen Londons und versucht zu vergessen, dass jeder, den sie einst geliebt hat, seit beinahe hundert Jahren tot ist. Dass Liebe für sie nur eines bedeuten kann: Verlust. Bis sie eines Tages Oliver begegnet. Sie verbringen einen perfekten Tag miteinander, dann verschwindet Oliver spurlos. Hundert Jahre später treffen die beiden erneut aufeinander. Es ist der Beginn einer außergewöhnlichen, die Jahrhunderte umspannenden Liebesgeschichte. Und doch bleibt am Ende die Frage: Kann die Liebe wirklich die Zeit überdauern?",
+      "trackCensoredName": "Die Liebe am Ende der Zeit",
+      "formattedPrice": "4,99 €",
+      "trackViewUrl": "https://books.apple.com/de/book/die-liebe-am-ende-der-zeit/id6761611998?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/27/34/6e/27346e15-eddf-ed0b-ee97-f2f9aac4a5b8/9783641332792.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/27/34/6e/27346e15-eddf-ed0b-ee97-f2f9aac4a5b8/9783641332792.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/amy-tordoff/1810131448?uo=4",
+      "country": "DEU"
+    }
+  ]
+}

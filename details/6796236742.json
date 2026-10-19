@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "3,99 €",
+      "artistIds": [
+        1835362928
+      ],
+      "trackCensoredName": "Falling for Pumpkin Spice",
+      "artistViewUrl": "https://books.apple.com/de/artist/mira-frey/1835362928?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/falling-for-pumpkin-spice/id6796236742?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/17/55/67/1755676f-e49a-c359-7dd7-ef56c5aa9be5/9783690908306.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/17/55/67/1755676f-e49a-c359-7dd7-ef56c5aa9be5/9783690908306.jpg/100x100bb.jpg",
+      "genres": [
+        "Liebesromane",
+        "Bücher",
+        "New Adult-Liebesromane",
+        "Romantische Komödien",
+        "Zeitgenössische Liebesromane",
+        "Unschuldige Liebesromane",
+        "Sachbücher",
+        "Sozialwissenschaft",
+        "Gesellschaft"
+      ],
+      "price": 3.99,
+      "artistId": 1835362928,
+      "artistName": "Mira Frey",
+      "trackId": 6796236742,
+      "trackName": "Falling for Pumpkin Spice",
+      "releaseDate": "2026-08-27T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Der Herbst beginnt in Maplewood – und zwischen Pumpkin Spice und einer laubbedeckten Kleinstadt schlagen zwei Herzen widerwillig höher …</b><br /><b>Der romantische Auftakt der saisonalen Small Town Romance-Reihe mit gemütlichen Gilmore Girls-Vibes</b><br /><br />Pipers Herz ist gebrochen, ihre Träume geplatzt. Gerade hatte sie noch einen Verlobten und ein eigenes kleines Unternehmen – jetzt steht sie vor dem Nichts. <b>Widerwillig und geknickt kehrt sie in ihre Heimatstadt zurück, um im Maple Mug Café ihrer Tante vorübergehend auszuhelfen.</b> Nicht gerade die Zukunft, die sie sich ausgemalt hat.<br /><br />Wie vom Pech verfolgt, trifft sie gleich am ersten Tag auf Miles. Er ist der sturköpfige Lieferant des kleinen, gemütlichen Cafés und ausgerechnet der Kerl, der ihr bei ihrer Ankunft heißen Kaffee über ihr gesamtes Gepäck geschüttet hat. Ein weiteres Missgeschick und hitziges Wortgefecht später steht für Piper fest: <b>Den neunmalklugen, gedankenlosen und unausstehlich attraktiven Miles wird sie niemals leiden können.</b><br /><br />Dumm nur, dass man sich in einer Kleinstadt nicht aus dem Weg gehen kann. Schon gar nicht, wenn Miles sich jeden Tag einen Pumpkin Spice Latte im Maple Mug holt und Piper den zurückgezogenen Farmer einfach nicht aus ihrem Kopf bekommt.<br /><br /><b>Zwischen dem Duft nach Kaffee und Gebäck, goldenen Ahornblättern und kleinen wie großen Krisen der Maple Lane</b> entdeckt Piper langsam wieder, wie es sich anfühlt, dazuzugehören. Und dass Miles vielleicht gar kein so großes Problem ist, sondern ihre Chance auf einen Neuanfang …<br />\n<br /><b>Diese Feel Good Liebesgeschichte, voller süßer Honigkuchen, humorvollen Dialogen und absolutem Liebeschaos heißt dich im idyllischen Maplewood willkommen, wo kleine Läden zum Bleiben einladen, neue Träume wachsen und es in jeder Jahreszeit ordentlich knistert – für alle Leser:innen, die von Laurie Gilmore und Harper Graham nicht genug bekommen.</b><br />\n<br /><b>Tropes</b><br />\nEnemies to Lovers\nSeasonal Romance\nSecond Chance\nCosy Romance\nSmall Town\nLittle Shop\nSlow Burn\n\n\n<br /><b>Erste Leser:innenstimmen</b><br /><i>„Ein ebenso humorvoller wie emotionaler Liebesroman, der zwischen gemütlichen Cafés und Kleinstadt-Charme perfekt auf den Herbst einstimmt – eine fantastische Geschichte, die man nicht so schnell vergisst!“</i><br /><i>„Nichts hat mich auf Piper und Miles flirty Wortgefechte vorbereitet und wie sehr ich mich in die beiden verlieben würde. Mein neues Lieblings-Enemies to Lovers-Paar.“</i><br /><i>„Ich hab mich so unglaublich wohl in den kleinen Shops von Maplewood gefühlt und sowohl die Liebesgeschichte zwischen Piper und Miles als auch die Nebencharaktere haben von der ersten Seite mein Herz berührt – cosy, romantisch und zum Wohlfühlen.“</i><br /><i>„Pipers Neuanfang und Miles Familiendrama waren unglaublich spannend zu lesen, aber die witzigen und knisternden Dialoge zwischen den beiden waren das absolut beste an dieser cosy seasonal Romance – ich kann den zweiten Band kaum abwarten.“</i>",
+      "genreIds": [
+        "9003",
+        "38",
+        "11040",
+        "11042",
+        "10057",
+        "11232",
+        "9002",
+        "10120",
+        "11076"
+      ],
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        609482092
+      ],
+      "artistId": 609482092,
+      "artistName": "G. F. Unger",
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher",
+        "Action und Abenteuer",
+        "Historische Romane",
+        "Krimis und Thriller",
+        "Klassiker"
+      ],
+      "price": 2.49,
+      "releaseDate": "2026-10-17T07:00:00Z",
+      "trackId": 6814430793,
+      "trackName": "G. F. Unger Sonder-Edition 357",
+      "genreIds": [
+        "9031",
+        "38",
+        "10039",
+        "10047",
+        "9032",
+        "10042"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Weil sein Bruder ein Mörder war, jagte die schöne Jane Avalon ihn von der Ranch. Aber als die Schläger des machtbesessenen Weidekings anrückten und Jane sah, mit welcher Furchtlosigkeit und Todesverachtung Sloan Clay für sie und die Kleinen im Land eintrat, bereute sie ihre Unbesonnenheit ...",
+      "trackCensoredName": "G. F. Unger Sonder-Edition 357",
+      "formattedPrice": "2,49 €",
+      "trackViewUrl": "https://books.apple.com/de/book/g-f-unger-sonder-edition-357/id6814430793?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/44/a6/a1/44a6a1b1-993f-e504-aff7-6e1f96807dd7/9783819805585.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/44/a6/a1/44a6a1b1-993f-e504-aff7-6e1f96807dd7/9783819805585.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/g-f-unger/609482092?uo=4",
+      "country": "DEU"
+    }
+  ]
+}

@@ -8,6 +8,7 @@
       ],
       "artistId": 319710643,
       "artistName": "Norman Ohler",
+      "price": 2.99,
       "genres": [
         "History",
         "Books",
@@ -26,7 +27,9 @@
         "Medical",
         "World History"
       ],
-      "price": 2.99,
+      "releaseDate": "2017-03-07T08:00:00Z",
+      "trackId": 1602733311,
+      "trackName": "Blitzed",
       "genreIds": [
         "9015",
         "38",
@@ -45,7 +48,6 @@
         "10086",
         "10080"
       ],
-      "releaseDate": "2017-03-07T08:00:00Z",
       "kind": "ebook",
       "currency": "USD",
       "description": "<b>A <i>New York Times</i> bestseller, Norman Ohler's <i>Blitzed</i> is a \"fascinating, engrossing, often dark history of drug use in the Third Reich” (<i>Washington Post</i>). </b><br /><br />The Nazi regime preached an ideology of physical, mental, and moral purity. Yet as Norman Ohler reveals in this gripping work of World War II nonfiction, the Third Reich was saturated with drugs: cocaine, opiates, and, most of all, methamphetamines, which were consumed by everyone from factory workers to housewives to German soldiers. <br /><br />In fact, troops were encouraged, and in some cases ordered, to take rations of Pervitin, a form of crystal meth—the elevated energy and feelings of invincibility associated with the high even help to account for the breakneck Blitzkrieg invasion that sealed the fall of France in 1940, as well as other German military victories. Hitler himself became increasingly dependent on injections of a cocktail of drugs—ultimately including Eukodal, a cousin of heroin—administered by his personal doctor. <br /><br />Thoroughly researched and rivetingly readable, <i>Blitzed</i> throws light on a history that, until now, has remained in the shadows. <br /><br /><i>“Delightfully nuts.”</i>—<i>The New Yorker</i><br />This meticulously researched history reveals the shocking truth behind Nazi Germany’s military machine:<br /><b>A Secret History of WWII:</b> Uncover the stunning, little-known role of narcotics in the military strategies and daily life of the Third Reich.<b>The Wehrmacht on Methamphetamine:</b> Learn how rations of crystal meth fueled German troops, enabling the breakneck invasion of France and challenging the narrative of Nazi military might.<b>High Hitler:</b> Explore Adolf Hitler's own increasing dependence on a cocktail of drugs, including a heroin-like substance, administered by his personal doctor.<b>A Nation on Speed:</b> Go beyond the front lines to see how methamphetamines became a common part of life for everyone from factory workers to German housewives.",
@@ -54,8 +56,6 @@
       "trackViewUrl": "https://books.apple.com/us/book/blitzed/id1602733311?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/b5/bc/3b/b5bc3b1d-cde0-c803-3f0a-ef3c9c5bafb9/9781328664099.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/b5/bc/3b/b5bc3b1d-cde0-c803-3f0a-ef3c9c5bafb9/9781328664099.jpg/100x100bb.jpg",
-      "trackId": 1602733311,
-      "trackName": "Blitzed",
       "averageUserRating": 4.5,
       "userRatingCount": 133,
       "country": "USA"

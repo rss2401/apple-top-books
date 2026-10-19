@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        30689916
+      ],
+      "formattedPrice": "4,99 €",
+      "price": 4.99,
+      "releaseDate": "2004-10-01T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Der vierte Fall für Harry Hole: ein Ermittler auf der Flucht</b><br /><br />Ein tödlicher Banküberfall, eine ermordete Ex-Geliebte – und Harry Hole selbst unter Verdacht. Während die Polizei nach ihm fahndet, bleibt dem Osloer Kriminalbeamten nur eine Möglichkeit: Er muss untertauchen und den Fall auf eigene Faust lösen.<br /><br /><b>Bankraub, Mordverdacht, heiße Fährte</b><br /><br />Harry Hole jagt einen Bankräuber, der während eines Überfalls scheinbar grundlos eine junge Angestellte erschossen hat. Doch dann wird seine ehemalige Geliebte tot aufgefunden. Harry ist der Letzte, der sie lebend gesehen hat, und gerät selbst unter Mordverdacht.<br /><br />Hat ihm jemand eine Falle gestellt? Je näher Harry der Lösung kommt, desto größer wird die Gefahr. Denn irgendjemand setzt alles daran, ihn zum Schweigen zu bringen. Jetzt steht er selbst unter Mordverdacht. Hole taucht unter, um auf eigene Faust ermitteln zu können. Eine heiße Spur führt ihn schließlich bis nach Südamerika und immer tiefer in einen Fall, bei dem nichts so ist, wie es zunächst scheint.<br />Ein hochspannender Fall mit Bankraub, Mord und einem Ermittler, der selbst zum Gejagten wirdDichte Atmosphäre, psychologische Spannung und überraschende WendungenFür Fans von intelligenten, temporeichen und internationalen KriminalromanenDer vierte Fall für Kult-Ermittler Harry Hole von Bestsellerautor Jo NesbøEine gefährliche Fährte, die Harry Hole von Oslo bis nach Südamerika führt<br />Von Oslo nach Südamerika: In Teil vier \"<b>Die Fährte\"</b> muss Harry Hole nicht nur einen skrupellosen Bankräuber finden, sondern auch seine eigene Unschuld beweisen. Ein packender, wendungsreicher Kriminalroman über Schuld, Vertrauen und die Grenzen zwischen Jäger und Gejagtem.<br /><br /><b>\"Unglaubliche Wendungen bis zum spektakulären Schluss. Von uns eine ganz klare Empfehlung!\" The Guardian</b>",
+      "trackCensoredName": "Die Fährte",
+      "artistViewUrl": "https://books.apple.com/de/artist/jo-nesb%C3%B8/30689916?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/die-f%C3%A4hrte/id409314375?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6d/cf/9b/6dcf9b6c-3328-5237-555f-495f4ec6db13/9783548920818.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6d/cf/9b/6dcf9b6c-3328-5237-555f-495f4ec6db13/9783548920818.jpg/100x100bb.jpg",
+      "trackId": 409314375,
+      "trackName": "Die Fährte",
+      "genreIds": [
+        "9032",
+        "38",
+        "10052"
+      ],
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Polizeiromane"
+      ],
+      "artistId": 30689916,
+      "artistName": "Jo Nesbø",
+      "averageUserRating": 4,
+      "userRatingCount": 162,
+      "country": "DEU"
+    }
+  ]
+}

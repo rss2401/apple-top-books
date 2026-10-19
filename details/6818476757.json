@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        608947862
+      ],
+      "artistId": 608947862,
+      "artistName": "遠藤浩輝",
+      "genres": [
+        "スポーツ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "少年"
+      ],
+      "price": 800,
+      "genreIds": [
+        "50000087",
+        "38",
+        "9026",
+        "10016",
+        "11337"
+      ],
+      "releaseDate": "2026-10-16T07:00:00Z",
+      "trackId": 6818476757,
+      "trackName": "無敗のふたり(6)",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "ブルータル・リーグ3回戦。<br />安達のフィジカルとレスリングの技術で押され続けるユタカーー。<br />そんな状況を覆すべく、外山が授けた策とは――!?",
+      "trackCensoredName": "無敗のふたり(6)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E9%81%A0%E8%97%A4%E6%B5%A9%E8%BC%9D/608947862?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E7%84%A1%E6%95%97%E3%81%AE%E3%81%B5%E3%81%9F%E3%82%8A-6/id6818476757?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/07/c0/58/07c0587c-99da-4aa3-b1b9-8373f031f561/BT000164116100600601900206.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/07/c0/58/07c0587c-99da-4aa3-b1b9-8373f031f561/BT000164116100600601900206.jpg/100x100bb.jpg",
+      "formattedPrice": "¥800",
+      "country": "JPN"
+    }
+  ]
+}

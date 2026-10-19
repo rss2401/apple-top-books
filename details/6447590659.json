@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1317377906
+      ],
+      "formattedPrice": "9,99 €",
+      "price": 9.99,
+      "releaseDate": "2023-08-01T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Getrocknete Blumen, Gedichte – und Gift: Wehe dem, der Post vom Botaniker erhält …<br /><br />Der clevere Krimi des <b>britischen Bestseller-Autors M.W. Craven</b> begeistert mit einem Ermittler-Team voller&#xa0;Frauen-Power, gleich zwei scheinbar unlösbaren Rätseln und typisch englischem Humor.<br /><br /><b>Clever und hochspannend - ein Mystery-Meisterwerk</b><br /><br />Er schickt seinen Opfern Gedichte und getrocknete Blumen, bevor er sie vergiftet – und er kann offenbar durch Wände gehen, denn selbst Polizeischutz rund um die Uhr kann ihn nicht stoppen. »Der Botaniker«, wie ihn die Presse nennt, hat bereits drei Opfer auf dem Gewissen und ein viertes ausgewählt.<br /><br />Für DS Washington Poe von der NCA kommt der scheinbar unmögliche Fall zur Unzeit: Seine Freundin und Kollegin, die geniale Pathologin Estelle Doyle, wird verdächtigt, ihren Vater erschossen zu haben. Dieser Fall wiederum ist eindeutig, glaubt man den Spuren.<br /><br />Zusammen mit seiner durchsetzungsfreudigen Chefin Stephanie Flynn und der brillanten, aber sozial inkompatiblen Analystin Tilly Bradshaw versucht Poe, zwei Rätsel zu lösen, die vermeintlich nichts miteinander zu tun haben.<br /><br /><b>Auftakt der preisgekrönten Krimiserie aus Großbritannien</b>&#xa0;<br /><br />Der britische Bestseller-Autor M.W. Craven wurde unter anderem mit dem Crime Writersʼ Association Gold Dagger ausgezeichnet.<br /><br />In bester englischer Tradition bietet \"Der Botaniker\" - Auftakt der preisgekrönten britischen Krimiserie in Deutschland -&#xa0; <b>spannende, temporeiche und kluge</b><b>Krimispannung zum Miträtseln, </b>- für alle Fans von Martha Grimes, Nicci French und Elizabeth George.<br /><br />»Fesselnd, makaber und&#xa0; zugleich mörderisch komisch. ›Der Botaniker‹ ist M.W. Craven in Bestform.« Chris Whitaker",
+      "trackCensoredName": "Der Botaniker",
+      "artistViewUrl": "https://books.apple.com/de/artist/m-w-craven/1317377906?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/der-botaniker/id6447590659?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/eb/87/86/eb878686-6653-db24-6574-2c83354cd4a2/1040428540.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/eb/87/86/eb878686-6653-db24-6574-2c83354cd4a2/1040428540.jpg/100x100bb.jpg",
+      "trackId": 6447590659,
+      "trackName": "Der Botaniker",
+      "genreIds": [
+        "9032",
+        "38",
+        "9031",
+        "10049"
+      ],
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Belletristik und Literatur",
+        "Literarische Belletristik"
+      ],
+      "artistId": 1317377906,
+      "artistName": "M W Craven",
+      "averageUserRating": 4.5,
+      "userRatingCount": 194,
+      "country": "DEU"
+    }
+  ]
+}

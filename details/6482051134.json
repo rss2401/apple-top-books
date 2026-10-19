@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        385796218
+      ],
+      "artistId": 385796218,
+      "artistName": "Phillipa Ashley",
+      "genres": [
+        "Holiday Romance",
+        "Books",
+        "Romance",
+        "Contemporary Romance",
+        "Wholesome Romance"
+      ],
+      "price": 0.99,
+      "releaseDate": "2024-11-07T08:00:00Z",
+      "trackId": 6482051134,
+      "trackName": "Escape for Christmas",
+      "genreIds": [
+        "11231",
+        "38",
+        "9003",
+        "10057",
+        "11232"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "Sophie used to adore everything about Christmas. Hot chocolate and velvet bows, fairy lights and mince pies.<br /><br />Until the December her fiancé jilted her.<br /><br />Since then, Sophie opened Sunnyside Hotel, a quaint guesthouse nestled deep in the Cumbrian countryside.<br /><br />And, though it might be winter at Sunnyside, it’s never Christmas.<br /><br />Marketing her hotel to those who wish to avoid the festivities, Sophie is busy preparing for a season full of joy and laughter, but without the tinsel and mistletoe.<br /><br />Yet, as she finds herself growing closer to her gorgeous neighbour, Brody, her heart begins to melt.<br /><br />Will this Christmas bring the touch of magic Sophie needs to give love another chance?<br />________________________<br /><br /><b>Praise for Phillipa Ashley: </b><br /><br />‘Sparkling and festive, as satisfying as figgy pudding and clotted cream – loved it!’ <b>Milly Johnson</b><br /><br />‘Filled with warm and likeable characters. Great fun!’ <b>Jill Mansell</b><br /><br />‘Warm and funny and feel-good. The best sort of holiday read’ <b>Katie Fforde</b><br /><br />‘A delicious festive treat with as many twists and turns as a Cornish country lane’ <b>Jules Wake</b><br /><br />‘A transporting festive romance, full of genuine warmth and quirky characters’ <b><i>Woman’s Own</i></b><br /><br />‘Serious festive escapism . . . like a big warm hug’ <b><i>Popsugar</i></b><br /><br />‘A page-turner of a festive read’ <b><i>My Weekly</i></b><br /><br />‘Gloriously uplifting and unashamedly warm-hearted’ <b>Faith Hogan</b><br /><br />‘A fantastic setting and intriguing premise, all bound together by Phillipa Ashley’s storytelling talent’ <b>Sue Moorcroft</b><br /><br />'Picture perfect setting -tick!' <i><b>Good Housekeeping</b></i><br /><br /><i>Sunday Times</i> bestseller, November 2023",
+      "trackCensoredName": "Escape for Christmas",
+      "artistViewUrl": "https://books.apple.com/gb/artist/phillipa-ashley/385796218?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/escape-for-christmas/id6482051134?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/bc/cd/4c/bccd4c87-3217-61c5-9069-7c194ca4d408/9781804945551.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/bc/cd/4c/bccd4c87-3217-61c5-9069-7c194ca4d408/9781804945551.jpg/100x100bb.jpg",
+      "formattedPrice": "£0.99",
+      "averageUserRating": 4.5,
+      "userRatingCount": 90,
+      "country": "GBR"
+    }
+  ]
+}

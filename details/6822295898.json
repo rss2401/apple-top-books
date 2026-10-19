@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        665043113
+      ],
+      "artistId": 665043113,
+      "artistName": "高橋留美子",
+      "genres": [
+        "ファンタジー",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "少年",
+        "ホラー"
+      ],
+      "price": 590,
+      "genreIds": [
+        "50000074",
+        "38",
+        "9026",
+        "10016",
+        "11337",
+        "50000089"
+      ],
+      "releaseDate": "2026-10-16T07:00:00Z",
+      "trackId": 6822295898,
+      "trackName": "MAO(31)",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "御降家の因縁に巻き込まれたかがりは…!?<br /><br />白眉に刃向かうも反撃を受けて瀕死のかがりを救うべく動く摩緒たち。<br />摩緒と百火には白眉が、菜花には白眉の式神が襲いかかるーー…!!<br />壺結の術に呪われた御降家の人間達の因縁にかがりが巻き込まれるーー!!",
+      "trackCensoredName": "MAO(31)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E9%AB%98%E6%A9%8B%E7%95%99%E7%BE%8E%E5%AD%90/665043113?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/mao-31/id6822295898?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0c/8d/f3/0c8df35e-1676-ec37-92de-3f4b346dd612/BT000064868003103101900203.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0c/8d/f3/0c8df35e-1676-ec37-92de-3f4b346dd612/BT000064868003103101900203.jpg/100x100bb.jpg",
+      "formattedPrice": "¥590",
+      "country": "JPN"
+    }
+  ]
+}

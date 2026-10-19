@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        30689916
+      ],
+      "formattedPrice": "4,99 €",
+      "price": 4.99,
+      "releaseDate": "2017-09-15T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Ein Serienkiller findet seine Opfer über Tinder, und die Osloer Polizei hat keine Spur. Als eine junge Frau aus Harry Holes Stammlokal verschwindet, muss der beste Spezialist für Serientäter zurück an die Ermittlungsfront. </b><br /><br /><b>Ein Serienkiller auf Tinder</b><br /><br />Ein Serienkiller sucht seine Opfer über die Dating-App Tinder. Die Osloer Polizei steht vor einem rätselhaften Fall und findet zunächst keine Spur. In einer Atmosphäre der Angst zögern immer mehr Frauen, sich weiter über die App zu verabreden.<br /><br />Der einzige Spezialist der Polizei für Serientäter, Harry Hole, arbeitet inzwischen als Dozent an der Polizeihochschule. Er möchte mehr Zeit für seine Frau Rakel und ihren Sohn Oleg haben. Doch sein alter Chef Mikael Bellmann kennt Olegs Vergangenheit und setzt Harry unter Druck.<br /><br /><b>Harry Hole kehrt zurück</b><br /><br />Schließlich gibt der Kommissar nach und arbeitet hochkonzentriert mit seinen Leuten an dem Fall. Die Ermittlungen nehmen eine persönliche Wendung, als eine weitere junge Frau verschwindet: ausgerechnet eine Kellnerin aus Holes Stammlokal.<br />Ein Serienkiller sucht seine Opfer über die Dating-App TinderDie Osloer Polizei hat zunächst keine SpurHarry Hole arbeitet an der Polizeihochschule, statt im Polizeidienst zu ermittelnSein alter Chef Mikael Bellmann setzt ihn wegen Olegs Vergangenheit unter DruckEine junge Frau aus Holes Stammlokal verschwindetHarry Hole erkennt, dass der Mörder für ihn kein Unbekannter istDer elfte Fall für Kult-Ermittler Harry Hole von Bestsellerautor Jo Nesbø<br /><b>Ein Mörder, den Harry Hole kennt</b><br /><br />Der Kommissar kann nicht länger die Augen davor verschließen, dass der Täter für ihn kein Unbekannter ist. Während weitere Frauen in Gefahr geraten, muss Harry Hole seine ganze Erfahrung einsetzen, um den Serienkiller zu finden.<br /><br />Der elfte Harry-Hole-Krimi \"Durst\" ist für alle, die intelligente Ermittlungen, psychologische Spannung und einen unberechenbaren Serienkiller suchen.",
+      "trackCensoredName": "Durst",
+      "artistViewUrl": "https://books.apple.com/de/artist/jo-nesb%C3%B8/30689916?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/durst/id1183346776?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f6/9c/74/f69c740a-089c-2c89-7ff5-c66c213ef293/9783843714822.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f6/9c/74/f69c740a-089c-2c89-7ff5-c66c213ef293/9783843714822.jpg/100x100bb.jpg",
+      "trackId": 1183346776,
+      "trackName": "Durst",
+      "genreIds": [
+        "10050",
+        "38",
+        "9032"
+      ],
+      "genres": [
+        "Hard-boiled-Krimis",
+        "Bücher",
+        "Krimis und Thriller"
+      ],
+      "artistId": 30689916,
+      "artistName": "Jo Nesbø",
+      "averageUserRating": 4.5,
+      "userRatingCount": 304,
+      "country": "DEU"
+    }
+  ]
+}

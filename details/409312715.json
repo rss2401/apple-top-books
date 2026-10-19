@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        30689916
+      ],
+      "artistId": 30689916,
+      "artistName": "Jo Nesbø",
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Polizeiromane"
+      ],
+      "price": 4.99,
+      "releaseDate": "2010-09-08T07:00:00Z",
+      "trackId": 409312715,
+      "trackName": "Rotkehlchen",
+      "genreIds": [
+        "9032",
+        "38",
+        "10052"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Ein Schuss aus der Vergangenheit – und Norwegen hält den Atem an</b><br /><br />Eine Waffe ohne Besitzer, Spuren, die in längst vergangene Frontlinien weisen, und ein geplantes Attentat, von dem niemand sprechen darf. Zwischen Loyalität und Wahrheit bleibt dem Ermittler nur die Wahl des kleineren Verrats.<br /><br />»Dieses Buch werden Sie nicht mehr aus der Hand legen.« Time-Out<br /><br />Harry Hole wurde vor kurzem zum Staatsschutz versetzt. Seine Kollegen sind in Alarmbereitschaft, weil eine seltene südafrikanische Spezialwaffe nach Norwegen importiert wurde. Sie wird bevorzugt von Auftragskillern verwendet. Doch der Käufer soll ein alter Mann sein.<br /><br />Hole spürt, dass er sich heraushalten sollte. Alle Spuren weisen in die Vergangenheit, auf eine Gruppe von Kollaborateuren hin, die während des Zweiten Weltkriegs an der Seite der Nationalsozialisten gekämpft haben. Offenbar planen diese Kräfte ein Attentat.<br /><br />Es gibt viele potentielle Täter, alte und neue Nazis, und Hole hat plötzlich den Verdacht, dass er sich einen neuen mächtigen Feind gemacht hat. Und dass er längst selbst zu den Gejagten gehört.<br /><br /><b>Der Feind trägt alte Uniformen – und ein neues Gesicht</b><br /><br />Wer skandinavische Krimis liebt, ist hier richtig: Ein Ermittler zwischen Schuld und Verrat, ein Land im Schatten alter Frontlinien – und ein Fall, der zeigt, wie gefährlich unbezahlte Rechnungen der Geschichte sein können.",
+      "trackCensoredName": "Rotkehlchen",
+      "formattedPrice": "4,99 €",
+      "trackViewUrl": "https://books.apple.com/de/book/rotkehlchen/id409312715?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ef/ff/18/efff18ce-cb01-d24e-a67a-0aa4c8167b14/9783548920665.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ef/ff/18/efff18ce-cb01-d24e-a67a-0aa4c8167b14/9783548920665.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/jo-nesb%C3%B8/30689916?uo=4",
+      "userRatingCount": 149,
+      "averageUserRating": 4,
+      "country": "DEU"
+    }
+  ]
+}

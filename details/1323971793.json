@@ -12,30 +12,30 @@
         1101559917,
         948483255
       ],
+      "formattedPrice": "無料",
+      "artistId": 1323976282,
+      "artistName": "炎頭ファイヤーヘッド, YahaKo & 葉月翼",
+      "trackName": "野生のラスボスが現れた! -黒翼の覇王- 1",
+      "trackId": 1323971793,
       "genres": [
         "マンガ",
         "ブック",
         "マンガ／グラフィックノベル",
         "マンガ"
       ],
+      "price": 0,
+      "releaseDate": "2017-12-15T08:00:00Z",
       "genreIds": [
         "10016",
         "38",
         "9026",
         "11341"
       ],
-      "trackId": 1323971793,
-      "trackName": "野生のラスボスが現れた! -黒翼の覇王- 1",
-      "releaseDate": "2017-12-15T08:00:00Z",
       "kind": "ebook",
       "currency": "JPY",
       "description": "大人気オンラインゲーム「エクスゲートオンライン」にて一時頂点を極めた「俺」。とある一大イベントを終えた翌日、ゲームにログインしたところ、「新たな役割を与えましょう」との表示が目に飛び込む。「YES」のボタンをクリックした瞬間、世界が反転――目を覚ましたその時、「俺」の目に飛び込んできたのは――!?",
-      "formattedPrice": "無料",
-      "artistId": 1323976282,
-      "artistName": "炎頭ファイヤーヘッド, YahaKo & 葉月翼",
-      "price": 0,
       "averageUserRating": 4,
-      "userRatingCount": 154,
+      "userRatingCount": 155,
       "country": "JPN"
     }
   ]

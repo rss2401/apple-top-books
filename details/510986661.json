@@ -40,7 +40,6 @@
       "userRatingCount": 1270
     },
     {
-      "formattedPrice": "Free",
       "artistIds": [
         2683818
       ],
@@ -62,7 +61,6 @@
       "price": 0,
       "trackId": 510986661,
       "trackName": "Alice's Adventures in Wonderland",
-      "releaseDate": "1865-11-25T08:00:00Z",
       "genreIds": [
         "11113",
         "38",
@@ -71,11 +69,13 @@
         "9031",
         "10039"
       ],
+      "releaseDate": "1865-11-25T08:00:00Z",
       "kind": "ebook",
       "currency": "USD",
       "description": "An Apple Books Classic edition.<br /><br />Fall down the proverbial rabbit hole with Alice, the intrepid heroine of Lewis Carroll’s classic fantasy! When Alice spies a talking rabbit, she can’t resist following him into his hole - winding up in Wonderland, a nonsensical land of magical potions and never-ending tea parties. We accompany Alice on a journey that leads her to meet a grinning and elusive Cheshire Cat, a Mad Hatter, and, of course, the cruel, maniacal Queen of Hearts.<br /><br />Is Alice and every other inhabitant of Wonderland mad? Or is it just a daydream? For over 100 years, children have come under the spell of Carroll’s topsy-turvy world, and adults have debated the meaning of the mathematician turned author’s feverish story. Visit Wonderland alongside Alice and find out why so many generations become “curiouser and curiouser” with each reading.",
+      "formattedPrice": "Free",
       "averageUserRating": 4,
-      "userRatingCount": 2706,
+      "userRatingCount": 2707,
       "country": "USA"
     }
   ]

@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        2079716
+      ],
+      "trackCensoredName": "Le secret des secrets",
+      "artistViewUrl": "https://books.apple.com/fr/artist/dan-brown/2079716?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/le-secret-des-secrets/id6741199529?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/7c/6b/72/7c6b7243-eea6-af2b-42bf-ff78ebe83153/9782709668132-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/7c/6b/72/7c6b7243-eea6-af2b-42bf-ff78ebe83153/9782709668132-001-x.jpeg/100x100bb.jpg",
+      "artistId": 2079716,
+      "artistName": "Dan Brown",
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "price": 10.99,
+      "releaseDate": "2025-09-09T07:00:00Z",
+      "trackId": 6741199529,
+      "trackName": "Le secret des secrets",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "L’éminent professeur de symbologie Robert Langdon se rend à Prague pour une conférence sur la noétique donnée par son amie de longue date, Katherine Solomon. La scientifique est sur le point de publier un ouvrage révolutionnaire sur la nature de la conscience humaine.<br />Un meurtre sauvage va soudain précipiter leur séjour dans le chaos. Katherine disparaît, et son manuscrit est piraté sur le serveur de son éditeur. Commence alors une course contre la montre dans Prague et ses mystères. Langdon se retrouve pourchassé par une étrange créature mythologique et devient la cible d’une organisation dont le projet pourrait changer à jamais notre conception de l’esprit humain.<br /><br />Dan Brown est l’auteur de nombreux best-sellers internationaux.&#xa0; Da Vinci Code&#xa0; reste aujourd’hui l’un des romans les plus vendus de tous les temps.<br /><br />Traduit de l’anglais (États-Unis) par Dominique Defert et Carole Delporte",
+      "formattedPrice": "10,99 €",
+      "averageUserRating": 4,
+      "userRatingCount": 205,
+      "country": "FRA"
+    }
+  ]
+}

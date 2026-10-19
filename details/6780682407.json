@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        446582247
+      ],
+      "formattedPrice": "12,99 €",
+      "genres": [
+        "Fiction et littérature",
+        "Livres",
+        "Romans et littérature"
+      ],
+      "artistId": 446582247,
+      "artistName": "Roland Perez",
+      "price": 12.99,
+      "trackId": 6780682407,
+      "trackName": "Le goût du possible",
+      "releaseDate": "2026-09-17T07:00:00Z",
+      "genreIds": [
+        "10049",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Il n’est jamais trop tard pour changer sa vie.</b><br />Louise croyait sa vie écrite. Un mari qu’elle aime. Trois enfants. Une famille solide. Une existence bâtie patiemment après le dramatique accident de voiture qui, à dix-huit ans, lui a arraché ses parents. Alors pourquoi cette impression persistante d’avoir laissé une partie d’elle-même derrière elle ?<br /><br />À quarante et un ans, elle décide de reprendre des études de médecine pour devenir pédiatre. Dans son entourage, la nouvelle fait l’effet d’une onde de choc. Anouck, sa fille aînée, lui reproche de vouloir vivre la jeunesse qu’elle est en train de construire. Arnaud, son mari, voit peu à peu leur équilibre se fissurer. Sa belle-mère, féroce et intransigeante, prédit son échec. Seule Rachel, sa grand-mère, la soutient.<br /><br />Heureusement, le destin va mettre sur sa route des rencontres inattendues. Car en osant emprunter un nouveau chemin, Louise pourrait bien trouver davantage que ce qu’elle était venue chercher.<br /><b>Entre passions, loyautés, deuils, transmission et seconde chance, Roland Perez signe un roman profondément humain sur les rêves que l’on croit perdus, la liberté de se réinventer et le courage qu’il faut parfois pour tout recommencer.</b><br /><br /><b>Roland Perez</b> est avocat, animateur de radio et de télévision, et écrivain. Son premier roman, Ma mère, Dieu et Sylvie Vartan, lauréat du <b>prix Cheval Blanc 2022</b>, a connu un immense succès et a été adapté au cinéma par <b>Ken Scott</b> avec notamment <b>Leïla Bekhti</b>, <b>Jonathan Cohen</b> et <b>Sylvie Vartan</b>. Après Ma mère, Dieu et Litzie et Bonne fête des mères, Papa !, il signe avec Le Goût du possible son quatrième roman.",
+      "trackCensoredName": "Le goût du possible",
+      "artistViewUrl": "https://books.apple.com/fr/artist/roland-perez/446582247?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/le-go%C3%BBt-du-possible/id6780682407?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c0/d1/be/c0d1be94-f201-a6a8-5fa9-f7a237424f17/9782385298425.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c0/d1/be/c0d1be94-f201-a6a8-5fa9-f7a237424f17/9782385298425.jpg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

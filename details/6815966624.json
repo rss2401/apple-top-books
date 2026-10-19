@@ -5,14 +5,16 @@
       "artistIds": [
         1845342705
       ],
-      "artistId": 1845342705,
-      "artistName": "Aria R. Blue",
+      "formattedPrice": "3,99 €",
       "genres": [
         "Romance",
         "Livres",
         "Thriller romantique",
         "Romance contemporaine"
       ],
+      "artistId": 1845342705,
+      "artistName": "Aria R. Blue",
+      "price": 3.99,
       "trackId": 6815966624,
       "trackName": "La Nounou et la Bête: Une dark romance milliardaire avec age gap",
       "releaseDate": "2026-09-21T07:00:00Z",
@@ -30,8 +32,6 @@
       "trackViewUrl": "https://books.apple.com/fr/book/la-nounou-et-la-b%C3%AAte-une-dark-romance-milliardaire/id6815966624?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/24/a4/54/24a4541b-b2fe-bf7c-2479-c1b4d414b67c/0004433868.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/24/a4/54/24a4541b-b2fe-bf7c-2479-c1b4d414b67c/0004433868.jpg/100x100bb.jpg",
-      "formattedPrice": "3,99 €",
-      "price": 3.99,
       "averageUserRating": 4,
       "userRatingCount": 11,
       "country": "FRA"

@@ -6,20 +6,20 @@
         367527918
       ],
       "formattedPrice": "15,99 €",
-      "artistId": 367527918,
-      "artistName": "Donato Carrisi",
       "genres": [
         "Policier et suspense",
         "Livres"
       ],
+      "artistId": 367527918,
+      "artistName": "Donato Carrisi",
       "price": 15.99,
-      "trackName": "Le Mensonge de l'orchidée",
       "trackId": 6810214361,
+      "trackName": "Le Mensonge de l'orchidée",
+      "releaseDate": "2026-10-07T07:00:00Z",
       "genreIds": [
         "9032",
         "38"
       ],
-      "releaseDate": "2026-10-07T07:00:00Z",
       "kind": "ebook",
       "currency": "EUR",
       "description": "UN CRIME MONSTRUEUX, IRRÉSOLU DEPUIS DES DÉCENNIES…<br />&#xa0; <br />En 2005, dans le village italien de Nazareth, un père de famille assassine sa femme et ses enfants avant de se rendre aux autorités, marquant à jamais le village au fer rouge.<br />&#xa0; <br />En 2015, Victoria Anthon, écrivaine solitaire en quête d’inspiration, reçoit une lettre anonyme remettant en cause la vérité sur les meurtres.<br />&#xa0; <br />Entre secrets de famille, rituels macabres, visions troublantes et témoins hantés, Victoria découvre qu’un mal ancien frappe tous ceux qui approchent Nazareth.<br />&#xa0; <br />Et qu’elle devra révéler la vérité, au péril de sa vie.",

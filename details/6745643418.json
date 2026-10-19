@@ -11,6 +11,11 @@
         1375400369,
         1808045342
       ],
+      "formattedPrice": "無料",
+      "artistId": 1375400369,
+      "artistName": "スーパーまさら & こみちぽた",
+      "trackName": "経験人数が見えるメガネ(1)",
+      "trackId": 6745643418,
       "genres": [
         "恋愛／ロマンス",
         "ブック",
@@ -20,6 +25,8 @@
         "アダルト",
         "青年"
       ],
+      "price": 0,
+      "releaseDate": "2025-03-29T07:00:00Z",
       "genreIds": [
         "50000084",
         "38",
@@ -29,16 +36,9 @@
         "50000073",
         "11338"
       ],
-      "trackId": 6745643418,
-      "trackName": "経験人数が見えるメガネ(1)",
-      "releaseDate": "2025-03-29T07:00:00Z",
       "kind": "ebook",
       "currency": "JPY",
       "description": "なんの取柄もないオタク、中野通が実家の古い蔵で見つけたのは、なんとその人の「経験人数が見えるメガネ」だった!試しに僕をいつもイジメてくるクラスのギャル・渋谷結愛のことを見てみると、その人数が…!?",
-      "formattedPrice": "無料",
-      "artistId": 1375400369,
-      "artistName": "スーパーまさら & こみちぽた",
-      "price": 0,
       "averageUserRating": 3,
       "userRatingCount": 9,
       "country": "JPN"

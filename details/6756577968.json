@@ -5,13 +5,16 @@
       "artistIds": [
         1376443053
       ],
-      "trackCensoredName": "ホタルの嫁入り(10)",
-      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%A9%98%E3%82%AA%E3%83%AC%E3%82%B3/1376443053?uo=4",
-      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%AE%E5%AB%81%E5%85%A5%E3%82%8A-10/id6756577968?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/52/94/57/529457a2-491c-0385-7a68-bc5f190ad0cc/BT000136336801001001900203.jpg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/52/94/57/529457a2-491c-0385-7a68-bc5f190ad0cc/BT000136336801001001900203.jpg/100x100bb.jpg",
       "artistId": 1376443053,
       "artistName": "橘オレコ",
+      "genres": [
+        "恋愛／ロマンス",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "ミステリー",
+        "女性"
+      ],
       "price": 790,
       "trackId": 6756577968,
       "trackName": "ホタルの嫁入り(10)",
@@ -28,14 +31,11 @@
       "currency": "JPY",
       "description": "私たちは引き裂かれるほどに、惹かれ合う。<br /><br />縁談相手・奥村光春から、結婚を迫られる紗都子。<br />光春のまっすぐな想いに触れながらも、<br />桐ヶ谷家を守るため、そして進平と結ばれるため、彼女が選び取った答えとは――?<br /><br />「あの人と一緒なら地獄へ行こうと私は幸せです」<br />余命宣告を受けてもなお、愛を貫かんとする紗都子のもとに<br />父・十兵衛と、いるはずのない“あの人物”が現れる。",
       "formattedPrice": "¥790",
-      "genres": [
-        "恋愛／ロマンス",
-        "ブック",
-        "マンガ／グラフィックノベル",
-        "マンガ",
-        "ミステリー",
-        "女性"
-      ],
+      "trackCensoredName": "ホタルの嫁入り(10)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%A9%98%E3%82%AA%E3%83%AC%E3%82%B3/1376443053?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%AE%E5%AB%81%E5%85%A5%E3%82%8A-10/id6756577968?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/52/94/57/529457a2-491c-0385-7a68-bc5f190ad0cc/BT000136336801001001900203.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/52/94/57/529457a2-491c-0385-7a68-bc5f190ad0cc/BT000136336801001001900203.jpg/100x100bb.jpg",
       "averageUserRating": 4.5,
       "userRatingCount": 23,
       "country": "JPN"

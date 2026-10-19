@@ -1,0 +1,47 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1752493508,
+        1752493509
+      ],
+      "artistId": 1752493508,
+      "artistName": "仁堂ジョー & ひろのあきとみ",
+      "genres": [
+        "青年",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "ファンタジー",
+        "アクション",
+        "異世界"
+      ],
+      "price": 750,
+      "trackId": 6615071466,
+      "trackName": "異世界クラス召喚されたらR1○のスキルを獲得したので、○りたい放題させてもらいます!(1)",
+      "releaseDate": "2024-08-19T07:00:00Z",
+      "genreIds": [
+        "11338",
+        "38",
+        "9026",
+        "10016",
+        "50000074",
+        "50000071",
+        "11345"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "魔王の侵略に抵抗するため異世界に召喚された影山崇が授かったスキル【世界の変容(R18)】。 それは対象を『攻略』することでスキルをコピーし、起点となるポイントまで何度でも時を遡ることもできる SSRの超有能スキル! 「対象を『攻略』?『...R18』…? これってつまりギャルゲー!? しかもエロいやつ!」<br /><br />魔王に対抗するため、大義名分のもと次々と女の子を攻略していく王道ハーレムファンタジー!",
+      "formattedPrice": "¥750",
+      "trackCensoredName": "異世界クラス召喚されたらR1○のスキルを獲得したので、○りたい放題させてもらいます!(1)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E4%BB%81%E5%A0%82%E3%82%B8%E3%83%A7%E3%83%BC-%E3%81%B2%E3%82%8D%E3%81%AE%E3%81%82%E3%81%8D%E3%81%A8%E3%81%BF/1752493508?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E7%95%B0%E4%B8%96%E7%95%8C%E3%82%AF%E3%83%A9%E3%82%B9%E5%8F%AC%E5%96%9A%E3%81%95%E3%82%8C%E3%81%9F%E3%82%89r1-%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%92%E7%8D%B2%E5%BE%97%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7-%E3%82%8A%E3%81%9F%E3%81%84%E6%94%BE%E9%A1%8C%E3%81%95%E3%81%9B%E3%81%A6%E3%82%82%E3%82%89%E3%81%84%E3%81%BE%E3%81%99-1/id6615071466?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9d/53/50/9d535020-7f80-ac86-55d0-2771b15b198c/BT000164905700100101900209.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9d/53/50/9d535020-7f80-ac86-55d0-2771b15b198c/BT000164905700100101900209.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 93,
+      "country": "JPN"
+    }
+  ]
+}

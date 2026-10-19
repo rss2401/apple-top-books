@@ -5,12 +5,14 @@
       "artistIds": [
         164883469
       ],
-      "artistId": 164883469,
-      "artistName": "Harper Lee",
+      "formattedPrice": "2,99 €",
       "genres": [
         "Romans et littérature",
         "Livres"
       ],
+      "artistId": 164883469,
+      "artistName": "Harper Lee",
+      "price": 2.99,
       "trackId": 1018388643,
       "trackName": "Ne tirez pas sur l'oiseau moqueur",
       "releaseDate": "2015-10-07T07:00:00Z",
@@ -26,8 +28,6 @@
       "trackViewUrl": "https://books.apple.com/fr/book/ne-tirez-pas-sur-loiseau-moqueur/id1018388643?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/79/82/2f/79822f79-12bc-7831-fab7-d1b10f260770/9782246857747-001-x.jpeg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/79/82/2f/79822f79-12bc-7831-fab7-d1b10f260770/9782246857747-001-x.jpeg/100x100bb.jpg",
-      "formattedPrice": "2,99 €",
-      "price": 2.99,
       "averageUserRating": 4.5,
       "userRatingCount": 101,
       "country": "FRA"

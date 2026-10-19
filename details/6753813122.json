@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        486493111,
+        373672067
+      ],
+      "formattedPrice": "12,99 €",
+      "price": 12.99,
+      "releaseDate": "2026-06-23T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Dunkle Geheimnisse hinter der Postkartenidylle | Der perfekte Urlaubskrimi für Italien-Fans<br /><br />Nico Doyle, Ex-Cop im Ruhestand, genießt das ruhige Leben in seinem kleinen toskanischen Dorf – bis ein kleines Mädchen ihn unerwartet um Hilfe bittet. Ihr Vater steht unter Mordverdacht. Auf eigene Faust beginnt er zu ermitteln, folgt den Spuren zwischen seinem Heimatort Gravigna und dem mittelalterlichen Städtchen Pitigliano. Dabei muss er all seine Erfahrung als New Yorker Polizist einsetzen – und schon bald zeigt sich, dass hinter der idyllischen Fassade der Toskana dunkle Geheimnisse lauern.<br /><br />Ein atmosphärischer Kriminalroman voller Lokalkolorit, Spannung und italienischem Flair.<br /><br />Dieses Buch ist Teil der Serie Nico Doyle ermittelt.<br />\nNico Doyle, Ex-Cop des NYPD, zieht in ein kleines Dorf im Herzen der Toskana. In den idyllischen Weinbergen des Chianti will er noch einmal ganz neu anfangen. Doch auch in der wunderschönen Toskana wird gemordet und ehe Nico sich versieht, wird er ein ums andere Mal in die haarsträubendsten Mordfälle hineingezogen. Und so macht er, was er am besten kann: Nico Doyle ermittelt.<br />\nDie Bücher erzählen eigenständige Fälle und können unabhängig voneinander gelesen werden.",
+      "trackCensoredName": "Toskanische Verschwörung - Kriminalroman (Nico Doyle ermittelt 5)",
+      "artistViewUrl": "https://books.apple.com/de/artist/camilla-trinchieri-sonja-hauser/486493111?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/toskanische-verschw%C3%B6rung-kriminalroman-nico-doyle-ermittelt/id6753813122?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/54/d0/fa/54d0fa80-4241-8b0c-cdde-183517b2b461/9783458786702.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/54/d0/fa/54d0fa80-4241-8b0c-cdde-183517b2b461/9783458786702.jpg/100x100bb.jpg",
+      "trackId": 6753813122,
+      "trackName": "Toskanische Verschwörung - Kriminalroman (Nico Doyle ermittelt 5)",
+      "genreIds": [
+        "9032",
+        "38",
+        "9031",
+        "9024",
+        "11259"
+      ],
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Belletristik und Literatur",
+        "Lifestyle und Wohnen",
+        "Cosy Crime"
+      ],
+      "artistId": 486493111,
+      "artistName": "Camilla Trinchieri & Sonja Hauser",
+      "averageUserRating": 4.5,
+      "userRatingCount": 16,
+      "country": "DEU"
+    }
+  ]
+}

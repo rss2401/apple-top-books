@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "25,99 €",
+      "artistIds": [
+        2024797,
+        2064861
+      ],
+      "trackCensoredName": "Andere als diese Welten",
+      "artistViewUrl": "https://books.apple.com/de/artist/stephen-king-peter-straub/2024797?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/andere-als-diese-welten/id6759191218?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/bc/ee/7d/bcee7d54-ff2e-95e3-3c0f-801fc5067ee1/9783641342128.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/bc/ee/7d/bcee7d54-ff2e-95e3-3c0f-801fc5067ee1/9783641342128.jpg/100x100bb.jpg",
+      "genres": [
+        "Horror",
+        "Bücher",
+        "Belletristik und Literatur"
+      ],
+      "price": 25.99,
+      "artistId": 2024797,
+      "artistName": "Stephen King & Peter Straub",
+      "trackId": 6759191218,
+      "trackName": "Andere als diese Welten",
+      "releaseDate": "2026-10-14T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Wenn Welten kollidieren – das gigantische neue Epos von Stephen King in der Saga um den Dunklen Turm</b><br /><br />Jack Sawyer lebt seit Jahren in der Anderwelt, die er die Territorien nennt, von der er nun jedoch weiß, dass sie Teil des größeren Reiches Mittwelt ist. Er hat sich an die seltsamen Gepflogenheiten dort und die mystische Geschichte gewöhnt, die von dem sagenumwobenen Revolvermann Roland handelt, der Mittwelt vor der Zerstörung des Dunklen Turms bewahrt hat. Jack kann zwischen den Welten wechseln, in unserer aber nicht lange verweilen, weil sie auf die Dauer für ihn tödlich ist. Als eine marodierende Mördersekte seine Freunde in Amerika in Gefahr bringt und anschließend in Mittwelt auftaucht, erkennt er, dass die Welten zu kollidieren beginnen. Eine dunkle Macht, die alles – alle Welten – zu verschlingen droht, gewinnt zusehends an Bewusstsein und Stärke.<br />Mit dem Segen von Peter Straub verwebt Stephen King die Talisman-Reihe mit der Dunkler-Turm-Saga.",
+      "genreIds": [
+        "10048",
+        "38",
+        "9031"
+      ],
+      "country": "DEU"
+    }
+  ]
+}

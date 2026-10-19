@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        360630183
+      ],
+      "price": 0,
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher",
+        "Humor",
+        "Kultur und Unterhaltung",
+        "Film"
+      ],
+      "artistId": 360630183,
+      "artistName": "Miguel de Cervantes",
+      "genreIds": [
+        "9031",
+        "38",
+        "9012",
+        "9007",
+        "11021"
+      ],
+      "trackId": 1541360524,
+      "trackName": "Don Quixote",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Don Quixote has become so entranced by reading chivalric romances, that he determines to become a knight-errant himself. In the company of his faithful squire, Sancho Panza, his exploits blossom in all sorts of wonderful ways. While Quixote’s fancy often leads him astray — he tilts at windmills, imagining them to be giants — Sancho acquires cunning and a certain sagacity. Sane madman and wise fool, they roam the world together, and together they have haunted readers’ imaginations for nearly four hundred years.\nWith its experimental form and literary playfulness, Don Quixote generally has been recognized as the first modern novel. The book has had enormous influence on a host of writers, from Fielding and Sterne to Flaubert, Dickens, Melville, and Faulkner, who reread it once a year, “just as some people read the Bible.”\n\nOnly Shakespeare comes close to Cervantes’ genius. —Harold Bloom\nThe highest creation of genius has been achieved by Shakespeare and Cervantes, almost alone. —Samuel Taylor Coleridge\nWhat a monument is this book! How its creative genius, critical, free, and human, soars above its age! —Thomas Mann\n‘Don Quixote’ looms so wonderfully above the skyline of literature, a gaunt giant on a lean nag, that the book lives and will live through his sheer vitality...The parody has become a paragon. —Vladimir Nabokov\nA more profound and powerful work than this is not to be met with...The final and greatest utterance of the human mind. —Fyodor Dostoyevsky\nCervantes is the founder of the Modern Era. The novelist need answer to no one but Cervantes. ‘Don Quixote’ is practically unthinkable as a living being, and yet, in our memory, what character is more alive? —Milan Kundera",
+      "formattedPrice": "Gratis",
+      "trackCensoredName": "Don Quixote",
+      "artistViewUrl": "https://books.apple.com/de/artist/miguel-de-cervantes/360630183?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/don-quixote/id1541360524?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/d8/4e/e9/d84ee971-0ccf-1582-194d-dcd50a6ecd51/9789895621934.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/d8/4e/e9/d84ee971-0ccf-1582-194d-dcd50a6ecd51/9789895621934.jpg/100x100bb.jpg",
+      "releaseDate": "2026-09-24T07:00:00Z",
+      "country": "DEU"
+    }
+  ]
+}

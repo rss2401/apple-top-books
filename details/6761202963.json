@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1566448717
+      ],
+      "formattedPrice": "25,99 €",
+      "price": 25.99,
+      "releaseDate": "2026-10-13T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "»Wir brauchen eine Wirtschaftspolitik, die den Mut hat, moralische Ziele wie die Würde aller zu verfolgen, und die auf der Menschlichkeit aller beruht, anstatt auf Hierarchien von Klasse, Gender und Race. Kurzum: Wir brauchen eine Wirtschaftspolitik, die der Demokratie dient, anstatt sie zu untergraben.« Isabella M. Weber<br /><br />Kurz nachdem feststand, dass Donald Trump erneut zum US-Präsidenten gewählt worden war, fragte Isabella Weber auf X: »Können wir jetzt endlich eine ernsthafte Diskussion über eine antifaschistische Wirtschaftspolitik führen?« Die Demokraten hätten die Auswirkungen der dramatisch gestiegenen Lebenshaltungskosten verkannt und so Trump mit seiner Ressentiment-Politik das Feld überlassen. Ihr Tweet ging viral und setzte eine weltweite Debatte in Gang. <br /><br />In ihrem neuen Buch legt Isabella Weber dar, wie die Grundzüge eines solchen Programms aussehen könnten: bezahlbare Güter des alltäglichen Bedarfs, demokratische Kontrolle der Konzernmacht, Kooperation statt Nationalismus. Wenn wir den weiteren Aufstieg der extremen Rechten verhindern wollen, so Weber, brauchen wir eine Wirtschaftspolitik, bei der die Bedürfnisse und die Würde der Menschen im Mittelpunkt stehen.",
+      "trackCensoredName": "Antifaschistische Wirtschaftspolitik",
+      "artistViewUrl": "https://books.apple.com/de/artist/isabella-m-weber/1566448717?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/antifaschistische-wirtschaftspolitik/id6761202963?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/2c/84/a1/2c84a121-30cb-851a-0690-f3cd142a179b/9783518788349.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/2c/84/a1/2c84a121-30cb-851a-0690-f3cd142a179b/9783518788349.jpg/100x100bb.jpg",
+      "trackId": 6761202963,
+      "trackName": "Antifaschistische Wirtschaftspolitik",
+      "genreIds": [
+        "10011",
+        "38",
+        "9009"
+      ],
+      "genres": [
+        "Wirtschaft",
+        "Bücher",
+        "Business und Finanzen"
+      ],
+      "artistId": 1566448717,
+      "artistName": "Isabella M. Weber",
+      "country": "DEU"
+    }
+  ]
+}

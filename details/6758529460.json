@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/8c/91/45/8c914535-1a1b-f3d0-a8b2-7156419771df/BetweenTwilight_IBOOK.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/8c/91/45/8c914535-1a1b-f3d0-a8b2-7156419771df/BetweenTwilight_IBOOK.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/donna-grant/358474175?uo=4",
+      "trackCensoredName": "Between Twilight",
+      "trackViewUrl": "https://books.apple.com/us/book/between-twilight/id6758529460?uo=4",
+      "formattedPrice": "$6.99",
+      "artistIds": [
+        358474175
+      ],
+      "genres": [
+        "Paranormal Romance",
+        "Books",
+        "Romance",
+        "Romantic Suspense"
+      ],
+      "artistId": 358474175,
+      "artistName": "Donna Grant",
+      "price": 6.99,
+      "trackId": 6758529460,
+      "trackName": "Between Twilight",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b><i>She came to destroy me. Now I’ll burn the world to keep her.</i></b><b><i></i></b><br />\n&#xa0;<br />\nShe gets beneath my skin. Haunts my thoughts.<br />\nStrips away my control.<br />\n&#xa0;<br />\nAnd I keep going back for more.<br />\n&#xa0;<br />\nEvery glance pulls me deeper. Every touch weakens my grip. And when she looks at me with those silver eyes full of secrets and fury, I know I’m already lost.<br />\n&#xa0;<br />\nSomething dark is closing in around us.<br />\n&#xa0;<br />\nPower is shifting. Truths are unraveling. And the woman I can’t stay away from may be the key to it all.<br />\n&#xa0;<br />\nI should walk away before she ruins me. Before this obsession consumes us. But when she’s in my arms, nothing else matters.<br />\n&#xa0;<br />\nNot the lies.<br />\nNot the danger.<br />\nNot even what’s coming.<br />\n&#xa0;<br />\nBecause once I claim something as mine, I never let it go.<br />\n&#xa0;<br />\nAnd I’m beginning to realize she was always meant to be mine.<br />\n&#xa0;<br />\n<b><i>New York Times</i></b><b> and </b><b><i>USA Today</i></b><b> bestselling author Donna Grant delivers a scorching story of obsession, betrayal, dangerous magic, and irresistible desire in the next installment in the Skye Druids series.</b>",
+      "genreIds": [
+        "10058",
+        "38",
+        "9003",
+        "10061"
+      ],
+      "releaseDate": "2026-10-19T07:00:00Z",
+      "country": "USA"
+    }
+  ]
+}

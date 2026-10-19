@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        927821839
+      ],
+      "artistId": 927821839,
+      "artistName": "熊之股鍵次",
+      "genres": [
+        "ファンタジー",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "異世界",
+        "少年",
+        "ギャグ／コメディ"
+      ],
+      "price": 590,
+      "genreIds": [
+        "50000074",
+        "38",
+        "9026",
+        "10016",
+        "11345",
+        "11337",
+        "50000072"
+      ],
+      "releaseDate": "2026-10-16T07:00:00Z",
+      "trackId": 6822296103,
+      "trackName": "魔王城でおやすみ(33)",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "あくましゅうどうし、若返る!?<br /><br />悪夢の男「オネイロス」の死因を探るため<br />あくましゅうどうしは神を「呪う」実験を試みる。<br />神族は呪いを術者に跳ね返す性質を持つというが… <br /><br />「このオレがオマエの意のままになると思うな!」<br /><br />呪いで数百年若返ったあくましゅうどうしは<br />手の付けられない暴れん坊(思春期)で――!?<br /><br />さらに、淫魔村特産のセクシーリカバリーウェアや<br />和風な異変で、今宵も魔王城は大騒ぎ!<br /><br />嬉し懐かし恥ずかしな、みんなの姿が愛おしい!<br />大人と子供を行ったり来たりの 33 巻!",
+      "trackCensoredName": "魔王城でおやすみ(33)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E7%86%8A%E4%B9%8B%E8%82%A1%E9%8D%B5%E6%AC%A1/927821839?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E9%AD%94%E7%8E%8B%E5%9F%8E%E3%81%A7%E3%81%8A%E3%82%84%E3%81%99%E3%81%BF-33/id6822296103?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/8c/93/23/8c9323c7-c6ba-496d-631f-a5c98cfa8441/BT000039651403303301900203.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/8c/93/23/8c9323c7-c6ba-496d-631f-a5c98cfa8441/BT000039651403303301900203.jpg/100x100bb.jpg",
+      "formattedPrice": "¥590",
+      "country": "JPN"
+    }
+  ]
+}
