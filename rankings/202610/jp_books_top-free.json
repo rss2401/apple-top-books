@@ -14,7 +14,7 @@
     "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
     "country": "jp",
     "icon": "https://www.apple.com/favicon.ico",
-    "updated": "Sun, 18 Oct 2026 12:12:15 +0000",
+    "updated": "Mon, 19 Oct 2026 10:52:40 +0000",
     "results": [
       {
         "artistName": "波摘, HykeComic & クリエイティブハウスポケット",
@@ -95,44 +95,6 @@
         "url": "https://books.apple.com/jp/book/%E6%AD%BB%E3%82%93%E3%81%A0%E6%95%B0%E3%81%A0%E3%81%91%E8%B6%85%E5%BC%B7%E5%8C%96-%E3%83%87%E3%82%B9%E3%83%9A%E3%83%8A%E3%83%AB%E3%83%86%E3%82%A3-%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF-1/id6762903256"
       },
       {
-        "artistName": "瀬尾優梨, 佐藤りここ, 春が野かおる & 駒田ハチ",
-        "id": "6745245673",
-        "name": "やり直し辺境伯夫人の幸福な誤算 THE COMIC 1巻",
-        "releaseDate": "2025-05-15",
-        "kind": "books",
-        "artistId": "1448000304",
-        "artistUrl": "https://books.apple.com/jp/author/%E7%80%AC%E5%B0%BE%E5%84%AA%E6%A2%A8/id1448000304",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e2/c0/2d/e2c02dac-670c-0b68-f09d-03b3c9ff7fcd/23013_128573198_001_001_artwork_20250430115858.jpg/100x142bb.png",
-        "genres": [
-          {
-            "genreId": "50000074",
-            "name": "ファンタジー",
-            "url": "https://itunes.apple.com/jp/genre/id50000074"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "10015",
-            "name": "グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id10015"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%82%84%E3%82%8A%E7%9B%B4%E3%81%97%E8%BE%BA%E5%A2%83%E4%BC%AF%E5%A4%AB%E4%BA%BA%E3%81%AE%E5%B9%B8%E7%A6%8F%E3%81%AA%E8%AA%A4%E7%AE%97-the-comic-1%E5%B7%BB/id6745245673"
-      },
-      {
         "artistName": "柴谷けん, 咲倉未来 & 早瀬ジュン",
         "id": "6450440128",
         "name": "聖女になりたい訳ではありませんが 辺境からきた田舎娘なのに王太子妃候補に選ばれてしまいました!?【電子単行本版】 / 1",
@@ -209,52 +171,14 @@
         "url": "https://books.apple.com/jp/book/%E8%81%96%E5%A5%B3%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%E8%A8%B3%E3%81%A7%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8C-%E8%BE%BA%E5%A2%83%E3%81%8B%E3%82%89%E3%81%8D%E3%81%9F%E7%94%B0%E8%88%8E%E5%A8%98%E3%81%AA%E3%81%AE%E3%81%AB%E7%8E%8B%E5%A4%AA%E5%AD%90%E5%A6%83%E5%80%99%E8%A3%9C%E3%81%AB%E9%81%B8%E3%81%B0%E3%82%8C%E3%81%A6%E3%81%97%E3%81%BE%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F-%E9%9B%BB%E5%AD%90%E5%8D%98%E8%A1%8C%E6%9C%AC%E7%89%88/id6473774394"
       },
       {
-        "artistName": "夏海真優, アマラ & 乃希",
-        "id": "1615534911",
-        "name": "神様は異世界にお引越ししました【電子単行本版】 / 1",
-        "releaseDate": "2021-06-14",
+        "artistName": "瀬尾優梨, 佐藤りここ, 春が野かおる & 駒田ハチ",
+        "id": "6745245673",
+        "name": "やり直し辺境伯夫人の幸福な誤算 THE COMIC 1巻",
+        "releaseDate": "2025-05-15",
         "kind": "books",
-        "artistId": "1584095386",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%8F%E6%B5%B7%E7%9C%9F%E5%84%AA/id1584095386",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/dc/a2/33/dca2330c-7b0e-3c1e-f960-5c58ffb47ed1/29257_124305880_001_001_artwork_20220322124800.jpg/100x142bb.png",
-        "genres": [
-          {
-            "genreId": "11337",
-            "name": "少年",
-            "url": "https://itunes.apple.com/jp/genre/id11337"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "50000074",
-            "name": "ファンタジー",
-            "url": "https://itunes.apple.com/jp/genre/id50000074"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E7%A5%9E%E6%A7%98%E3%81%AF%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AB%E3%81%8A%E5%BC%95%E8%B6%8A%E3%81%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E9%9B%BB%E5%AD%90%E5%8D%98%E8%A1%8C%E6%9C%AC%E7%89%88-1/id1615534911"
-      },
-      {
-        "artistName": "夏海真優, アマラ & 乃希",
-        "id": "1615537276",
-        "name": "神様は異世界にお引越ししました【電子単行本版】 / 2",
-        "releaseDate": "2021-12-11",
-        "kind": "books",
-        "artistId": "1584095386",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%8F%E6%B5%B7%E7%9C%9F%E5%84%AA/id1584095386",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/cd/d5/be/cdd5be9d-ad49-510c-cf4b-38d42c44e4f2/29257_124305901_001_001_artwork_20220322124800.jpg/100x142bb.png",
+        "artistId": "1448000304",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%80%AC%E5%B0%BE%E5%84%AA%E6%A2%A8/id1448000304",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e2/c0/2d/e2c02dac-670c-0b68-f09d-03b3c9ff7fcd/23013_128573198_001_001_artwork_20250430115858.jpg/100x142bb.png",
         "genres": [
           {
             "genreId": "50000074",
@@ -282,7 +206,7 @@
             "url": "https://itunes.apple.com/jp/genre/id10015"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E7%A5%9E%E6%A7%98%E3%81%AF%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AB%E3%81%8A%E5%BC%95%E8%B6%8A%E3%81%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E9%9B%BB%E5%AD%90%E5%8D%98%E8%A1%8C%E6%9C%AC%E7%89%88-2/id1615537276"
+        "url": "https://books.apple.com/jp/book/%E3%82%84%E3%82%8A%E7%9B%B4%E3%81%97%E8%BE%BA%E5%A2%83%E4%BC%AF%E5%A4%AB%E4%BA%BA%E3%81%AE%E5%B9%B8%E7%A6%8F%E3%81%AA%E8%AA%A4%E7%AE%97-the-comic-1%E5%B7%BB/id6745245673"
       },
       {
         "artistName": "青辺マヒト, 十夜 & chibi",
@@ -318,44 +242,6 @@
         "url": "https://books.apple.com/jp/book/%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E5%A4%A7%E8%81%96%E5%A5%B3%E3%81%AF-%E8%81%96%E5%A5%B3%E3%81%A7%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E3%81%B2%E3%81%9F%E9%9A%A0%E3%81%99-a-tale-of-the-great/id1552156862"
       },
       {
-        "artistName": "有山リョウ, 上戸亮 & コダマ",
-        "id": "1588672455",
-        "name": "ロメリア戦記～伯爵令嬢、魔王を倒した後も人類やばそうだから軍隊組織する～ 1巻",
-        "releaseDate": "2021-10-08",
-        "kind": "books",
-        "artistId": "1518773098",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%9C%89%E5%B1%B1%E3%83%AA%E3%83%A7%E3%82%A6/id1518773098",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/9a/16/47/9a16472c-dab2-f87a-5482-f9a8ba79cb02/23013_123905782_001_001_artwork_20211004142523.jpg/100x142bb.png",
-        "genres": [
-          {
-            "genreId": "11337",
-            "name": "少年",
-            "url": "https://itunes.apple.com/jp/genre/id11337"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "50000074",
-            "name": "ファンタジー",
-            "url": "https://itunes.apple.com/jp/genre/id50000074"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%83%AD%E3%83%A1%E3%83%AA%E3%82%A2%E6%88%A6%E8%A8%98-%E4%BC%AF%E7%88%B5%E4%BB%A4%E5%AC%A2-%E9%AD%94%E7%8E%8B%E3%82%92%E5%80%92%E3%81%97%E3%81%9F%E5%BE%8C%E3%82%82%E4%BA%BA%E9%A1%9E%E3%82%84%E3%81%B0%E3%81%9D%E3%81%86%E3%81%A0%E3%81%8B%E3%82%89%E8%BB%8D%E9%9A%8A%E7%B5%84%E7%B9%94%E3%81%99%E3%82%8B-1%E5%B7%BB/id1588672455"
-      },
-      {
         "artistName": "太宰治",
         "id": "566312230",
         "name": "人間失格",
@@ -382,6 +268,39 @@
           }
         ],
         "url": "https://books.apple.com/jp/book/%E4%BA%BA%E9%96%93%E5%A4%B1%E6%A0%BC/id566312230"
+      },
+      {
+        "artistName": "青辺マヒト, 十夜 & chibi",
+        "id": "1506879365",
+        "name": "転生した大聖女は、聖女であることをひた隠す A Tale of The Great Saint 1",
+        "releaseDate": "2020-04-11",
+        "kind": "books",
+        "artistId": "944172942",
+        "artistUrl": "https://books.apple.com/jp/author/%E9%9D%92%E8%BE%BA%E3%83%9E%E3%83%92%E3%83%88/id944172942",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/e1/42/5e/e1425e66-118d-189f-c9fe-a8688a96f204/JAMTVAP0000000000601.jpg/100x142bb.png",
+        "genres": [
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "11341",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id11341"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E5%A4%A7%E8%81%96%E5%A5%B3%E3%81%AF-%E8%81%96%E5%A5%B3%E3%81%A7%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E3%81%B2%E3%81%9F%E9%9A%A0%E3%81%99-a-tale-of-the-great-saint-1/id1506879365"
       },
       {
         "artistName": "猫子, 朝日アオ, HykeComic, Whomor & Straight Edge",
@@ -423,6 +342,67 @@
         "url": "https://books.apple.com/jp/book/2%E5%91%A8%E7%9B%AE%E5%86%92%E9%99%BA%E8%80%85%E3%81%AF%E9%9A%A0%E3%81%97%E3%82%AF%E3%83%A9%E3%82%B9-%E9%87%8D%E5%8A%9B%E4%BD%BF%E3%81%84-%E3%81%A7%E6%9C%80%E5%BC%B7%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99-%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF-3/id6759810503"
       },
       {
+        "artistName": "青辺マヒト, 十夜 & chibi",
+        "id": "1530782322",
+        "name": "転生した大聖女は、聖女であることをひた隠す A Tale of The Great Saint 2",
+        "releaseDate": "2020-09-12",
+        "kind": "books",
+        "artistId": "944172942",
+        "artistUrl": "https://books.apple.com/jp/author/%E9%9D%92%E8%BE%BA%E3%83%9E%E3%83%92%E3%83%88/id944172942",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/4a/6d/35/4a6d355e-361f-4346-36ee-dd5444ad5b8d/JAMTVAP0000000000642.jpg/100x143bb.png",
+        "genres": [
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "50000074",
+            "name": "ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id50000074"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E5%A4%A7%E8%81%96%E5%A5%B3%E3%81%AF-%E8%81%96%E5%A5%B3%E3%81%A7%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E3%81%B2%E3%81%9F%E9%9A%A0%E3%81%99-a-tale-of-the-great-saint-2/id1530782322"
+      },
+      {
+        "artistName": "フョードル・ミハイロヴィッチ・ドストエフスキー & 米川正夫",
+        "id": "6741676015",
+        "name": "罪と罰",
+        "releaseDate": "2025-02-07",
+        "kind": "books",
+        "artistId": "1668789530",
+        "artistUrl": "https://books.apple.com/jp/author/%E3%83%95%E3%83%A7%E3%83%BC%E3%83%89%E3%83%AB-%E3%83%9F%E3%83%8F%E3%82%A4%E3%83%AD%E3%83%B4%E3%82%A3%E3%83%83%E3%83%81-%E3%83%89%E3%82%B9%E3%83%88%E3%82%A8%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BC/id1668789530",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/af/0b/d5/af0bd545-c609-a5d0-5a92-2516e17b68dc/mza_16872774688833164774.png/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E7%BD%AA%E3%81%A8%E7%BD%B0/id6741676015"
+      },
+      {
         "artistName": "猫子, 朝日アオ, HykeComic, Whomor & Straight Edge",
         "id": "6759808076",
         "name": "2周目冒険者は隠しクラス〈重力使い〉で最強を目指す 【コミック】 (2)",
@@ -462,19 +442,75 @@
         "url": "https://books.apple.com/jp/book/2%E5%91%A8%E7%9B%AE%E5%86%92%E9%99%BA%E8%80%85%E3%81%AF%E9%9A%A0%E3%81%97%E3%82%AF%E3%83%A9%E3%82%B9-%E9%87%8D%E5%8A%9B%E4%BD%BF%E3%81%84-%E3%81%A7%E6%9C%80%E5%BC%B7%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99-%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF-2/id6759808076"
       },
       {
-        "artistName": "青辺マヒト, 十夜 & chibi",
-        "id": "1530782322",
-        "name": "転生した大聖女は、聖女であることをひた隠す A Tale of The Great Saint 2",
-        "releaseDate": "2020-09-12",
+        "artistName": "夏目漱石",
+        "id": "566365349",
+        "name": "こころ",
+        "releaseDate": "1918-04-02",
         "kind": "books",
-        "artistId": "944172942",
-        "artistUrl": "https://books.apple.com/jp/author/%E9%9D%92%E8%BE%BA%E3%83%9E%E3%83%92%E3%83%88/id944172942",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/4a/6d/35/4a6d355e-361f-4346-36ee-dd5444ad5b8d/JAMTVAP0000000000642.jpg/100x143bb.png",
+        "artistId": "121333054",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3/id121333054",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/6e/0c/21/6e0c215e-816a-041a-fb4f-3598e08c671f/0000000000773.jpg/100x160bb.png",
         "genres": [
           {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E3%81%93%E3%81%93%E3%82%8D/id566365349"
+      },
+      {
+        "artistName": "宮沢賢治",
+        "id": "566312203",
+        "name": "銀河鉄道の夜",
+        "releaseDate": "1993-06-16",
+        "kind": "books",
+        "artistId": "106372375",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id106372375",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/0f/94/6d/0f946dc1-e767-35d3-e59a-c49cc1f02601/0000000000456.jpg/100x160bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E9%8A%80%E6%B2%B3%E9%89%84%E9%81%93%E3%81%AE%E5%A4%9C/id566312203"
+      },
+      {
+        "artistName": "有山リョウ, 上戸亮 & コダマ",
+        "id": "1588672455",
+        "name": "ロメリア戦記～伯爵令嬢、魔王を倒した後も人類やばそうだから軍隊組織する～ 1巻",
+        "releaseDate": "2021-10-08",
+        "kind": "books",
+        "artistId": "1518773098",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%9C%89%E5%B1%B1%E3%83%AA%E3%83%A7%E3%82%A6/id1518773098",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/9a/16/47/9a16472c-dab2-f87a-5482-f9a8ba79cb02/23013_123905782_001_001_artwork_20211004142523.jpg/100x142bb.png",
+        "genres": [
+          {
+            "genreId": "11337",
+            "name": "少年",
+            "url": "https://itunes.apple.com/jp/genre/id11337"
           },
           {
             "genreId": "38",
@@ -485,6 +521,11 @@
             "genreId": "9026",
             "name": "マンガ／グラフィックノベル",
             "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
           },
           {
             "genreId": "50000074",
@@ -492,22 +533,22 @@
             "url": "https://itunes.apple.com/jp/genre/id50000074"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E5%A4%A7%E8%81%96%E5%A5%B3%E3%81%AF-%E8%81%96%E5%A5%B3%E3%81%A7%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E3%81%B2%E3%81%9F%E9%9A%A0%E3%81%99-a-tale-of-the-great-saint-2/id1530782322"
+        "url": "https://books.apple.com/jp/book/%E3%83%AD%E3%83%A1%E3%83%AA%E3%82%A2%E6%88%A6%E8%A8%98-%E4%BC%AF%E7%88%B5%E4%BB%A4%E5%AC%A2-%E9%AD%94%E7%8E%8B%E3%82%92%E5%80%92%E3%81%97%E3%81%9F%E5%BE%8C%E3%82%82%E4%BA%BA%E9%A1%9E%E3%82%84%E3%81%B0%E3%81%9D%E3%81%86%E3%81%A0%E3%81%8B%E3%82%89%E8%BB%8D%E9%9A%8A%E7%B5%84%E7%B9%94%E3%81%99%E3%82%8B-1%E5%B7%BB/id1588672455"
       },
       {
-        "artistName": "青辺マヒト, 十夜 & chibi",
-        "id": "1506879365",
-        "name": "転生した大聖女は、聖女であることをひた隠す A Tale of The Great Saint 1",
-        "releaseDate": "2020-04-11",
+        "artistName": "アルベルト・アインシュタイン & 石原純",
+        "id": "6744514853",
+        "name": "相対性理論",
+        "releaseDate": "2025-04-11",
         "kind": "books",
-        "artistId": "944172942",
-        "artistUrl": "https://books.apple.com/jp/author/%E9%9D%92%E8%BE%BA%E3%83%9E%E3%83%92%E3%83%88/id944172942",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/e1/42/5e/e1425e66-118d-189f-c9fe-a8688a96f204/JAMTVAP0000000000601.jpg/100x142bb.png",
+        "artistId": "1635891601",
+        "artistUrl": "https://books.apple.com/jp/author/%E3%82%A2%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88-%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3/id1635891601",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/f9/41/be/f941be3d-50bf-fc8a-b5bb-0b9b68d857e9/mza_5434728886908178998.png/100x156bb.png",
         "genres": [
           {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
+            "genreId": "10112",
+            "name": "化学",
+            "url": "https://itunes.apple.com/jp/genre/id10112"
           },
           {
             "genreId": "38",
@@ -515,17 +556,12 @@
             "url": "https://itunes.apple.com/jp/genre/id38"
           },
           {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "11341",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id11341"
+            "genreId": "9019",
+            "name": "科学／自然",
+            "url": "https://itunes.apple.com/jp/genre/id9019"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E5%A4%A7%E8%81%96%E5%A5%B3%E3%81%AF-%E8%81%96%E5%A5%B3%E3%81%A7%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E3%81%B2%E3%81%9F%E9%9A%A0%E3%81%99-a-tale-of-the-great-saint-1/id1506879365"
+        "url": "https://books.apple.com/jp/book/%E7%9B%B8%E5%AF%BE%E6%80%A7%E7%90%86%E8%AB%96/id6744514853"
       },
       {
         "artistName": "猫子, 朝日アオ, HykeComic, Whomor & Straight Edge",
@@ -567,62 +603,6 @@
         "url": "https://books.apple.com/jp/book/2%E5%91%A8%E7%9B%AE%E5%86%92%E9%99%BA%E8%80%85%E3%81%AF%E9%9A%A0%E3%81%97%E3%82%AF%E3%83%A9%E3%82%B9-%E9%87%8D%E5%8A%9B%E4%BD%BF%E3%81%84-%E3%81%A7%E6%9C%80%E5%BC%B7%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99-%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF-1/id6759810588"
       },
       {
-        "artistName": "フョードル・ミハイロヴィッチ・ドストエフスキー & 米川正夫",
-        "id": "6741676015",
-        "name": "罪と罰",
-        "releaseDate": "2025-02-07",
-        "kind": "books",
-        "artistId": "1668789530",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%83%95%E3%83%A7%E3%83%BC%E3%83%89%E3%83%AB-%E3%83%9F%E3%83%8F%E3%82%A4%E3%83%AD%E3%83%B4%E3%82%A3%E3%83%83%E3%83%81-%E3%83%89%E3%82%B9%E3%83%88%E3%82%A8%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BC/id1668789530",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/af/0b/d5/af0bd545-c609-a5d0-5a92-2516e17b68dc/mza_16872774688833164774.png/100x156bb.png",
-        "genres": [
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "10042",
-            "name": "名作",
-            "url": "https://itunes.apple.com/jp/genre/id10042"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E7%BD%AA%E3%81%A8%E7%BD%B0/id6741676015"
-      },
-      {
-        "artistName": "夏目漱石",
-        "id": "566365349",
-        "name": "こころ",
-        "releaseDate": "1918-04-02",
-        "kind": "books",
-        "artistId": "121333054",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3/id121333054",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/6e/0c/21/6e0c215e-816a-041a-fb4f-3598e08c671f/0000000000773.jpg/100x160bb.png",
-        "genres": [
-          {
-            "genreId": "10042",
-            "name": "名作",
-            "url": "https://itunes.apple.com/jp/genre/id10042"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%81%93%E3%81%93%E3%82%8D/id566365349"
-      },
-      {
         "artistName": "名苗秋緒, 九頭七尾 & 上田夢人",
         "id": "1530782658",
         "name": "無職の英雄 別にスキルなんか要らなかったんだが -才能ゼロの成り上がり- 3",
@@ -656,14 +636,14 @@
         "url": "https://books.apple.com/jp/book/%E7%84%A1%E8%81%B7%E3%81%AE%E8%8B%B1%E9%9B%84-%E5%88%A5%E3%81%AB%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%AA%E3%82%93%E3%81%8B%E8%A6%81%E3%82%89%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%93%E3%81%A0%E3%81%8C-%E6%89%8D%E8%83%BD%E3%82%BC%E3%83%AD%E3%81%AE%E6%88%90%E3%82%8A%E4%B8%8A%E3%81%8C%E3%82%8A-3/id1530782658"
       },
       {
-        "artistName": "宮沢賢治",
-        "id": "566312203",
-        "name": "銀河鉄道の夜",
-        "releaseDate": "1993-06-16",
+        "artistName": "江戸川乱歩",
+        "id": "6670192277",
+        "name": "怪人二十面相",
+        "releaseDate": "2024-08-27",
         "kind": "books",
-        "artistId": "106372375",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id106372375",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/0f/94/6d/0f946dc1-e767-35d3-e59a-c49cc1f02601/0000000000456.jpg/100x160bb.png",
+        "artistId": "368035988",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9/id368035988",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/ce/eb/09/ceeb09d2-9326-1374-0d70-c37d7bf60969/mza_4100190408225707232.png/100x156bb.png",
         "genres": [
           {
             "genreId": "10042",
@@ -681,22 +661,22 @@
             "url": "https://itunes.apple.com/jp/genre/id9031"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E9%8A%80%E6%B2%B3%E9%89%84%E9%81%93%E3%81%AE%E5%A4%9C/id566312203"
+        "url": "https://books.apple.com/jp/book/%E6%80%AA%E4%BA%BA%E4%BA%8C%E5%8D%81%E9%9D%A2%E7%9B%B8/id6670192277"
       },
       {
-        "artistName": "アルベルト・アインシュタイン & 石原純",
-        "id": "6744514853",
-        "name": "相対性理論",
-        "releaseDate": "2025-04-11",
+        "artistName": "東野圭吾",
+        "id": "1507917697",
+        "name": "プラチナデータ<ライト版>",
+        "releaseDate": "2020-04-24",
         "kind": "books",
-        "artistId": "1635891601",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%82%A2%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88-%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3/id1635891601",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/f9/41/be/f941be3d-50bf-fc8a-b5bb-0b9b68d857e9/mza_5434728886908178998.png/100x156bb.png",
+        "artistId": "542129495",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%9D%B1%E9%87%8E%E5%9C%AD%E5%90%BE/id542129495",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/c7/aa/88/c7aa88d6-2940-984c-4477-f52be9bcba63/4380000405077.jpg/100x151bb.png",
         "genres": [
           {
-            "genreId": "10112",
-            "name": "化学",
-            "url": "https://itunes.apple.com/jp/genre/id10112"
+            "genreId": "9032",
+            "name": "ミステリー／スリラー",
+            "url": "https://itunes.apple.com/jp/genre/id9032"
           },
           {
             "genreId": "38",
@@ -704,12 +684,17 @@
             "url": "https://itunes.apple.com/jp/genre/id38"
           },
           {
-            "genreId": "9019",
-            "name": "科学／自然",
-            "url": "https://itunes.apple.com/jp/genre/id9019"
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          },
+          {
+            "genreId": "10049",
+            "name": "文芸小説",
+            "url": "https://itunes.apple.com/jp/genre/id10049"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E7%9B%B8%E5%AF%BE%E6%80%A7%E7%90%86%E8%AB%96/id6744514853"
+        "url": "https://books.apple.com/jp/book/%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%87%E3%83%BC%E3%82%BF-%E3%83%A9%E3%82%A4%E3%83%88%E7%89%88/id1507917697"
       },
       {
         "artistName": "南乃映月, 狭山ひびき & 硝音あや",
@@ -750,199 +735,14 @@
         "url": "https://books.apple.com/jp/book/%E7%8E%8B%E5%A4%AA%E5%AD%90%E3%81%AB%E5%A9%9A%E7%B4%84%E7%A0%B4%E6%A3%84%E3%81%95%E3%82%8C%E3%81%9F%E3%81%AE%E3%81%A7-%E3%82%82%E3%81%86%E3%83%90%E3%82%AB%E3%81%AE%E3%81%B5%E3%82%8A%E3%81%AF%E3%82%84%E3%82%81%E3%82%88%E3%81%86%E3%81%A8%E6%80%9D%E3%81%84%E3%81%BE%E3%81%99-1%E5%B7%BB/id6443338916"
       },
       {
-        "artistName": "六甲島カモメ, さいとうさ & ツグトク",
-        "id": "1570570818",
-        "name": "めっちゃ召喚された件 THE COMIC(2)",
-        "releaseDate": "2021-06-14",
+        "artistName": "太宰治",
+        "id": "566858008",
+        "name": "斜陽",
+        "releaseDate": "1992-09-28",
         "kind": "books",
-        "artistId": "1095549320",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%85%AD%E7%94%B2%E5%B3%B6%E3%82%AB%E3%83%A2%E3%83%A1/id1095549320",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/0d/6a/f1/0d6af182-59c0-cc2a-6ed3-785d58f0d631/23013_123640451_001_001_artwork_20210603111800.jpg/100x142bb.png",
-        "genres": [
-          {
-            "genreId": "11338",
-            "name": "青年",
-            "url": "https://itunes.apple.com/jp/genre/id11338"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "50000074",
-            "name": "ファンタジー",
-            "url": "https://itunes.apple.com/jp/genre/id50000074"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E5%8F%AC%E5%96%9A%E3%81%95%E3%82%8C%E3%81%9F%E4%BB%B6-the-comic-2/id1570570818"
-      },
-      {
-        "artistName": "御子柴奈々, booklistaSTUDIO & MUGEN FACTORY",
-        "id": "6797396355",
-        "name": "魔術至上世界の妖刀使いー剣を極めたサムライは魔術至上主義の異世界へと転生し、見下されている剣術で無双するー(1)",
-        "releaseDate": "2026-08-13",
-        "kind": "books",
-        "artistId": "1512752904",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%BE%A1%E5%AD%90%E6%9F%B4%E5%A5%88%E3%80%85/id1512752904",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e1/ff/08/e1ff081c-b7c0-8838-256d-1dfb634199a5/21465_131415108_001_001_artwork_20260803125632.jpg/100x140bb.png",
-        "genres": [
-          {
-            "genreId": "50000074",
-            "name": "ファンタジー",
-            "url": "https://itunes.apple.com/jp/genre/id50000074"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "10015",
-            "name": "グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id10015"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E9%AD%94%E8%A1%93%E8%87%B3%E4%B8%8A%E4%B8%96%E7%95%8C%E3%81%AE%E5%A6%96%E5%88%80%E4%BD%BF%E3%81%84%E3%83%BC%E5%89%A3%E3%82%92%E6%A5%B5%E3%82%81%E3%81%9F%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%81%AF%E9%AD%94%E8%A1%93%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%B8%E3%81%A8%E8%BB%A2%E7%94%9F%E3%81%97-%E8%A6%8B%E4%B8%8B%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E5%89%A3%E8%A1%93%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B%E3%83%BC/id6797396355"
-      },
-      {
-        "artistName": "六甲島カモメ, さいとうさ & ツグトク",
-        "id": "1539365303",
-        "name": "めっちゃ召喚された件 THE COMIC(1)",
-        "releaseDate": "2020-11-13",
-        "kind": "books",
-        "artistId": "1095549320",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%85%AD%E7%94%B2%E5%B3%B6%E3%82%AB%E3%83%A2%E3%83%A1/id1095549320",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/06/31/76/063176b4-8d27-0133-d599-df4ef0b469d5/23013_123256639_001_001_artwork_20201109115621.jpg/100x142bb.png",
-        "genres": [
-          {
-            "genreId": "11338",
-            "name": "青年",
-            "url": "https://itunes.apple.com/jp/genre/id11338"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "50000074",
-            "name": "ファンタジー",
-            "url": "https://itunes.apple.com/jp/genre/id50000074"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E5%8F%AC%E5%96%9A%E3%81%95%E3%82%8C%E3%81%9F%E4%BB%B6-the-comic-1/id1539365303"
-      },
-      {
-        "artistName": "東野圭吾",
-        "id": "1507917697",
-        "name": "プラチナデータ<ライト版>",
-        "releaseDate": "2020-04-24",
-        "kind": "books",
-        "artistId": "542129495",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%9D%B1%E9%87%8E%E5%9C%AD%E5%90%BE/id542129495",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/c7/aa/88/c7aa88d6-2940-984c-4477-f52be9bcba63/4380000405077.jpg/100x151bb.png",
-        "genres": [
-          {
-            "genreId": "9032",
-            "name": "ミステリー／スリラー",
-            "url": "https://itunes.apple.com/jp/genre/id9032"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          },
-          {
-            "genreId": "10049",
-            "name": "文芸小説",
-            "url": "https://itunes.apple.com/jp/genre/id10049"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%87%E3%83%BC%E3%82%BF-%E3%83%A9%E3%82%A4%E3%83%88%E7%89%88/id1507917697"
-      },
-      {
-        "artistName": "御子柴奈々, booklistaSTUDIO & MUGEN FACTORY",
-        "id": "6797396344",
-        "name": "魔術至上世界の妖刀使いー剣を極めたサムライは魔術至上主義の異世界へと転生し、見下されている剣術で無双するー(3)",
-        "releaseDate": "2026-08-13",
-        "kind": "books",
-        "artistId": "1512752904",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%BE%A1%E5%AD%90%E6%9F%B4%E5%A5%88%E3%80%85/id1512752904",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e3/10/a2/e310a21d-1b52-d7aa-245b-90e1755cbef9/21465_131415110_001_001_artwork_20260803125632.jpg/100x140bb.png",
-        "genres": [
-          {
-            "genreId": "50000074",
-            "name": "ファンタジー",
-            "url": "https://itunes.apple.com/jp/genre/id50000074"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "10015",
-            "name": "グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id10015"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E9%AD%94%E8%A1%93%E8%87%B3%E4%B8%8A%E4%B8%96%E7%95%8C%E3%81%AE%E5%A6%96%E5%88%80%E4%BD%BF%E3%81%84%E3%83%BC%E5%89%A3%E3%82%92%E6%A5%B5%E3%82%81%E3%81%9F%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%81%AF%E9%AD%94%E8%A1%93%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%B8%E3%81%A8%E8%BB%A2%E7%94%9F%E3%81%97-%E8%A6%8B%E4%B8%8B%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E5%89%A3%E8%A1%93%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B%E3%83%BC/id6797396344"
-      },
-      {
-        "artistName": "宮沢賢治",
-        "id": "566876061",
-        "name": "注文の多い料理店",
-        "releaseDate": "1928-12-02",
-        "kind": "books",
-        "artistId": "106372375",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id106372375",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/e0/5c/8f/e05c8fe5-f374-7243-a48e-e048c386990a/0000000043754.jpg/100x160bb.png",
+        "artistId": "173331980",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%AA%E5%AE%B0%E6%B2%BB/id173331980",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/6a/0d/36/6a0d36ee-8fb9-9949-e564-6c8bdc5f34d3/0000000001565.jpg/100x160bb.png",
         "genres": [
           {
             "genreId": "10042",
@@ -960,7 +760,7 @@
             "url": "https://itunes.apple.com/jp/genre/id9031"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E6%B3%A8%E6%96%87%E3%81%AE%E5%A4%9A%E3%81%84%E6%96%99%E7%90%86%E5%BA%97/id566876061"
+        "url": "https://books.apple.com/jp/book/%E6%96%9C%E9%99%BD/id566858008"
       },
       {
         "artistName": "芥川龍之介",
@@ -991,232 +791,6 @@
         "url": "https://books.apple.com/jp/book/%E7%BE%85%E7%94%9F%E9%96%80/id566312119"
       },
       {
-        "artistName": "御子柴奈々, booklistaSTUDIO & MUGEN FACTORY",
-        "id": "6797396609",
-        "name": "魔術至上世界の妖刀使いー剣を極めたサムライは魔術至上主義の異世界へと転生し、見下されている剣術で無双するー(2)",
-        "releaseDate": "2026-08-13",
-        "kind": "books",
-        "artistId": "1512752904",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%BE%A1%E5%AD%90%E6%9F%B4%E5%A5%88%E3%80%85/id1512752904",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1c/31/7d/1c317de7-7c4c-c18b-9e70-af4266e26243/21465_131415109_001_001_artwork_20260803125632.jpg/100x140bb.png",
-        "genres": [
-          {
-            "genreId": "50000074",
-            "name": "ファンタジー",
-            "url": "https://itunes.apple.com/jp/genre/id50000074"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "10015",
-            "name": "グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id10015"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E9%AD%94%E8%A1%93%E8%87%B3%E4%B8%8A%E4%B8%96%E7%95%8C%E3%81%AE%E5%A6%96%E5%88%80%E4%BD%BF%E3%81%84%E3%83%BC%E5%89%A3%E3%82%92%E6%A5%B5%E3%82%81%E3%81%9F%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%81%AF%E9%AD%94%E8%A1%93%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%B8%E3%81%A8%E8%BB%A2%E7%94%9F%E3%81%97-%E8%A6%8B%E4%B8%8B%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E5%89%A3%E8%A1%93%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B%E3%83%BC/id6797396609"
-      },
-      {
-        "artistName": "江戸川乱歩",
-        "id": "6670192277",
-        "name": "怪人二十面相",
-        "releaseDate": "2024-08-27",
-        "kind": "books",
-        "artistId": "368035988",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9/id368035988",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/ce/eb/09/ceeb09d2-9326-1374-0d70-c37d7bf60969/mza_4100190408225707232.png/100x156bb.png",
-        "genres": [
-          {
-            "genreId": "10042",
-            "name": "名作",
-            "url": "https://itunes.apple.com/jp/genre/id10042"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E6%80%AA%E4%BA%BA%E4%BA%8C%E5%8D%81%E9%9D%A2%E7%9B%B8/id6670192277"
-      },
-      {
-        "artistName": "江戸川乱歩",
-        "id": "6741675880",
-        "name": "D坂の殺人事件",
-        "releaseDate": "2025-02-07",
-        "kind": "books",
-        "artistId": "368035988",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9/id368035988",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/fe/f8/ce/fef8cee8-34b0-d7ff-d84e-12f48454bb98/mza_5091805453481065278.png/100x156bb.png",
-        "genres": [
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "10042",
-            "name": "名作",
-            "url": "https://itunes.apple.com/jp/genre/id10042"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/d%E5%9D%82%E3%81%AE%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6/id6741675880"
-      },
-      {
-        "artistName": "4U, ただのぎょー & 結川カズノ",
-        "id": "6737836075",
-        "name": "追放された公爵令嬢、ヴィルヘルミーナが幸せになるまで。 ～最強の平民、世界に革命を起こす～1【電子書店共通特典イラスト付】",
-        "releaseDate": "2024-11-12",
-        "kind": "books",
-        "artistId": "1831815397",
-        "artistUrl": "https://books.apple.com/jp/author/4u/id1831815397",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/c9/61/bd/c961bde1-82b3-143a-18be-41626eacd87d/JAMTVAP0000000001370.jpg/100x142bb.png",
-        "genres": [
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E5%85%AC%E7%88%B5%E4%BB%A4%E5%AC%A2-%E3%83%B4%E3%82%A3%E3%83%AB%E3%83%98%E3%83%AB%E3%83%9F%E3%83%BC%E3%83%8A%E3%81%8C%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%BE%E3%81%A7-%E6%9C%80%E5%BC%B7%E3%81%AE%E5%B9%B3%E6%B0%91-%E4%B8%96%E7%95%8C%E3%81%AB%E9%9D%A9%E5%91%BD%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99-1-%E9%9B%BB%E5%AD%90%E6%9B%B8%E5%BA%97%E5%85%B1%E9%80%9A%E7%89%B9%E5%85%B8%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E4%BB%98/id6737836075"
-      },
-      {
-        "artistName": "kaei & pinkvisions",
-        "id": "6756955145",
-        "name": "りんご性活～田舎育ちのエルフま●こは都会ち●ぽと相性抜群!【ソフト版】【フルカラー】【タテヨミ】(1)",
-        "releaseDate": "2025-12-26",
-        "kind": "books",
-        "artistId": "1771984549",
-        "artistUrl": "https://books.apple.com/jp/author/kaei/id1771984549",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6f/de/4b/6fde4bba-1821-3bb4-d7e1-fc35e37c8cd9/21542_130148453_001_001_artwork_20251224150823.jpg/100x140bb.png",
-        "genres": [
-          {
-            "genreId": "50000085",
-            "name": "ラブコメディ",
-            "url": "https://itunes.apple.com/jp/genre/id50000085"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "10015",
-            "name": "グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id10015"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%82%8A%E3%82%93%E3%81%94%E6%80%A7%E6%B4%BB-%E7%94%B0%E8%88%8E%E8%82%B2%E3%81%A1%E3%81%AE%E3%82%A8%E3%83%AB%E3%83%95%E3%81%BE-%E3%81%93%E3%81%AF%E9%83%BD%E4%BC%9A%E3%81%A1-%E3%81%BD%E3%81%A8%E7%9B%B8%E6%80%A7%E6%8A%9C%E7%BE%A4-%E3%82%BD%E3%83%95%E3%83%88%E7%89%88-%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC-%E3%82%BF%E3%83%86%E3%83%A8%E3%83%9F-1/id6756955145"
-      },
-      {
-        "artistName": "谷崎潤一郎",
-        "id": "6744514765",
-        "name": "細雪",
-        "releaseDate": "2025-04-11",
-        "kind": "books",
-        "artistId": "316201032",
-        "artistUrl": "https://books.apple.com/jp/author/%E8%B0%B7%E5%B4%8E%E6%BD%A4%E4%B8%80%E9%83%8E/id316201032",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/a1/ad/e4/a1ade445-74a1-7bf0-0dba-80f1a54843d4/mza_239202502580388870.png/100x156bb.png",
-        "genres": [
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "10042",
-            "name": "名作",
-            "url": "https://itunes.apple.com/jp/genre/id10042"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E7%B4%B0%E9%9B%AA/id6744514765"
-      },
-      {
-        "artistName": "名苗秋緒, 九頭七尾 & 上田夢人",
-        "id": "1502046590",
-        "name": "無職の英雄　別にスキルなんか要らなかったんだが -才能ゼロの成り上がり-　2",
-        "releaseDate": "2020-03-12",
-        "kind": "books",
-        "artistId": "1085961685",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%90%8D%E8%8B%97%E7%A7%8B%E7%B7%92/id1085961685",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/95/f1/de/95f1def1-d00c-f2e3-e788-d91bb494c581/JAMTVAP0000000000589.jpg/100x142bb.png",
-        "genres": [
-          {
-            "genreId": "11338",
-            "name": "青年",
-            "url": "https://itunes.apple.com/jp/genre/id11338"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "11341",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id11341"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E7%84%A1%E8%81%B7%E3%81%AE%E8%8B%B1%E9%9B%84-%E5%88%A5%E3%81%AB%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%AA%E3%82%93%E3%81%8B%E8%A6%81%E3%82%89%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%93%E3%81%A0%E3%81%8C-%E6%89%8D%E8%83%BD%E3%82%BC%E3%83%AD%E3%81%AE%E6%88%90%E3%82%8A%E4%B8%8A%E3%81%8C%E3%82%8A-2/id1502046590"
-      },
-      {
         "artistName": "アーネスト・ヘミングウェイ & 石波杏",
         "id": "6748213760",
         "name": "老人と海",
@@ -1245,52 +819,14 @@
         "url": "https://books.apple.com/jp/book/%E8%80%81%E4%BA%BA%E3%81%A8%E6%B5%B7/id6748213760"
       },
       {
-        "artistName": "漆原 玖, 門司柿家 & toi8",
-        "id": "1462709159",
-        "name": "冒険者になりたいと都に出て行った娘がSランクになってた -黒髪の戦乙女- 2",
-        "releaseDate": "2019-05-11",
+        "artistName": "宮沢賢治",
+        "id": "566876061",
+        "name": "注文の多い料理店",
+        "releaseDate": "1928-12-02",
         "kind": "books",
-        "artistId": "1438609760",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%BC%86%E5%8E%9F-%E7%8E%96/id1438609760",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/a8/04/e9/a804e94f-d1b7-7e36-b79f-b142b9370344/JAMTVAP0000000000495.jpg/100x142bb.png",
-        "genres": [
-          {
-            "genreId": "11338",
-            "name": "青年",
-            "url": "https://itunes.apple.com/jp/genre/id11338"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "11341",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id11341"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E5%86%92%E9%99%BA%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%E3%81%A8%E9%83%BD%E3%81%AB%E5%87%BA%E3%81%A6%E8%A1%8C%E3%81%A3%E3%81%9F%E5%A8%98%E3%81%8Cs%E3%83%A9%E3%83%B3%E3%82%AF%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%9F-%E9%BB%92%E9%AB%AA%E3%81%AE%E6%88%A6%E4%B9%99%E5%A5%B3-2/id1462709159"
-      },
-      {
-        "artistName": "梶井基次郎",
-        "id": "566955589",
-        "name": "檸檬",
-        "releaseDate": "1929-01-02",
-        "kind": "books",
-        "artistId": "207913436",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%A2%B6%E4%BA%95%E5%9F%BA%E6%AC%A1%E9%83%8E/id207913436",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/5d/ed/7a/5ded7aa4-171b-031a-9089-e0ea7556a8b3/0000000046349.jpg/100x156bb.png",
+        "artistId": "106372375",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id106372375",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/e0/5c/8f/e05c8fe5-f374-7243-a48e-e048c386990a/0000000043754.jpg/100x160bb.png",
         "genres": [
           {
             "genreId": "10042",
@@ -1308,190 +844,35 @@
             "url": "https://itunes.apple.com/jp/genre/id9031"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E6%AA%B8%E6%AA%AC/id566955589"
+        "url": "https://books.apple.com/jp/book/%E6%B3%A8%E6%96%87%E3%81%AE%E5%A4%9A%E3%81%84%E6%96%99%E7%90%86%E5%BA%97/id566876061"
       },
       {
-        "artistName": "名苗秋緒, 九頭七尾 & 上田夢人",
-        "id": "1466937939",
-        "name": "無職の英雄 別にスキルなんか要らなかったんだが -才能ゼロの成り上がり- 1",
-        "releaseDate": "2019-06-12",
+        "artistName": "江戸川乱歩",
+        "id": "6741675880",
+        "name": "D坂の殺人事件",
+        "releaseDate": "2025-02-07",
         "kind": "books",
-        "artistId": "1085961685",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%90%8D%E8%8B%97%E7%A7%8B%E7%B7%92/id1085961685",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/2d/62/04/2d6204f3-7fab-d460-aac8-faf903a9ed69/JAMTVAP0000000000500.jpg/100x142bb.png",
+        "artistId": "368035988",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9/id368035988",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/fe/f8/ce/fef8cee8-34b0-d7ff-d84e-12f48454bb98/mza_5091805453481065278.png/100x156bb.png",
         "genres": [
-          {
-            "genreId": "11337",
-            "name": "少年",
-            "url": "https://itunes.apple.com/jp/genre/id11337"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E7%84%A1%E8%81%B7%E3%81%AE%E8%8B%B1%E9%9B%84-%E5%88%A5%E3%81%AB%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%AA%E3%82%93%E3%81%8B%E8%A6%81%E3%82%89%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%93%E3%81%A0%E3%81%8C-%E6%89%8D%E8%83%BD%E3%82%BC%E3%83%AD%E3%81%AE%E6%88%90%E3%82%8A%E4%B8%8A%E3%81%8C%E3%82%8A-1/id1466937939"
-      },
-      {
-        "artistName": "太宰治",
-        "id": "566858008",
-        "name": "斜陽",
-        "releaseDate": "1992-09-28",
-        "kind": "books",
-        "artistId": "173331980",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%AA%E5%AE%B0%E6%B2%BB/id173331980",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/6a/0d/36/6a0d36ee-8fb9-9949-e564-6c8bdc5f34d3/0000000001565.jpg/100x160bb.png",
-        "genres": [
-          {
-            "genreId": "10042",
-            "name": "名作",
-            "url": "https://itunes.apple.com/jp/genre/id10042"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
           {
             "genreId": "9031",
             "name": "小説／文学",
             "url": "https://itunes.apple.com/jp/genre/id9031"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E6%96%9C%E9%99%BD/id566858008"
-      },
-      {
-        "artistName": "漆原 玖, 門司柿家 & toi8",
-        "id": "1438609342",
-        "name": "冒険者になりたいと都に出て行った娘がSランクになってた -黒髪の戦乙女- 1",
-        "releaseDate": "2018-10-16",
-        "kind": "books",
-        "artistId": "1438609760",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%BC%86%E5%8E%9F-%E7%8E%96/id1438609760",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/aa/6e/1e/aa6e1e6d-89a8-c029-b6f2-1dbc79e08412/JAMTVAP0000000000446.jpg/100x142bb.png",
-        "genres": [
-          {
-            "genreId": "11338",
-            "name": "青年",
-            "url": "https://itunes.apple.com/jp/genre/id11338"
           },
           {
             "genreId": "38",
             "name": "ブック",
             "url": "https://itunes.apple.com/jp/genre/id38"
           },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "11341",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id11341"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E5%86%92%E9%99%BA%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%E3%81%A8%E9%83%BD%E3%81%AB%E5%87%BA%E3%81%A6%E8%A1%8C%E3%81%A3%E3%81%9F%E5%A8%98%E3%81%8Cs%E3%83%A9%E3%83%B3%E3%82%AF%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%9F-%E9%BB%92%E9%AB%AA%E3%81%AE%E6%88%A6%E4%B9%99%E5%A5%B3-1/id1438609342"
-      },
-      {
-        "artistName": "夏目漱石",
-        "id": "566312371",
-        "name": "坊っちゃん",
-        "releaseDate": "1906-03-31",
-        "kind": "books",
-        "artistId": "121333054",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3/id121333054",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/84/f9/52/84f95240-9f83-5adb-a0fd-6b5347d225ac/0000000000752.jpg/100x160bb.png",
-        "genres": [
           {
             "genreId": "10042",
             "name": "名作",
             "url": "https://itunes.apple.com/jp/genre/id10042"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E5%9D%8A%E3%81%A3%E3%81%A1%E3%82%83%E3%82%93/id566312371"
-      },
-      {
-        "artistName": "芥川龍之介",
-        "id": "566823967",
-        "name": "秋",
-        "releaseDate": "1924-04-02",
-        "kind": "books",
-        "artistId": "106372604",
-        "artistUrl": "https://books.apple.com/jp/author/%E8%8A%A5%E5%B7%9D%E9%BE%8D%E4%B9%8B%E4%BB%8B/id106372604",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/2b/61/1a/2b611a78-b731-44b2-47d4-971b0e8af665/mza_5534806345014983625.png/100x156bb.png",
-        "genres": [
-          {
-            "genreId": "10042",
-            "name": "名作",
-            "url": "https://itunes.apple.com/jp/genre/id10042"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E7%A7%8B/id566823967"
-      },
-      {
-        "artistName": "夢野久作",
-        "id": "566312372",
-        "name": "ドグラ・マグラ",
-        "releaseDate": "1996-04-23",
-        "kind": "books",
-        "artistId": "171587316",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%A2%E9%87%8E%E4%B9%85%E4%BD%9C/id171587316",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/a5/a3/47/a5a347cc-4118-8ae2-3a2b-0c4804fe9b88/mza_8203373009762596582.png/100x156bb.png",
-        "genres": [
-          {
-            "genreId": "10042",
-            "name": "名作",
-            "url": "https://itunes.apple.com/jp/genre/id10042"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%83%89%E3%82%B0%E3%83%A9-%E3%83%9E%E3%82%B0%E3%83%A9/id566312372"
+        "url": "https://books.apple.com/jp/book/d%E5%9D%82%E3%81%AE%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6/id6741675880"
       },
       {
         "artistName": "稗田阿禮, 太安萬侶 & 武田祐吉",
@@ -1532,6 +913,1034 @@
         "url": "https://books.apple.com/jp/book/%E5%8F%A4%E4%BA%8B%E8%A8%98/id566904003"
       },
       {
+        "artistName": "梶井基次郎",
+        "id": "566955589",
+        "name": "檸檬",
+        "releaseDate": "1929-01-02",
+        "kind": "books",
+        "artistId": "207913436",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%A2%B6%E4%BA%95%E5%9F%BA%E6%AC%A1%E9%83%8E/id207913436",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/5d/ed/7a/5ded7aa4-171b-031a-9089-e0ea7556a8b3/0000000046349.jpg/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E6%AA%B8%E6%AA%AC/id566955589"
+      },
+      {
+        "artistName": "夏目漱石",
+        "id": "566312371",
+        "name": "坊っちゃん",
+        "releaseDate": "1906-03-31",
+        "kind": "books",
+        "artistId": "121333054",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3/id121333054",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/84/f9/52/84f95240-9f83-5adb-a0fd-6b5347d225ac/0000000000752.jpg/100x160bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E5%9D%8A%E3%81%A3%E3%81%A1%E3%82%83%E3%82%93/id566312371"
+      },
+      {
+        "artistName": "アルフレッド・テニソン, 菅野徳助 & 奈倉次郎",
+        "id": "6748213591",
+        "name": "アーサー王物語",
+        "releaseDate": "2025-07-04",
+        "kind": "books",
+        "artistId": "1177904300",
+        "artistUrl": "https://books.apple.com/jp/author/%E3%82%A2%E3%83%AB%E3%83%95%E3%83%AC%E3%83%83%E3%83%89-%E3%83%86%E3%83%8B%E3%82%BD%E3%83%B3/id1177904300",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/e8/78/ee/e878ee7a-6978-94e7-3fb7-f9375161ddb9/mza_3975372640599257473.png/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E3%82%A2%E3%83%BC%E3%82%B5%E3%83%BC%E7%8E%8B%E7%89%A9%E8%AA%9E/id6748213591"
+      },
+      {
+        "artistName": "中島敦",
+        "id": "574248045",
+        "name": "山月記",
+        "releaseDate": "2013-02-01",
+        "kind": "books",
+        "artistId": "282049941",
+        "artistUrl": "https://books.apple.com/jp/author/%E4%B8%AD%E5%B3%B6%E6%95%A6/id282049941",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/e4/b5/a1/e4b5a159-ca4e-a3db-8bd9-54b8d00aefa6/0000000000623.jpg/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E5%B1%B1%E6%9C%88%E8%A8%98/id574248045"
+      },
+      {
+        "artistName": "六甲島カモメ, さいとうさ & ツグトク",
+        "id": "1570570818",
+        "name": "めっちゃ召喚された件 THE COMIC(2)",
+        "releaseDate": "2021-06-14",
+        "kind": "books",
+        "artistId": "1095549320",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%85%AD%E7%94%B2%E5%B3%B6%E3%82%AB%E3%83%A2%E3%83%A1/id1095549320",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/0d/6a/f1/0d6af182-59c0-cc2a-6ed3-785d58f0d631/23013_123640451_001_001_artwork_20210603111800.jpg/100x142bb.png",
+        "genres": [
+          {
+            "genreId": "11338",
+            "name": "青年",
+            "url": "https://itunes.apple.com/jp/genre/id11338"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          },
+          {
+            "genreId": "50000074",
+            "name": "ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id50000074"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E5%8F%AC%E5%96%9A%E3%81%95%E3%82%8C%E3%81%9F%E4%BB%B6-the-comic-2/id1570570818"
+      },
+      {
+        "artistName": "夏目漱石",
+        "id": "566854687",
+        "name": "吾輩は猫である",
+        "releaseDate": "1909-01-01",
+        "kind": "books",
+        "artistId": "121333054",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3/id121333054",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/3f/e3/13/3fe3135b-6749-c785-3bf6-f853160d08be/0000000000789.jpg/100x160bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E5%90%BE%E8%BC%A9%E3%81%AF%E7%8C%AB%E3%81%A7%E3%81%82%E3%82%8B/id566854687"
+      },
+      {
+        "artistName": "漆原 玖, 門司柿家 & toi8",
+        "id": "1462709159",
+        "name": "冒険者になりたいと都に出て行った娘がSランクになってた -黒髪の戦乙女- 2",
+        "releaseDate": "2019-05-11",
+        "kind": "books",
+        "artistId": "1438609760",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%BC%86%E5%8E%9F-%E7%8E%96/id1438609760",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/a8/04/e9/a804e94f-d1b7-7e36-b79f-b142b9370344/JAMTVAP0000000000495.jpg/100x142bb.png",
+        "genres": [
+          {
+            "genreId": "11338",
+            "name": "青年",
+            "url": "https://itunes.apple.com/jp/genre/id11338"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          },
+          {
+            "genreId": "11341",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id11341"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E5%86%92%E9%99%BA%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%E3%81%A8%E9%83%BD%E3%81%AB%E5%87%BA%E3%81%A6%E8%A1%8C%E3%81%A3%E3%81%9F%E5%A8%98%E3%81%8Cs%E3%83%A9%E3%83%B3%E3%82%AF%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%9F-%E9%BB%92%E9%AB%AA%E3%81%AE%E6%88%A6%E4%B9%99%E5%A5%B3-2/id1462709159"
+      },
+      {
+        "artistName": "4U, ただのぎょー & 結川カズノ",
+        "id": "6737836075",
+        "name": "追放された公爵令嬢、ヴィルヘルミーナが幸せになるまで。 ～最強の平民、世界に革命を起こす～1【電子書店共通特典イラスト付】",
+        "releaseDate": "2024-11-12",
+        "kind": "books",
+        "artistId": "1831815397",
+        "artistUrl": "https://books.apple.com/jp/author/4u/id1831815397",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/c9/61/bd/c961bde1-82b3-143a-18be-41626eacd87d/JAMTVAP0000000001370.jpg/100x142bb.png",
+        "genres": [
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E5%85%AC%E7%88%B5%E4%BB%A4%E5%AC%A2-%E3%83%B4%E3%82%A3%E3%83%AB%E3%83%98%E3%83%AB%E3%83%9F%E3%83%BC%E3%83%8A%E3%81%8C%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%BE%E3%81%A7-%E6%9C%80%E5%BC%B7%E3%81%AE%E5%B9%B3%E6%B0%91-%E4%B8%96%E7%95%8C%E3%81%AB%E9%9D%A9%E5%91%BD%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99-1-%E9%9B%BB%E5%AD%90%E6%9B%B8%E5%BA%97%E5%85%B1%E9%80%9A%E7%89%B9%E5%85%B8%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E4%BB%98/id6737836075"
+      },
+      {
+        "artistName": "六甲島カモメ, さいとうさ & ツグトク",
+        "id": "1539365303",
+        "name": "めっちゃ召喚された件 THE COMIC(1)",
+        "releaseDate": "2020-11-13",
+        "kind": "books",
+        "artistId": "1095549320",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%85%AD%E7%94%B2%E5%B3%B6%E3%82%AB%E3%83%A2%E3%83%A1/id1095549320",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/06/31/76/063176b4-8d27-0133-d599-df4ef0b469d5/23013_123256639_001_001_artwork_20201109115621.jpg/100x142bb.png",
+        "genres": [
+          {
+            "genreId": "11338",
+            "name": "青年",
+            "url": "https://itunes.apple.com/jp/genre/id11338"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          },
+          {
+            "genreId": "50000074",
+            "name": "ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id50000074"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E5%8F%AC%E5%96%9A%E3%81%95%E3%82%8C%E3%81%9F%E4%BB%B6-the-comic-1/id1539365303"
+      },
+      {
+        "artistName": "夢野久作",
+        "id": "566312372",
+        "name": "ドグラ・マグラ",
+        "releaseDate": "1996-04-23",
+        "kind": "books",
+        "artistId": "171587316",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%A2%E9%87%8E%E4%B9%85%E4%BD%9C/id171587316",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/a5/a3/47/a5a347cc-4118-8ae2-3a2b-0c4804fe9b88/mza_8203373009762596582.png/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E3%83%89%E3%82%B0%E3%83%A9-%E3%83%9E%E3%82%B0%E3%83%A9/id566312372"
+      },
+      {
+        "artistName": "谷崎潤一郎",
+        "id": "6744514765",
+        "name": "細雪",
+        "releaseDate": "2025-04-11",
+        "kind": "books",
+        "artistId": "316201032",
+        "artistUrl": "https://books.apple.com/jp/author/%E8%B0%B7%E5%B4%8E%E6%BD%A4%E4%B8%80%E9%83%8E/id316201032",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/a1/ad/e4/a1ade445-74a1-7bf0-0dba-80f1a54843d4/mza_239202502580388870.png/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E7%B4%B0%E9%9B%AA/id6744514765"
+      },
+      {
+        "artistName": "漆原 玖, 門司柿家 & toi8",
+        "id": "1438609342",
+        "name": "冒険者になりたいと都に出て行った娘がSランクになってた -黒髪の戦乙女- 1",
+        "releaseDate": "2018-10-16",
+        "kind": "books",
+        "artistId": "1438609760",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%BC%86%E5%8E%9F-%E7%8E%96/id1438609760",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/aa/6e/1e/aa6e1e6d-89a8-c029-b6f2-1dbc79e08412/JAMTVAP0000000000446.jpg/100x142bb.png",
+        "genres": [
+          {
+            "genreId": "11338",
+            "name": "青年",
+            "url": "https://itunes.apple.com/jp/genre/id11338"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          },
+          {
+            "genreId": "11341",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id11341"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E5%86%92%E9%99%BA%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%E3%81%A8%E9%83%BD%E3%81%AB%E5%87%BA%E3%81%A6%E8%A1%8C%E3%81%A3%E3%81%9F%E5%A8%98%E3%81%8Cs%E3%83%A9%E3%83%B3%E3%82%AF%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%9F-%E9%BB%92%E9%AB%AA%E3%81%AE%E6%88%A6%E4%B9%99%E5%A5%B3-1/id1438609342"
+      },
+      {
+        "artistName": "十夜 & chibi",
+        "id": "1467889800",
+        "name": "転生した大聖女は、聖女であることをひた隠す1",
+        "releaseDate": "2019-06-15",
+        "kind": "books",
+        "artistId": "1045005663",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%8D%81%E5%A4%9C/id1045005663",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/76/4e/5a/764e5aaf-3f6f-f6e8-39d4-a211644056c1/JAMTVAP0000000000503.jpg/100x142bb.png",
+        "genres": [
+          {
+            "genreId": "10044",
+            "name": "ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id10044"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9020",
+            "name": "SF／ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id9020"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E5%A4%A7%E8%81%96%E5%A5%B3%E3%81%AF-%E8%81%96%E5%A5%B3%E3%81%A7%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E3%81%B2%E3%81%9F%E9%9A%A0%E3%81%991/id1467889800"
+      },
+      {
+        "artistName": "WebtoonKoiContent",
+        "id": "6806141303",
+        "name": "不倫契約【全年齢版】(1)",
+        "releaseDate": "2026-10-01",
+        "kind": "books",
+        "artistId": "1820972495",
+        "artistUrl": "https://books.apple.com/jp/author/webtoonkoicontent/id1820972495",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ce/4c/f3/ce4cf360-ff97-eaae-48e0-c9249c3d220e/BT000240672400100101900209.jpg/100x142bb.png",
+        "genres": [
+          {
+            "genreId": "11337",
+            "name": "少年",
+            "url": "https://itunes.apple.com/jp/genre/id11337"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E4%B8%8D%E5%80%AB%E5%A5%91%E7%B4%84-%E5%85%A8%E5%B9%B4%E9%BD%A2%E7%89%88-1/id6806141303"
+      },
+      {
+        "artistName": "御子柴奈々, booklistaSTUDIO & MUGEN FACTORY",
+        "id": "6797396355",
+        "name": "魔術至上世界の妖刀使いー剣を極めたサムライは魔術至上主義の異世界へと転生し、見下されている剣術で無双するー(1)",
+        "releaseDate": "2026-08-13",
+        "kind": "books",
+        "artistId": "1512752904",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%BE%A1%E5%AD%90%E6%9F%B4%E5%A5%88%E3%80%85/id1512752904",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e1/ff/08/e1ff081c-b7c0-8838-256d-1dfb634199a5/21465_131415108_001_001_artwork_20260803125632.jpg/100x140bb.png",
+        "genres": [
+          {
+            "genreId": "50000074",
+            "name": "ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id50000074"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          },
+          {
+            "genreId": "10015",
+            "name": "グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id10015"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E9%AD%94%E8%A1%93%E8%87%B3%E4%B8%8A%E4%B8%96%E7%95%8C%E3%81%AE%E5%A6%96%E5%88%80%E4%BD%BF%E3%81%84%E3%83%BC%E5%89%A3%E3%82%92%E6%A5%B5%E3%82%81%E3%81%9F%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%81%AF%E9%AD%94%E8%A1%93%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%B8%E3%81%A8%E8%BB%A2%E7%94%9F%E3%81%97-%E8%A6%8B%E4%B8%8B%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E5%89%A3%E8%A1%93%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B%E3%83%BC/id6797396355"
+      },
+      {
+        "artistName": "十夜 & chibi",
+        "id": "1487398442",
+        "name": "転生した大聖女は、聖女であることをひた隠す2",
+        "releaseDate": "2019-11-15",
+        "kind": "books",
+        "artistId": "1045005663",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%8D%81%E5%A4%9C/id1045005663",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/60/07/c2/6007c2df-487a-e746-5a30-ed6e92f4c4ed/JAMTVAP0000000000554.jpg/100x142bb.png",
+        "genres": [
+          {
+            "genreId": "10044",
+            "name": "ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id10044"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9020",
+            "name": "SF／ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id9020"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E5%A4%A7%E8%81%96%E5%A5%B3%E3%81%AF-%E8%81%96%E5%A5%B3%E3%81%A7%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E3%81%B2%E3%81%9F%E9%9A%A0%E3%81%992/id1487398442"
+      },
+      {
+        "artistName": "名苗秋緒, 九頭七尾 & 上田夢人",
+        "id": "1502046590",
+        "name": "無職の英雄　別にスキルなんか要らなかったんだが -才能ゼロの成り上がり-　2",
+        "releaseDate": "2020-03-12",
+        "kind": "books",
+        "artistId": "1085961685",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%90%8D%E8%8B%97%E7%A7%8B%E7%B7%92/id1085961685",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/95/f1/de/95f1def1-d00c-f2e3-e788-d91bb494c581/JAMTVAP0000000000589.jpg/100x142bb.png",
+        "genres": [
+          {
+            "genreId": "11338",
+            "name": "青年",
+            "url": "https://itunes.apple.com/jp/genre/id11338"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          },
+          {
+            "genreId": "11341",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id11341"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E7%84%A1%E8%81%B7%E3%81%AE%E8%8B%B1%E9%9B%84-%E5%88%A5%E3%81%AB%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%AA%E3%82%93%E3%81%8B%E8%A6%81%E3%82%89%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%93%E3%81%A0%E3%81%8C-%E6%89%8D%E8%83%BD%E3%82%BC%E3%83%AD%E3%81%AE%E6%88%90%E3%82%8A%E4%B8%8A%E3%81%8C%E3%82%8A-2/id1502046590"
+      },
+      {
+        "artistName": "江戸川乱歩",
+        "id": "6741676070",
+        "name": "人間椅子",
+        "releaseDate": "2025-02-07",
+        "kind": "books",
+        "artistId": "368035988",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9/id368035988",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/9a/dc/b8/9adcb821-00df-8cb8-a758-5e9e70cad682/mza_1459801077381109776.png/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E4%BA%BA%E9%96%93%E6%A4%85%E5%AD%90/id6741676070"
+      },
+      {
+        "artistName": "福沢諭吉",
+        "id": "566887086",
+        "name": "学問のすすめ",
+        "releaseDate": "1872-01-31",
+        "kind": "books",
+        "artistId": "297140344",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%A6%8F%E6%B2%A2%E8%AB%AD%E5%90%89/id297140344",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/bf/23/d2/bf23d2a6-47c6-15c7-ac70-5e8a8b49ce2e/0000000047061.jpg/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          },
+          {
+            "genreId": "9029",
+            "name": "職業／技術",
+            "url": "https://itunes.apple.com/jp/genre/id9029"
+          },
+          {
+            "genreId": "10037",
+            "name": "教育",
+            "url": "https://itunes.apple.com/jp/genre/id10037"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E5%AD%A6%E5%95%8F%E3%81%AE%E3%81%99%E3%81%99%E3%82%81/id566887086"
+      },
+      {
+        "artistName": "海楠, 十夜 & chibi",
+        "id": "6478913333",
+        "name": "転生した大聖女は、聖女であることをひた隠すZERO ～The Great Saint of Remembrance～1【電子書店共通特典イラスト付】",
+        "releaseDate": "2024-03-13",
+        "kind": "books",
+        "artistId": "1734396426",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%B5%B7%E6%A5%A0/id1734396426",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/0e/7e/2c/0e7e2c23-3323-a736-0df5-3ad9e9e64846/JAMTVAP0000000001232.jpg/100x142bb.png",
+        "genres": [
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E5%A4%A7%E8%81%96%E5%A5%B3%E3%81%AF-%E8%81%96%E5%A5%B3%E3%81%A7%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E3%81%B2%E3%81%9F%E9%9A%A0%E3%81%99zero-the-great-saint-of/id6478913333"
+      },
+      {
+        "artistName": "名苗秋緒, 九頭七尾 & 上田夢人",
+        "id": "1466937939",
+        "name": "無職の英雄 別にスキルなんか要らなかったんだが -才能ゼロの成り上がり- 1",
+        "releaseDate": "2019-06-12",
+        "kind": "books",
+        "artistId": "1085961685",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%90%8D%E8%8B%97%E7%A7%8B%E7%B7%92/id1085961685",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/2d/62/04/2d6204f3-7fab-d460-aac8-faf903a9ed69/JAMTVAP0000000000500.jpg/100x142bb.png",
+        "genres": [
+          {
+            "genreId": "11337",
+            "name": "少年",
+            "url": "https://itunes.apple.com/jp/genre/id11337"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E7%84%A1%E8%81%B7%E3%81%AE%E8%8B%B1%E9%9B%84-%E5%88%A5%E3%81%AB%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%AA%E3%82%93%E3%81%8B%E8%A6%81%E3%82%89%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%93%E3%81%A0%E3%81%8C-%E6%89%8D%E8%83%BD%E3%82%BC%E3%83%AD%E3%81%AE%E6%88%90%E3%82%8A%E4%B8%8A%E3%81%8C%E3%82%8A-1/id1466937939"
+      },
+      {
+        "artistName": "芥川龍之介",
+        "id": "566823967",
+        "name": "秋",
+        "releaseDate": "1924-04-02",
+        "kind": "books",
+        "artistId": "106372604",
+        "artistUrl": "https://books.apple.com/jp/author/%E8%8A%A5%E5%B7%9D%E9%BE%8D%E4%B9%8B%E4%BB%8B/id106372604",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/2b/61/1a/2b611a78-b731-44b2-47d4-971b0e8af665/mza_5534806345014983625.png/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E7%A7%8B/id566823967"
+      },
+      {
+        "artistName": "北野 木陰",
+        "id": "6749724898",
+        "name": "ドーナツとカフェラテと",
+        "releaseDate": "2025-08-08",
+        "kind": "books",
+        "artistId": "1829477564",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%8C%97%E9%87%8E-%E6%9C%A8%E9%99%B0/id1829477564",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/13/c1/86/13c186f8-5f2a-f1fe-ee74-5abc5f66ae2b/baa69674-63ab-47e9-9366-546bdf81389d_cover_image.jpg/100x143bb.png",
+        "genres": [
+          {
+            "genreId": "9003",
+            "name": "ロマンス",
+            "url": "https://itunes.apple.com/jp/genre/id9003"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          },
+          {
+            "genreId": "10049",
+            "name": "文芸小説",
+            "url": "https://itunes.apple.com/jp/genre/id10049"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84%E3%81%A8%E3%82%AB%E3%83%95%E3%82%A7%E3%83%A9%E3%83%86%E3%81%A8/id6749724898"
+      },
+      {
+        "artistName": "鴨長明 & 佐藤春夫",
+        "id": "6744514797",
+        "name": "現代語訳 方丈記",
+        "releaseDate": "2025-04-11",
+        "kind": "books",
+        "artistId": "128329593",
+        "artistUrl": "https://books.apple.com/jp/author/%E9%B4%A8%E9%95%B7%E6%98%8E/id128329593",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/43/ec/45/43ec450c-6944-b9df-b746-6ed88208c7ac/mza_7878953148037797492.png/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E7%8F%BE%E4%BB%A3%E8%AA%9E%E8%A8%B3-%E6%96%B9%E4%B8%88%E8%A8%98/id6744514797"
+      },
+      {
+        "artistName": "kaei & pinkvisions",
+        "id": "6756955145",
+        "name": "りんご性活～田舎育ちのエルフま●こは都会ち●ぽと相性抜群!【ソフト版】【フルカラー】【タテヨミ】(1)",
+        "releaseDate": "2025-12-26",
+        "kind": "books",
+        "artistId": "1771984549",
+        "artistUrl": "https://books.apple.com/jp/author/kaei/id1771984549",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6f/de/4b/6fde4bba-1821-3bb4-d7e1-fc35e37c8cd9/21542_130148453_001_001_artwork_20251224150823.jpg/100x140bb.png",
+        "genres": [
+          {
+            "genreId": "50000085",
+            "name": "ラブコメディ",
+            "url": "https://itunes.apple.com/jp/genre/id50000085"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          },
+          {
+            "genreId": "10015",
+            "name": "グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id10015"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E3%82%8A%E3%82%93%E3%81%94%E6%80%A7%E6%B4%BB-%E7%94%B0%E8%88%8E%E8%82%B2%E3%81%A1%E3%81%AE%E3%82%A8%E3%83%AB%E3%83%95%E3%81%BE-%E3%81%93%E3%81%AF%E9%83%BD%E4%BC%9A%E3%81%A1-%E3%81%BD%E3%81%A8%E7%9B%B8%E6%80%A7%E6%8A%9C%E7%BE%A4-%E3%82%BD%E3%83%95%E3%83%88%E7%89%88-%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC-%E3%82%BF%E3%83%86%E3%83%A8%E3%83%9F-1/id6756955145"
+      },
+      {
+        "artistName": "御子柴奈々, booklistaSTUDIO & MUGEN FACTORY",
+        "id": "6797396609",
+        "name": "魔術至上世界の妖刀使いー剣を極めたサムライは魔術至上主義の異世界へと転生し、見下されている剣術で無双するー(2)",
+        "releaseDate": "2026-08-13",
+        "kind": "books",
+        "artistId": "1512752904",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%BE%A1%E5%AD%90%E6%9F%B4%E5%A5%88%E3%80%85/id1512752904",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1c/31/7d/1c317de7-7c4c-c18b-9e70-af4266e26243/21465_131415109_001_001_artwork_20260803125632.jpg/100x140bb.png",
+        "genres": [
+          {
+            "genreId": "50000074",
+            "name": "ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id50000074"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          },
+          {
+            "genreId": "10015",
+            "name": "グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id10015"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E9%AD%94%E8%A1%93%E8%87%B3%E4%B8%8A%E4%B8%96%E7%95%8C%E3%81%AE%E5%A6%96%E5%88%80%E4%BD%BF%E3%81%84%E3%83%BC%E5%89%A3%E3%82%92%E6%A5%B5%E3%82%81%E3%81%9F%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%81%AF%E9%AD%94%E8%A1%93%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%B8%E3%81%A8%E8%BB%A2%E7%94%9F%E3%81%97-%E8%A6%8B%E4%B8%8B%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E5%89%A3%E8%A1%93%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B%E3%83%BC/id6797396609"
+      },
+      {
+        "artistName": "御子柴奈々, booklistaSTUDIO & MUGEN FACTORY",
+        "id": "6797396344",
+        "name": "魔術至上世界の妖刀使いー剣を極めたサムライは魔術至上主義の異世界へと転生し、見下されている剣術で無双するー(3)",
+        "releaseDate": "2026-08-13",
+        "kind": "books",
+        "artistId": "1512752904",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%BE%A1%E5%AD%90%E6%9F%B4%E5%A5%88%E3%80%85/id1512752904",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e3/10/a2/e310a21d-1b52-d7aa-245b-90e1755cbef9/21465_131415110_001_001_artwork_20260803125632.jpg/100x140bb.png",
+        "genres": [
+          {
+            "genreId": "50000074",
+            "name": "ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id50000074"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          },
+          {
+            "genreId": "10015",
+            "name": "グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id10015"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E9%AD%94%E8%A1%93%E8%87%B3%E4%B8%8A%E4%B8%96%E7%95%8C%E3%81%AE%E5%A6%96%E5%88%80%E4%BD%BF%E3%81%84%E3%83%BC%E5%89%A3%E3%82%92%E6%A5%B5%E3%82%81%E3%81%9F%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%81%AF%E9%AD%94%E8%A1%93%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%B8%E3%81%A8%E8%BB%A2%E7%94%9F%E3%81%97-%E8%A6%8B%E4%B8%8B%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E5%89%A3%E8%A1%93%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B%E3%83%BC/id6797396344"
+      },
+      {
+        "artistName": "吉川英治",
+        "id": "6737214241",
+        "name": "三国志",
+        "releaseDate": "2024-10-21",
+        "kind": "books",
+        "artistId": "581175101",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%90%89%E5%B7%9D%E8%8B%B1%E6%B2%BB/id581175101",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/51/3d/79/513d7992-e5bf-18af-1a05-28eccf7bde69/mza_12818253717390014593.png/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E4%B8%89%E5%9B%BD%E5%BF%97/id6737214241"
+      },
+      {
+        "artistName": "大川賢太郎 & お金の増やし方研究所",
+        "id": "6450901072",
+        "name": "1分で好かれる「すごい」聞き方",
+        "releaseDate": "2023-07-04",
+        "kind": "books",
+        "artistId": "1291218052",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%A7%E5%B7%9D%E8%B3%A2%E5%A4%AA%E9%83%8E/id1291218052",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/81/a9/c6/81a9c66c-8935-79a8-217f-d77ce8a1f25d/0703_eBook_8.jpg/100x141bb.png",
+        "genres": [
+          {
+            "genreId": "9009",
+            "name": "ビジネス／マネー",
+            "url": "https://itunes.apple.com/jp/genre/id9009"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/1%E5%88%86%E3%81%A7%E5%A5%BD%E3%81%8B%E3%82%8C%E3%82%8B-%E3%81%99%E3%81%94%E3%81%84-%E8%81%9E%E3%81%8D%E6%96%B9/id6450901072"
+      },
+      {
+        "artistName": "天原 & アルデヒド",
+        "id": "6819916667",
+        "name": "異世界転生ダンジョンマスター 温泉ダンジョンを作る【分冊版】 2",
+        "releaseDate": "2026-10-09",
+        "kind": "books",
+        "artistId": "1275363107",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%A9%E5%8E%9F/id1275363107",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/14/3c/1f/143c1f93-c0cd-886d-6089-fb3a2063916e/04000000A27574700000.jpg/100x142bb.png",
+        "genres": [
+          {
+            "genreId": "50000084",
+            "name": "恋愛／ロマンス",
+            "url": "https://itunes.apple.com/jp/genre/id50000084"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E7%95%B0%E4%B8%96%E7%95%8C%E8%BB%A2%E7%94%9F%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC-%E6%B8%A9%E6%B3%89%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E4%BD%9C%E3%82%8B-%E5%88%86%E5%86%8A%E7%89%88-2/id6819916667"
+      },
+      {
+        "artistName": "天原 & アルデヒド",
+        "id": "6819920802",
+        "name": "異世界転生ダンジョンマスター 温泉ダンジョンを作る【分冊版】 1",
+        "releaseDate": "2026-10-09",
+        "kind": "books",
+        "artistId": "1275363107",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%A9%E5%8E%9F/id1275363107",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/be/e3/f7/bee3f70f-5a2a-e8eb-a0e4-fc81fbd2f629/04000000A27574600000.jpg/100x142bb.png",
+        "genres": [
+          {
+            "genreId": "50000084",
+            "name": "恋愛／ロマンス",
+            "url": "https://itunes.apple.com/jp/genre/id50000084"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E7%95%B0%E4%B8%96%E7%95%8C%E8%BB%A2%E7%94%9F%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC-%E6%B8%A9%E6%B3%89%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E4%BD%9C%E3%82%8B-%E5%88%86%E5%86%8A%E7%89%88-1/id6819920802"
+      },
+      {
+        "artistName": "天原 & アルデヒド",
+        "id": "6819914437",
+        "name": "異世界転生ダンジョンマスター 温泉ダンジョンを作る【分冊版】 3",
+        "releaseDate": "2026-10-09",
+        "kind": "books",
+        "artistId": "1275363107",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%A9%E5%8E%9F/id1275363107",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/70/d6/fa/70d6fa35-f45a-07ba-cdbb-502415aff6e0/04000000A27574800000.jpg/100x142bb.png",
+        "genres": [
+          {
+            "genreId": "50000084",
+            "name": "恋愛／ロマンス",
+            "url": "https://itunes.apple.com/jp/genre/id50000084"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E7%95%B0%E4%B8%96%E7%95%8C%E8%BB%A2%E7%94%9F%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC-%E6%B8%A9%E6%B3%89%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E4%BD%9C%E3%82%8B-%E5%88%86%E5%86%8A%E7%89%88-3/id6819914437"
+      },
+      {
         "artistName": "炎頭ファイヤーヘッド, YahaKo & 葉月翼",
         "id": "1323971793",
         "name": "野生のラスボスが現れた! -黒翼の覇王- 1",
@@ -1563,34 +1972,6 @@
           }
         ],
         "url": "https://books.apple.com/jp/book/%E9%87%8E%E7%94%9F%E3%81%AE%E3%83%A9%E3%82%B9%E3%83%9C%E3%82%B9%E3%81%8C%E7%8F%BE%E3%82%8C%E3%81%9F-%E9%BB%92%E7%BF%BC%E3%81%AE%E8%A6%87%E7%8E%8B-1/id1323971793"
-      },
-      {
-        "artistName": "アルフレッド・テニソン, 菅野徳助 & 奈倉次郎",
-        "id": "6748213591",
-        "name": "アーサー王物語",
-        "releaseDate": "2025-07-04",
-        "kind": "books",
-        "artistId": "1177904300",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%82%A2%E3%83%AB%E3%83%95%E3%83%AC%E3%83%83%E3%83%89-%E3%83%86%E3%83%8B%E3%82%BD%E3%83%B3/id1177904300",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/e8/78/ee/e878ee7a-6978-94e7-3fb7-f9375161ddb9/mza_3975372640599257473.png/100x156bb.png",
-        "genres": [
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "10042",
-            "name": "名作",
-            "url": "https://itunes.apple.com/jp/genre/id10042"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%82%A2%E3%83%BC%E3%82%B5%E3%83%BC%E7%8E%8B%E7%89%A9%E8%AA%9E/id6748213591"
       },
       {
         "artistName": "炎頭, YahaKo & 葉月翼",
@@ -1631,65 +2012,14 @@
         "url": "https://books.apple.com/jp/book/%E9%87%8E%E7%94%9F%E3%81%AE%E3%83%A9%E3%82%B9%E3%83%9C%E3%82%B9%E3%81%8C%E7%8F%BE%E3%82%8C%E3%81%9F-%E9%BB%92%E7%BF%BC%E3%81%AE%E8%A6%87%E7%8E%8B-2/id1370226120"
       },
       {
-        "artistName": "吉川英治",
-        "id": "6737214241",
-        "name": "三国志",
-        "releaseDate": "2024-10-21",
+        "artistName": "芥川龍之介",
+        "id": "566847160",
+        "name": "蜘蛛の糸",
+        "releaseDate": "1922-07-02",
         "kind": "books",
-        "artistId": "581175101",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%90%89%E5%B7%9D%E8%8B%B1%E6%B2%BB/id581175101",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/51/3d/79/513d7992-e5bf-18af-1a05-28eccf7bde69/mza_12818253717390014593.png/100x156bb.png",
-        "genres": [
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E4%B8%89%E5%9B%BD%E5%BF%97/id6737214241"
-      },
-      {
-        "artistName": "江戸川乱歩",
-        "id": "6741676070",
-        "name": "人間椅子",
-        "releaseDate": "2025-02-07",
-        "kind": "books",
-        "artistId": "368035988",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9/id368035988",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/9a/dc/b8/9adcb821-00df-8cb8-a758-5e9e70cad682/mza_1459801077381109776.png/100x156bb.png",
-        "genres": [
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "10042",
-            "name": "名作",
-            "url": "https://itunes.apple.com/jp/genre/id10042"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E4%BA%BA%E9%96%93%E6%A4%85%E5%AD%90/id6741676070"
-      },
-      {
-        "artistName": "夏目漱石",
-        "id": "566854687",
-        "name": "吾輩は猫である",
-        "releaseDate": "1909-01-01",
-        "kind": "books",
-        "artistId": "121333054",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3/id121333054",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/3f/e3/13/3fe3135b-6749-c785-3bf6-f853160d08be/0000000000789.jpg/100x160bb.png",
+        "artistId": "106372604",
+        "artistUrl": "https://books.apple.com/jp/author/%E8%8A%A5%E5%B7%9D%E9%BE%8D%E4%B9%8B%E4%BB%8B/id106372604",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/d7/67/6b/d7676bff-f334-8675-e3df-ac711875bff1/0000000000092.jpg/100x160bb.png",
         "genres": [
           {
             "genreId": "10042",
@@ -1707,183 +2037,17 @@
             "url": "https://itunes.apple.com/jp/genre/id9031"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E5%90%BE%E8%BC%A9%E3%81%AF%E7%8C%AB%E3%81%A7%E3%81%82%E3%82%8B/id566854687"
+        "url": "https://books.apple.com/jp/book/%E8%9C%98%E8%9B%9B%E3%81%AE%E7%B3%B8/id566847160"
       },
       {
-        "artistName": "WebtoonKoiContent",
-        "id": "6806141303",
-        "name": "不倫契約【全年齢版】(1)",
-        "releaseDate": "2026-10-01",
+        "artistName": "C.S.ルイス",
+        "id": "6667097703",
+        "name": "ナルニア国物語 英語版 全冊",
+        "releaseDate": "2024-08-26",
         "kind": "books",
-        "artistId": "1820972495",
-        "artistUrl": "https://books.apple.com/jp/author/webtoonkoicontent/id1820972495",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ce/4c/f3/ce4cf360-ff97-eaae-48e0-c9249c3d220e/BT000240672400100101900209.jpg/100x142bb.png",
-        "genres": [
-          {
-            "genreId": "11337",
-            "name": "少年",
-            "url": "https://itunes.apple.com/jp/genre/id11337"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E4%B8%8D%E5%80%AB%E5%A5%91%E7%B4%84-%E5%85%A8%E5%B9%B4%E9%BD%A2%E7%89%88-1/id6806141303"
-      },
-      {
-        "artistName": "氷純, カミムラリドル & 眠介",
-        "id": "6468443865",
-        "name": "見切りから始める我流剣術 1巻",
-        "releaseDate": "2023-10-14",
-        "kind": "books",
-        "artistId": "757751518",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%B0%B7%E7%B4%94/id757751518",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/37/fe/a8/37fea889-28e4-242c-ac9a-e728c820cee0/23013_125975693_001_001_artwork_20231010112451.jpg/100x142bb.png",
-        "genres": [
-          {
-            "genreId": "10015",
-            "name": "グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id10015"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "50000071",
-            "name": "アクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000071"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E8%A6%8B%E5%88%87%E3%82%8A%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%82%8B%E6%88%91%E6%B5%81%E5%89%A3%E8%A1%93-1%E5%B7%BB/id6468443865"
-      },
-      {
-        "artistName": "海楠, 十夜 & chibi",
-        "id": "6478913333",
-        "name": "転生した大聖女は、聖女であることをひた隠すZERO ～The Great Saint of Remembrance～1【電子書店共通特典イラスト付】",
-        "releaseDate": "2024-03-13",
-        "kind": "books",
-        "artistId": "1734396426",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%B5%B7%E6%A5%A0/id1734396426",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/0e/7e/2c/0e7e2c23-3323-a736-0df5-3ad9e9e64846/JAMTVAP0000000001232.jpg/100x142bb.png",
-        "genres": [
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E5%A4%A7%E8%81%96%E5%A5%B3%E3%81%AF-%E8%81%96%E5%A5%B3%E3%81%A7%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E3%81%B2%E3%81%9F%E9%9A%A0%E3%81%99zero-the-great-saint-of/id6478913333"
-      },
-      {
-        "artistName": "鴨長明 & 佐藤春夫",
-        "id": "6744514797",
-        "name": "現代語訳 方丈記",
-        "releaseDate": "2025-04-11",
-        "kind": "books",
-        "artistId": "128329593",
-        "artistUrl": "https://books.apple.com/jp/author/%E9%B4%A8%E9%95%B7%E6%98%8E/id128329593",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/43/ec/45/43ec450c-6944-b9df-b746-6ed88208c7ac/mza_7878953148037797492.png/100x156bb.png",
-        "genres": [
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "10042",
-            "name": "名作",
-            "url": "https://itunes.apple.com/jp/genre/id10042"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E7%8F%BE%E4%BB%A3%E8%AA%9E%E8%A8%B3-%E6%96%B9%E4%B8%88%E8%A8%98/id6744514797"
-      },
-      {
-        "artistName": "田川ミ",
-        "id": "6504789818",
-        "name": "しゃこうっち。 1巻",
-        "releaseDate": "2024-07-12",
-        "kind": "books",
-        "artistId": "905195615",
-        "artistUrl": "https://books.apple.com/jp/author/%E7%94%B0%E5%B7%9D%E3%83%9F/id905195615",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/57/e2/f4/57e2f405-caed-5806-81e3-bbfb6c87d21f/23013_127023151_001_001_artwork_20240703113558.jpg/100x142bb.png",
-        "genres": [
-          {
-            "genreId": "10015",
-            "name": "グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id10015"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "11052",
-            "name": "ヒューマンドラマ",
-            "url": "https://itunes.apple.com/jp/genre/id11052"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%81%97%E3%82%83%E3%81%93%E3%81%86%E3%81%A3%E3%81%A1-1%E5%B7%BB/id6504789818"
-      },
-      {
-        "artistName": "中島敦",
-        "id": "574248045",
-        "name": "山月記",
-        "releaseDate": "2013-02-01",
-        "kind": "books",
-        "artistId": "282049941",
-        "artistUrl": "https://books.apple.com/jp/author/%E4%B8%AD%E5%B3%B6%E6%95%A6/id282049941",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/e4/b5/a1/e4b5a159-ca4e-a3db-8bd9-54b8d00aefa6/0000000000623.jpg/100x156bb.png",
+        "artistId": "1477570074",
+        "artistUrl": "https://books.apple.com/jp/author/c-s-%E3%83%AB%E3%82%A4%E3%82%B9/id1477570074",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6d/d6/e7/6dd6e789-8cd5-5a33-b2b0-d289d5593564/2a13b2c3-33f5-41bf-a4d6-c4381a1a9cf0_cover_image.png/100x160bb.png",
         "genres": [
           {
             "genreId": "10042",
@@ -1901,46 +2065,7 @@
             "url": "https://itunes.apple.com/jp/genre/id9031"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E5%B1%B1%E6%9C%88%E8%A8%98/id574248045"
-      },
-      {
-        "artistName": "神江里見 & 小池一夫",
-        "id": "1185795595",
-        "name": "忘れ苦兵衛 1 鴉のお紺",
-        "releaseDate": "2016-12-14",
-        "kind": "books",
-        "artistId": "785148540",
-        "artistUrl": "https://books.apple.com/jp/author/%E7%A5%9E%E6%B1%9F%E9%87%8C%E8%A6%8B/id785148540",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/b8/4b/33/b84b33aa-70b4-9e2d-6c20-86610f31bf42/27547_121227676_001_001_artwork_20200204195143.jpg/100x147bb.png",
-        "genres": [
-          {
-            "genreId": "11338",
-            "name": "青年",
-            "url": "https://itunes.apple.com/jp/genre/id11338"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "50000079",
-            "name": "歴史",
-            "url": "https://itunes.apple.com/jp/genre/id50000079"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E5%BF%98%E3%82%8C%E8%8B%A6%E5%85%B5%E8%A1%9B-1-%E9%B4%89%E3%81%AE%E3%81%8A%E7%B4%BA/id1185795595"
+        "url": "https://books.apple.com/jp/book/%E3%83%8A%E3%83%AB%E3%83%8B%E3%82%A2%E5%9B%BD%E7%89%A9%E8%AA%9E-%E8%8B%B1%E8%AA%9E%E7%89%88-%E5%85%A8%E5%86%8A/id6667097703"
       },
       {
         "artistName": "太宰治",
@@ -1971,63 +2096,19 @@
         "url": "https://books.apple.com/jp/book/%E6%AD%A3%E7%BE%A9%E3%81%A8%E5%BE%AE%E7%AC%91/id568753899"
       },
       {
-        "artistName": "なごかつ",
-        "id": "6774053646",
-        "name": "背徳お姉さんの誘惑に君は勝てるか?(1)",
-        "releaseDate": "2026-06-12",
+        "artistName": "太宰治",
+        "id": "566848372",
+        "name": "駈込み訴え",
+        "releaseDate": "1944-02-02",
         "kind": "books",
-        "artistId": "6774053905",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%81%AA%E3%81%94%E3%81%8B%E3%81%A4/id6774053905",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ac/5e/77/ac5e77e1-ab98-8879-a983-689e0c307497/BT000229649300100101900209.jpg/100x141bb.png",
+        "artistId": "173331980",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%AA%E5%AE%B0%E6%B2%BB/id173331980",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c7/14/30/c7143085-d0e3-64bb-b6ae-d97a7c0c7965/mza_5916714760559249505.png/100x156bb.png",
         "genres": [
           {
-            "genreId": "11051",
-            "name": "学園",
-            "url": "https://itunes.apple.com/jp/genre/id11051"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "50000073",
-            "name": "アダルト",
-            "url": "https://itunes.apple.com/jp/genre/id50000073"
-          },
-          {
-            "genreId": "11338",
-            "name": "青年",
-            "url": "https://itunes.apple.com/jp/genre/id11338"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E8%83%8C%E5%BE%B3%E3%81%8A%E5%A7%89%E3%81%95%E3%82%93%E3%81%AE%E8%AA%98%E6%83%91%E3%81%AB%E5%90%9B%E3%81%AF%E5%8B%9D%E3%81%A6%E3%82%8B%E3%81%8B-1/id6774053646"
-      },
-      {
-        "artistName": "北野 木陰",
-        "id": "6749724898",
-        "name": "ドーナツとカフェラテと",
-        "releaseDate": "2025-08-08",
-        "kind": "books",
-        "artistId": "1829477564",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%8C%97%E9%87%8E-%E6%9C%A8%E9%99%B0/id1829477564",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/13/c1/86/13c186f8-5f2a-f1fe-ee74-5abc5f66ae2b/baa69674-63ab-47e9-9366-546bdf81389d_cover_image.jpg/100x143bb.png",
-        "genres": [
-          {
-            "genreId": "9003",
-            "name": "ロマンス",
-            "url": "https://itunes.apple.com/jp/genre/id9003"
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
           },
           {
             "genreId": "38",
@@ -2038,30 +2119,24 @@
             "genreId": "9031",
             "name": "小説／文学",
             "url": "https://itunes.apple.com/jp/genre/id9031"
-          },
-          {
-            "genreId": "10049",
-            "name": "文芸小説",
-            "url": "https://itunes.apple.com/jp/genre/id10049"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84%E3%81%A8%E3%82%AB%E3%83%95%E3%82%A7%E3%83%A9%E3%83%86%E3%81%A8/id6749724898"
+        "url": "https://books.apple.com/jp/book/%E9%A7%88%E8%BE%BC%E3%81%BF%E8%A8%B4%E3%81%88/id566848372"
       },
       {
-        "artistName": "月見ハク & pinkvisions",
-        "id": "6798219645",
-        "name": "高嶺のギャルと汗だくプレイ～弱みを握った俺は彼女を抱き潰す～【ソフト版】【フルカラー】【タテヨミ】(1)",
-        "releaseDate": "2026-08-07",
+        "artistName": "谷崎潤一郎",
+        "id": "6670191483",
+        "name": "痴人の愛",
+        "releaseDate": "2024-08-27",
         "kind": "books",
-        "artistId": "1867702549",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%9C%88%E8%A6%8B%E3%83%8F%E3%82%AF/id1867702549",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/25/b4/64/25b464f9-6d35-f07e-ae20-b72e5b591210/21542_131428772_001_001_artwork_20260805180954.jpg/100x142bb.png",
+        "artistId": "316201032",
+        "artistUrl": "https://books.apple.com/jp/author/%E8%B0%B7%E5%B4%8E%E6%BD%A4%E4%B8%80%E9%83%8E/id316201032",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/76/86/c5/7686c542-3022-935f-fb45-c2ede81862e6/mza_9048941926879819113.png/100x156bb.png",
         "genres": [
           {
-            "genreId": "50000085",
-            "name": "ラブコメディ",
-            "url": "https://itunes.apple.com/jp/genre/id50000085"
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
           },
           {
             "genreId": "38",
@@ -2069,55 +2144,12 @@
             "url": "https://itunes.apple.com/jp/genre/id38"
           },
           {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "10015",
-            "name": "グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id10015"
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E9%AB%98%E5%B6%BA%E3%81%AE%E3%82%AE%E3%83%A3%E3%83%AB%E3%81%A8%E6%B1%97%E3%81%A0%E3%81%8F%E3%83%97%E3%83%AC%E3%82%A4-%E5%BC%B1%E3%81%BF%E3%82%92%E6%8F%A1%E3%81%A3%E3%81%9F%E4%BF%BA%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%82%92%E6%8A%B1%E3%81%8D%E6%BD%B0%E3%81%99-%E3%82%BD%E3%83%95%E3%83%88%E7%89%88-%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC-%E3%82%BF%E3%83%86%E3%83%A8%E3%83%9F-1/id6798219645"
-      },
-      {
-        "artistName": "なかざき冬",
-        "id": "6749228749",
-        "name": "えとせとら 新装版 1",
-        "releaseDate": "2025-07-28",
-        "kind": "books",
-        "artistId": "883541094",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%81%AA%E3%81%8B%E3%81%96%E3%81%8D%E5%86%AC/id883541094",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/96/d5/cc/96d5cc86-e886-ac7b-32f9-24e569a19ae6/4840000010944.jpg/100x156bb.png",
-        "genres": [
-          {
-            "genreId": "50000071",
-            "name": "アクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000071"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%81%88%E3%81%A8%E3%81%9B%E3%81%A8%E3%82%89-%E6%96%B0%E8%A3%85%E7%89%88-1/id6749228749"
+        "url": "https://books.apple.com/jp/book/%E7%97%B4%E4%BA%BA%E3%81%AE%E6%84%9B/id6670191483"
       },
       {
         "artistName": "スーパーまさら & こみちぽた",
@@ -2169,221 +2201,14 @@
         "url": "https://books.apple.com/jp/book/%E7%B5%8C%E9%A8%93%E4%BA%BA%E6%95%B0%E3%81%8C%E8%A6%8B%E3%81%88%E3%82%8B%E3%83%A1%E3%82%AC%E3%83%8D-1/id6745643418"
       },
       {
-        "artistName": "なかざき冬",
-        "id": "6749229042",
-        "name": "えとせとら 新装版 2",
-        "releaseDate": "2025-07-28",
+        "artistName": "太宰治",
+        "id": "566858191",
+        "name": "走れメロス",
+        "releaseDate": "1992-10-26",
         "kind": "books",
-        "artistId": "883541094",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%81%AA%E3%81%8B%E3%81%96%E3%81%8D%E5%86%AC/id883541094",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/33/63/1e/33631ea3-04b0-2d05-78be-36b8ef4b63de/4840000010945.jpg/100x156bb.png",
-        "genres": [
-          {
-            "genreId": "50000071",
-            "name": "アクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000071"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%81%88%E3%81%A8%E3%81%9B%E3%81%A8%E3%82%89-%E6%96%B0%E8%A3%85%E7%89%88-2/id6749229042"
-      },
-      {
-        "artistName": "平松伸二",
-        "id": "1591780747",
-        "name": "ブラックエンジェルズ(新装版) 4",
-        "releaseDate": "2021-10-24",
-        "kind": "books",
-        "artistId": "625289142",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%B9%B3%E6%9D%BE%E4%BC%B8%E4%BA%8C/id625289142",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/da/f1/ef/daf1efcb-2a85-77cf-90d7-33c8d1ac2fd2/4840000009262.jpg/100x145bb.png",
-        "genres": [
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%BA-%E6%96%B0%E8%A3%85%E7%89%88-4/id1591780747"
-      },
-      {
-        "artistName": "大川賢太郎 & お金の増やし方研究所",
-        "id": "6450901072",
-        "name": "1分で好かれる「すごい」聞き方",
-        "releaseDate": "2023-07-04",
-        "kind": "books",
-        "artistId": "1291218052",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%A7%E5%B7%9D%E8%B3%A2%E5%A4%AA%E9%83%8E/id1291218052",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/81/a9/c6/81a9c66c-8935-79a8-217f-d77ce8a1f25d/0703_eBook_8.jpg/100x141bb.png",
-        "genres": [
-          {
-            "genreId": "9009",
-            "name": "ビジネス／マネー",
-            "url": "https://itunes.apple.com/jp/genre/id9009"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/1%E5%88%86%E3%81%A7%E5%A5%BD%E3%81%8B%E3%82%8C%E3%82%8B-%E3%81%99%E3%81%94%E3%81%84-%E8%81%9E%E3%81%8D%E6%96%B9/id6450901072"
-      },
-      {
-        "artistName": "竹中亮祐",
-        "id": "1278892809",
-        "name": "人生が50倍楽しくなる思考法",
-        "releaseDate": "2017-09-03",
-        "kind": "books",
-        "artistId": "1153463658",
-        "artistUrl": "https://books.apple.com/jp/author/%E7%AB%B9%E4%B8%AD%E4%BA%AE%E7%A5%90/id1153463658",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/a2/2b/05/a22b058c-6b49-7bdf-92a0-9d71578cd831/51kub1kE0bL.jpg/100x160bb.png",
-        "genres": [
-          {
-            "genreId": "10011",
-            "name": "経済",
-            "url": "https://itunes.apple.com/jp/genre/id10011"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9009",
-            "name": "ビジネス／マネー",
-            "url": "https://itunes.apple.com/jp/genre/id9009"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E4%BA%BA%E7%94%9F%E3%81%8C50%E5%80%8D%E6%A5%BD%E3%81%97%E3%81%8F%E3%81%AA%E3%82%8B%E6%80%9D%E8%80%83%E6%B3%95/id1278892809"
-      },
-      {
-        "artistName": "オーギュスト・ルノワール",
-        "id": "1021881535",
-        "name": "ルノワール名画集",
-        "releaseDate": "2015-07-24",
-        "kind": "books",
-        "artistId": "1009685480",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%82%AA%E3%83%BC%E3%82%AE%E3%83%A5%E3%82%B9%E3%83%88-%E3%83%AB%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB/id1009685480",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/8f/47/ed/8f47ed36-b976-082c-df06-afb4fd5e3f65/cover.jpg/100x139bb.png",
-        "genres": [
-          {
-            "genreId": "10002",
-            "name": "アート／建築",
-            "url": "https://itunes.apple.com/jp/genre/id10002"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9007",
-            "name": "アート／エンターテインメント",
-            "url": "https://itunes.apple.com/jp/genre/id9007"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%83%AB%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E5%90%8D%E7%94%BB%E9%9B%86/id1021881535"
-      },
-      {
-        "artistName": "小池一夫 & 神田たけ志",
-        "id": "1180481892",
-        "name": "百々の拷問蔵 第1巻",
-        "releaseDate": "2012-12-19",
-        "kind": "books",
-        "artistId": "784953135",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%B0%8F%E6%B1%A0%E4%B8%80%E5%A4%AB/id784953135",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication71/v4/7a/8c/07/7a8c074d-1c85-8ee3-47fe-27555e32f94a/27547_120306043_001_001_artwork_20161125201640.jpg/100x141bb.png",
-        "genres": [
-          {
-            "genreId": "11338",
-            "name": "青年",
-            "url": "https://itunes.apple.com/jp/genre/id11338"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "50000079",
-            "name": "歴史",
-            "url": "https://itunes.apple.com/jp/genre/id50000079"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E7%99%BE%E3%80%85%E3%81%AE%E6%8B%B7%E5%95%8F%E8%94%B5-%E7%AC%AC1%E5%B7%BB/id1180481892"
-      },
-      {
-        "artistName": "谷崎潤一郎",
-        "id": "6748213756",
-        "name": "刺青",
-        "releaseDate": "2025-07-04",
-        "kind": "books",
-        "artistId": "316201032",
-        "artistUrl": "https://books.apple.com/jp/author/%E8%B0%B7%E5%B4%8E%E6%BD%A4%E4%B8%80%E9%83%8E/id316201032",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/87/bf/d2/87bfd2f7-9405-28b6-60e5-cd352e6630f0/mza_807769356758374415.png/100x156bb.png",
-        "genres": [
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "10042",
-            "name": "名作",
-            "url": "https://itunes.apple.com/jp/genre/id10042"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E5%88%BA%E9%9D%92/id6748213756"
-      },
-      {
-        "artistName": "夏目漱石",
-        "id": "566854756",
-        "name": "夢十夜",
-        "releaseDate": "1992-07-27",
-        "kind": "books",
-        "artistId": "121333054",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3/id121333054",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/7b/40/76/7b407676-d605-528c-feb6-0996c909bb79/0000000000799.jpg/100x160bb.png",
+        "artistId": "173331980",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%AA%E5%AE%B0%E6%B2%BB/id173331980",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/fa/ab/6b/faab6b30-9bfe-f657-fed1-27a00ef5a586/0000000001567.jpg/100x156bb.png",
         "genres": [
           {
             "genreId": "10042",
@@ -2401,7 +2226,7 @@
             "url": "https://itunes.apple.com/jp/genre/id9031"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E5%A4%A2%E5%8D%81%E5%A4%9C/id566854756"
+        "url": "https://books.apple.com/jp/book/%E8%B5%B0%E3%82%8C%E3%83%A1%E3%83%AD%E3%82%B9/id566858191"
       },
       {
         "artistName": "宮沢賢治",
@@ -2460,20 +2285,282 @@
         "url": "https://books.apple.com/jp/book/%E5%B0%91%E5%B9%B4%E6%8E%A2%E5%81%B5%E5%9B%A3/id6670191662"
       },
       {
-        "artistName": "スーパーまさら & こみちぽた",
-        "id": "6745643940",
-        "name": "経験人数が見えるメガネ(2)",
-        "releaseDate": "2025-03-29",
+        "artistName": "岡本綺堂",
+        "id": "566830024",
+        "name": "中国怪奇小説集",
+        "releaseDate": "1998-04-21",
         "kind": "books",
-        "artistId": "1375400369",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%81%BE%E3%81%95%E3%82%89/id1375400369",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/32/81/d0/3281d05a-0af0-f4c0-1568-f88ae986efa7/BT000182850900200201900209.jpg/100x141bb.png",
+        "artistId": "171587576",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%B2%A1%E6%9C%AC%E7%B6%BA%E5%A0%82/id171587576",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/03/6f/ec/036fecb8-d5cf-3666-10c1-e3cca7d28523/mza_16015987081754989906.png/100x156bb.png",
         "genres": [
           {
-            "genreId": "50000084",
-            "name": "恋愛／ロマンス",
-            "url": "https://itunes.apple.com/jp/genre/id50000084"
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E4%B8%AD%E5%9B%BD%E6%80%AA%E5%A5%87%E5%B0%8F%E8%AA%AC%E9%9B%86/id566830024"
+      },
+      {
+        "artistName": "宮沢賢治",
+        "id": "566850161",
+        "name": "よだかの星",
+        "releaseDate": "1993-06-16",
+        "kind": "books",
+        "artistId": "106372375",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id106372375",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/50/ea/c9/50eac9bf-5350-4be8-2bbe-825aab8185e4/0000000000473.jpg/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E3%82%88%E3%81%A0%E3%81%8B%E3%81%AE%E6%98%9F/id566850161"
+      },
+      {
+        "artistName": "谷崎潤一郎",
+        "id": "6748213756",
+        "name": "刺青",
+        "releaseDate": "2025-07-04",
+        "kind": "books",
+        "artistId": "316201032",
+        "artistUrl": "https://books.apple.com/jp/author/%E8%B0%B7%E5%B4%8E%E6%BD%A4%E4%B8%80%E9%83%8E/id316201032",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/87/bf/d2/87bfd2f7-9405-28b6-60e5-cd352e6630f0/mza_807769356758374415.png/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E5%88%BA%E9%9D%92/id6748213756"
+      },
+      {
+        "artistName": "太宰治",
+        "id": "566848244",
+        "name": "女生徒",
+        "releaseDate": "1943-04-02",
+        "kind": "books",
+        "artistId": "173331980",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%AA%E5%AE%B0%E6%B2%BB/id173331980",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/05/1e/b5/051eb549-af18-a5aa-1e53-4b4e381de55d/0000000000275.jpg/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E5%A5%B3%E7%94%9F%E5%BE%92/id566848244"
+      },
+      {
+        "artistName": "なかざき冬",
+        "id": "6749228749",
+        "name": "えとせとら 新装版 1",
+        "releaseDate": "2025-07-28",
+        "kind": "books",
+        "artistId": "883541094",
+        "artistUrl": "https://books.apple.com/jp/author/%E3%81%AA%E3%81%8B%E3%81%96%E3%81%8D%E5%86%AC/id883541094",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/96/d5/cc/96d5cc86-e886-ac7b-32f9-24e569a19ae6/4840000010944.jpg/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "50000071",
+            "name": "アクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000071"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E3%81%88%E3%81%A8%E3%81%9B%E3%81%A8%E3%82%89-%E6%96%B0%E8%A3%85%E7%89%88-1/id6749228749"
+      },
+      {
+        "artistName": "小林多喜二",
+        "id": "566857863",
+        "name": "蟹工船",
+        "releaseDate": "1929-04-01",
+        "kind": "books",
+        "artistId": "287300582",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%B0%8F%E6%9E%97%E5%A4%9A%E5%96%9C%E4%BA%8C/id287300582",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/b5/2a/88/b52a8861-3f50-01c0-069c-13957b33e097/0000000001465.jpg/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E8%9F%B9%E5%B7%A5%E8%88%B9/id566857863"
+      },
+      {
+        "artistName": "紫式部",
+        "id": "6738304710",
+        "name": "源氏物語 本文 全冊",
+        "releaseDate": "2024-11-16",
+        "kind": "books",
+        "artistId": "566871999",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%B4%AB%E5%BC%8F%E9%83%A8/id566871999",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e0/04/31/e004314e-29d1-a5df-1965-b84b03470320/41752cbe-9472-4f60-8534-b81869b3ba69_cover_image.png/100x160bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E6%BA%90%E6%B0%8F%E7%89%A9%E8%AA%9E-%E6%9C%AC%E6%96%87-%E5%85%A8%E5%86%8A/id6738304710"
+      },
+      {
+        "artistName": "宮沢賢治",
+        "id": "566856601",
+        "name": "春と修羅",
+        "releaseDate": "1990-02-27",
+        "kind": "books",
+        "artistId": "106372375",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id106372375",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/3f/67/30/3f67301b-832d-bfef-2e5e-ddddddff544a/0000000001058.jpg/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          },
+          {
+            "genreId": "10093",
+            "name": "詩",
+            "url": "https://itunes.apple.com/jp/genre/id10093"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E6%98%A5%E3%81%A8%E4%BF%AE%E7%BE%85/id566856601"
+      },
+      {
+        "artistName": "夏目漱石",
+        "id": "566854756",
+        "name": "夢十夜",
+        "releaseDate": "1992-07-27",
+        "kind": "books",
+        "artistId": "121333054",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3/id121333054",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/7b/40/76/7b407676-d605-528c-feb6-0996c909bb79/0000000000799.jpg/100x160bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E5%A4%A2%E5%8D%81%E5%A4%9C/id566854756"
+      },
+      {
+        "artistName": "柳沢きみお",
+        "id": "6796206733",
+        "name": "特命係長 只野仁 愛蔵版 1",
+        "releaseDate": "2026-07-29",
+        "kind": "books",
+        "artistId": "698036615",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%9F%B3%E6%B2%A2%E3%81%8D%E3%81%BF%E3%81%8A/id698036615",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b1/23/fa/b123fa0c-3ec6-48ea-55bd-fcfd6329448a/f65092de-ceff-47e5-a2c5-31df1794ba5e_cover_image.jpg/100x146bb.png",
+        "genres": [
+          {
+            "genreId": "50000081",
+            "name": "ミステリー",
+            "url": "https://itunes.apple.com/jp/genre/id50000081"
           },
           {
             "genreId": "38",
@@ -2491,22 +2578,40 @@
             "url": "https://itunes.apple.com/jp/genre/id10016"
           },
           {
-            "genreId": "11338",
-            "name": "青年",
-            "url": "https://itunes.apple.com/jp/genre/id11338"
-          },
-          {
-            "genreId": "11051",
-            "name": "学園",
-            "url": "https://itunes.apple.com/jp/genre/id11051"
-          },
-          {
-            "genreId": "50000073",
-            "name": "アダルト",
-            "url": "https://itunes.apple.com/jp/genre/id50000073"
+            "genreId": "50000084",
+            "name": "恋愛／ロマンス",
+            "url": "https://itunes.apple.com/jp/genre/id50000084"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E7%B5%8C%E9%A8%93%E4%BA%BA%E6%95%B0%E3%81%8C%E8%A6%8B%E3%81%88%E3%82%8B%E3%83%A1%E3%82%AC%E3%83%8D-2/id6745643940"
+        "url": "https://books.apple.com/jp/book/%E7%89%B9%E5%91%BD%E4%BF%82%E9%95%B7-%E5%8F%AA%E9%87%8E%E4%BB%81-%E6%84%9B%E8%94%B5%E7%89%88-1/id6796206733"
+      },
+      {
+        "artistName": "竹中亮祐",
+        "id": "1278892809",
+        "name": "人生が50倍楽しくなる思考法",
+        "releaseDate": "2017-09-03",
+        "kind": "books",
+        "artistId": "1153463658",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%AB%B9%E4%B8%AD%E4%BA%AE%E7%A5%90/id1153463658",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/a2/2b/05/a22b058c-6b49-7bdf-92a0-9d71578cd831/51kub1kE0bL.jpg/100x160bb.png",
+        "genres": [
+          {
+            "genreId": "10011",
+            "name": "経済",
+            "url": "https://itunes.apple.com/jp/genre/id10011"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9009",
+            "name": "ビジネス／マネー",
+            "url": "https://itunes.apple.com/jp/genre/id9009"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E4%BA%BA%E7%94%9F%E3%81%8C50%E5%80%8D%E6%A5%BD%E3%81%97%E3%81%8F%E3%81%AA%E3%82%8B%E6%80%9D%E8%80%83%E6%B3%95/id1278892809"
       },
       {
         "artistName": "スーパーまさら & こみちぽた",
@@ -2558,19 +2663,87 @@
         "url": "https://books.apple.com/jp/book/%E7%B5%8C%E9%A8%93%E4%BA%BA%E6%95%B0%E3%81%8C%E8%A6%8B%E3%81%88%E3%82%8B%E3%83%A1%E3%82%AC%E3%83%8D-3/id6745643992"
       },
       {
-        "artistName": "乍藤和樹, 佐賀崎しげる & 鍋島テツヒロ",
-        "id": "6747421021",
-        "name": "片田舎のおっさん、剣聖になる～ただの田舎の剣術師範だったのに、大成した弟子たちが俺を放ってくれない件～(タテヨミフルカラー版) 第1話",
-        "releaseDate": "2025-07-05",
+        "artistName": "なごかつ",
+        "id": "6774053646",
+        "name": "背徳お姉さんの誘惑に君は勝てるか?(1)",
+        "releaseDate": "2026-06-12",
         "kind": "books",
-        "artistId": "1606670042",
-        "artistUrl": "https://books.apple.com/jp/author/%E4%B9%8D%E8%97%A4%E5%92%8C%E6%A8%B9/id1606670042",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/99/ff/2e/99ff2e81-4a5a-4f54-f305-56e8d5a03c3c/21397_128785257_001_001_artwork_20250618122734.jpg/100x140bb.png",
+        "artistId": "6774053905",
+        "artistUrl": "https://books.apple.com/jp/author/%E3%81%AA%E3%81%94%E3%81%8B%E3%81%A4/id6774053905",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ac/5e/77/ac5e77e1-ab98-8879-a983-689e0c307497/BT000229649300100101900209.jpg/100x141bb.png",
         "genres": [
           {
-            "genreId": "50000074",
-            "name": "ファンタジー",
-            "url": "https://itunes.apple.com/jp/genre/id50000074"
+            "genreId": "11051",
+            "name": "学園",
+            "url": "https://itunes.apple.com/jp/genre/id11051"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          },
+          {
+            "genreId": "50000073",
+            "name": "アダルト",
+            "url": "https://itunes.apple.com/jp/genre/id50000073"
+          },
+          {
+            "genreId": "11338",
+            "name": "青年",
+            "url": "https://itunes.apple.com/jp/genre/id11338"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E8%83%8C%E5%BE%B3%E3%81%8A%E5%A7%89%E3%81%95%E3%82%93%E3%81%AE%E8%AA%98%E6%83%91%E3%81%AB%E5%90%9B%E3%81%AF%E5%8B%9D%E3%81%A6%E3%82%8B%E3%81%8B-1/id6774053646"
+      },
+      {
+        "artistName": "宮島未奈",
+        "id": "6738644200",
+        "name": "成瀬は天下を取りにいく 無料お試し版",
+        "releaseDate": "2024-11-26",
+        "kind": "books",
+        "artistId": "1669671291",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E5%B3%B6%E6%9C%AA%E5%A5%88/id1669671291",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/63/aa/d2/63aad2f7-ce0c-3c55-42df-e076198123bc/BT000173248300100101900209.jpg/100x161bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E6%88%90%E7%80%AC%E3%81%AF%E5%A4%A9%E4%B8%8B%E3%82%92%E5%8F%96%E3%82%8A%E3%81%AB%E3%81%84%E3%81%8F-%E7%84%A1%E6%96%99%E3%81%8A%E8%A9%A6%E3%81%97%E7%89%88/id6738644200"
+      },
+      {
+        "artistName": "月見ハク & pinkvisions",
+        "id": "6798219645",
+        "name": "高嶺のギャルと汗だくプレイ～弱みを握った俺は彼女を抱き潰す～【ソフト版】【フルカラー】【タテヨミ】(1)",
+        "releaseDate": "2026-08-07",
+        "kind": "books",
+        "artistId": "1867702549",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%9C%88%E8%A6%8B%E3%83%8F%E3%82%AF/id1867702549",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/25/b4/64/25b464f9-6d35-f07e-ae20-b72e5b591210/21542_131428772_001_001_artwork_20260805180954.jpg/100x142bb.png",
+        "genres": [
+          {
+            "genreId": "50000085",
+            "name": "ラブコメディ",
+            "url": "https://itunes.apple.com/jp/genre/id50000085"
           },
           {
             "genreId": "38",
@@ -2593,78 +2766,17 @@
             "url": "https://itunes.apple.com/jp/genre/id10015"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E7%89%87%E7%94%B0%E8%88%8E%E3%81%AE%E3%81%8A%E3%81%A3%E3%81%95%E3%82%93-%E5%89%A3%E8%81%96%E3%81%AB%E3%81%AA%E3%82%8B-%E3%81%9F%E3%81%A0%E3%81%AE%E7%94%B0%E8%88%8E%E3%81%AE%E5%89%A3%E8%A1%93%E5%B8%AB%E7%AF%84%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%AB-%E5%A4%A7%E6%88%90%E3%81%97%E3%81%9F%E5%BC%9F%E5%AD%90%E3%81%9F%E3%81%A1%E3%81%8C%E4%BF%BA%E3%82%92%E6%94%BE%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%AA%E3%81%84%E4%BB%B6/id6747421021"
+        "url": "https://books.apple.com/jp/book/%E9%AB%98%E5%B6%BA%E3%81%AE%E3%82%AE%E3%83%A3%E3%83%AB%E3%81%A8%E6%B1%97%E3%81%A0%E3%81%8F%E3%83%97%E3%83%AC%E3%82%A4-%E5%BC%B1%E3%81%BF%E3%82%92%E6%8F%A1%E3%81%A3%E3%81%9F%E4%BF%BA%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%82%92%E6%8A%B1%E3%81%8D%E6%BD%B0%E3%81%99-%E3%82%BD%E3%83%95%E3%83%88%E7%89%88-%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC-%E3%82%BF%E3%83%86%E3%83%A8%E3%83%9F-1/id6798219645"
       },
       {
-        "artistName": "十夜 & chibi",
-        "id": "1487398442",
-        "name": "転生した大聖女は、聖女であることをひた隠す2",
-        "releaseDate": "2019-11-15",
+        "artistName": "森鷗外",
+        "id": "566853239",
+        "name": "舞姫",
+        "releaseDate": "1889-12-31",
         "kind": "books",
-        "artistId": "1045005663",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%8D%81%E5%A4%9C/id1045005663",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/60/07/c2/6007c2df-487a-e746-5a30-ed6e92f4c4ed/JAMTVAP0000000000554.jpg/100x142bb.png",
-        "genres": [
-          {
-            "genreId": "10044",
-            "name": "ファンタジー",
-            "url": "https://itunes.apple.com/jp/genre/id10044"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9020",
-            "name": "SF／ファンタジー",
-            "url": "https://itunes.apple.com/jp/genre/id9020"
-          },
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E5%A4%A7%E8%81%96%E5%A5%B3%E3%81%AF-%E8%81%96%E5%A5%B3%E3%81%A7%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E3%81%B2%E3%81%9F%E9%9A%A0%E3%81%992/id1487398442"
-      },
-      {
-        "artistName": "平松伸二",
-        "id": "1591780959",
-        "name": "ブラックエンジェルズ(新装版) 5",
-        "releaseDate": "2021-10-24",
-        "kind": "books",
-        "artistId": "625289142",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%B9%B3%E6%9D%BE%E4%BC%B8%E4%BA%8C/id625289142",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/aa/8d/1c/aa8d1ccd-1ef2-9618-dd3d-5f8c081fe3b3/4840000009263.jpg/100x145bb.png",
-        "genres": [
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%BA-%E6%96%B0%E8%A3%85%E7%89%88-5/id1591780959"
-      },
-      {
-        "artistName": "谷崎潤一郎",
-        "id": "6670191483",
-        "name": "痴人の愛",
-        "releaseDate": "2024-08-27",
-        "kind": "books",
-        "artistId": "316201032",
-        "artistUrl": "https://books.apple.com/jp/author/%E8%B0%B7%E5%B4%8E%E6%BD%A4%E4%B8%80%E9%83%8E/id316201032",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/76/86/c5/7686c542-3022-935f-fb45-c2ede81862e6/mza_9048941926879819113.png/100x156bb.png",
+        "artistId": "695120760",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%A3%AE%E9%B7%97%E5%A4%96/id695120760",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/b7/a5/3e/b7a53e88-f979-ab25-7307-1aa264b4796b/0000000000682.jpg/100x156bb.png",
         "genres": [
           {
             "genreId": "10042",
@@ -2682,7 +2794,63 @@
             "url": "https://itunes.apple.com/jp/genre/id9031"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E7%97%B4%E4%BA%BA%E3%81%AE%E6%84%9B/id6670191483"
+        "url": "https://books.apple.com/jp/book/%E8%88%9E%E5%A7%AB/id566853239"
+      },
+      {
+        "artistName": "芥川龍之介",
+        "id": "566951983",
+        "name": "あばばばば",
+        "releaseDate": "1927-12-02",
+        "kind": "books",
+        "artistId": "106372604",
+        "artistUrl": "https://books.apple.com/jp/author/%E8%8A%A5%E5%B7%9D%E9%BE%8D%E4%B9%8B%E4%BB%8B/id106372604",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/8d/8d/85/8d8d857a-1aaf-93e6-704d-b8549bebbc1c/mza_7216440489948675362.png/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E3%81%82%E3%81%B0%E3%81%B0%E3%81%B0%E3%81%B0/id566951983"
+      },
+      {
+        "artistName": "太宰治",
+        "id": "566869605",
+        "name": "津軽",
+        "releaseDate": "1994-04-28",
+        "kind": "books",
+        "artistId": "173331980",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%AA%E5%AE%B0%E6%B2%BB/id173331980",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/0a/64/1e/0a641e97-d3e8-c400-5f59-6787af44530d/mza_11335382098165298520.png/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E6%B4%A5%E8%BB%BD/id566869605"
       },
       {
         "artistName": "尾崎士郎",
@@ -2713,14 +2881,14 @@
         "url": "https://books.apple.com/jp/book/%E7%8F%BE%E4%BB%A3%E8%AA%9E%E8%A8%B3-%E5%B9%B3%E5%AE%B6%E7%89%A9%E8%AA%9E/id6747101999"
       },
       {
-        "artistName": "福沢諭吉",
-        "id": "566887086",
-        "name": "学問のすすめ",
-        "releaseDate": "1872-01-31",
+        "artistName": "宮沢賢治",
+        "id": "1024938845",
+        "name": "宮沢賢治全集",
+        "releaseDate": "2015-07-14",
         "kind": "books",
-        "artistId": "297140344",
-        "artistUrl": "https://books.apple.com/jp/author/%E7%A6%8F%E6%B2%A2%E8%AB%AD%E5%90%89/id297140344",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/bf/23/d2/bf23d2a6-47c6-15c7-ac70-5e8a8b49ce2e/0000000047061.jpg/100x156bb.png",
+        "artistId": "106372375",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id106372375",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/ef/e5/03/efe503b7-054e-7f98-5244-d884067db3a4/0000000000081A.jpg/100x150bb.png",
         "genres": [
           {
             "genreId": "10042",
@@ -2736,35 +2904,25 @@
             "genreId": "9031",
             "name": "小説／文学",
             "url": "https://itunes.apple.com/jp/genre/id9031"
-          },
-          {
-            "genreId": "9029",
-            "name": "職業／技術",
-            "url": "https://itunes.apple.com/jp/genre/id9029"
-          },
-          {
-            "genreId": "10037",
-            "name": "教育",
-            "url": "https://itunes.apple.com/jp/genre/id10037"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E5%AD%A6%E5%95%8F%E3%81%AE%E3%81%99%E3%81%99%E3%82%81/id566887086"
+        "url": "https://books.apple.com/jp/book/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB%E5%85%A8%E9%9B%86/id1024938845"
       },
       {
-        "artistName": "鶸介",
-        "id": "6743937741",
-        "name": "第1話 ゲーム友達と罰ゲームをかけて勝負してみた",
-        "releaseDate": "2025-05-03",
+        "artistName": "スーパーまさら & こみちぽた",
+        "id": "6745643940",
+        "name": "経験人数が見えるメガネ(2)",
+        "releaseDate": "2025-03-29",
         "kind": "books",
-        "artistId": "1797083468",
-        "artistUrl": "https://books.apple.com/jp/author/%E9%B6%B8%E4%BB%8B/id1797083468",
+        "artistId": "1375400369",
+        "artistUrl": "https://books.apple.com/jp/author/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%81%BE%E3%81%95%E3%82%89/id1375400369",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/bb/3a/83/bb3a8341-1c33-719f-8930-206c026315c8/BT000183789300100101900209.jpg/100x141bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/32/81/d0/3281d05a-0af0-f4c0-1568-f88ae986efa7/BT000182850900200201900209.jpg/100x141bb.png",
         "genres": [
           {
-            "genreId": "11338",
-            "name": "青年",
-            "url": "https://itunes.apple.com/jp/genre/id11338"
+            "genreId": "50000084",
+            "name": "恋愛／ロマンス",
+            "url": "https://itunes.apple.com/jp/genre/id50000084"
           },
           {
             "genreId": "38",
@@ -2780,6 +2938,16 @@
             "genreId": "10016",
             "name": "マンガ",
             "url": "https://itunes.apple.com/jp/genre/id10016"
+          },
+          {
+            "genreId": "11338",
+            "name": "青年",
+            "url": "https://itunes.apple.com/jp/genre/id11338"
+          },
+          {
+            "genreId": "11051",
+            "name": "学園",
+            "url": "https://itunes.apple.com/jp/genre/id11051"
           },
           {
             "genreId": "50000073",
@@ -2787,131 +2955,27 @@
             "url": "https://itunes.apple.com/jp/genre/id50000073"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E7%AC%AC1%E8%A9%B1-%E3%82%B2%E3%83%BC%E3%83%A0%E5%8F%8B%E9%81%94%E3%81%A8%E7%BD%B0%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E5%8B%9D%E8%B2%A0%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/id6743937741"
+        "url": "https://books.apple.com/jp/book/%E7%B5%8C%E9%A8%93%E4%BA%BA%E6%95%B0%E3%81%8C%E8%A6%8B%E3%81%88%E3%82%8B%E3%83%A1%E3%82%AC%E3%83%8D-2/id6745643940"
       },
       {
-        "artistName": "なかざき冬",
-        "id": "6749229448",
-        "name": "えとせとら 新装版 3",
-        "releaseDate": "2025-07-28",
+        "artistName": "宮沢賢治",
+        "id": "566850159",
+        "name": "セロ弾きのゴーシュ",
+        "releaseDate": "1894-12-31",
         "kind": "books",
-        "artistId": "883541094",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%81%AA%E3%81%8B%E3%81%96%E3%81%8D%E5%86%AC/id883541094",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6d/51/13/6d5113f3-4c10-5dbd-2cb9-839dd9c7ec9b/4840000010946.jpg/100x156bb.png",
+        "artistId": "106372375",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id106372375",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/eb/1f/02/eb1f029c-71bc-807f-18e8-52d03847b617/0000000000470.jpg/100x156bb.png",
         "genres": [
           {
-            "genreId": "50000071",
-            "name": "アクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000071"
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
           },
           {
             "genreId": "38",
             "name": "ブック",
             "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%81%88%E3%81%A8%E3%81%9B%E3%81%A8%E3%82%89-%E6%96%B0%E8%A3%85%E7%89%88-3/id6749229448"
-      },
-      {
-        "artistName": "なかざき冬",
-        "id": "6749229750",
-        "name": "えとせとら 新装版 5",
-        "releaseDate": "2025-07-28",
-        "kind": "books",
-        "artistId": "883541094",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%81%AA%E3%81%8B%E3%81%96%E3%81%8D%E5%86%AC/id883541094",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/69/d2/10/69d2105c-8af6-1aec-70db-86e55be4456a/4840000010948.jpg/100x156bb.png",
-        "genres": [
-          {
-            "genreId": "50000071",
-            "name": "アクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000071"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%81%88%E3%81%A8%E3%81%9B%E3%81%A8%E3%82%89-%E6%96%B0%E8%A3%85%E7%89%88-5/id6749229750"
-      },
-      {
-        "artistName": "なかざき冬",
-        "id": "6749229439",
-        "name": "えとせとら 新装版 4",
-        "releaseDate": "2025-07-28",
-        "kind": "books",
-        "artistId": "883541094",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%81%AA%E3%81%8B%E3%81%96%E3%81%8D%E5%86%AC/id883541094",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/da/3b/23/da3b23c9-7137-a8e8-d487-3ae923bde131/4840000010947.jpg/100x156bb.png",
-        "genres": [
-          {
-            "genreId": "50000071",
-            "name": "アクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000071"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%81%88%E3%81%A8%E3%81%9B%E3%81%A8%E3%82%89-%E6%96%B0%E8%A3%85%E7%89%88-4/id6749229439"
-      },
-      {
-        "artistName": "十夜 & chibi",
-        "id": "1467889800",
-        "name": "転生した大聖女は、聖女であることをひた隠す1",
-        "releaseDate": "2019-06-15",
-        "kind": "books",
-        "artistId": "1045005663",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%8D%81%E5%A4%9C/id1045005663",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/76/4e/5a/764e5aaf-3f6f-f6e8-39d4-a211644056c1/JAMTVAP0000000000503.jpg/100x142bb.png",
-        "genres": [
-          {
-            "genreId": "10044",
-            "name": "ファンタジー",
-            "url": "https://itunes.apple.com/jp/genre/id10044"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9020",
-            "name": "SF／ファンタジー",
-            "url": "https://itunes.apple.com/jp/genre/id9020"
           },
           {
             "genreId": "9031",
@@ -2919,102 +2983,7 @@
             "url": "https://itunes.apple.com/jp/genre/id9031"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E5%A4%A7%E8%81%96%E5%A5%B3%E3%81%AF-%E8%81%96%E5%A5%B3%E3%81%A7%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E3%81%B2%E3%81%9F%E9%9A%A0%E3%81%991/id1467889800"
-      },
-      {
-        "artistName": "平松伸二",
-        "id": "1591780366",
-        "name": "ブラックエンジェルズ(新装版) 3",
-        "releaseDate": "2021-10-24",
-        "kind": "books",
-        "artistId": "625289142",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%B9%B3%E6%9D%BE%E4%BC%B8%E4%BA%8C/id625289142",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/5a/3e/6e/5a3e6e22-3ef6-be00-6fc6-3ca585725a73/4840000009261.jpg/100x145bb.png",
-        "genres": [
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%BA-%E6%96%B0%E8%A3%85%E7%89%88-3/id1591780366"
-      },
-      {
-        "artistName": "青木宏樹",
-        "id": "1454429540",
-        "name": "コミュニケーションの達人への第一歩",
-        "releaseDate": "2019-02-27",
-        "kind": "books",
-        "artistId": "1197385929",
-        "artistUrl": "https://books.apple.com/jp/author/%E9%9D%92%E6%9C%A8%E5%AE%8F%E6%A8%B9/id1197385929",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/09/6d/02/096d02d0-988e-cb2b-b94c-e03f1f2aebc8/cover2.jpg/100x141bb.png",
-        "genres": [
-          {
-            "genreId": "9009",
-            "name": "ビジネス／マネー",
-            "url": "https://itunes.apple.com/jp/genre/id9009"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E9%81%94%E4%BA%BA%E3%81%B8%E3%81%AE%E7%AC%AC%E4%B8%80%E6%AD%A9/id1454429540"
-      },
-      {
-        "artistName": "弘兼憲史, 諏訪符馬, 伏瀬, 川上泰樹 & 樹林伸",
-        "id": "6450415573",
-        "name": "島耕作シリーズ40周年記念 全シリーズ1話完全無料試し読みパック",
-        "releaseDate": "2023-06-22",
-        "kind": "books",
-        "artistId": "583294491",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%BC%98%E5%85%BC%E6%86%B2%E5%8F%B2/id583294491",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/90/63/58/90635877-6c68-d457-0ebb-228688dec086/BT000136958800100101900206.jpg/100x142bb.png",
-        "genres": [
-          {
-            "genreId": "11338",
-            "name": "青年",
-            "url": "https://itunes.apple.com/jp/genre/id11338"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "50000082",
-            "name": "ノンフィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000082"
-          },
-          {
-            "genreId": "11052",
-            "name": "ヒューマンドラマ",
-            "url": "https://itunes.apple.com/jp/genre/id11052"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E5%B3%B6%E8%80%95%E4%BD%9C%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA40%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5-%E5%85%A8%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA1%E8%A9%B1%E5%AE%8C%E5%85%A8%E7%84%A1%E6%96%99%E8%A9%A6%E3%81%97%E8%AA%AD%E3%81%BF%E3%83%91%E3%83%83%E3%82%AF/id6450415573"
+        "url": "https://books.apple.com/jp/book/%E3%82%BB%E3%83%AD%E5%BC%BE%E3%81%8D%E3%81%AE%E3%82%B4%E3%83%BC%E3%82%B7%E3%83%A5/id566850159"
       },
       {
         "artistName": "金川顕教",
@@ -3038,202 +3007,6 @@
           }
         ],
         "url": "https://books.apple.com/jp/book/%E8%A9%B1%E3%81%99%E6%8A%80%E8%A1%93/id1276879186"
-      },
-      {
-        "artistName": "芥川龍之介",
-        "id": "1034232334",
-        "name": "芥川竜之介全集",
-        "releaseDate": "2015-08-27",
-        "kind": "books",
-        "artistId": "106372604",
-        "artistUrl": "https://books.apple.com/jp/author/%E8%8A%A5%E5%B7%9D%E9%BE%8D%E4%B9%8B%E4%BB%8B/id106372604",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication60/v4/6a/bd/eb/6abdeba0-1672-8c53-3039-a6c071dcf07c/mzm.merhhdwd.jpg/100x150bb.png",
-        "genres": [
-          {
-            "genreId": "10042",
-            "name": "名作",
-            "url": "https://itunes.apple.com/jp/genre/id10042"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E8%8A%A5%E5%B7%9D%E7%AB%9C%E4%B9%8B%E4%BB%8B%E5%85%A8%E9%9B%86/id1034232334"
-      },
-      {
-        "artistName": "宮沢賢治",
-        "id": "566850161",
-        "name": "よだかの星",
-        "releaseDate": "1993-06-16",
-        "kind": "books",
-        "artistId": "106372375",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id106372375",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/50/ea/c9/50eac9bf-5350-4be8-2bbe-825aab8185e4/0000000000473.jpg/100x156bb.png",
-        "genres": [
-          {
-            "genreId": "10042",
-            "name": "名作",
-            "url": "https://itunes.apple.com/jp/genre/id10042"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%82%88%E3%81%A0%E3%81%8B%E3%81%AE%E6%98%9F/id566850161"
-      },
-      {
-        "artistName": "平松伸二",
-        "id": "1591780121",
-        "name": "ブラックエンジェルズ(新装版) 2",
-        "releaseDate": "2021-10-24",
-        "kind": "books",
-        "artistId": "625289142",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%B9%B3%E6%9D%BE%E4%BC%B8%E4%BA%8C/id625289142",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/0b/da/26/0bda265d-546a-b7c4-c153-00aaddbcd193/4840000009260.jpg/100x145bb.png",
-        "genres": [
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%BA-%E6%96%B0%E8%A3%85%E7%89%88-2/id1591780121"
-      },
-      {
-        "artistName": "紫式部",
-        "id": "6738304710",
-        "name": "源氏物語 本文 全冊",
-        "releaseDate": "2024-11-16",
-        "kind": "books",
-        "artistId": "566871999",
-        "artistUrl": "https://books.apple.com/jp/author/%E7%B4%AB%E5%BC%8F%E9%83%A8/id566871999",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e0/04/31/e004314e-29d1-a5df-1965-b84b03470320/41752cbe-9472-4f60-8534-b81869b3ba69_cover_image.png/100x160bb.png",
-        "genres": [
-          {
-            "genreId": "10042",
-            "name": "名作",
-            "url": "https://itunes.apple.com/jp/genre/id10042"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E6%BA%90%E6%B0%8F%E7%89%A9%E8%AA%9E-%E6%9C%AC%E6%96%87-%E5%85%A8%E5%86%8A/id6738304710"
-      },
-      {
-        "artistName": "辻村深月",
-        "id": "6762456495",
-        "name": "ファイア・ドーム 冒頭試し読み特別版",
-        "releaseDate": "2026-06-05",
-        "kind": "books",
-        "artistId": "587776347",
-        "artistUrl": "https://books.apple.com/jp/author/%E8%BE%BB%E6%9D%91%E6%B7%B1%E6%9C%88/id587776347",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/07/9b/f9/079bf9ef-87db-1714-1722-2c3076bfc5db/BT000224959700100101900209.jpg/100x144bb.png",
-        "genres": [
-          {
-            "genreId": "9032",
-            "name": "ミステリー／スリラー",
-            "url": "https://itunes.apple.com/jp/genre/id9032"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9031",
-            "name": "小説／文学",
-            "url": "https://itunes.apple.com/jp/genre/id9031"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2-%E3%83%89%E3%83%BC%E3%83%A0-%E5%86%92%E9%A0%AD%E8%A9%A6%E3%81%97%E8%AA%AD%E3%81%BF%E7%89%B9%E5%88%A5%E7%89%88/id6762456495"
-      },
-      {
-        "artistName": "平松伸二",
-        "id": "1591778867",
-        "name": "ブラックエンジェルズ(新装版) 1",
-        "releaseDate": "2021-10-24",
-        "kind": "books",
-        "artistId": "625289142",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%B9%B3%E6%9D%BE%E4%BC%B8%E4%BA%8C/id625289142",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/63/97/a9/6397a9a1-8b37-a39e-ebcb-6b267c2fbd14/4840000009259.jpg/100x145bb.png",
-        "genres": [
-          {
-            "genreId": "10016",
-            "name": "マンガ",
-            "url": "https://itunes.apple.com/jp/genre/id10016"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "マンガ／グラフィックノベル",
-            "url": "https://itunes.apple.com/jp/genre/id9026"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%BA-%E6%96%B0%E8%A3%85%E7%89%88-1/id1591778867"
-      },
-      {
-        "artistName": "南部健太",
-        "id": "1443519727",
-        "name": "話す力はあなたの未来を驚くほど変えてくれる。",
-        "releaseDate": "2018-11-19",
-        "kind": "books",
-        "artistId": "1314431594",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%8D%97%E9%83%A8%E5%81%A5%E5%A4%AA/id1314431594",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/42/b8/4a/42b84a3e-fa6e-032e-e2d2-acf2d5f015b0/nambu2.jpg/100x141bb.png",
-        "genres": [
-          {
-            "genreId": "10006",
-            "name": "マーケティング／セールス",
-            "url": "https://itunes.apple.com/jp/genre/id10006"
-          },
-          {
-            "genreId": "38",
-            "name": "ブック",
-            "url": "https://itunes.apple.com/jp/genre/id38"
-          },
-          {
-            "genreId": "9009",
-            "name": "ビジネス／マネー",
-            "url": "https://itunes.apple.com/jp/genre/id9009"
-          }
-        ],
-        "url": "https://books.apple.com/jp/book/%E8%A9%B1%E3%81%99%E5%8A%9B%E3%81%AF%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%82%92%E9%A9%9A%E3%81%8F%E3%81%BB%E3%81%A9%E5%A4%89%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B/id1443519727"
       },
       {
         "artistName": "谷崎潤一郎",
@@ -3264,14 +3037,53 @@
         "url": "https://books.apple.com/jp/book/%E6%98%A5%E7%90%B4%E6%8A%84/id6741675914"
       },
       {
-        "artistName": "片岡義男",
-        "id": "1020588563",
-        "name": "片岡義男全集",
-        "releaseDate": "2015-07-14",
+        "artistName": "柳沢きみお",
+        "id": "6796216430",
+        "name": "特命係長 只野仁 愛蔵版 3",
+        "releaseDate": "2026-07-29",
         "kind": "books",
-        "artistId": "589121557",
-        "artistUrl": "https://books.apple.com/jp/author/%E7%89%87%E5%B2%A1%E7%BE%A9%E7%94%B7/id589121557",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/21/77/0f/21770f87-924b-6caf-5a79-b862088833d1/0000000001506A.jpg/100x150bb.png",
+        "artistId": "698036615",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%9F%B3%E6%B2%A2%E3%81%8D%E3%81%BF%E3%81%8A/id698036615",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/db/7a/80/db7a8028-c320-dae4-cb9c-69b9cba8cf3f/0eaf2367-309a-4a4d-9043-e06573347717_cover_image.jpg/100x146bb.png",
+        "genres": [
+          {
+            "genreId": "50000081",
+            "name": "ミステリー",
+            "url": "https://itunes.apple.com/jp/genre/id50000081"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          },
+          {
+            "genreId": "50000084",
+            "name": "恋愛／ロマンス",
+            "url": "https://itunes.apple.com/jp/genre/id50000084"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E7%89%B9%E5%91%BD%E4%BF%82%E9%95%B7-%E5%8F%AA%E9%87%8E%E4%BB%81-%E6%84%9B%E8%94%B5%E7%89%88-3/id6796216430"
+      },
+      {
+        "artistName": "芥川龍之介",
+        "id": "566847461",
+        "name": "杜子春",
+        "releaseDate": "1924-07-02",
+        "kind": "books",
+        "artistId": "106372604",
+        "artistUrl": "https://books.apple.com/jp/author/%E8%8A%A5%E5%B7%9D%E9%BE%8D%E4%B9%8B%E4%BB%8B/id106372604",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/7d/c7/08/7dc708dd-d4aa-1741-8df0-2b30f39c9234/0000000000170.jpg/100x156bb.png",
         "genres": [
           {
             "genreId": "10042",
@@ -3289,7 +3101,199 @@
             "url": "https://itunes.apple.com/jp/genre/id9031"
           }
         ],
-        "url": "https://books.apple.com/jp/book/%E7%89%87%E5%B2%A1%E7%BE%A9%E7%94%B7%E5%85%A8%E9%9B%86/id1020588563"
+        "url": "https://books.apple.com/jp/book/%E6%9D%9C%E5%AD%90%E6%98%A5/id566847461"
+      },
+      {
+        "artistName": "なかざき冬",
+        "id": "6749229042",
+        "name": "えとせとら 新装版 2",
+        "releaseDate": "2025-07-28",
+        "kind": "books",
+        "artistId": "883541094",
+        "artistUrl": "https://books.apple.com/jp/author/%E3%81%AA%E3%81%8B%E3%81%96%E3%81%8D%E5%86%AC/id883541094",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/33/63/1e/33631ea3-04b0-2d05-78be-36b8ef4b63de/4840000010945.jpg/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "50000071",
+            "name": "アクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000071"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9026",
+            "name": "マンガ／グラフィックノベル",
+            "url": "https://itunes.apple.com/jp/genre/id9026"
+          },
+          {
+            "genreId": "10016",
+            "name": "マンガ",
+            "url": "https://itunes.apple.com/jp/genre/id10016"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E3%81%88%E3%81%A8%E3%81%9B%E3%81%A8%E3%82%89-%E6%96%B0%E8%A3%85%E7%89%88-2/id6749229042"
+      },
+      {
+        "artistName": "宮沢賢治",
+        "id": "566849808",
+        "name": "猫の事務所",
+        "releaseDate": "1990-01-29",
+        "kind": "books",
+        "artistId": "106372375",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id106372375",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/c1/88/86/c18886e7-0ebd-3001-1000-b6a2686b8e88/0000000000464.jpg/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E7%8C%AB%E3%81%AE%E4%BA%8B%E5%8B%99%E6%89%80/id566849808"
+      },
+      {
+        "artistName": "谷崎潤一郎",
+        "id": "6748213527",
+        "name": "陰翳礼讃",
+        "releaseDate": "2025-07-04",
+        "kind": "books",
+        "artistId": "316201032",
+        "artistUrl": "https://books.apple.com/jp/author/%E8%B0%B7%E5%B4%8E%E6%BD%A4%E4%B8%80%E9%83%8E/id316201032",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/0a/fc/05/0afc05fd-4dea-4499-6862-9be372d31046/mza_630315064636066432.png/100x156bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/%E9%99%B0%E7%BF%B3%E7%A4%BC%E8%AE%83/id6748213527"
+      },
+      {
+        "artistName": "Antoine de Saint-Exupéry",
+        "id": "6445534612",
+        "name": "The Little Prince",
+        "releaseDate": "2023-01-27",
+        "kind": "books",
+        "artistId": "469689766",
+        "artistUrl": "https://books.apple.com/jp/author/antoine-de-saint-exup%C3%A9ry/id469689766",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/dc/7c/e3/dc7ce379-3d71-fb9e-d426-aee93d670ff6/The_Little_Prince_-_Book_Cover.jpg/100x150bb.png",
+        "genres": [
+          {
+            "genreId": "10042",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id10042"
+          },
+          {
+            "genreId": "38",
+            "name": "ブック",
+            "url": "https://itunes.apple.com/jp/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "小説／文学",
+            "url": "https://itunes.apple.com/jp/genre/id9031"
+          },
+          {
+            "genreId": "9002",
+            "name": "ノンフィクション",
+            "url": "https://itunes.apple.com/jp/genre/id9002"
+          },
+          {
+            "genreId": "10091",
+            "name": "哲学",
+            "url": "https://itunes.apple.com/jp/genre/id10091"
+          },
+          {
+            "genreId": "11078",
+            "name": "認識論",
+            "url": "https://itunes.apple.com/jp/genre/id11078"
+          },
+          {
+            "genreId": "11086",
+            "name": "子ども向け",
+            "url": "https://itunes.apple.com/jp/genre/id11086"
+          },
+          {
+            "genreId": "11112",
+            "name": "小説（子ども向け）",
+            "url": "https://itunes.apple.com/jp/genre/id11112"
+          },
+          {
+            "genreId": "11121",
+            "name": "人気キャラクター（子ども向け）",
+            "url": "https://itunes.apple.com/jp/genre/id11121"
+          },
+          {
+            "genreId": "11165",
+            "name": "ヤングアダルト",
+            "url": "https://itunes.apple.com/jp/genre/id11165"
+          },
+          {
+            "genreId": "11177",
+            "name": "小説（ヤングアダルト向け）",
+            "url": "https://itunes.apple.com/jp/genre/id11177"
+          },
+          {
+            "genreId": "11185",
+            "name": "ファンタジー（ヤングアダルト向け）",
+            "url": "https://itunes.apple.com/jp/genre/id11185"
+          },
+          {
+            "genreId": "11049",
+            "name": "童話／神話／寓話",
+            "url": "https://itunes.apple.com/jp/genre/id11049"
+          },
+          {
+            "genreId": "11119",
+            "name": "ファンタジー（子ども向け）",
+            "url": "https://itunes.apple.com/jp/genre/id11119"
+          },
+          {
+            "genreId": "9020",
+            "name": "SF／ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id9020"
+          },
+          {
+            "genreId": "10044",
+            "name": "ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id10044"
+          },
+          {
+            "genreId": "11002",
+            "name": "大河ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id11002"
+          },
+          {
+            "genreId": "11180",
+            "name": "名作（ヤングアダルト向け）",
+            "url": "https://itunes.apple.com/jp/genre/id11180"
+          }
+        ],
+        "url": "https://books.apple.com/jp/book/the-little-prince/id6445534612"
       }
     ]
   }
