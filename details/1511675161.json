@@ -5,17 +5,17 @@
       "artistIds": [
         1511675163
       ],
-      "artistId": 1511675163,
-      "artistName": "Miriam Georg",
       "genres": [
         "Belletristik und Literatur",
         "Bücher",
         "Familienbelletristik und Literatur"
       ],
+      "artistId": 1511675163,
+      "artistName": "Miriam Georg",
       "price": 4.99,
-      "releaseDate": "2020-12-26T08:00:00Z",
       "trackId": 1511675161,
       "trackName": "Elbleuchten",
+      "releaseDate": "2020-12-26T08:00:00Z",
       "genreIds": [
         "9031",
         "38",
@@ -31,7 +31,7 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1b/16/5e/1b165e7e-3b1d-b362-66e9-a65dc947dc3a/1032743021.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1b/16/5e/1b165e7e-3b1d-b362-66e9-a65dc947dc3a/1032743021.jpg/100x100bb.jpg",
       "averageUserRating": 4,
-      "userRatingCount": 223,
+      "userRatingCount": 226,
       "country": "DEU"
     }
   ]

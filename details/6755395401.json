@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Nos liens brisés",
+      "artistViewUrl": "https://books.apple.com/fr/artist/andr%C3%A9e-martin/411075818?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/nos-liens-bris%C3%A9s/id6755395401?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6c/01/4a/6c014af5-6ce5-2790-3045-b8e432b404be/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6c/01/4a/6c014af5-6ce5-2790-3045-b8e432b404be/cover.jpg/100x100bb.jpg",
+      "artistIds": [
+        411075818
+      ],
+      "formattedPrice": "2,99 €",
+      "artistId": 411075818,
+      "artistName": "Andrée Martin",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance"
+      ],
+      "price": 2.99,
+      "trackId": 6755395401,
+      "trackName": "Nos liens brisés",
+      "releaseDate": "2026-01-22T08:00:00Z",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<i>Ils n’auraient jamais dû se retrouver.</i> <br /><br />Jade et Aiden n’auraient jamais dû se côtoyer. Pourtant, contre toute attente, une amitié profonde les unit au manoir Davis où la mère de Jade travaille. Entre éclats de rire et confidences volées sous les étoiles, ils bâtissent un univers à part. Mais tout bascule : Aiden part pour une prestigieuse école, emportant avec lui les promesses de leur amitié. Lorsqu’il revient, ce n’est plus le garçon chaleureux et insouciant que Jade connaissait. À sa place se tient un homme froid, implacable.<br /><br />Des années plus tard, au bord du gouffre depuis le licenciement de sa mère, Jade n’a d’autre choix que de frapper à la dernière porte possible. Celle d’Aiden Davis. Il pourrait les sauver. Il en a les moyens. Mais il pose une condition : <b>\"Tu veux que je vous aide ? Alors épouse-moi.\"</b><br /><br />Entre vengeance, secrets enfouis et passion dévorante, Jade devra fuir ou affronter Aiden.",
+      "averageUserRating": 4,
+      "userRatingCount": 8,
+      "country": "FRA"
+    }
+  ]
+}

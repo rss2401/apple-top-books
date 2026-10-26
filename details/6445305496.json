@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "L'Île de Yule",
+      "artistViewUrl": "https://books.apple.com/fr/artist/johana-gustawsson/1023768973?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/l%C3%AEle-de-yule/id6445305496?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/77/c0/8d/77c08d76-8f11-a557-e464-46ff5e7f59a7/9782702182024-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/77/c0/8d/77c08d76-8f11-a557-e464-46ff5e7f59a7/9782702182024-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        1023768973
+      ],
+      "formattedPrice": "4,49 €",
+      "artistId": 1023768973,
+      "artistName": "Johana Gustawsson",
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "price": 4.49,
+      "trackId": 6445305496,
+      "trackName": "L'Île de Yule",
+      "releaseDate": "2023-01-18T08:00:00Z",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Le coeur battant, Emma Lindahl cogne à la porte du manoir dressé sur une petite île au large de Stockholm. Experte en art, elle doit procéder à l’inventaire des biens de la famille Gussman, quatrième plus grande fortune de Suède. L’île et son manoir ont une réputation sulfureuse depuis que, neuf ans plus tôt, une adolescente a été découverte pendue à un arbre du domaine, tuée dans des conditions affreuses.<br />Son assassin n’a jamais été retrouvé.<br />Emma se rend vite compte que son travail va lui prendre des mois, seule dans ces immenses pièces où elle ne croise jamais personne, car les Gussman ont expressément refusé de la voir et lui imposent des horaires stricts. Bien qu’elle ne soit pas impressionnable, l’ambiance ici lui glace le sang.<br />C’est alors qu’une nouvelle jeune fille est découverte, morte, dans la mer gelée, et tout laisse penser qu’elle a été victime du même tueur…<br />&#xa0; Un thriller aussi effrayant que captivant,<br />enraciné dans les rites vikings<br />et les sombres amours",
+      "averageUserRating": 4,
+      "userRatingCount": 49,
+      "country": "FRA"
+    }
+  ]
+}

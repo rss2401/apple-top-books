@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        2024234
+      ],
+      "trackCensoredName": "Wer Zwietracht sät",
+      "artistViewUrl": "https://books.apple.com/de/artist/elizabeth-george/2024234?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/wer-zwietracht-s%C3%A4t/id6743947318?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6a/8c/55/6a8c5561-a60c-af73-43cb-659291aefe2f/9783641329617.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6a/8c/55/6a8c5561-a60c-af73-43cb-659291aefe2f/9783641329617.jpg/100x100bb.jpg",
+      "price": 11.99,
+      "artistId": 2024234,
+      "artistName": "Elizabeth George",
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher"
+      ],
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "trackId": 6743947318,
+      "trackName": "Wer Zwietracht sät",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Die neue Elizabeth George! Der 22. Fall für Thomas Lynley und Barbara Havers</b><br /><br /><b>Ein Mord erschüttert das idyllische Cornwall - und eine erste Spur führt direkt zu Thomas Lynley ...</b><br />Als der angesehene Unternehmer Michael Lobb brutal ermordet aufgefunden wird, gerät die Gemeinde des malerischen Städtchens Trevellas in Aufruhr. Hat die grausame Tat etwas mit dem Bauvorhaben zu tun, das seit Monaten für Unruhe sorgt? Oder steckt Lobbs Familie dahinter? Lobbs wesentlich jüngere Frau Kayla, die ein beträchtliches Vermögen erbt, gerät schnell unter Verdacht. Doch dann führt eine unerwartete Spur zu Detective Thomas Lynley, der sich gemeinsam mit DS Barbara Havers sofort in die Ermittlungen einschaltet. Unversehens geraten sie in ein gefährliches Labyrinth aus Habgier, Betrug und Neid, in dem die Suche nach der Wahrheit schon bald ein nächstes Opfer fordert.<br /><br /><b>\"Elizabeth George übertrifft alle!\" </b><i><b>The Wall Street Journal</b></i>",
+      "formattedPrice": "11,99 €",
+      "releaseDate": "2025-09-24T07:00:00Z",
+      "averageUserRating": 4,
+      "userRatingCount": 37,
+      "country": "DEU"
+    }
+  ]
+}

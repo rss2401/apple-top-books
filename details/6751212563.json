@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        492020550
+      ],
+      "formattedPrice": "Free",
+      "artistId": 492020550,
+      "artistName": "Rose Knight",
+      "genres": [
+        "Romantic Suspense",
+        "Books",
+        "Romance"
+      ],
+      "price": 0,
+      "genreIds": [
+        "10061",
+        "38",
+        "9003"
+      ],
+      "releaseDate": "2025-08-18T07:00:00Z",
+      "trackId": 6751212563,
+      "trackName": "King of Chaos: Dark Mafia Romance",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "Alessio Romano doesn't like strangers.<br /><br />When his underboss, Leandro, brings his sister Caroline to stay at their home—since her parents can no longer protect her—Alessio is far from pleased. The last thing he needs is another complication. He's focused solely on building his empire and doesn't want any distractions.<br /><br />Caroline Dolce knows what she wants in life. After being brought up by vigilantes, Caroline wants to make a different path from the one that is set out for her. But when she moves into the mafia boss's house, nothing is simple when there are mutual feelings between them.<br /><br />Hate and an uncontrollable lust.<br /><br />And neither of them want to admit that they love the taste of it.",
+      "trackCensoredName": "King of Chaos: Dark Mafia Romance",
+      "artistViewUrl": "https://books.apple.com/gb/artist/rose-knight/492020550?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/king-of-chaos-dark-mafia-romance/id6751212563?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3a/82/00/3a820009-9f19-c80c-d3d0-72678765c02b/6610001020996.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3a/82/00/3a820009-9f19-c80c-d3d0-72678765c02b/6610001020996.jpg/100x100bb.jpg",
+      "country": "GBR"
+    }
+  ]
+}

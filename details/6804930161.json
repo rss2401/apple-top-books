@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        1480183962
+      ],
+      "trackCensoredName": "The Biker’s Revenge",
+      "artistViewUrl": "https://books.apple.com/us/artist/sadie-king/1480183962?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-bikers-revenge/id6804930161?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9d/a2/8d/9da28d5b-fce7-e895-f2e0-c05e2f47b2e2/ca98e0cb-a6a5-428b-a5ad-c14d695c20bb_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9d/a2/8d/9da28d5b-fce7-e895-f2e0-c05e2f47b2e2/ca98e0cb-a6a5-428b-a5ad-c14d695c20bb_cover_image.jpg/100x100bb.jpg",
+      "artistId": 1480183962,
+      "artistName": "Sadie King",
+      "genres": [
+        "Contemporary Romance",
+        "Books",
+        "Romance"
+      ],
+      "price": 0,
+      "releaseDate": "2023-01-05T08:00:00Z",
+      "trackName": "The Biker’s Revenge",
+      "trackId": 6804930161,
+      "genreIds": [
+        "10057",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "She’s my enemy’s daughter and my new obsession.\n\nAfter three years inside, there’s only one thing I want: revenge.\nBut when a retaliation goes wrong, I find myself with a fire-cat captive—Scarlett, my enemy’s daughter.\nShe’s half my age and dripping with innocence. Scarlett becomes my revenge, and it’s never been sweeter. But when her father comes for her, there’s no way I’m giving her up.\n\nThe Biker’s Revenge is a forbidden love, age-gap romance that starts with a kidnapping and ends with a happily ever after. Featuring an OTT obsessed hero and the curvy girl he claims as his own.",
+      "averageUserRating": 4.5,
+      "userRatingCount": 8,
+      "country": "USA"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Twisted Pawn",
+      "artistViewUrl": "https://books.apple.com/fr/artist/l-j-shen/1126158048?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/twisted-pawn/id6825256575?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f2/b9/c8/f2b9c87f-b472-6540-6f43-827b60de0cb1/9791042911294-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f2/b9/c8/f2b9c87f-b472-6540-6f43-827b60de0cb1/9791042911294-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        1126158048
+      ],
+      "artistId": 1126158048,
+      "artistName": "L.J. Shen",
+      "genres": [
+        "Thriller romantique",
+        "Livres",
+        "Romance",
+        "Romance contemporaine",
+        "Romans et littérature"
+      ],
+      "trackId": 6825256575,
+      "trackName": "Twisted Pawn",
+      "releaseDate": "2027-01-13T08:00:00Z",
+      "genreIds": [
+        "10061",
+        "38",
+        "9003",
+        "10057",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b><i>Par l’autrice best-seller L.J. Shen, une dark romance haletante entre un assassin héritier de la mafia et une anti-héroïne bien décidée à ne jamais devenir sa prochaine victime</i>.</b><br /><br /><b>Tierney</b><br /><br />Il y a une balle à mon nom.<br /><br />Et Achilles Ferrante est celui qui appuiera sur la détente.<br /><br />J’ai toujours su que l’un de nous finirait par tuer l’autre. J’espérais simplement avoir cet honneur.<br /><br />Je l’ai trahi deux fois.<br /><br />D’abord, je lui ai brisé le cœur. Puis, je l’ai livré aux fédéraux.<br /><br />Même si je ne l’avais pas fait, je doute qu’il sache seulement épeler le mot <i>pitié</i>, encore moins m’en accorder.<br /><br />Le prince de la Camorra a promis de faire de ma mort un spectacle lorsqu’il me retrouverait.<br /><br />Qu’il essaie.<br /><br />Il peut me poursuivre jusqu’au bout du monde.<br /><br />Je courrai toujours plus vite.<br /><br /><b>Achilles</b><br /><br />Aimer, c’est détruire.<br /><br />Et j’ai aimé Tierney Callaghan depuis bien trop longtemps… et bien trop intensément.<br /><br />Elle est une faiblesse mortelle. Mais contrairement au héros de la mythologie grecque, je resterai invaincu.<br /><br />Ma petite flamme peut courir vite.<br /><br />Mais ma balle est plus rapide.<br /><br />Autrefois, elle était la seule personne à voir mon humanité.<br /><br />Elle s’apprête désormais à rencontrer le monstre que tous les autres redoutent.",
+      "country": "FRA"
+    }
+  ]
+}

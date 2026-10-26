@@ -1,0 +1,46 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        2722791
+      ],
+      "genres": [
+        "Spiritualität",
+        "Bücher",
+        "Gesundheit, Körper und Geist",
+        "Politik und Zeitgeschehen",
+        "Selbstverwirklichung",
+        "Sachbücher",
+        "Sozialwissenschaft"
+      ],
+      "artistId": 2722791,
+      "artistName": "Robert Greene",
+      "price": 11.99,
+      "trackId": 448934995,
+      "trackName": "The 48 Laws Of Power",
+      "releaseDate": "2010-09-03T07:00:00Z",
+      "genreIds": [
+        "10004",
+        "38",
+        "9025",
+        "9034",
+        "10119",
+        "9002",
+        "10120"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>THE MILLION COPY INTERNATIONAL BESTSELLER</b><br /><b>'Sun Tzu better watch his back' <i>New York Magazine </i></b><br /><b>'If power is your ultimate goal, this is the book you need' <i>The Times</i></b><br /><b><i>'</i>At last, the book to help you scheme your way into the upper echelons of power' <i>Daily Express</i><br /></b><br />Amoral, cunning, ruthless, and instructive, this piercing work distils three thousand years of the history of power into forty-eight well-explicated laws. As attention-grabbing in its design as it is in its content, this bold volume outlines the laws of power in their unvarnished essence, synthesizing the philosophies of Machiavelli, Sun-tzu, Carl von Clausewitz, and other great thinkers. <br /><br />Some laws require prudence (\"Law 1: Never Outshine the Master\"), some stealth (\"Law 3: Conceal Your Intentions\"), and some the total absence of mercy (\"Law 15: Crush Your Enemy Totally\"), but like it or not, all have applications in real-life situations. <br /><br />Illustrated through the tactics of Queen Elizabeth I, Henry Kissenger, P T Barnum, and other famous figures who have wielded - or been victimised by - power, these laws will fascinate any reader interested in gaining, observing or defending against ultimate control.",
+      "formattedPrice": "11,99 €",
+      "trackCensoredName": "The 48 Laws Of Power",
+      "artistViewUrl": "https://books.apple.com/de/artist/robert-greene/2722791?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/the-48-laws-of-power/id448934995?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/4e/2d/36/4e2d3644-fd8d-bddd-da7b-15d097a51678/9781847651341.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/4e/2d/36/4e2d3644-fd8d-bddd-da7b-15d097a51678/9781847651341.jpg/100x100bb.jpg",
+      "averageUserRating": 4,
+      "userRatingCount": 54,
+      "country": "DEU"
+    }
+  ]
+}

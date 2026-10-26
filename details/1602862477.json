@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "La Mémoire du fleuve",
+      "artistViewUrl": "https://books.apple.com/fr/artist/christian-dedet/929047419?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/la-m%C3%A9moire-du-fleuve/id1602862477?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/f1/e0/0d/f1e00dbc-5a71-db94-2022-92d6f3f2bf50/9782369141457.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/f1/e0/0d/f1e00dbc-5a71-db94-2022-92d6f3f2bf50/9782369141457.png/100x100bb.jpg",
+      "artistIds": [
+        929047419
+      ],
+      "artistId": 929047419,
+      "artistName": "Christian Dedet",
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "releaseDate": "2014-10-16T07:00:00Z",
+      "trackId": 1602862477,
+      "trackName": "La Mémoire du fleuve",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Prix des libraires 1985\n\nTout a commencé par une vapeur d’eau sur la lagune, de ces petits détails insolites qui accrochent le regard et annoncent l’extraordinaire. En l’occurrence, le combat d’un éléphant happé par un anaconda alors qu’il se baignait dans le fleuve. Vers la dixième heure de cette lutte de titans, l’éléphant qui avait laissé à chaque immersion sa trompe dressée hors de l’eau, traîna enfin le serpent de 15 mètres sur la berge pour le piétiner de fureur...\nTelle est l’Afrique que raconte Jean Michonet, fils d’un normand et d’une métisse née du peuple Myéné ; une Afrique fabuleuse des forêts et des rivières, des clairs-obscurs et des lianes déchirées par des galops d’apocalypse...\nNé en 1936, passionné d’Afrique et de tauromachie, Christian Dedet publia Le plus grand des taureaux, son premier livre, en 1961 alors qu’il était encore étudiant à la faculté de médecine de Montpellier. Devenu médecin, il poursuivra parallèlement sa carrière d’écrivain. Le Secret du Dr Bougrat, récit déroutant d’un médecin marseillais injustement condamné au bagne dans les années vingt, ainsi que La Mémoire du fleuve, prix des Libraires 1985, sont les deux titres de ce grand voyageur présents au catalogue des Éditions Phébus.",
+      "formattedPrice": "10,99 €",
+      "price": 10.99,
+      "country": "FRA"
+    }
+  ]
+}

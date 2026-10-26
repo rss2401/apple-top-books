@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1434216984
+      ],
+      "genres": [
+        "Gesundheit, Körper und Geist",
+        "Bücher",
+        "Gesundheit und Fitness"
+      ],
+      "artistId": 1434216984,
+      "artistName": "Dr. med. Sheila de Liz",
+      "price": 12.99,
+      "trackId": 1488698937,
+      "trackName": "Woman on Fire",
+      "releaseDate": "2020-09-15T07:00:00Z",
+      "genreIds": [
+        "9025",
+        "38",
+        "10069"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Deutschlands beliebteste Gynäkologin weiß: Die Wechseljahre sind cooler, als wir glauben!<br />Hitzewallungen, Gewichtszunahme, Stimmungsschwankungen – kaum eine Frau sieht den Wechseljahren gelassen entgegen. Dabei ist unser Bild von der Perimenopause hoffnungslos veraltet und benötigt dringend ein Makeover. Viele Frauen leiden heute unnötig, und keine \"muss da durch\". Sind die Beschwerden erst mal identifiziert, können wir viel für unsere Gesundheit und unser Wohlbefinden tun – und uns auch in der zweiten Lebenshälfte noch stark und sexy zu fühlen.",
+      "formattedPrice": "12,99 €",
+      "trackCensoredName": "Woman on Fire",
+      "artistViewUrl": "https://books.apple.com/de/artist/dr-med-sheila-de-liz/1434216984?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/woman-on-fire/id1488698937?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/75/1a/d3/751ad392-218d-2b3f-6f9c-df3880009019/1032090191.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/75/1a/d3/751ad392-218d-2b3f-6f9c-df3880009019/1032090191.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 137,
+      "country": "DEU"
+    }
+  ]
+}

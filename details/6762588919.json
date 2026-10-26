@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1456109955,
+        206330269,
+        1652264625,
+        373309339
+      ],
+      "genres": [
+        "Manga",
+        "Bücher",
+        "Comics und Graphic Novels"
+      ],
+      "artistId": 1456109955,
+      "artistName": "Mikoto Yamaguchi, D.P, Arbash Mughal & Giuseppe Di Martino",
+      "trackId": 6762588919,
+      "trackName": "Game of Familia, Vol. 9",
+      "releaseDate": "2026-10-27T07:00:00Z",
+      "genreIds": [
+        "10016",
+        "38",
+        "9026"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "The Dragons of Hilmzeld tear family and society asunder…Can the Hatsushimas weather their tyranny with their bonds intact?The so-called “Dragon” of Hilmzeld turned out to be a pair of twins— one who would lead the society that worships them to war, and another who would lead them to peace. With Sasae MIA after a duel against a Dragon, it is up to the Hatsushima women to muddle through without him. But when Kanae takes pity on an injured Dragon twin, she lays the groundwork for a war within the family…And all the while, Hilmzeld is gripped ever tighter by chaos and terror!",
+      "trackCensoredName": "Game of Familia, Vol. 9",
+      "artistViewUrl": "https://books.apple.com/de/artist/mikoto-yamaguchi-d-p-arbash-mughal-giuseppe-di-martino/1456109955?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/game-of-familia-vol-9/id6762588919?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/7c/5e/fe/7c5efeca-fb8f-606c-67de-d67ec64df14a/9798855403862.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/7c/5e/fe/7c5efeca-fb8f-606c-67de-d67ec64df14a/9798855403862.jpg/100x100bb.jpg",
+      "country": "DEU"
+    }
+  ]
+}

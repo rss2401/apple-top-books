@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Hold Fast",
+      "artistViewUrl": "https://books.apple.com/us/artist/j-h-gelernter/1535675529?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/hold-fast/id6745101450?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ce/11/1f/ce111fc4-adc9-31a5-9299-cd7cd4d733d1/1059185916.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ce/11/1f/ce111fc4-adc9-31a5-9299-cd7cd4d733d1/1059185916.jpg/100x100bb.jpg",
+      "artistIds": [
+        1535675529
+      ],
+      "price": 0,
+      "artistId": 1535675529,
+      "artistName": "J. H. Gelernter",
+      "genres": [
+        "Action & Adventure",
+        "Books",
+        "Fiction & Literature",
+        "Mysteries & Thrillers"
+      ],
+      "releaseDate": "2021-05-04T07:00:00Z",
+      "trackId": 6745101450,
+      "trackName": "Hold Fast",
+      "genreIds": [
+        "10039",
+        "38",
+        "9031",
+        "9032"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>A desperate sea battle; a fortune risked on the turn of a card; a duel at dawn with the loser…Patrick O'Brian meets James Bond.</b><br /><br />It's 1803. The Napoleonic Wars are raging, Britain is on her heels, and His Majesty's Secret Service has just lost its best agent, Thomas Grey. Deeply depressed by his wife's untimely death, Grey resigns from the service and accepts an offer to join a lumber firm in Boston. But when a sea battle with a privateer forces the ship carrying him west to make port in neutral Portugal, Grey is approached with a counteroffer: become a wealthy man by selling out Britain's spy network to France. The French take Grey for a disgruntled ex–naval officer, blithely unaware that Grey had lost his wife to an unlucky shot from a French cannon.<br /><br />Now, after many years serving King and Country, Grey seizes the opportunity to fight a covert war of his own. He travels to Paris, and—playing the part of the invaluable turncoat the French believe him to be—proceeds to infiltrate the highest levels of Napoleon's government. If he can outwit his handlers, outmatch his French counterparts, and outrun Napoleon's secret police, Grey may just avenge his wife's death and turn the tide of war in England's favor. Bursting with action and intrigue, <i>Hold Fast</i> sends readers headlong into an unrelenting spy thriller.",
+      "formattedPrice": "Free",
+      "country": "USA"
+    }
+  ]
+}

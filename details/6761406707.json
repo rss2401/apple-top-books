@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1889431822
+      ],
+      "genres": [
+        "Historische Romane",
+        "Bücher",
+        "Belletristik und Literatur"
+      ],
+      "artistId": 1889431822,
+      "artistName": "Alex Schönfelder",
+      "price": 4.99,
+      "trackId": 6761406707,
+      "trackName": "Die Töchter der Zirbelnuss - Geschichte einer Heimkehr nach Augsburg",
+      "releaseDate": "2026-10-14T07:00:00Z",
+      "genreIds": [
+        "10047",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Augsburg, 1939: Die junge Karla verliert beim Feldzug gegen Polen ihren Freund Franz, von dem sie ein Kind erwartet, obwohl sie nicht einmal verlobt waren - ein Skandal in einer Zeit, in der das Wort Mitmenschlichkeit bedeutungslos geworden ist. Zu allem Übel verliebt sie sich ausgerechnet in den Zwangsarbeiter Gaston … Jahrzehnte später stößt ihre Enkelin Charline in den französischen Ardennen auf ein Tagebuch, das ein verdrängtes Kapitel deutscher und französischer Geschichte offenbart.<br />Ein berührender Roman über stille Heldinnen des Zweiten Weltkriegs, Mut im Verborgenen und den bis in unsere Gegenwart reichenden Nachhall der Geschichte.",
+      "formattedPrice": "4,99 €",
+      "trackCensoredName": "Die Töchter der Zirbelnuss - Geschichte einer Heimkehr nach Augsburg",
+      "artistViewUrl": "https://books.apple.com/de/artist/alex-sch%C3%B6nfelder/1889431822?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/die-t%C3%B6chter-der-zirbelnuss-geschichte-einer-heimkehr/id6761406707?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5f/64/fb/5f64fb7e-2777-5f57-240a-8e96e16fb31f/9783734937989.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5f/64/fb/5f64fb7e-2777-5f57-240a-8e96e16fb31f/9783734937989.jpg/100x100bb.jpg",
+      "country": "DEU"
+    }
+  ]
+}

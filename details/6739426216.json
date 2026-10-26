@@ -1,0 +1,41 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Cyberpunk: Edgerunners MADNESS - Chapitre 01",
+      "artistViewUrl": "https://books.apple.com/fr/artist/bartosz-sztybor-asano/1108054729?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/cyberpunk-edgerunners-madness-chapitre-01/id6739426216?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/89/33/d0/8933d03c-0ed8-fd64-7a11-eeee0990d9d0/9791039137379-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/89/33/d0/8933d03c-0ed8-fd64-7a11-eeee0990d9d0/9791039137379-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        1108054729,
+        396502614
+      ],
+      "genres": [
+        "Manga : Action",
+        "Livres",
+        "BD et mangas",
+        "Manga"
+      ],
+      "artistId": 1108054729,
+      "artistName": "Bartosz Sztybor & Asano",
+      "price": 0,
+      "trackId": 6739426216,
+      "trackName": "Cyberpunk: Edgerunners MADNESS - Chapitre 01",
+      "releaseDate": "2024-12-13T08:00:00Z",
+      "genreIds": [
+        "50000071",
+        "38",
+        "9026",
+        "10016"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Le jeu vidéo Cyberpunk 2077 (développé par CD PROJEKT RED) s'est vendu à plus de 30 millions d'exemplaires. Diffusé sur Netflix, l'animé Cyberpunk: Edgerunner se déroule dans le même univers et a conquis le monde entier. À présent, en voici un nouveau chapitre, Cyberpunk: Edgerunners MADNESS, un manga incroyable et bourré d'adrénaline. Il est scénarisé par Batosz Sztybor, auteur de plusieurs bandes dessinées sur The Witcher et Cyberpunk 2077 et scénariste de l'animé. Et au dessin, on retrouve Asano, connu pour l'adaptation manga de BNA: Brand New Animal. Cette nouvelle série sert de préquelle à l'animé : on y redécouvre les frères et soeurs Pilar et Rebecca, à l'époque où ils étaient encore des petits poissons faisant leurs premières armes à Night City !",
+      "formattedPrice": "Gratuit",
+      "averageUserRating": 4.5,
+      "userRatingCount": 8,
+      "country": "FRA"
+    }
+  ]
+}

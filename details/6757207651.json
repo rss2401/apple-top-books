@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Hell's Lake - Crescendo",
+      "artistViewUrl": "https://books.apple.com/fr/artist/alyxia-fall/1803827906?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/hells-lake-crescendo/id6757207651?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/65/38/43/65384361-5fa8-9bba-5b0c-4006a1956a9f/9791025760741-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/65/38/43/65384361-5fa8-9bba-5b0c-4006a1956a9f/9791025760741-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        1803827906
+      ],
+      "formattedPrice": "7,99 €",
+      "artistId": 1803827906,
+      "artistName": "Alyxia Fall",
+      "genres": [
+        "Thriller romantique",
+        "Livres",
+        "Romance"
+      ],
+      "price": 7.99,
+      "trackId": 6757207651,
+      "trackName": "Hell's Lake - Crescendo",
+      "releaseDate": "2025-04-03T07:00:00Z",
+      "genreIds": [
+        "10061",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Des coeurs purs naît une haine ardente.<br /><br />Fille du médecin des Hell’s Lake, Isée a grandi au sein de ce gang redoutable sans pour autant y appartenir. Mais tout change quand son meilleur ami, l’héritier des Hell’s, manque de se faire assassiner. Isée n’a alors plus qu’un objectif : intégrer le gang, quoi qu’il en coûte, afin de pouvoir veiller sur Luca lors de ses missions. Seulement, pour cela, elle va devoir subir l’entraînement intensif réservé à chaque nouvelle recrue. Son instructeur n’est autre que Kieran, le plus sadique<br />des Hell’s Lake.<br />Si surmonter ces heures en tête-à-tête avec un homme qui semble vouloir la briser s’annonce compliqué, ce n’est rien à côté de ce qui l’attend sur le terrain. Isée pensait être prête à affronter les Reapers, un gang adverse qui fait trembler le pays. Mais la menace qui plane sur elle est bien plus insidieuse qu’elle ne l’aurait imaginé… Et Kieran, dans toute sa cruauté, pourrait être le seul à avoir les clés de sa salvation.<br /><br />Attention, ce roman contient des scènes difficiles pouvant heurter la sensibilité des lecteurs.",
+      "averageUserRating": 5,
+      "userRatingCount": 23,
+      "country": "FRA"
+    }
+  ]
+}

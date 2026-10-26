@@ -1,0 +1,61 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Harry Potter et la Chambre des Secrets (Enhanced Edition)",
+      "artistViewUrl": "https://books.apple.com/fr/artist/j-k-rowling-jean-fran%C3%A7ois-m%C3%A9nard/79595314?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/harry-potter-et-la-chambre-des-secrets-enhanced-edition/id1037198744?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a5/5f/ed/a55fed42-68c4-63ed-5b5b-5dbf0f1c0899/9781781105993.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a5/5f/ed/a55fed42-68c4-63ed-5b5b-5dbf0f1c0899/9781781105993.jpg/100x100bb.jpg",
+      "artistIds": [
+        79595314,
+        520416259
+      ],
+      "formattedPrice": "9,99 €",
+      "artistId": 79595314,
+      "artistName": "J.K. Rowling & Jean-François Ménard",
+      "genres": [
+        "Action et aventure pour enfants",
+        "Livres",
+        "Enfants",
+        "Fiction pour enfants",
+        "Jeunes adultes",
+        "Fiction pour jeunes adultes",
+        "Fantasy pour jeunes adultes",
+        "Romans et littérature",
+        "Action et aventure",
+        "SF et fantasy",
+        "Fantasy",
+        "Fantasy pour enfants",
+        "Action et aventure pour jeunes adultes",
+        "Contemporain"
+      ],
+      "price": 9.99,
+      "trackId": 1037198744,
+      "trackName": "Harry Potter et la Chambre des Secrets (Enhanced Edition)",
+      "releaseDate": "2015-11-20T08:00:00Z",
+      "genreIds": [
+        "11113",
+        "38",
+        "11086",
+        "11112",
+        "11165",
+        "11177",
+        "11185",
+        "9031",
+        "10039",
+        "9020",
+        "10044",
+        "11119",
+        "11178",
+        "11001"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Une rentrée fracassante en voiture volante, une étrange malédiction qui s’abat sur les élèves, cette deuxième année à l’école des sorciers ne s’annonce pas de tout repos! Entre les cours de potions magiques, les matches de Quidditch et les combats de mauvais sorts, Harry et ses amis Ron et Hermione trouveront-ils le temps de percer le mystère de la Chambre des Secrets? Le deuxiè me volume des aventures de Harry Potter : un livre magique pour sorciers confirmés.",
+      "averageUserRating": 4.5,
+      "userRatingCount": 398,
+      "country": "FRA"
+    }
+  ]
+}

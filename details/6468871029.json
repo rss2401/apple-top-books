@@ -49,14 +49,14 @@
       ],
       "artistId": 1391159027,
       "artistName": "Malik",
-      "releaseDate": "2023-10-06T07:00:00Z",
-      "trackId": 6468871029,
-      "trackName": "La mort en Islam",
       "genreIds": [
         "10109",
         "38",
         "9018"
       ],
+      "releaseDate": "2023-10-06T07:00:00Z",
+      "trackId": 6468871029,
+      "trackName": "La mort en Islam",
       "kind": "ebook",
       "currency": "EUR",
       "description": "La mort marque la fin de la vie éphémère ici-bas et le début de la vie éternelle dans l’au-delà, mais que savons-nous vraiment de la mort ?\n\nNous essayerons d'apporter le plus d'informations à travers 25 questions essentielles.",

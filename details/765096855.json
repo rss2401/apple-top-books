@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Legend of Sleepy Hollow",
+      "formattedPrice": "Free",
+      "trackViewUrl": "https://books.apple.com/us/book/the-legend-of-sleepy-hollow/id765096855?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/75/45/1a/75451a51-058c-56f8-a3fa-9842dd0cdf17/the_legend_of_sleepy_hollow.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/75/45/1a/75451a51-058c-56f8-a3fa-9842dd0cdf17/the_legend_of_sleepy_hollow.jpeg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/washington-irving/2683836?uo=4",
+      "artistIds": [
+        2683836
+      ],
+      "artistId": 2683836,
+      "artistName": "Washington Irving",
+      "genres": [
+        "Horror",
+        "Books",
+        "Fiction & Literature"
+      ],
+      "releaseDate": "2008-06-25T07:00:00Z",
+      "genreIds": [
+        "10048",
+        "38",
+        "9031"
+      ],
+      "trackId": 765096855,
+      "trackName": "The Legend of Sleepy Hollow",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "“The Legend of Sleepy Hollow\" is a short story by American author Washington Irving, contained in his collection of 34 essays and short stories entitled The Sketch Book of Geoffrey Crayon, Gent. Written while Irving was living abroad in Birmingham, England, \"The Legend of Sleepy Hollow\" was first published in 1820. Along with Irving's companion piece \"Rip Van Winkle\", \"The Legend of Sleepy Hollow\" is among the earliest examples of American fiction with enduring popularity.",
+      "price": 0,
+      "averageUserRating": 4,
+      "userRatingCount": 289,
+      "country": "USA"
+    }
+  ]
+}

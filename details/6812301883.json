@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Le siècle de notre métamorphose",
+      "artistViewUrl": "https://books.apple.com/fr/artist/amin-maalouf/324991800?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/le-si%C3%A8cle-de-notre-m%C3%A9tamorphose/id6812301883?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b4/38/e4/b438e41a-5fbc-5fe5-ec70-8a18450b87b4/9782246839071-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b4/38/e4/b438e41a-5fbc-5fe5-ec70-8a18450b87b4/9782246839071-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        324991800
+      ],
+      "artistId": 324991800,
+      "artistName": "Amin Maalouf",
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "releaseDate": "2026-10-14T07:00:00Z",
+      "trackId": 6812301883,
+      "trackName": "Le siècle de notre métamorphose",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Ce qui se produit sous nos yeux n’est pas une simple accélération du progrès des sciences et des techniques comme nous en avons connue dans le passé mais d’une tout autre nature. La métamorphose à l’œuvre, que nous ne pouvons ni empêcher ni ralentir mais que nous pourrions encore orienter si l’on parvient à en saisir vraiment la singularité, déterminera la place de l’homme dans l’univers et l’avenir de l’espèce humaine.<br />Le présent essai synthétise et analyse les principaux vecteurs de cette métamorphose&#xa0; : l’Intelligence artificielle générative&#xa0; ; les biotechnologies et le génie génétique&#xa0; ; les énergies renouvelables et le dérèglement climatique.<br />Il existe une inadéquation croissante entre l’accélération exponentielle des progrès de la science et la manière dont nos sociétés humaines sont gouvernées. Nous ne parvenons pas à nous détacher de la vision ancienne de nous-même et de l’Autre&#xa0; : nous nous percevons encore comme des «&#xa0; tribus&#xa0; » distinctes et rivales alors que cette vision est obsolète, inopérante et dangereuse.<br />Serons-nous capables d’élaborer un nouvel universalisme et un nouveau récit fondateur pour l’espèce humaine&#xa0; ? De piloter notre métamorphose pour la détourner à notre profit plutôt que de la laisser nous marginaliser, puis nous anéantir&#xa0; ?<br />Cette question, la plus cruciale de tout l’histoire humaine, sera tranchée avant le milieu de ce siècle…",
+      "formattedPrice": "14,99 €",
+      "price": 14.99,
+      "country": "FRA"
+    }
+  ]
+}

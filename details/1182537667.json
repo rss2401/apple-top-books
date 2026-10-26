@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Un fils parfait",
+      "artistViewUrl": "https://books.apple.com/fr/artist/mathieu-menegaux/462217767?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/un-fils-parfait/id1182537667?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5f/b4/39/5fb439c8-1ae1-742d-2606-c11e0b5b7d0c/9782246863106-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5f/b4/39/5fb439c8-1ae1-742d-2606-c11e0b5b7d0c/9782246863106-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        462217767
+      ],
+      "formattedPrice": "2,99 €",
+      "artistId": 462217767,
+      "artistName": "Mathieu Menegaux",
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "price": 2.99,
+      "trackId": 1182537667,
+      "trackName": "Un fils parfait",
+      "releaseDate": "2017-02-01T08:00:00Z",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Maxime, enfant unique d’Élise, a tout du fils parfait&#xa0;: brillantes études et carrière fulgurante&#xa0;; c’est un mari aimant comme un père attentionné. Un jour, sa femme Daphné va découvrir la faille dans ce tableau idyllique. Le conflit est inévitable&#xa0;: il sera sans merci.<br />Jusqu’où une mère doit-elle aller pour protéger ses filles et faire valoir ses droits, alors que personne n’accepte de la croire&#xa0;?<br />Inspiré d’une histoire vraie, Mathieu Menegaux nous livre ici le récit du combat d’une mère contre la machine judiciaire.",
+      "averageUserRating": 4,
+      "userRatingCount": 155,
+      "country": "FRA"
+    }
+  ]
+}

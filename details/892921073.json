@@ -1,0 +1,85 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "trackCensoredName": "The Lamp of Darkness (The Age of Prophecy series Book 1)",
+      "artistViewUrl": "https://books.apple.com/us/artist/dave-mason-mike-feuer/776259345?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-lamp-of-darkness-the-age-of-prophecy-series-book-1/id892921073?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/f9/24/e7/f924e7e0-a476-e2f7-bf01-14bcd82e4d34/9781623930073.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/f9/24/e7/f924e7e0-a476-e2f7-bf01-14bcd82e4d34/9781623930073.jpg/100x100bb.jpg",
+      "artistIds": [
+        776259345,
+        892921096
+      ],
+      "price": 0,
+      "artistId": 776259345,
+      "artistName": "Dave Mason & Mike Feuer",
+      "genres": [
+        "Historical Fiction",
+        "Books",
+        "Fiction & Literature",
+        "Sci-Fi & Fantasy",
+        "Fantasy",
+        "Historical Fantasy"
+      ],
+      "releaseDate": "2014-06-02T07:00:00Z",
+      "trackId": 892921073,
+      "trackName": "The Lamp of Darkness (The Age of Prophecy series Book 1)",
+      "genreIds": [
+        "10047",
+        "38",
+        "9031",
+        "9020",
+        "10044",
+        "11003"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "A story of Biblical Proportions<br />In the vein of The Alchemist, Harry Potter, and Lord of the Rings<br /><br />The Age of Prophecy series transports you back 3000 years, to the epic battle between the Israelite Kings and Prophets. Lev, an orphaned shepherd boy, begins a journey of discovery when he's hired to play as a musician before the prophets. He soon learns that his father's knife holds a deadly secret about his hidden past. As he is drawn deeper into the world of prophecy, Lev fights to unearth his true self while the clouds of war gather around him.<br /><br />Rooted in the Ancient Oral and Mystical Traditions<br />Authors Dave Mason and Mike Feuer spent years researching the Oral and Kabbalistic traditions detailing the inner workings of prophecy and the world of Ancient Israel.",
+      "formattedPrice": "Free",
+      "averageUserRating": 4.5,
+      "userRatingCount": 104,
+      "country": "USA"
+    },
+    {
+      "artistIds": [
+        776259345,
+        892921096
+      ],
+      "formattedPrice": "Free",
+      "artistId": 776259345,
+      "artistName": "Dave Mason & Mike Feuer",
+      "genres": [
+        "Historical Fiction",
+        "Books",
+        "Fiction & Literature",
+        "Sci-Fi & Fantasy",
+        "Fantasy",
+        "Historical Fantasy"
+      ],
+      "price": 0,
+      "genreIds": [
+        "10047",
+        "38",
+        "9031",
+        "9020",
+        "10044",
+        "11003"
+      ],
+      "releaseDate": "2014-06-02T07:00:00Z",
+      "trackId": 892921073,
+      "trackName": "The Lamp of Darkness (The Age of Prophecy series Book 1)",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "A story of Biblical Proportions<br />In the vein of The Alchemist, Harry Potter, and Lord of the Rings<br /><br />The Age of Prophecy series transports you back 3000 years, to the epic battle between the Israelite Kings and Prophets. Lev, an orphaned shepherd boy, begins a journey of discovery when he's hired to play as a musician before the prophets. He soon learns that his father's knife holds a deadly secret about his hidden past. As he is drawn deeper into the world of prophecy, Lev fights to unearth his true self while the clouds of war gather around him.<br /><br />Rooted in the Ancient Oral and Mystical Traditions<br />Authors Dave Mason and Mike Feuer spent years researching the Oral and Kabbalistic traditions detailing the inner workings of prophecy and the world of Ancient Israel.",
+      "trackCensoredName": "The Lamp of Darkness (The Age of Prophecy series Book 1)",
+      "artistViewUrl": "https://books.apple.com/gb/artist/dave-mason-mike-feuer/776259345?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-lamp-of-darkness-the-age-of-prophecy-series-book-1/id892921073?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/f9/24/e7/f924e7e0-a476-e2f7-bf01-14bcd82e4d34/9781623930073.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/f9/24/e7/f924e7e0-a476-e2f7-bf01-14bcd82e4d34/9781623930073.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 9,
+      "country": "GBR"
+    }
+  ]
+}

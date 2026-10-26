@@ -2,6 +2,12 @@
   "resultCount": 1,
   "results": [
     {
+      "trackCensoredName": "The Time Machine",
+      "formattedPrice": "Free",
+      "trackViewUrl": "https://books.apple.com/us/book/the-time-machine/id392600264?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b6/a6/c5/b6a6c5a7-27e8-f4d8-7501-970f36bf54ae/The_Time_Machine_Cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b6/a6/c5/b6a6c5a7-27e8-f4d8-7501-970f36bf54ae/The_Time_Machine_Cover.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/h-g-wells/2124237?uo=4",
       "artistIds": [
         2124237
       ],
@@ -13,27 +19,21 @@
         "Science Fiction",
         "Science Fiction"
       ],
-      "price": 0,
-      "trackName": "The Time Machine",
       "releaseDate": "1895-05-07T08:00:00Z",
-      "trackId": 392600264,
       "genreIds": [
         "9020",
         "38",
         "10064",
         "10063"
       ],
+      "trackId": 392600264,
+      "trackName": "The Time Machine",
       "kind": "ebook",
       "currency": "USD",
       "description": "An Apple Classic edition.<br /><br /><i>The Time Machine</i> is the uncontested granddaddy of all modern time travel stories. H.G. Wells’ 1895 adventure sweeps us up alongside a brilliant scientist who is determined to expand his experience beyond the confines of the present day. His journey through space and time brings him face-to-face with the darkest and most brilliant aspects of human existence.",
-      "artistViewUrl": "https://books.apple.com/us/artist/h-g-wells/2124237?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b6/a6/c5/b6a6c5a7-27e8-f4d8-7501-970f36bf54ae/The_Time_Machine_Cover.jpg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b6/a6/c5/b6a6c5a7-27e8-f4d8-7501-970f36bf54ae/The_Time_Machine_Cover.jpg/100x100bb.jpg",
-      "trackCensoredName": "The Time Machine",
-      "formattedPrice": "Free",
-      "trackViewUrl": "https://books.apple.com/us/book/the-time-machine/id392600264?uo=4",
+      "price": 0,
       "averageUserRating": 4.5,
-      "userRatingCount": 1865,
+      "userRatingCount": 1867,
       "country": "USA"
     }
   ]

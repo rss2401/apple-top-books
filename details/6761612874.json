@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1844864502
+      ],
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher",
+        "Liebesromane",
+        "Zeitgenössische Liebesromane"
+      ],
+      "artistId": 1844864502,
+      "artistName": "Stephanie Parente",
+      "price": 5.99,
+      "trackId": 6761612874,
+      "trackName": "Letter for you. Sich zu verlieben war nie geplant",
+      "releaseDate": "2026-10-01T07:00:00Z",
+      "genreIds": [
+        "9031",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Was, wenn ein Brief, der nicht für dich bestimmt ist, mitten in dein Herz trifft?</b><br /><br />Nach dem Tod ihres Vaters übernimmt die 26-jährige Violet die Vormundschaft für ihre jüngere Schwester Phoebe. Zwischen Trauer und der Verantwortung für einen Teenager, der sich immer mehr zurückzieht, trifft ein Brief ein. Ein Liebesbrief, in dem ein gewisser Dex seine Ex bittet, ihm eine zweite Chance zu geben. Ein Brief, der ausgerechnet die launische Phoebe aus ihrer Lethargie reißt. Ein Brief, der das Leben von drei Menschen für immer verändern wird …<br />Phoebe will den Verfasser der herzzerreißenden Zeilen unbedingt ausfindig machen, und da Violet das erste Mal seit Monaten wieder ein Lächeln in ihrem Gesicht sieht, stimmt sie zu. Dex allerdings will weder etwas mit seinem Brief noch mit Violet und ihrer kleinen Schwester zu tun haben. Und doch finden sich alle drei wenig später in seinem Auto wieder auf einer Reise quer durch das Land, um den Brief persönlich zu überbringen – und um Dex‘ große Liebe zurückzugewinnen.<br /><br />Mit jedem Kilometer, den das ungleiche Trio hinter sich lässt, wächst die Chemie zwischen Violet und Dex. Hinter seiner schroffen Fassade steckt ein charmanter, witziger und einfühlsamer Mann. Ein Mann, in den sie sich verlieben könnte … wenn sein Herz nicht immer noch einer anderen gehören würde …",
+      "formattedPrice": "5,99 €",
+      "trackCensoredName": "Letter for you. Sich zu verlieben war nie geplant",
+      "artistViewUrl": "https://books.apple.com/de/artist/stephanie-parente/1844864502?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/letter-for-you-sich-zu-verlieben-war-nie-geplant/id6761612874?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ba/25/94/ba25940a-8494-f9cb-68e9-b3a052a2da86/9783641345402.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ba/25/94/ba25940a-8494-f9cb-68e9-b3a052a2da86/9783641345402.jpg/100x100bb.jpg",
+      "country": "DEU"
+    }
+  ]
+}

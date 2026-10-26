@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        290200586
+      ],
+      "artistId": 290200586,
+      "artistName": "Gotthold Ephraim Lessing",
+      "genres": [
+        "Theater",
+        "Bücher",
+        "Kultur und Unterhaltung"
+      ],
+      "price": 0,
+      "genreIds": [
+        "10036",
+        "38",
+        "9007"
+      ],
+      "releaseDate": "2013-06-29T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Emilia Galotti ist ein Theaterstück in fünf Akten von Gotthold Ephraim Lessing (1729-1781), das am 8. März 1772 in Braunschweig (\"Braunschweig\" auf Deutsch) uraufgeführt. Die Arbeit ist ein klassisches Beispiel für deutsche bürgerliches Trauerspiel (bürgerliche Trauerspiel). Emilia Galotti ist ein Drama der Aufklärung, wenn sie nicht genau den Standard Französisch-Modell der damaligen Zeit zu folgen. Obwohl die Liebe ist ein zentrales Thema in der Realität Emilia Galotti ist vor allem ein politischer Kommentar. Die willkürliche Art der Regel von der Aristokratie in krassem Gegensatz zu der neuen, aufgeklärten Moral der Bourgeoisie gestellt. Je mehr feudalen Vorstellungen von Liebe und Ehe damit in Konflikt mit der wachsenden Tendenz, aus Liebe heiraten, anstatt Familientradition und die Macht kommen. Diese Kombination führt zu einer ziemlich explosive Situation.",
+      "formattedPrice": "Gratis",
+      "trackCensoredName": "Emilia Galotti",
+      "artistViewUrl": "https://books.apple.com/de/artist/gotthold-ephraim-lessing/290200586?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/emilia-galotti/id668359274?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/fb/1e/86/fb1e8613-c7fd-d0cd-8c98-94aad9c73206/PDDE004688.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/fb/1e/86/fb1e8613-c7fd-d0cd-8c98-94aad9c73206/PDDE004688.jpg/100x100bb.jpg",
+      "trackId": 668359274,
+      "trackName": "Emilia Galotti",
+      "averageUserRating": 3,
+      "userRatingCount": 137,
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "¥950",
+      "artistIds": [
+        1317744057
+      ],
+      "artistId": 1317744057,
+      "artistName": "クドゥー",
+      "genres": [
+        "ラブコメディ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "グラフィックノベル"
+      ],
+      "price": 950,
+      "releaseDate": "2026-10-20T07:00:00Z",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "職場ではクールな&#34;ギャル嫁&#34;の冬雪だが、同僚でもある夫・太陽にだけは甘々全開。<br/>\n今巻もイチャイチャたっぷり! 太陽を翻弄するつもりの冬雪は、逆に仕返しされちゃって……!? <br/>\nさらに、さまざまなコスプレで魅力弾けるサービスショットも満載!累計部数25万部突破の話題作! 旦那の前ではピュアな&#34;ギャル嫁&#34;のラブコメディ!!※単行本描き下ろし収録",
+      "trackCensoredName": "ギャル嫁の秘密(6)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E3%82%AF%E3%83%89%E3%82%A5%E3%83%BC/1317744057?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%82%AE%E3%83%A3%E3%83%AB%E5%AB%81%E3%81%AE%E7%A7%98%E5%AF%86-6/id6824451862?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/18/0c/42/180c4294-dcc0-63c6-4919-beca0f614138/28966_131861626_001_001_artwork_20261019181112.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/18/0c/42/180c4294-dcc0-63c6-4919-beca0f614138/28966_131861626_001_001_artwork_20261019181112.jpg/100x100bb.jpg",
+      "trackId": 6824451862,
+      "trackName": "ギャル嫁の秘密(6)",
+      "genreIds": [
+        "50000085",
+        "38",
+        "9026",
+        "10016",
+        "10015"
+      ],
+      "averageUserRating": 4,
+      "userRatingCount": 6,
+      "country": "JPN"
+    }
+  ]
+}

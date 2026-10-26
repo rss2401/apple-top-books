@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "SEAL of Refuge",
+      "artistViewUrl": "https://books.apple.com/us/artist/jessica-ashley/1118084153?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/seal-of-refuge/id6780303671?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ea/8d/7f/ea8d7fa3-c006-1962-9945-56a026ad86d8/0004305795.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ea/8d/7f/ea8d7fa3-c006-1962-9945-56a026ad86d8/0004305795.jpg/100x100bb.jpg",
+      "artistIds": [
+        1118084153
+      ],
+      "formattedPrice": "$7.99",
+      "genres": [
+        "Religious Fiction",
+        "Books",
+        "Fiction & Literature",
+        "Romance",
+        "Romantic Suspense"
+      ],
+      "artistId": 1118084153,
+      "artistName": "Jessica Ashley",
+      "price": 7.99,
+      "releaseDate": "2026-10-26T07:00:00Z",
+      "trackId": 6780303671,
+      "trackName": "SEAL of Refuge",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>He pulled her from the water. Now he'll do anything to keep her alive.</b><br /><br />A Navy SEAL with nothing left to fight for.<br /><br />A woman with no memory of what happened and a bounty on her head.<br /><br />When Ryker \"Tank\" Granger pulls Dahlia Swanson from a sinking car, he thinks it's a one-time rescue. But when it becomes clear that someone put her in that water, he realizes he couldn't have been more wrong.<br /><br />Dahlia has dedicated her life to helping others. Now she's being hunted, with no answers and nowhere safe to turn.<br /><br />Except him.<br /><br />Now under Ryker's protection, Dahlia quickly learns he isn't a man who walks away.<br /><br />And the closer they get, the more this stops being a mission.<br /><br />It becomes personal.<br /><br />Because Dahlia isn't just another life to save anymore—she's <i>his</i>.<br /><br />And anyone who comes for her will have to go through him first.<br /><br /><b>A gripping Christian romantic suspense featuring a protective hero and the woman who gave him something to fight for.</b>",
+      "genreIds": [
+        "10041",
+        "38",
+        "9031",
+        "9003",
+        "10061"
+      ],
+      "country": "USA"
+    }
+  ]
+}

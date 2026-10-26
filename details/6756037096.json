@@ -1,0 +1,52 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Night Prince",
+      "artistViewUrl": "https://books.apple.com/gb/artist/lauren-palphreyman/1253119427?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-night-prince/id6756037096?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3e/19/4b/3e194bec-5718-0b45-1d89-6a1015b28b8e/9781911751120.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3e/19/4b/3e194bec-5718-0b45-1d89-6a1015b28b8e/9781911751120.jpg/100x100bb.jpg",
+      "artistIds": [
+        1253119427
+      ],
+      "artistId": 1253119427,
+      "artistName": "Lauren Palphreyman",
+      "genres": [
+        "Fantasy",
+        "Books",
+        "Sci-Fi & Fantasy",
+        "Romance",
+        "Paranormal Fantasy",
+        "Paranormal Romance",
+        "Health & Well-Being",
+        "Spirituality",
+        "Fiction & Literature",
+        "Action & Adventure"
+      ],
+      "price": 0.99,
+      "releaseDate": "2025-12-18T08:00:00Z",
+      "trackName": "The Night Prince",
+      "trackId": 6756037096,
+      "genreIds": [
+        "10044",
+        "38",
+        "9020",
+        "9003",
+        "11004",
+        "10058",
+        "9025",
+        "10004",
+        "9031",
+        "10039"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>🐺 Forbidden romance. Werewolves. Kilts. This sizzling bestselling sensation has the internet OBSESSED. 🐺</b><br /><br /><i>'Let me have you. Just once. Please.'</i><br /><br /><b>As dark forces rise, Princess Aurora is caught between two powerful alphas.  </b><br /><br />Princess Aurora may have survived the Wolf King, but now he wants her back.<br /><br />To take his throne, Aurora and Callum form a dangerous alliance with one of the most feared Wolves in the Kingdom, Blake. He’s the enemy, but Aurora’s life is bound to his. If he dies, so does she.<br /><br />As she fights their connection, she suspects Blake is keeping secrets. There is a bigger game at play than who sits on the Wolf Throne – one that threatens both kingdoms.<br /><br />With enemies closing in, Aurora may be the only one who can stop an ancient evil from rising.<br />To survive, she must decide where she – and her heart – belong.<br /><br /><b>THE ROMANTASY SENSATION DRIVING READERS WILD! </b>⭐ ⭐ ⭐ ⭐ ⭐<br /><br />‘It’s a little bit <b><i>Outlander</i></b>, a little bit <b><i>ACOTAR</i></b>, and its own thing in just t<b>he perfect way.</b>’<br /><br />‘Now <b>that’s what I call ROMANTASY</b>.’<br /><br />‘Gahhhh. <i><b>I AM OBSESSED</b> with this series</i>.’<br /><br />‘<i>The Night Prince</i> <b>downright wrecked me</b>. SO MANY FEELINGS.’<br /><br />‘I thought <b>I was emotionally prepared. I wasn’t</b>.’<br /><br />‘There will <b>NEVER be a shifter romance series better</b> than this’",
+      "formattedPrice": "£0.99",
+      "averageUserRating": 4.5,
+      "userRatingCount": 113,
+      "country": "GBR"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1800758779
+      ],
+      "artistId": 1800758779,
+      "artistName": "Not Being",
+      "genres": [
+        "Selbstverwirklichung",
+        "Bücher",
+        "Gesundheit, Körper und Geist",
+        "Religion und Spiritualität"
+      ],
+      "price": 0,
+      "genreIds": [
+        "10119",
+        "38",
+        "9025",
+        "9018"
+      ],
+      "releaseDate": "2025-07-23T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<i><b>Jenseits des Ichs: Eine spirituelle Anatomie des Egos</b></i><br /><br />Was ist das Ego – Feind oder Freund? Hindernis oder Tor? In diesem transformierenden Werk lädt der Autor <i>Nicht Sein</i> den Leser ein auf eine tiefgehende Reise jenseits der Illusionen des Ichs – hin zur Wahrheit des Seins.<br /><br />Durch <b>36 Kapitel</b>, geordnet in <b>fünf Bewegungen</b>, enthüllt dieses Buch die vielschichtige Natur des Egos: seine Ursprünge, seine subtilen Masken, seine Rolle als Überlebensstrategie und sogar als spiritueller Lehrer. Es zeigt, wie das Ego nicht durch Kampf besiegt, sondern durch Bewusstheit, Mitgefühl und radikale Ehrlichkeit transzendiert wird.<br /><br />Von der dunklen Schattenseite bis hin zum feinstofflichen spirituellen Ego, von Opferrollen bis zu verborgenen Machtspielen – dieses Buch lässt keine Dimension des Ichs unerforscht. Es beleuchtet die psychologischen wie energetischen Wurzeln unserer Identifikation mit dem Selbstbild und führt in die tiefe Praxis der Präsenz, der inneren Heilung und des Erwachens.<br /><br />Der Leser wird eingeladen, das Ego nicht zu verteufeln, sondern als <b>notwendigen Lehrer des Lichts</b> zu erkennen – als Spiegel der Seele auf dem Pfad zur Befreiung. Letztlich führt der Weg zur Erkenntnis des <b>anatta</b> – des Nicht-Selbst – einer lebendigen Gegenwart, frei von Ich-Zentrum, voller Mitsein, Klarheit und Frieden.<br /><br />Dieses Buch ist ein Weckruf an all jene, die tiefer sehen, weiter fühlen und wahrhaft frei sein wollen. Es ist keine intellektuelle Theorie, sondern eine direkte Einladung zur inneren Alchemie – zur Gnade des Loslassens und zur Wiederentdeckung dessen, was jenseits des Ichs leuchtet: Das Unbenennbare, das Ewige, das Wahre Selbst.",
+      "formattedPrice": "Gratis",
+      "trackCensoredName": "Jenseits des Ichs: Eine spirituelle Anatomie des Egos",
+      "artistViewUrl": "https://books.apple.com/de/artist/not-being/1800758779?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/jenseits-des-ichs-eine-spirituelle-anatomie-des-egos/id6749016198?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/73/a5/6e/73a56e34-326e-f84e-b430-349715a5a713/0003059840.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/73/a5/6e/73a56e34-326e-f84e-b430-349715a5a713/0003059840.jpg/100x100bb.jpg",
+      "trackId": 6749016198,
+      "trackName": "Jenseits des Ichs: Eine spirituelle Anatomie des Egos",
+      "country": "DEU"
+    }
+  ]
+}

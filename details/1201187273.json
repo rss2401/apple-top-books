@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        2024797,
+        1315570500,
+        548420131
+      ],
+      "artistId": 2024797,
+      "artistName": "Stephen King, Océane Bies & Nadine Gassie",
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "price": 8.99,
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "releaseDate": "2017-03-08T08:00:00Z",
+      "trackId": 1201187273,
+      "trackName": "Fin de ronde",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Dans la chambre 217 de l'hôpital Kiner Memorial, Brady Hartsfield, alias Mr Mercedes, gît dans un état végétatif depuis sept ans, soumis aux expérimentations du docteur Babineau.<br /><br />Mais derrière son rictus douloureux et son regard fixe, Brady est bien vivant. Et capable de commettre un nouveau carnage sans même quitter son lit. Sa première pensée est pour Bill Hodges, son plus vieil ennemi?<br /><br /><i>« Après</i> Mr Mercedes <i>et</i> Carnets noirs<i>, les fans de Stephen King trouveront dans ce mélange de suspense et d?horreur la conclusion parfaite à la trilogie de l?inspecteur Hodges. »</i> Publishers Weekly",
+      "formattedPrice": "8,99 €",
+      "trackCensoredName": "Fin de ronde",
+      "artistViewUrl": "https://books.apple.com/fr/artist/stephen-king-oc%C3%A9ane-bies-nadine-gassie/2024797?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/fin-de-ronde/id1201187273?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/02/66/7f/02667fa8-a3cd-548e-d4fa-e4e0d8179d45/9782226422729-001-X.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/02/66/7f/02667fa8-a3cd-548e-d4fa-e4e0d8179d45/9782226422729-001-X.jpeg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 89,
+      "country": "FRA"
+    }
+  ]
+}

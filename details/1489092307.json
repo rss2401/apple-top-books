@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Evening and the Morning",
+      "artistViewUrl": "https://books.apple.com/us/artist/ken-follett/41828779?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-evening-and-the-morning/id1489092307?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ac/7e/dc/ac7edc8e-3e6c-16e0-8540-669ce9dd7eea/9781984882028.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ac/7e/dc/ac7edc8e-3e6c-16e0-8540-669ce9dd7eea/9781984882028.d.jpg/100x100bb.jpg",
+      "artistIds": [
+        41828779
+      ],
+      "formattedPrice": "$2.99",
+      "genres": [
+        "Historical Fiction",
+        "Books",
+        "Fiction & Literature",
+        "Mysteries & Thrillers"
+      ],
+      "artistId": 41828779,
+      "artistName": "Ken Follett",
+      "price": 2.99,
+      "releaseDate": "2020-09-15T07:00:00Z",
+      "trackId": 1489092307,
+      "trackName": "The Evening and the Morning",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>#1&#xa0;<i>New York Times</i>&#xa0;Bestseller<br />An Amazon Best Book of 2020</b><br /><b>&#xa0;</b><br /><b>The thrilling and addictive prequel to&#xa0;<i>The Pillars of the Earth</i>--set in England at the dawn of a new era: the Middle Ages</b><br /><br /><b>\"Just as transporting as [<i>The Pillars of the Earth</i>] . . . A most welcome addition to the Kingsbridge series.\" --<i>The Washington Post</i></b><br /><br />It is 997 CE, the end of the Dark Ages. England is facing attacks from the Welsh in the west and the Vikings in the east. Those in power bend justice according to their will, regardless of ordinary people and often in conflict with the king. Without a clear rule of law, chaos reigns.<br /><br />In these turbulent times, three characters find their lives intertwined. A young boatbuilder's life is turned upside down when his home is raided by Vikings, forcing him and his family to move and start their lives anew in a small hamlet where he does not fit in. . . . A Norman noblewoman marries for love, following her husband across the sea to a new land, but the customs of her husband's homeland are shockingly different, and it soon becomes clear to her that a single misstep could be catastrophic. . . . A monk dreams of transforming his humble abbey into a center of learning that will be admired throughout Europe. And each in turn comes into dangerous conflict with a clever and ruthless bishop who will do anything to increase his wealth and power.<br /><br />Thirty years ago, Ken Follett published his most popular novel,<i> The Pillars of the Earth.</i> Now, Follett's masterful new prequel <i>The Evening and the Morning</i> takes us on an epic journey into a historical past rich with ambition and rivalry, death and birth, love and hate, that will end where <i>The Pillars of the Earth </i>begins.",
+      "genreIds": [
+        "10047",
+        "38",
+        "9031",
+        "9032"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 4564,
+      "country": "USA"
+    }
+  ]
+}

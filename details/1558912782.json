@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Inconvenant",
+      "artistViewUrl": "https://books.apple.com/fr/artist/vi-keeland/639401764?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/inconvenant/id1558912782?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/c6/f9/7a/c6f97a1b-b34a-2092-d97d-7a3a52234c54/600a8fa3-4045-42d2-b6b2-80c5d938ea81_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/c6/f9/7a/c6f97a1b-b34a-2092-d97d-7a3a52234c54/600a8fa3-4045-42d2-b6b2-80c5d938ea81_cover_image.jpg/100x100bb.jpg",
+      "artistIds": [
+        639401764
+      ],
+      "artistId": 639401764,
+      "artistName": "Vi Keeland",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance"
+      ],
+      "releaseDate": "2021-09-22T07:00:00Z",
+      "trackId": 1558912782,
+      "trackName": "Inconvenant",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Vi Keeland, auteure de bests-sellers no 1 au classement du New York Times, nous livre un nouveau roman intégral, torride et sexy. <br/>\n<br/>\nLicenciée pour comportement inconvenant.<br/>\nJ’avais du mal à croire la lettre entre mes mains.<br/>\nNeuf ans. Pendant neuf foutues années, je m’étais démenée pour l’une des plus grosses boîtes d’Amérique, et voilà que je me faisais virer par une lettre officielle à mon retour d’une semaine de vacances à Aruba.<br/>\nTout cela à cause d’une vidéo prise pendant mes congés avec mes amis, une vidéo privée enregistrée pendant un moment privé. Ou du moins, c’était ce que je pensais...<br/>\nFurieuse, j’ai débouché une bouteille de vin et j’ai pris ma plus belle plume pour écrire au PDG multi-milliardaire et lui dire ce que je pensais de sa boîte et de leurs pratiques.<br/>\nJe ne pensais pas qu’il me répondrait.<br/>\nEt j’étais loin de me douter que j’allais soudain devenir la correspondante de ce riche c*****d.<br/>\nIl allait bien finir par se rendre compte que j’étais dans mon bon droit et il me rendrait mon poste.<br/>\nSauf que... ce n’était pas la seule chose que Grant Lexington voulait faire pour moi.<br/>\nMais il était hors de question que je fasse quoi que ce soit avec le patron du patron de mon patron.<br/>\nAussi somptueux, charismatique et charmeur qu’il soit.<br/>\nCe serait totalement déplacé, inconvenant, pour le coup.<br/>\nUn peu comme la vidéo qui m’a attiré tant d’ennuis.<br/>\nOn ne guérit pas le mal par le mal.<br/>\nMême si parfois, le mal, c’est si bon.",
+      "formattedPrice": "5,99 €",
+      "price": 5.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 367,
+      "country": "FRA"
+    }
+  ]
+}

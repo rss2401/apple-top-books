@@ -5,7 +5,6 @@
       "artistIds": [
         1807147722
       ],
-      "formattedPrice": "14,99 €",
       "artistId": 1807147722,
       "artistName": "Allie Oleander",
       "genres": [
@@ -14,14 +13,14 @@
         "Romance"
       ],
       "price": 14.99,
-      "trackName": "Proie sous contrat",
+      "releaseDate": "2026-10-15T07:00:00Z",
       "trackId": 6808463461,
+      "trackName": "Proie sous contrat",
       "genreIds": [
         "10061",
         "38",
         "9003"
       ],
-      "releaseDate": "2026-10-15T07:00:00Z",
       "kind": "ebook",
       "currency": "EUR",
       "description": "<i>D'une intensité brûlante avec des scènes de poursuite<br />à couper le souffle, Proie sous contrat donne une nouvelle<br />dimension au \"frisson de la traque'.</i><br />–; Navessa Allen, autrice du best-seller Lights Out.<br /><br /><b><i>Tout est permis dans les bois...</i></b><br />Accablée par le poids de ses prêts étudiants, Claire accepte une proposition aussi étrange qu'alléchante : trente jours à satisfaire les désirs les plus primitifs de Shane Underwood, brillant avocat, en échange de 30 000 dollars.<br />Une seule règle : lui offrir la chasse de sa vie.<br />Quitter son job d'été monotone pour une expérience aussi excitante ? Claire n'hésite pas une seule seconde. Mais à mesure qu'ils s'enfoncent dans la forêt, une vérité s'impose : elle ignore presque tout de l'homme qui l'a engagée pour devenir sa proie.<br />Dans les bois, les règles s'effacent, les limites disparaissent ; il ne reste que l'instinct...<br /><br /><b>Brutal. Obsessionnel. Inarrêtable.</b><br /><br />Pourtant, Claire ne recule pas. Elle joue. Elle provoque. Elle s'abandonne même au jeu. À chaque fois qu'il la capture, elle enfonce un peu plus ses crocs dans le cœur de Shane... jusqu'à ce que la chasse devienne quelque chose de bien plus dangereux.<br />Avec<i>Proie sous contrat</i>, Allie Oleander livre une dark romance suffocante et addictive, mêlant tension psychologique, jeu de pouvoir et passion dévorante dans un huis clos sauvage au cœur de la forêt.",
@@ -30,6 +29,7 @@
       "trackViewUrl": "https://books.apple.com/fr/book/proie-sous-contrat/id6808463461?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3f/b6/9c/3fb69c74-ba36-c8c8-a7a6-699729a23ff0/9782386902291.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3f/b6/9c/3fb69c74-ba36-c8c8-a7a6-699729a23ff0/9782386902291.jpg/100x100bb.jpg",
+      "formattedPrice": "14,99 €",
       "country": "FRA"
     }
   ]

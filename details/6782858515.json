@@ -1,0 +1,46 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        975042306
+      ],
+      "genres": [
+        "Liebesromane",
+        "Bücher",
+        "Science-Fiction und Fantasy",
+        "Fantasy",
+        "Zeitgenössisch",
+        "Romantische Komödien",
+        "Zeitgenössische Liebesromane",
+        "Unschuldige Liebesromane"
+      ],
+      "artistId": 975042306,
+      "artistName": "Meghan Quinn",
+      "price": 4.99,
+      "trackId": 6782858515,
+      "trackName": "He's not my type",
+      "releaseDate": "2026-09-01T07:00:00Z",
+      "genreIds": [
+        "9003",
+        "38",
+        "9020",
+        "10044",
+        "11001",
+        "11042",
+        "10057",
+        "11232"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Auf dem Eis ist Halsey Holmes ein eiskalter Profi, privat ein wandelnder Schutzpanzer. Seit er seinen Zwillingsbruder verlor, flüchtet er sich lieber in fiktive Buchwelten, als am echten Leben teilzunehmen. Frauen? Liebe? Ausgeschlossen.<br /><br />Auftritt Blakely White: optimistisch, unverschämt attraktiv und nach einer verpatzten Trennung ohne Wohnung. Dank einer genial-chaotischen Kuppelaktion von Halseys Mannschaftskollegen landet die quirlige VIP-Managerin plötzlich als Mitbewohnerin in seinem minimalistischen Reich. Halsey will eigentlich nur den unnahbaren, distanzierten Vermieter mimen. Doch gegen Blakelys Wirbelwind-Energie hat seine eiserne Disziplin keine Chance. Als das WG-Leben im absoluten Chaos versinkt, wird aus dem erzwungenen Arrangement ein heißes Spiel mit dem Feuer<br /><br />Schafft Blakely das Unmögliche und holt Halsey zurück ins Leben, oder steht ihr gemeinsames Glück schon vor dem Bully im Abseits?",
+      "formattedPrice": "4,99 €",
+      "trackCensoredName": "He's not my type",
+      "artistViewUrl": "https://books.apple.com/de/artist/meghan-quinn/975042306?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/hes-not-my-type/id6782858515?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/db/a4/5f/dba45f9e-2e84-3021-3e19-5d66bb5cc310/9783967975758.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/db/a4/5f/dba45f9e-2e84-3021-3e19-5d66bb5cc310/9783967975758.jpg/100x100bb.jpg",
+      "country": "DEU"
+    }
+  ]
+}

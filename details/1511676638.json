@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1511675163
+      ],
+      "trackCensoredName": "Elbstürme",
+      "artistViewUrl": "https://books.apple.com/de/artist/miriam-georg/1511675163?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/elbst%C3%BCrme/id1511676638?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/c4/2b/87/c42b87a9-0d1f-e096-0181-2fcc5a7d7898/1033748375.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/c4/2b/87/c42b87a9-0d1f-e096-0181-2fcc5a7d7898/1033748375.jpg/100x100bb.jpg",
+      "price": 9.99,
+      "artistId": 1511675163,
+      "artistName": "Miriam Georg",
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher",
+        "Familienbelletristik und Literatur"
+      ],
+      "genreIds": [
+        "9031",
+        "38",
+        "11050"
+      ],
+      "trackId": 1511676638,
+      "trackName": "Elbstürme",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Stürme eines Neubeginns</b><br />Drei Jahre lang lebte Lily Karsten in Liverpool, wo sie fernab der Hamburger Gesellschaft ihre Tochter Hanna zur Welt brachte. Jeden Tag sehnte sie sich nach Jo.<br />Drei Jahre lang stürzte Jo Bolten sich aus Wut und Kummer in den Arbeitskampf. Und in den Alkohol. Er will sich rächen für das, was sein Boss ihm angetan hat – Ludwig Oolkert, der mächtigste Kaufmann Hamburgs, hat ihm das Liebste in seinem Leben genommen. Lily. Jetzt wird er Oolkert das Liebste nehmen: sein Geld.<br />Endlich kehrt die Reederstochter Lily an Henry von Cappelns Seite nach Hamburg zurück. Doch ihre Ehe ist wie ein Gefängnis. Die Karsten-Reederei droht immer mehr in Ludwig Oolkerts Kontrolle abzugleiten. In den Gängevierteln brodelt es, die Hafenarbeiter können ihr Elend nicht länger ertragen. Lilys alter Widerspruchsgeist ist nicht zu ersticken. Und obwohl sie nichts mehr fürchtet als ein Wiedersehen, hofft sie doch, dass Jo eines Tages seine Tochter kennenlernen wird …<br />Eine bewegte Zeit. Eine unmögliche Liebe. Eine bewegende Saga. Das Ende des großen Zweiteilers.",
+      "formattedPrice": "9,99 €",
+      "releaseDate": "2021-04-21T07:00:00Z",
+      "averageUserRating": 4,
+      "userRatingCount": 252,
+      "country": "DEU"
+    }
+  ]
+}

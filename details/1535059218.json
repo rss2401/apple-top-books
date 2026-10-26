@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        483163464
+      ],
+      "artistId": 483163464,
+      "artistName": "Kazé Manga",
+      "genres": [
+        "Manga",
+        "Bücher",
+        "Comics und Graphic Novels"
+      ],
+      "price": 0,
+      "genreIds": [
+        "10016",
+        "38",
+        "9026"
+      ],
+      "releaseDate": "2020-10-01T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Die Manga! Manga! ist unsere halbjährlich erscheinende Gratis-Vorschau! Hier stellen wir unser kommendes Programm vor. <br/>\n<br/>\nIn unserer neuen Comedy-Action-Serie &#34;Spy x Family&#34; braucht Spion Twilight für seinen neuen Auftrag eine Familie – und die hat es mehr als in sich. Chaos pur, bei dem kein Auge trocken bleibt, erwartet dich – zusammen mit einem coolen Schlüsselanhänger zu jedem Band der Erstauﬂage!<br/>\n<br/>\nWenn du lieber monsterstarke Romanzen suchst, dann ist unser #SWEETManga-Highlight &#34;Monstermäßig verknallt&#34; etwas für dich. Bei zu starken Gefühlen verwandelt sich Heldin Kuroe nämlich in einen Kaiju, ein riesengroßes Echsenmonster!<br/>\n<br/>\nDas absolute Highlight in unserem Herbstprogramm ist das zweite Artbook zu &#34;Tokyo Ghoul&#34;. Auf 288 großformatigen Seiten voll glänzender Illustrationen, original japanischer Werbeposter, Coverbilder und bislang unveröffentlichter Zeichnungen kannst du mit &#34;Tokyo Ghoul ZAKKI:re&#34; in die Welt aus sieben Jahren Tokyo Ghoul abtauchen.",
+      "formattedPrice": "Gratis",
+      "trackCensoredName": "Manga! Manga! – KAZÉ Manga Preview – Herbst/Winter 2020/2021",
+      "artistViewUrl": "https://books.apple.com/de/artist/kaz%C3%A9-manga/483163464?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/manga-manga-kaz%C3%A9-manga-preview-herbst-winter-2020-2021/id1535059218?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/02/b4/07/02b407d3-d9f3-7e1e-c860-ce6252c4683b/1032201632.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/02/b4/07/02b407d3-d9f3-7e1e-c860-ce6252c4683b/1032201632.jpg/100x100bb.jpg",
+      "trackId": 1535059218,
+      "trackName": "Manga! Manga! – KAZÉ Manga Preview – Herbst/Winter 2020/2021",
+      "averageUserRating": 3.5,
+      "userRatingCount": 24,
+      "country": "DEU"
+    }
+  ]
+}

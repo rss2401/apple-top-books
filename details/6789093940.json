@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "L'homme sans coeur (Siri Bergman, Tome 4)",
+      "artistViewUrl": "https://books.apple.com/fr/artist/camilla-grebe-%C3%A5sa-tr%C3%A4ff/420761594?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/lhomme-sans-coeur-siri-bergman-tome-4/id6789093940?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b5/f4/7a/b5f47a93-fa69-4ea4-bc17-e442503c4ee5/9782253244981-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b5/f4/7a/b5f47a93-fa69-4ea4-bc17-e442503c4ee5/9782253244981-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        420761594,
+        420761599
+      ],
+      "formattedPrice": "9,49 €",
+      "artistId": 420761594,
+      "artistName": "Camilla Grebe & Åsa Träff",
+      "genres": [
+        "Policier et suspense",
+        "Livres",
+        "Romans et littérature"
+      ],
+      "price": 9.49,
+      "trackId": 6789093940,
+      "trackName": "L'homme sans coeur (Siri Bergman, Tome 4)",
+      "releaseDate": "2026-09-02T07:00:00Z",
+      "genreIds": [
+        "9032",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Par une chaude journée d’été, Miguel Alemany découvre son compagnon, Jussi Ståhl, sauvagement assassiné à son domicile. Jussi, antiquaire et personnalité médiatique, a été abattu à bout portant et son cœur a été arraché de sa poitrine. Ce qui aurait pu ressembler à un acte de folie isolé prend rapidement une tournure bien plus inquiétante lorsque d’autres meurtres brutaux visant des hommes secouent la capitale suédoise. Leur orientation sexuelle semble constituer le dénominateur commun. S’agit-il réellement de crimes motivés par la haine, ou la vérité trouve-t-elle ses racines dans le passé des victimes ?&#xa0; <br /><br />Alors que la psychologue Siri Bergman vient d’obtenir un poste au sein de la cellule de profilage criminel de la police de Stockholm, elle se retrouve au cœur de l’enquête sur ces meurtres brutaux.&#xa0; <br /><br />Traduit du suédois par Anna Postel.&#xa0;",
+      "country": "FRA"
+    }
+  ]
+}

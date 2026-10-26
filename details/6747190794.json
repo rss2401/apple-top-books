@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        81761267
+      ],
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Crime & Thrillers",
+        "Literary Fiction",
+        "LGBTQIA+ Fiction"
+      ],
+      "artistId": 81761267,
+      "artistName": "Josh Silver",
+      "price": 9.99,
+      "releaseDate": "2026-04-23T07:00:00Z",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>'AN INCREDIBLE BOOK.' </b>RUSSELL T DAVIES<br /><br /><b>'A SEETHING, HILARIOUS, AND WILDLY SHREWD TAKEDOWN.' </b>CARO CLAIRE BURKE<br /><br /><b>'A REAL NAILBITER.' </b>BBC MUST-READ BOOK <br /><br /><b>'SAVAGE AND DARKLY HILARIOUS.' </b>JUNO DAWSON<br /><br /><b>'JUICY, DARK, FUNNY AND HEART WRENCHING.'</b> <i>VOGUE</i><br /><br /><b>'LIKE THE OFFSPRING OF TRAINSPOTTING AND YELLOWFACE ... CLEVER AND ASSURED.' </b><i>DAILY MAIL</i><br /> <b><i>Anyone can write a bestseller. Here’s how…</i></b> <br /><b>GO GAY</b><br /><br />It’s been seven years since Mallory shot to fame as a literary sensation. But after years of struggling with writer’s block, she’s desperate to resurrect her career before it spirals into obscurity. She needs inspiration to strike – and fast.<br /><br /><b>GO SAD</b><br /><br />Enter Leo – a young struggling addict sleeping under bridges and trading sex for survival. He’s vulnerable. He’s enigmatic. He’s exactly what Mallory has been looking for.<br /><br /><b>GO DARK</b><br /><br />Mallory needs Leo if she wants another bestseller. Authenticity sells, and there’s nothing more authentic than real life. She’s the perfect person to tell Leo’s story. Gay, sad, dark – just what the world needs right now. But as secrets threaten to unravel more than just her career, Mallory must decide: just how far will she go to pen the perfect story?<br /><br /><b>A darkly funny literary satire that examines privilege, queer identity, and our modern obsession with authenticity, perfect for fans of <i>Detransition, Baby,</i> <i>Evenings and Weekends </i>and Eliza Clark.</b><br /><br /><b>'ONE OF THE BEST BOOKS I HAVE EVER READ.'</b> READER REVIEW <b>⭐⭐⭐⭐⭐</b><br /><br /><b>'COMPLETELY AND UTTERLY BLEW ME AWAY.'</b> READER REVIEW <b>⭐⭐⭐⭐⭐</b><br /><br /><b>'I DIDN’T BREATHE FOR PAGES AT A TIME.' </b>READER REVIEW <b>⭐⭐⭐⭐⭐</b><br /><br /><b>'HORRIBLE IN THE BEST POSSIBLE WAY.' </b>READER REVIEW <b>⭐⭐⭐⭐⭐</b><br /><br /><b>'THIS BOOK WAS EVERYTHING.'</b> READER REVIEW <b>⭐⭐⭐⭐⭐</b>",
+      "formattedPrice": "£9.99",
+      "trackCensoredName": "Fruit Fly",
+      "artistViewUrl": "https://books.apple.com/gb/artist/josh-silver/81761267?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/fruit-fly/id6747190794?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/74/31/a1/7431a11b-97f4-ffdb-93dc-3eae6cbb851a/9781836431480.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/74/31/a1/7431a11b-97f4-ffdb-93dc-3eae6cbb851a/9781836431480.jpg/100x100bb.jpg",
+      "genreIds": [
+        "9031",
+        "38",
+        "9032",
+        "10049",
+        "10045"
+      ],
+      "trackId": 6747190794,
+      "trackName": "Fruit Fly",
+      "averageUserRating": 4.5,
+      "userRatingCount": 42,
+      "country": "GBR"
+    }
+  ]
+}

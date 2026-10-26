@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Where Grace Appears",
+      "formattedPrice": "Free",
+      "trackViewUrl": "https://books.apple.com/us/book/where-grace-appears/id1559749756?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/29/a8/46/29a8466e-70f1-c5ce-9c0d-3ff0f2dde989/9781733577922.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/29/a8/46/29a8466e-70f1-c5ce-9c0d-3ff0f2dde989/9781733577922.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/heidi-chiavaroli/1229769795?uo=4",
+      "artistIds": [
+        1229769795
+      ],
+      "artistId": 1229769795,
+      "artistName": "Heidi Chiavaroli",
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Family Fiction & Literature",
+        "Romance"
+      ],
+      "releaseDate": "2021-04-22T07:00:00Z",
+      "genreIds": [
+        "9031",
+        "38",
+        "11050",
+        "9003"
+      ],
+      "trackId": 1559749756,
+      "trackName": "Where Grace Appears",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "Ashamed of being duped by her handsome psychology professor, Josie Martin returns to Maine too proud to admit her foolishness to those closest to her. As the one-year anniversary of her father's death approaches, she seeks solace in an old friend, Tripp Colton, and a new business venture that will prove to herself and her loved ones that she is still capable of success despite her overwhelming failure.<br /><br />When Josie announces she will not return to school to finish her graduate degree but wishes to remain in Camden to help her mother achieve a lifelong dream, the entire family gets behind her idea to open and run a bed and breakfast inspired by Louisa May Alcott's Orchard House. Even Tripp gets excited about restoring Josie's great-aunt's Victorian home for the purpose, but when Josie's unexpected news is revealed, their friendship and the new feelings blooming between them are threatened.<br /><br />As summer gives way to fall, Josie struggles with decisions regarding her family's future, dealing with past mistakes she cannot run from, and her feelings for Tripp. When the opportunity for grace comes along, will she take it? Or will she continue to allow her failures to define her worth?<br /><br />A contemporary twist on the well-loved classic, Little Women, readers will fall in love with the Martin family—Maggie, Josie, Lizzie, Bronson, Amie, and their mother Hannah—each trying to find their own way in the world and each discovering that love, home, and hope are closer than they appear.",
+      "price": 0,
+      "averageUserRating": 4.5,
+      "userRatingCount": 875,
+      "country": "USA"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        486820735
+      ],
+      "genres": [
+        "Science-Fiction und Fantasy",
+        "Bücher"
+      ],
+      "artistId": 486820735,
+      "artistName": "Rüdiger Schäfer",
+      "price": 4.99,
+      "trackId": 6755299662,
+      "trackName": "Perry Rhodan Neo 394: Berg der Schöpfung",
+      "releaseDate": "2026-10-22T07:00:00Z",
+      "genreIds": [
+        "9020",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Im Jahr 2482: Das kleine Sternenreich der Menschen ­gedeiht. Neue Welten werden besiedelt, mit vielen galaktischen Zivilisationen besteht ein freundschaftlicher Austausch.<br/>\n<br/>\nAm Rand der Milchstraße jedoch wurde M 13, das ­Kern­gebiet der Republik Arkon, von einer sogenannten Proto-­Negasphäre verschluckt. Bedrohliche Raum-Zeit-Phänomene breiten sich von dort aus und erreichen sogar das Solsystem. Im Zuge dieser Wirren hat eine fremde Macht, die sogenannte Neue Ordnung, Terra erobert. Die Menschheit soll furchtbare Prüfungen durchlaufen.<br/>\n<br/>\nReginald Bull organisiert als Protektor der Erde den Widerstand. Perry Rhodan und die Arkonidin Thora machen sich derweil auf die Suche nach einem geheimnisvollen Lebewesen. Von ihm erhoffen sie sich Informationen, die den Terranern helfen könnten. Die beiden begeben sich zum BERG DER SCHÖPFUNG …",
+      "formattedPrice": "4,99 €",
+      "trackCensoredName": "Perry Rhodan Neo 394: Berg der Schöpfung",
+      "artistViewUrl": "https://books.apple.com/de/artist/r%C3%BCdiger-sch%C3%A4fer/486820735?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/perry-rhodan-neo-394-berg-der-sch%C3%B6pfung/id6755299662?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f3/5a/ea/f35aea8c-5d66-93fb-b206-1c47c7a1063f/1062888001.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f3/5a/ea/f35aea8c-5d66-93fb-b206-1c47c7a1063f/1062888001.jpg/100x100bb.jpg",
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        45295047,
+        391076850
+      ],
+      "trackCensoredName": "Arsène Lupin - Gentleman-Gauner",
+      "artistViewUrl": "https://books.apple.com/de/artist/maurice-leblanc-martin-barkawitz/45295047?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/ars%C3%A8ne-lupin-gentleman-gauner/id1569190433?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/e4/de/fa/e4defa9e-f858-117b-bddf-eac78fae5971/9783963572333.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/e4/de/fa/e4defa9e-f858-117b-bddf-eac78fae5971/9783963572333.jpg/100x100bb.jpg",
+      "price": 2.99,
+      "artistId": 45295047,
+      "artistName": "Maurice Leblanc & Martin Barkawitz",
+      "genres": [
+        "Historische Krimis",
+        "Bücher",
+        "Krimis und Thriller",
+        "Belletristik und Literatur",
+        "Historische Romane"
+      ],
+      "genreIds": [
+        "10051",
+        "38",
+        "9032",
+        "9031",
+        "10047"
+      ],
+      "trackId": 1569190433,
+      "trackName": "Arsène Lupin - Gentleman-Gauner",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "'Arsène Lupin – Gentleman-Gauner' ist der erste Band der Abenteuer das Meisterdiebs Arsène Lupin. Der berühmte französische Einbrecher erscheint in verschiedenen Verkleidungen und führt die Polizei ständig an der Nase herum. Selbst bei seiner Verhaftung und dem Aufenthalt im berüchtigtsten Gefängnis von Paris ist er seinen Gegnern stets voraus und macht sich über sie lustig. Weder große Geldbeträge noch Schmuck oder Kunstgegenstände sind vor ihm sicher. Sogar der weltbekannte britische Detektiv Sherlock Holmes hat gegen Lupin keine Chance. Nur die Liebe zu einer Frau kann dem Gentleman-Gauner zum Verhängnis werden. Dieser Band ist eine Sammlung von neun Kriminalgeschichten, die durch eine Rahmenhandlung miteinander verbunden sind. Alle Abenteuerbände von Arsène Lupin sind jeweils in sich abgeschlossen und können unabhängig voneinander gelesen werden. Zeitgemäße Neuübersetzung des klassischen Kriminalromans 'Arsène Lupin, gentleman-cambrioleu' von Maurice Leblanc durch den bekannten Krimiautor Martin Barkawitz.",
+      "formattedPrice": "2,99 €",
+      "releaseDate": "2021-05-25T07:00:00Z",
+      "averageUserRating": 4,
+      "userRatingCount": 58,
+      "country": "DEU"
+    }
+  ]
+}

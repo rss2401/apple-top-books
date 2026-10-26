@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "A tout de suite",
+      "artistViewUrl": "https://books.apple.com/fr/artist/daphne-rotcajg/6811850103?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/a-tout-de-suite/id6811850101?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e9/5b/9c/e95b9c5c-aa14-a784-bbdd-942fb8728005/9782246841791-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e9/5b/9c/e95b9c5c-aa14-a784-bbdd-942fb8728005/9782246841791-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        6811850103
+      ],
+      "formattedPrice": "14,99 €",
+      "artistId": 6811850103,
+      "artistName": "Daphne Rotcajg",
+      "genres": [
+        "Fiction et littérature",
+        "Livres",
+        "Romans et littérature"
+      ],
+      "price": 14.99,
+      "trackId": 6811850101,
+      "trackName": "A tout de suite",
+      "releaseDate": "2026-10-21T07:00:00Z",
+      "genreIds": [
+        "10049",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "« C’était une emmerdeuse. Mais c’était mon emmerdeuse. Et elle va terriblement me manquer. »<br />&#xa0; <br />Ainsi parle Daphné Rotcajg au Père&#xa0; Lachaise&#xa0; devant le cercueil de sa grand-mère, Régine. la légendaire Reine de la Nuit, l’inventrice de la discothèque moderne, l’ancienne dame-pipi devenue chanteuse à succès, la patronne d’un empire de boîtes aux quatre coins du monde. Une icône kitsch parisienne. Mais aussi une mère défaillante, une mégalomane, une femme ruinée, amère d'etre&#xa0; reléguée&#xa0; au rang de has been.<br />Daphné l’a aimée. Haïe. Admirée. Fuie. Elle lui a pardonné parfois, puis lui en a voulu de nouveau.<br />À travers les derniers jours de Régine et un enterrement impossible, ce livre raconte surtout l’histoire d’une famille où l’on s’aime mal, où les blessures circulent de génération&#xa0; en génération, où un père transmet à sa fille son propre lien abîmé avec sa mère.<br />Un récit intime, drôle et cruel sur ce que l’on hérite malgré soi et sur la lumière qu’on parvient parfois à sauver du désastre.",
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        2498934,
+        1717042074
+      ],
+      "artistId": 2498934,
+      "artistName": "Gebrüder Grimm & Märchensammlung Kinder",
+      "genres": [
+        "Märchen, Mythen und Fabeln",
+        "Bücher",
+        "Belletristik und Literatur"
+      ],
+      "price": 0,
+      "genreIds": [
+        "11049",
+        "38",
+        "9031"
+      ],
+      "releaseDate": "2023-11-17T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Die zeitlosen Abenteuer von Aschenputtel, Schneewittchen, Rotkäppchen und Hänsel und Gretel faszinieren bis heute Jung und Alt. Diese Sammlung der beliebtesten Märchen der Gebrüder Grimm beinhaltet:<br />Der Froschkönig oder der eiserne HeinrichMärchen von einem, der auszog, das Fürchten zu lernenDer Wolf und die sieben jungen GeißleinRapunzelHänsel und GretelDas tapfere SchneiderleinAschenputtelFrau HolleRotkäppchenDie Bremer StadtmusikantenTischlein deck dich, Goldesel und Knüppel aus dem Sack&#xa0;DornröschenKönig DrosselbartSchneewittchenRumpelstilzchenHans im GlückDie Sterntaler",
+      "formattedPrice": "Gratis",
+      "trackCensoredName": "Die schönsten Märchen der Gebrüder Grimm",
+      "artistViewUrl": "https://books.apple.com/de/artist/gebr%C3%BCder-grimm-m%C3%A4rchensammlung-kinder/2498934?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/die-sch%C3%B6nsten-m%C3%A4rchen-der-gebr%C3%BCder-grimm/id6472444346?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/ac/67/5a/ac675a06-44b6-d550-da00-8326c8172061/1042751048.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/ac/67/5a/ac675a06-44b6-d550-da00-8326c8172061/1042751048.jpg/100x100bb.jpg",
+      "trackId": 6472444346,
+      "trackName": "Die schönsten Märchen der Gebrüder Grimm",
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "そばギャルとおじさん 分冊版(2)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E7%A8%B2%E8%91%89%E3%81%9D%E3%83%BC%E3%81%B8%E3%83%BC-%E6%9C%AC%E6%A9%8B%E9%9A%86%E5%8F%B8/633592367?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%81%9D%E3%81%B0%E3%82%AE%E3%83%A3%E3%83%AB%E3%81%A8%E3%81%8A%E3%81%98%E3%81%95%E3%82%93-%E5%88%86%E5%86%8A%E7%89%88-2/id6745940347?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/13/f5/2f/13f52ff4-8f9f-bf96-a089-f872d5f133b3/BT000188089800200201900209.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/13/f5/2f/13f52ff4-8f9f-bf96-a089-f872d5f133b3/BT000188089800200201900209.jpg/100x100bb.jpg",
+      "artistIds": [
+        633592367,
+        1814567672
+      ],
+      "formattedPrice": "無料",
+      "genres": [
+        "ギャグ／コメディ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "ヒューマンドラマ",
+        "青年"
+      ],
+      "artistId": 633592367,
+      "artistName": "稲葉そーへー & 本橋隆司",
+      "releaseDate": "2025-06-13T07:00:00Z",
+      "genreIds": [
+        "50000072",
+        "38",
+        "9026",
+        "10016",
+        "11052",
+        "11338"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "ゴリッゴリの金髪ギャル・じゅりな。立ち食いそば屋巡りが趣味のサラリーマン・秋丸泰造。立ち食いそば屋で天ぷらをシェアしたことをきっかけに「ソフレ(そばフレンド)」になったふたりは、いっしょにそば屋巡りをすることに…!! 生卵の食べ方の流儀、コロッケそばの過激な食べ方、至高の肉そば、大手チェーンの絶品攻略法など、日本人のソウルフード「立ち食いそば」をおいしく食べ尽くす、極上のそばコメディ!",
+      "price": 0,
+      "trackId": 6745940347,
+      "trackName": "そばギャルとおじさん 分冊版(2)",
+      "country": "JPN"
+    }
+  ]
+}

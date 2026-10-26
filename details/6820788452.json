@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "¥1,000",
+      "artistIds": [
+        629526052,
+        884209790,
+        580799477
+      ],
+      "artistId": 629526052,
+      "artistName": "鴨志田一, 高木秀栄 & 矢立肇",
+      "genreIds": [
+        "50000086",
+        "38",
+        "9026",
+        "10016",
+        "50000080"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "ガンダムシリーズ完全新作! 人類は争わずにはいられないのか――<br/>\n『真紅のプリマ事件』から二ヵ月。エイトの行動を制限する『エイト保護法』が可決され、第七世代との溝は修復不能なレベルに。『エイト保護法』の施行阻止と、収監されたナオミを救うため、エイトたちが立ち上がる!",
+      "trackCensoredName": "機動戦士ガンダムエイト (3)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E9%B4%A8%E5%BF%97%E7%94%B0%E4%B8%80-%E9%AB%98%E6%9C%A8%E7%A7%80%E6%A0%84-%E7%9F%A2%E7%AB%8B%E8%82%87/629526052?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%82%A8%E3%82%A4%E3%83%88-3/id6820788452?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7e/8e/85/7e8e85a7-b3fd-255d-0ab9-0aee76178ce0/04117847A26548000000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7e/8e/85/7e8e85a7-b3fd-255d-0ab9-0aee76178ce0/04117847A26548000000.jpg/100x100bb.jpg",
+      "releaseDate": "2026-10-23T07:00:00Z",
+      "trackId": 6820788452,
+      "trackName": "機動戦士ガンダムエイト (3)",
+      "genres": [
+        "SF",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "メカ"
+      ],
+      "price": 1000,
+      "country": "JPN"
+    }
+  ]
+}

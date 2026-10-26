@@ -43,16 +43,7 @@
       ],
       "artistId": 550439004,
       "artistName": "Peter Grainger & Eva Regul",
-      "genres": [
-        "Krimis und Thriller",
-        "Bücher",
-        "Polizeiromane",
-        "Belletristik und Literatur"
-      ],
-      "price": 9.99,
       "releaseDate": "2026-07-01T07:00:00Z",
-      "trackId": 6762463351,
-      "trackName": "Ein unglücklicher Tod",
       "genreIds": [
         "9032",
         "38",
@@ -68,8 +59,17 @@
       "trackViewUrl": "https://books.apple.com/de/book/ein-ungl%C3%BCcklicher-tod/id6762463351?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/06/da/6f/06da6f87-d93c-cea8-4a60-1a1a344eef25/9783257616309.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/06/da/6f/06da6f87-d93c-cea8-4a60-1a1a344eef25/9783257616309.jpg/100x100bb.jpg",
+      "trackId": 6762463351,
+      "trackName": "Ein unglücklicher Tod",
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Polizeiromane",
+        "Belletristik und Literatur"
+      ],
+      "price": 9.99,
       "averageUserRating": 4,
-      "userRatingCount": 22,
+      "userRatingCount": 23,
       "country": "DEU"
     }
   ]

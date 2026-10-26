@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        550439004,
+        432507759
+      ],
+      "trackCensoredName": "Gnade vor Recht",
+      "artistViewUrl": "https://books.apple.com/de/artist/peter-grainger-peter-torberg/550439004?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/gnade-vor-recht/id6762463306?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/cc/78/3f/cc783fba-2f14-e26e-1c72-49264e4ca5e1/9783257616316.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/cc/78/3f/cc783fba-2f14-e26e-1c72-49264e4ca5e1/9783257616316.jpg/100x100bb.jpg",
+      "price": 14.99,
+      "artistId": 550439004,
+      "artistName": "Peter Grainger & Peter Torberg",
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Polizeiromane"
+      ],
+      "genreIds": [
+        "9032",
+        "38",
+        "10052"
+      ],
+      "trackId": 6762463306,
+      "trackName": "Gnade vor Recht",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Als Joan Riley im Altersheim stirbt, ist niemand verwundert – die alte Dame war nicht bei bester Gesundheit. Doch DC Smith zweifelt: An den zu friedlichen Umständen von Joans Tod, an der fast mechanischen Routine aller Beteiligten, an den Fragen, die ausbleiben. Dann deckt Smith einen weiteren ungewöhnlichen Todesfall im Altenheim auf. Je näher er der Wahrheit kommt, desto weiter entfernt er sich von der Frage nach Schuld.",
+      "formattedPrice": "14,99 €",
+      "releaseDate": "2026-09-23T07:00:00Z",
+      "averageUserRating": 4,
+      "userRatingCount": 5,
+      "country": "DEU"
+    }
+  ]
+}

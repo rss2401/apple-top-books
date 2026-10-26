@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Tu n'auras plus peur de rien",
+      "artistViewUrl": "https://books.apple.com/fr/artist/gilles-legardinier/476305144?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/tu-nauras-plus-peur-de-rien/id6805401988?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d4/86/a8/d486a82a-329f-f830-54d6-01b0342698f0/9782080461582.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d4/86/a8/d486a82a-329f-f830-54d6-01b0342698f0/9782080461582.jpg/100x100bb.jpg",
+      "artistIds": [
+        476305144
+      ],
+      "formattedPrice": "14,99 €",
+      "artistId": 476305144,
+      "artistName": "Gilles Legardinier",
+      "genres": [
+        "Fiction historique",
+        "Livres",
+        "Romans et littérature"
+      ],
+      "price": 14.99,
+      "trackId": 6805401988,
+      "trackName": "Tu n'auras plus peur de rien",
+      "releaseDate": "2026-10-07T07:00:00Z",
+      "genreIds": [
+        "10047",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Septembre 1940. Alors que l’invasion nazie de l’Europe se transforme en conflit mondial, Londres subit le Blitz, une campagne incessante de bombardements comme aucune ville n’en a jamais connu. \n\nPar crainte que les attaques ne libèrent des animaux dangereux, les autorités ordonnent au zoo d’éliminer les spécimens susceptibles de faire courir un risque à la population. Loups, ours, tigres, crocodiles et autres fascinants prédateurs sont brutalement condamnés à mort. \n\nCeux qui en ont la garde vont cependant refuser cette exécution injuste. En secret et dans la plus complète illégalité, ils vont imaginer un plan insensé pour protéger ces sublimes créatures de la folie des hommes. \n\nVoici l’histoire vraie d’une aventure hors norme qui va voir des animaux nous révéler tout ce que nous sommes.",
+      "country": "FRA"
+    }
+  ]
+}

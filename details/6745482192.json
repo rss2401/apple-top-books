@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Buckeye",
+      "artistViewUrl": "https://books.apple.com/gb/artist/patrick-ryan/785458179?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/buckeye/id6745482192?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/be/f6/78/bef6789a-e5e0-fbe1-7ae1-ffa9d8397b7d/1056366915.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/be/f6/78/bef6789a-e5e0-fbe1-7ae1-ffa9d8397b7d/1056366915.jpg/100x100bb.jpg",
+      "artistIds": [
+        785458179
+      ],
+      "artistId": 785458179,
+      "artistName": "Patrick Ryan",
+      "genres": [
+        "Historical Fiction",
+        "Books",
+        "Fiction & Literature"
+      ],
+      "price": 1.99,
+      "releaseDate": "2025-09-02T07:00:00Z",
+      "trackName": "Buckeye",
+      "trackId": 6745482192,
+      "genreIds": [
+        "10047",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "*A TOP 10 THE TIMES BESTSELLER*<br/>\n<br/>\n&#39;[A] luminous and tender 20th-century saga of wounded souls and small-town secrets&#39; GUARDIAN<br/>\n<br/>\n&#39;A glorious sweep of a novel&#39; ANN PATCHETT<br/>\n<br/>\n&#39;I&#39;ve been yearning for a novel that connects the American generations who dealt with our two wars - one of Omaha Beach, the other of the la Drang Valley. Buckeye is that book, and it soars&#39; TOM HANKS<br/>\n__________<br/>\n<br/>\nTHE BIG-HEARTED BESTSELLING PHENOMENON THAT READERS ARE CALLING THEIR BOOK OF THE YEAR<br/>\n<br/>\nCal Jenkins, wounded not in war but by his inability to serve in it, aspires to live a quiet, honest life in Bonhomie, Ohio. His wife Becky – intuitive, whimsical – senses danger long before she understands its shape. Across town, Margaret Salt carries secrets she&#39;s spent a lifetime burying, while her husband Felix tries desperately to be the man the world insists he must be.<br/>\n<br/>\nEverything changes on V-E Day, when a single, stolen moment binds all four of them together. As wartime gives way to an uneasy peace, the consequences of that day ripple forward, pulling the next generation into its undertow.<br/>\n<br/>\nBut in a small town where nothing stays hidden, how long can the truth stay buried?<br/>\n__________<br/>\n<br/>\n&#39;A thing of wonder&#39; CHRIS WHITAKER<br/>\n<br/>\n&#39;Written in the key of Dickens … it&#39;s not just a great Midwestern novel, it&#39;s a great novel, period&#39; FINANCIAL TIMES<br/>\n<br/>\n&#39;A poignant, powerful exploration of small-town America&#39; INDEPENDENT, BOOK OF THE MONTH",
+      "formattedPrice": "£1.99",
+      "averageUserRating": 4.5,
+      "userRatingCount": 19,
+      "country": "GBR"
+    }
+  ]
+}

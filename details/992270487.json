@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        487139828
+      ],
+      "genres": [
+        "Cosy Crime",
+        "Bücher",
+        "Krimis und Thriller",
+        "Polizeiromane"
+      ],
+      "artistId": 487139828,
+      "artistName": "Jean-Luc Bannalec",
+      "price": 4.99,
+      "trackId": 992270487,
+      "trackName": "Bretonischer Stolz",
+      "releaseDate": "2015-06-17T07:00:00Z",
+      "genreIds": [
+        "11259",
+        "38",
+        "9032",
+        "10052"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Bretonische Austern, mysteriöse Druiden-Kulte und ein kniffliger Fall für Kommissar Dupin – willkommen in der malerischen Bretagne!</b><br /><br />Am idyllischen <b>Fluss Belon</b>, bekannt für seine weltberühmten <b>Austern</b>, zwischen atemberaubenden Klippen, geheimnisvollen Zauberwäldern und dem rauen Atlantik, stolpert eine eigenwillige alte Filmdiva kurz vor Ostern über die <b>Leiche eines Mannes</b>. Nur wenig später erreicht <b>Kommissar Dupin</b> ein Anruf aus den sagenumwobenen Hügeln der <b>Monts d'Arrée</b>, um die sich Legenden von Feen und dem Teufel ranken. Auch dort wurde ein Toter gefunden. Doch niemand kennt seine Identität.<br /><br />Als sich herausstellt, dass die Spuren zu keltischen Brudervölkern, einer Sandraub-Mafia und rätselhaften Druiden-Kulten führen, ahnt der Kommissar: Dies wird sein bisher aberwitzigster Fall in der Bretagne.<br /><br /><b>Jean-Luc Bannalecs vierter Band seiner erfolgreichen Krimi-Reihe um den charismatischen Kommissar Dupin entführt die Leser in die malerische Küstenlandschaft des Finistère und verspricht spannende Urlaubslektüre mit Ferienstimmung.</b><br /><br />In seinen atmosphärischen Krimis mit Kommissar Dupin aus der Bretagne liefert Jean-Luc Bannalec die ideale Lektüre für den Urlaub. Er entführt seine Leser mit feinem Humor und regionalem Verständnis in die unverwechselbare Bretagne, wo man die salzige Meeresbrise geradezu einatmen kann.<br /><br />Die Krimi-Bestseller aus der Bretagne sind in folgender Reihenfolge erschienen:<br />Bretonische VerhältnisseBretonische BrandungBretonisches Gold<br />Bretonischer StolzBretonische FlutBretonisches LeuchtenBretonische GeheimnisseBretonisches VermächtnisBretonische SpezialitätenBretonische IdylleBretonische NächteBretonischer RuhmBretonische SehnsuchtBretonische VersuchungenBretonischer Glanz<br /><b>Die Bücher erzählen eigenständige Fälle und können unabhängig voneinander gelesen werden.</b>",
+      "formattedPrice": "4,99 €",
+      "trackCensoredName": "Bretonischer Stolz",
+      "artistViewUrl": "https://books.apple.com/de/artist/jean-luc-bannalec/487139828?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/bretonischer-stolz/id992270487?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/98/b2/7d/98b27d42-f89d-1a3f-8468-ae0488448cd2/1019029758.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/98/b2/7d/98b27d42-f89d-1a3f-8468-ae0488448cd2/1019029758.jpg/100x100bb.jpg",
+      "averageUserRating": 4,
+      "userRatingCount": 261,
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "¥700",
+      "artistIds": [
+        608653711
+      ],
+      "artistId": 608653711,
+      "artistName": "金田一蓮十郎",
+      "genreIds": [
+        "50000072",
+        "38",
+        "9026",
+        "10016",
+        "50000085",
+        "11052",
+        "11338",
+        "11347"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "【一歩ずつだけど、仲間(パーティ)と共に進もう――】<br />書店勤務のたくみは、ある日スマホを見て驚きの出来事に気づく。それはドラクエⅩがサービス開始して13周年を迎えたということである。「俺がそこから13年歳を取ってるってこと!?」みやこにそう告げると、二人は結婚してから5年が経過していることを思い出し……。さらに、無事に看護師になった志野田さんは毎日目一杯バタバタと仕事をしているが……!?『ドラゴンクエストⅩ』で知り合った男女の楽しい冒険生活を描く第13巻!!<br />(C) ARMOR PROJECT/BIRD STUDIO/SQUARE ENIX (C)2026 Renjuro Kindaichi",
+      "trackCensoredName": "ゆうべはお楽しみでしたね 13巻",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E9%87%91%E7%94%B0%E4%B8%80%E8%93%AE%E5%8D%81%E9%83%8E/608653711?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%82%86%E3%81%86%E3%81%B9%E3%81%AF%E3%81%8A%E6%A5%BD%E3%81%97%E3%81%BF%E3%81%A7%E3%81%97%E3%81%9F%E3%81%AD-13%E5%B7%BB/id6806175396?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/cd/9b/17/cd9b17bd-8b56-e72a-0316-39cfad1a6f96/BT000030756701301301900209.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/cd/9b/17/cd9b17bd-8b56-e72a-0316-39cfad1a6f96/BT000030756701301301900209.jpg/100x100bb.jpg",
+      "releaseDate": "2026-10-23T07:00:00Z",
+      "trackId": 6806175396,
+      "trackName": "ゆうべはお楽しみでしたね 13巻",
+      "genres": [
+        "ギャグ／コメディ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "ラブコメディ",
+        "ヒューマンドラマ",
+        "青年",
+        "メディア化"
+      ],
+      "price": 700,
+      "country": "JPN"
+    }
+  ]
+}

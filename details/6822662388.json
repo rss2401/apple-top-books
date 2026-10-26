@@ -1,0 +1,32 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Les Aventures de Lucky Luke d'après Morris - Tome 12 - Saint Lucky Luke",
+      "artistViewUrl": "https://books.apple.com/fr/artist/jul/895119728?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-aventures-de-lucky-luke-dapr%C3%A8s-morris-tome-12/id6822662388?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/01/ae/f0/01aef0f9-dce0-d88b-67c5-bcb58ca70fda/9782889880157.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/01/ae/f0/01aef0f9-dce0-d88b-67c5-bcb58ca70fda/9782889880157.jpg/100x100bb.jpg",
+      "artistIds": [
+        895119728
+      ],
+      "artistId": 895119728,
+      "artistName": "Jul",
+      "genres": [
+        "BD et mangas",
+        "Livres"
+      ],
+      "trackId": 6822662388,
+      "trackName": "Les Aventures de Lucky Luke d'après Morris - Tome 12 - Saint Lucky Luke",
+      "releaseDate": "2026-11-06T08:00:00Z",
+      "genreIds": [
+        "9026",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Lucky Luke doit faire face à un nouvel ennemi, bien plus redoutable qu’un desperado ou une tribu de guerriers indiens : la crédulité et le fanatisme religieux ! <br /><br />Croyant débarquer dans un coin tranquille du Kansas, Lucky Luke se trouve pris dans une série d’évènements incontrôlables : convaincus par deux gourous sans scrupules que notre cow-boy est un être doué de pouvoirs surnaturels, les habitants de deux villes vont développer une véritable religion dédiée à Lucky Luke, bien malgré lui... L’homme qui tire plus vite que son ombre saura-t-il échapper aux pièges de l’obscurantisme ?",
+      "country": "FRA"
+    }
+  ]
+}

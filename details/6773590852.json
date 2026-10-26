@@ -1,0 +1,41 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1828591380,
+        6773590084
+      ],
+      "genres": [
+        "アクション",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "グラフィックノベル"
+      ],
+      "genreIds": [
+        "50000071",
+        "38",
+        "9026",
+        "10016",
+        "10015"
+      ],
+      "trackId": 6773590852,
+      "trackName": "祈られすぎた氷河期世代は軍神に転生し復讐の刃を振り下ろす 1話",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "氷河期世代で不遇な日々を送る非正規社員の佐藤正晴(46)。会社の非道な扱いで妹の死に目にも会えず、絶望に沈み世界を憎む佐藤は突然、異世界に転生。目が覚めた佐藤は、傭兵のリーダーで「軍神」と恐れられる美少女クレアになっていた。そして転生したのは佐藤だけではなく・・・血まみれの復讐劇が今始まる!!",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%9F%BF%E6%A0%97%E6%A1%83-%E7%BE%A4%E9%A6%AC%E3%81%8F%E3%82%93/1828591380?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E7%A5%88%E3%82%89%E3%82%8C%E3%81%99%E3%81%8E%E3%81%9F%E6%B0%B7%E6%B2%B3%E6%9C%9F%E4%B8%96%E4%BB%A3%E3%81%AF%E8%BB%8D%E7%A5%9E%E3%81%AB%E8%BB%A2%E7%94%9F%E3%81%97%E5%BE%A9%E8%AE%90%E3%81%AE%E5%88%83%E3%82%92%E6%8C%AF%E3%82%8A%E4%B8%8B%E3%82%8D%E3%81%99-1%E8%A9%B1/id6773590852?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/8f/28/fe/8f28fe1c-e050-cf16-aea8-0a12cd438d7b/27447_130960143_001_001_artwork_20260527115434.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/8f/28/fe/8f28fe1c-e050-cf16-aea8-0a12cd438d7b/27447_130960143_001_001_artwork_20260527115434.jpg/100x100bb.jpg",
+      "trackCensoredName": "祈られすぎた氷河期世代は軍神に転生し復讐の刃を振り下ろす 1話",
+      "formattedPrice": "無料",
+      "releaseDate": "2026-06-18T07:00:00Z",
+      "price": 0,
+      "artistId": 1828591380,
+      "artistName": "柿栗桃 & 群馬くん",
+      "country": "JPN"
+    }
+  ]
+}

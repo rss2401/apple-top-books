@@ -5,17 +5,17 @@
       "artistIds": [
         30689916
       ],
-      "artistId": 30689916,
-      "artistName": "Jo Nesbø",
       "genres": [
         "Krimis und Thriller",
         "Bücher",
         "Belletristik und Literatur"
       ],
+      "artistId": 30689916,
+      "artistName": "Jo Nesbø",
       "price": 4.99,
-      "releaseDate": "1608-01-01T08:00:00Z",
       "trackId": 409312068,
       "trackName": "Der Fledermausmann",
+      "releaseDate": "1608-01-01T08:00:00Z",
       "genreIds": [
         "9032",
         "38",
@@ -31,7 +31,7 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/53/73/88/5373889c-fb64-cbdd-4ce8-acfd006cfdf6/9783548920658.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/53/73/88/5373889c-fb64-cbdd-4ce8-acfd006cfdf6/9783548920658.jpg/100x100bb.jpg",
       "averageUserRating": 3.5,
-      "userRatingCount": 338,
+      "userRatingCount": 339,
       "country": "DEU"
     }
   ]

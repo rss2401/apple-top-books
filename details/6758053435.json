@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1569816751
+      ],
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Polizeiromane"
+      ],
+      "artistId": 1569816751,
+      "artistName": "Krinke Rehberg",
+      "price": 4.99,
+      "trackId": 6758053435,
+      "trackName": "SYLTKRIMI Nordseegrab",
+      "releaseDate": "2023-12-13T08:00:00Z",
+      "genreIds": [
+        "9032",
+        "38",
+        "10052"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Hauptkommissarin Bente Brodersen ermittelt mit friesischer Sturheit auf Deutschlands nördlichster Insel.\nAm Strand von Sylt machen zwei Teenager eine grausige Entdeckung. Eine Wasserleiche wird vor Wenningstedt angespült. Ihre Identität lässt sich nicht feststellen. Der Toten wurden beide Hände abgetrennt.\nBente Brodersen und ihr Team verfolgen eine Spur ins Sylter Rotlichtmilieu, als ein weiterer Mord geschieht. In welcher Verbindung standen die zwei Toten zueinander und welche Rolle spielt eine zwanzig Jahre zurückliegende Entführung in diesem Fall?\nAls Bente mit ihrer eigenen Vergangenheit konfrontiert wird, kommt sie der Lösung des Falles näher.\nDie raue See, der frische Wind und die endlosen Dünen machen SYLT zum idealen Schauplatz der spannenden Küstenkrimis.\n\nJeder Teil der Syltkrimiserie ist in sich abgeschlossen und kann unabhängig voneinander gelesen werden.",
+      "formattedPrice": "4,99 €",
+      "trackCensoredName": "SYLTKRIMI Nordseegrab",
+      "artistViewUrl": "https://books.apple.com/de/artist/krinke-rehberg/1569816751?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/syltkrimi-nordseegrab/id6758053435?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ab/cd/a0/abcda0d0-3a5e-1c93-aad3-ff8d28a5a31f/9783757983628.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ab/cd/a0/abcda0d0-3a5e-1c93-aad3-ff8d28a5a31f/9783757983628.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 16,
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1573081873
+      ],
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher",
+        "Science-Fiction und Fantasy",
+        "Fantasy"
+      ],
+      "artistId": 1573081873,
+      "artistName": "Liv Zander",
+      "trackId": 6789160331,
+      "trackName": "Shadows So Cruel",
+      "releaseDate": "2026-11-18T08:00:00Z",
+      "genreIds": [
+        "9031",
+        "38",
+        "9020",
+        "10044"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Schmerzhafter als die Liebe sind die Geheimnisse, die uns verbinden und trennen. Treibend in einem Krieg suchen wir, sehnen wir uns nach der Frau, die uns verlassen hat. Wir haben ihr Herz gebrochen, aber sie hat ihre Flügel ausgebreitet, unsere Liebste, unsere kleine Taube, und ist unseren Krallen mit reinweißen Flügeln entkommen.",
+      "trackCensoredName": "Shadows So Cruel",
+      "artistViewUrl": "https://books.apple.com/de/artist/liv-zander/1573081873?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/shadows-so-cruel/id6789160331?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/94/b0/de/94b0de9e-70fb-9edb-d943-abeeeb5fe945/1066932292.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/94/b0/de/94b0de9e-70fb-9edb-d943-abeeeb5fe945/1066932292.jpg/100x100bb.jpg",
+      "country": "DEU"
+    }
+  ]
+}

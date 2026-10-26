@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        657648573
+      ],
+      "artistId": 657648573,
+      "artistName": "太田垣康男",
+      "trackId": 6822868287,
+      "trackName": "MOONLIGHT MILE【完全版】  (24)",
+      "genreIds": [
+        "50000071",
+        "38",
+        "9026",
+        "10016",
+        "11338",
+        "50000086"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "ロストマン救出のため、月の裏側にある米宇宙軍の秘密基地ファーサイドベースを目指す歩と吾郎たち。<br />宇宙ではインディペンデンス号が米宇宙軍の迎撃を突破し、月面では吾郎たちが無人戦車部隊と激突!<br />Jr.とレニーも戦いに加わり、ついにファーサイドベースの入り口へ!<br />月の未来を懸けたロストマン救出作戦、その行方は――!?<br /><br />本コンテンツは、旧版24巻にフルカラー彩色と新規描き下ろしを加えたアップグレード版です。<br />旧版をお持ちの方にも新たな魅力をお楽しみいただける内容となっておりますが、本編収録範囲は同一となりますので、あらかじめご了承のうえお買い求めください。",
+      "formattedPrice": "¥1,300",
+      "trackCensoredName": "MOONLIGHT MILE【完全版】  (24)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E5%A4%AA%E7%94%B0%E5%9E%A3%E5%BA%B7%E7%94%B7/657648573?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/moonlight-mile-%E5%AE%8C%E5%85%A8%E7%89%88-24/id6822868287?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/96/e3/73/96e373d5-6cdd-ae75-869d-a43a09b1d56f/BT000136981602502501900209.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/96/e3/73/96e373d5-6cdd-ae75-869d-a43a09b1d56f/BT000136981602502501900209.jpg/100x100bb.jpg",
+      "releaseDate": "2026-10-23T07:00:00Z",
+      "genres": [
+        "アクション",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "青年",
+        "SF"
+      ],
+      "price": 1300,
+      "country": "JPN"
+    }
+  ]
+}

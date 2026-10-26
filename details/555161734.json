@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "How to Find Out Anything",
+      "artistViewUrl": "https://books.apple.com/us/artist/don-macleod/130199528?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/how-to-find-out-anything/id555161734?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/3b/58/b7/3b58b7a3-e57f-5a62-6f3b-40481a9aa4d4/9781101617342.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/3b/58/b7/3b58b7a3-e57f-5a62-6f3b-40481a9aa4d4/9781101617342.jpg/100x100bb.jpg",
+      "artistIds": [
+        130199528
+      ],
+      "formattedPrice": "$1.99",
+      "genres": [
+        "Reference",
+        "Books"
+      ],
+      "artistId": 130199528,
+      "artistName": "Don MacLeod",
+      "price": 1.99,
+      "releaseDate": "2012-08-07T07:00:00Z",
+      "trackId": 555161734,
+      "trackName": "How to Find Out Anything",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>In <i>How to Find Out Anything, </i>master researcher Don MacLeod explains how to find what you're looking for quickly, efficiently, and accurately—and how to avoid the most common mistakes of the Google Age.</b> <br /><br />Not your average research book, <i>How to Find Out Anything </i>shows you how to unveil nearly anything about anyone. From top CEO’s salaries to police records, you’ll learn little-known tricks for discovering the exact information you’re looking for. You’ll learn: <br /><br />• How to really tap the power of Google, and why Google is the best place to start a search, but never the best place to finish it.<br />• The scoop on vast, yet little-known online resources that search engines cannot scour, such as refdesk.com, ipl.org, the University of Michigan Documents Center, and Project Gutenberg, among many others.<br />• How to access free government resources (and put your tax dollars to good use).<br />• How to find experts and other people with special knowledge.<br />• How to dig up seemingly confidential information on people and businesses, from public and private companies to non-profits and international companies.<br /><br />Whether researching for a term paper or digging up dirt on an ex, the advice in this book arms you with the sleuthing skills to tackle any mystery.",
+      "genreIds": [
+        "9033",
+        "38"
+      ],
+      "country": "USA"
+    }
+  ]
+}

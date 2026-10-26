@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Tripwire",
+      "artistViewUrl": "https://books.apple.com/gb/artist/lee-child/17506452?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/tripwire/id436141869?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/f0/a6/2c/f0a62cf2-9315-3ee3-91a1-a479f6d6ced3/9781407070216.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/f0/a6/2c/f0a62cf2-9315-3ee3-91a1-a479f6d6ced3/9781407070216.jpg/100x100bb.jpg",
+      "artistIds": [
+        17506452
+      ],
+      "artistId": 17506452,
+      "artistName": "Lee Child",
+      "genres": [
+        "Crime & Thrillers",
+        "Books",
+        "Fiction & Literature",
+        "Action & Adventure"
+      ],
+      "price": 2.99,
+      "releaseDate": "2008-09-04T07:00:00Z",
+      "trackName": "Tripwire",
+      "trackId": 436141869,
+      "genreIds": [
+        "9032",
+        "38",
+        "9031",
+        "10039"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>The latest Reacher thriller, EXIT STRATEGY, is available now in paperback - the new adventure, CHAIN REACTION, is out in October 2026 and is available to pre-order now!</b><br /><br /><b>--------------</b><br /><br /><b>‘If the final pages of this story don’t make your heart race, then you might want to make sure your heart is still working.’</b> KARIN SLAUGHTER<br /><br /><b>For Jack Reacher, being invisible has become a habit.</b><br /><br />He spends his days digging swimming pools by hand and his nights as the bouncer in a local strip club in the Florida Keys.<br /><br />He doesn't want to be found.<br /><br />But someone has sent a private detective to seek him out. Then Reacher finds the guy beaten to death with his fingertips sliced off. It's time to head north and work out who is trying to find him and why.<br /><b><i>_________</i></b><br /><br />'<b>Lee Child continues his meteoric rise and mastery of suspense with<i> Tripwire</i></b>. It's a tightly-drawn and swift thriller that gives new meaning to what a page-turner should be.' MICHAEL CONNELLY<br />'<b>A slickly effective thriller</b> which confirms Child's ability to keep the reader <b>guessing</b> - and <b>sweating.' </b><i>THE TIMES </i><br /><br />Although the Jack Reacher novels can be read in any order, <i>Tripwire </i>is 3rd in the series.",
+      "formattedPrice": "£2.99",
+      "averageUserRating": 4,
+      "userRatingCount": 1178,
+      "country": "GBR"
+    }
+  ]
+}

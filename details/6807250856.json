@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        6776089962
+      ],
+      "formattedPrice": "Free",
+      "artistId": 6776089962,
+      "artistName": "Camilla Collier",
+      "genres": [
+        "Paranormal Fantasy",
+        "Books",
+        "Sci-Fi & Fantasy",
+        "Fantasy",
+        "Crime & Thrillers",
+        "Cosy Mysteries",
+        "Fiction & Literature"
+      ],
+      "price": 0,
+      "genreIds": [
+        "11004",
+        "38",
+        "9020",
+        "10044",
+        "9032",
+        "11259",
+        "9031"
+      ],
+      "releaseDate": "2026-08-31T07:00:00Z",
+      "trackId": 6807250856,
+      "trackName": "A Stitch Before Dying",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "A vintage dress. A hidden murder. A town woven with lies.<br /><br />At Lantern &amp; Lace, Renee Ross mends fragile garments with care. But restoring a Victorian gown for the Halloween pageant embroils her in a sudden murder investigation. When she brushes the fabric, a wordless impression of betrayal chills her to the bone. To convince the skeptical police, she needs physical evidence, not private intuitions.<br /><br />Joining forces with theater manager Peter Jones, Renee tracks mismatched repairs, altered logs, and simmering rivalries. As autumn deepens, their growing trust becomes her strongest shield against an unseen killer. But the culprit will stop at nothing to silence the truth. Pick up your copy and follow the clues before time runs out!",
+      "trackCensoredName": "A Stitch Before Dying",
+      "artistViewUrl": "https://books.apple.com/gb/artist/camilla-collier/6776089962?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/a-stitch-before-dying/id6807250856?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/97/35/2b/97352b03-6787-9994-f33b-b3416cdb6630/0004405846.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/97/35/2b/97352b03-6787-9994-f33b-b3416cdb6630/0004405846.jpg/100x100bb.jpg",
+      "country": "GBR"
+    }
+  ]
+}

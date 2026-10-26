@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "太宰治全集",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E5%A4%AA%E5%AE%B0%E6%B2%BB/173331980?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E5%A4%AA%E5%AE%B0%E6%B2%BB%E5%85%A8%E9%9B%86/id1024938186?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/2f/8e/38/2f8e3873-fb7d-8664-7929-0d50f3d8f00c/0000000000035A.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/2f/8e/38/2f8e3873-fb7d-8664-7929-0d50f3d8f00c/0000000000035A.jpg/100x100bb.jpg",
+      "artistIds": [
+        173331980
+      ],
+      "formattedPrice": "無料",
+      "genres": [
+        "名作",
+        "ブック",
+        "小説／文学"
+      ],
+      "artistId": 173331980,
+      "artistName": "太宰治",
+      "releaseDate": "2015-07-14T07:00:00Z",
+      "genreIds": [
+        "10042",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "「太宰治全集」は明治から昭和時代にかけて活躍した日本の小説家である太宰治の作品集。この作品には、著者の有名な「彼は昔の彼ならず」「懶惰の歌留多」「老ハイデルベルヒ」「フォスフォレッスセンス」などが収録されている。",
+      "price": 0,
+      "trackId": 1024938186,
+      "trackName": "太宰治全集",
+      "averageUserRating": 3.5,
+      "userRatingCount": 178,
+      "country": "JPN"
+    }
+  ]
+}

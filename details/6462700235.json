@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Takeover",
+      "artistViewUrl": "https://books.apple.com/us/artist/lisa-black/338022482?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/takeover/id6462700235?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/59/52/bd/5952bdc9-5aea-ba15-3cbb-fa853acbc3c3/1057950816.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/59/52/bd/5952bdc9-5aea-ba15-3cbb-fa853acbc3c3/1057950816.jpg/100x100bb.jpg",
+      "artistIds": [
+        338022482
+      ],
+      "price": 0,
+      "artistId": 338022482,
+      "artistName": "Lisa Black",
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books",
+        "Police Procedural"
+      ],
+      "releaseDate": "2009-10-13T07:00:00Z",
+      "trackId": 6462700235,
+      "trackName": "Takeover",
+      "genreIds": [
+        "9032",
+        "38",
+        "10052"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>A gutsy forensic investigator is caught between a gruesome murder and a high stakes bank heist in this crime thriller series debut.</b><br />\n   Early one Thursday morning, forensic scientist Theresa MacLean is called to the scene of a gruesome murder. A powerful executive was beaten to death in front of his own house in suburban Cleveland. It appears to be another grim day at the office for Theresa. But what unfolds during the next eight hours is unlike anything she could imagine.\n   <br />\n   During a robbery at the Federal Reserve Bank, seven people are taken hostage—including Theresa's police detective fiancé. The police bring in the city's best hostage negotiator: handsome, high-profile Chris Cavanaugh. He hasn't lost a victim yet, but Theresa suspects he may be too arrogant to save the day this time.\n   <br />\n   When her fiancé is injured, Teresa manages to trade places with him. Once on the inside, she will use wits, wiles, and technical skills to gain control of the situation. But what appears to be a bank heist turns into something far more complex and deadly, and Theresa must decide how much more she is willing to sacrifice to save innocent lives.",
+      "formattedPrice": "Free",
+      "averageUserRating": 4.5,
+      "userRatingCount": 37,
+      "country": "USA"
+    }
+  ]
+}
