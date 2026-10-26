@@ -14,40 +14,17 @@
     "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
     "country": "fr",
     "icon": "https://www.apple.com/favicon.ico",
-    "updated": "Mon, 19 Oct 2026 10:52:41 +0000",
+    "updated": "Mon, 26 Oct 2026 11:13:03 +0000",
     "results": [
       {
-        "artistName": "Jean-Christophe Grangé",
-        "id": "6792920597",
-        "name": "Tokyorama",
-        "releaseDate": "2026-09-30",
+        "artistName": "L.J. Shen",
+        "id": "6813052371",
+        "name": "Bad Bishop - Society of Villains Tome 01",
+        "releaseDate": "2026-10-21",
         "kind": "books",
-        "artistId": "269443337",
-        "artistUrl": "https://books.apple.com/fr/author/jean-christophe-grang%C3%A9/id269443337",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3b/e3/dc/3be3dca0-55bf-2702-84b2-6fce795a289e/9782226516749.jpg/100x147bb.png",
-        "genres": [
-          {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/tokyorama/id6792920597"
-      },
-      {
-        "artistName": "Ali Hazelwood & Pauline Buscail",
-        "id": "6477066390",
-        "name": "The Love Hypothesis",
-        "releaseDate": "2025-04-02",
-        "kind": "books",
-        "artistId": "1549344169",
-        "artistUrl": "https://books.apple.com/fr/author/ali-hazelwood/id1549344169",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1b/92/30/1b9230d1-392d-9b8b-afde-cf13a6752122/9782381222608-001-x.jpeg/100x150bb.png",
+        "artistId": "1126158048",
+        "artistUrl": "https://books.apple.com/fr/author/l-j-shen/id1126158048",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/74/69/62/746962fe-754b-e813-a683-79b4557b79ff/9791042911287-001-x.jpeg/100x158bb.png",
         "genres": [
           {
             "genreId": "10057",
@@ -63,9 +40,52 @@
             "genreId": "9003",
             "name": "Romance",
             "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "10061",
+            "name": "Thriller romantique",
+            "url": "https://itunes.apple.com/fr/genre/id10061"
+          },
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
           }
         ],
-        "url": "https://books.apple.com/fr/book/the-love-hypothesis/id6477066390"
+        "url": "https://books.apple.com/fr/book/bad-bishop-society-of-villains-tome-01/id6813052371"
+      },
+      {
+        "artistName": "Liz Tomforde",
+        "id": "6793333835",
+        "name": "Windy City - Spin Off - In Her Own League",
+        "releaseDate": "2026-10-22",
+        "kind": "books",
+        "artistId": "1664931985",
+        "artistUrl": "https://books.apple.com/fr/author/liz-tomforde/id1664931985",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/65/8b/e5/658be5fb-f065-d2a6-bf23-db487471c8dd/9782385792695.jpg/100x159bb.png",
+        "genres": [
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "11040",
+            "name": "Romance jeunes adultes",
+            "url": "https://itunes.apple.com/fr/genre/id11040"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/windy-city-spin-off-in-her-own-league/id6793333835"
       },
       {
         "artistName": "Camilla Läckberg",
@@ -91,55 +111,27 @@
         "url": "https://books.apple.com/fr/book/la-pleureuse/id6793048352"
       },
       {
-        "artistName": "Rebecca Yarros",
-        "id": "6817276066",
-        "name": "Threshing Day - version française",
-        "releaseDate": "2026-10-14",
+        "artistName": "Lisa Jewell & Adèle Rolland-le Dem",
+        "id": "6476978753",
+        "name": "On se reverra",
+        "releaseDate": "2021-11-03",
         "kind": "books",
-        "artistId": "802770747",
-        "artistUrl": "https://books.apple.com/fr/author/rebecca-yarros/id802770747",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/cf/74/78/cf7478f6-a56b-7b52-96f0-6f82bcac654a/9791042911850-001-x.jpeg/100x155bb.png",
+        "artistId": "262725607",
+        "artistUrl": "https://books.apple.com/fr/author/lisa-jewell/id262725607",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/aa/7a/24/aa7a2420-32d3-7101-a0d3-e68e39bcfdf7/9782811224332-001-x.jpeg/100x150bb.png",
         "genres": [
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/threshing-day-version-fran%C3%A7aise/id6817276066"
-      },
-      {
-        "artistName": "Giuliano Da Empoli",
-        "id": "6813071997",
-        "name": "Le fondateur",
-        "releaseDate": "2026-10-01",
-        "kind": "books",
-        "artistId": "663411995",
-        "artistUrl": "https://books.apple.com/fr/author/giuliano-da-empoli/id663411995",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/92/e3/f0/92e3f015-4529-dfb3-0de6-0ad594306574/9782073170682.jpg/100x146bb.png",
-        "genres": [
-          {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
           {
             "genreId": "9032",
             "name": "Policier et suspense",
             "url": "https://itunes.apple.com/fr/genre/id9032"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
           }
         ],
-        "url": "https://books.apple.com/fr/book/le-fondateur/id6813071997"
+        "url": "https://books.apple.com/fr/book/on-se-reverra/id6476978753"
       },
       {
         "artistName": "Sarah Knafo",
@@ -165,42 +157,47 @@
         "url": "https://books.apple.com/fr/book/le-casse-du-si%C3%A8cle/id6795193017"
       },
       {
-        "artistName": "Adélaïde de Clermont-Tonnerre",
-        "id": "1122455724",
-        "name": "Le dernier des nôtres",
-        "releaseDate": "2016-08-17",
+        "artistName": "Freida McFadden",
+        "id": "6479750162",
+        "name": "La psy",
+        "releaseDate": "2024-04-17",
         "kind": "books",
-        "artistId": "373181333",
-        "artistUrl": "https://books.apple.com/fr/author/ad%C3%A9la%C3%AFde-de-clermont-tonnerre/id373181333",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/29/4f/51/294f5183-969d-19dc-4e6b-e1d14b4fa5fa/9782246861904-001-x.jpeg/100x146bb.png",
+        "artistId": "1101564107",
+        "artistUrl": "https://books.apple.com/fr/author/freida-mcfadden/id1101564107",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/77/71/b8/7771b885-8d04-24cd-8935-2a2de2000b2e/9782824639512-001-x.jpeg/100x155bb.png",
         "genres": [
           {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
+            "genreId": "9032",
+            "name": "Policier et suspense",
+            "url": "https://itunes.apple.com/fr/genre/id9032"
           },
           {
             "genreId": "38",
             "name": "Livres",
             "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
           }
         ],
-        "url": "https://books.apple.com/fr/book/le-dernier-des-n%C3%B4tres/id1122455724"
+        "url": "https://books.apple.com/fr/book/la-psy/id6479750162"
       },
       {
-        "artistName": "Antonio Garrido",
-        "id": "824347998",
-        "name": "Le lecteur de cadavres",
-        "releaseDate": "2014-03-19",
+        "artistName": "Jean-Christophe Grangé",
+        "id": "6792920597",
+        "name": "Tokyorama",
+        "releaseDate": "2026-09-30",
         "kind": "books",
-        "artistId": "476003813",
-        "artistUrl": "https://books.apple.com/fr/author/antonio-garrido/id476003813",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6b/2c/b1/6b2cb104-5826-c2f2-e617-b6efdec4e354/9782246802440-001-x.jpeg/100x150bb.png",
+        "artistId": "269443337",
+        "artistUrl": "https://books.apple.com/fr/author/jean-christophe-grang%C3%A9/id269443337",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3b/e3/dc/3be3dca0-55bf-2702-84b2-6fce795a289e/9782226516749.jpg/100x147bb.png",
         "genres": [
           {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
+            "genreId": "9032",
+            "name": "Policier et suspense",
+            "url": "https://itunes.apple.com/fr/genre/id9032"
           },
           {
             "genreId": "38",
@@ -208,7 +205,35 @@
             "url": "https://itunes.apple.com/fr/genre/id38"
           }
         ],
-        "url": "https://books.apple.com/fr/book/le-lecteur-de-cadavres/id824347998"
+        "url": "https://books.apple.com/fr/book/tokyorama/id6792920597"
+      },
+      {
+        "artistName": "Anna Zaires",
+        "id": "6817516959",
+        "name": "Captive du Prince",
+        "releaseDate": "2026-10-20",
+        "kind": "books",
+        "artistId": "593202904",
+        "artistUrl": "https://books.apple.com/fr/author/anna-zaires/id593202904",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/33/28/3a/33283ad4-87e1-0079-e094-764bd3f8d9e2/e6cf91ca-0312-41a4-b4d7-da42a59dd3e0_cover_image.jpg/100x150bb.png",
+        "genres": [
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "10058",
+            "name": "Romance paranormale",
+            "url": "https://itunes.apple.com/fr/genre/id10058"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/captive-du-prince/id6817516959"
       },
       {
         "artistName": "Emily Henry & Claire Allouch",
@@ -239,96 +264,32 @@
         "url": "https://books.apple.com/fr/book/funny-story/id6743745968"
       },
       {
-        "artistName": "Marc Levy",
-        "id": "6805213206",
-        "name": "Les Evadées - Partie 2",
-        "releaseDate": "2026-10-15",
+        "artistName": "Anna Triss",
+        "id": "6756182077",
+        "name": "Hellstone Academy, Tome 1 : My Bloody Princes",
+        "releaseDate": "2026-01-22",
         "kind": "books",
-        "artistId": "286592678",
-        "artistUrl": "https://books.apple.com/fr/author/marc-levy/id286592678",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/10/f4/4d/10f44dc2-3682-d5bc-f3b9-44356c30a233/9782361324940.jpg/100x150bb.png",
+        "artistId": "1461447481",
+        "artistUrl": "https://books.apple.com/fr/author/anna-triss/id1461447481",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c1/09/6a/c1096a5b-484e-455a-e649-202b59d3f887/9782017330295-001-x.jpeg/100x151bb.png",
         "genres": [
           {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
           },
           {
             "genreId": "38",
             "name": "Livres",
             "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/les-evad%C3%A9es-partie-2/id6805213206"
-      },
-      {
-        "artistName": "Rebecca Yarros",
-        "id": "6474303567",
-        "name": "Fourth Wing - Version française",
-        "releaseDate": "2024-02-07",
-        "kind": "books",
-        "artistId": "802770747",
-        "artistUrl": "https://books.apple.com/fr/author/rebecca-yarros/id802770747",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/14/cd/59/14cd594a-dd90-ec8f-ae3b-049575aa977b/9782755673081-001-x.jpeg/100x155bb.png",
-        "genres": [
+          },
           {
             "genreId": "9003",
             "name": "Romance",
             "url": "https://itunes.apple.com/fr/genre/id9003"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
           }
         ],
-        "url": "https://books.apple.com/fr/book/fourth-wing-version-fran%C3%A7aise/id6474303567"
-      },
-      {
-        "artistName": "Lacrim",
-        "id": "6810859407",
-        "name": "De ma fenêtre",
-        "releaseDate": "2026-10-15",
-        "kind": "books",
-        "artistId": "361434320",
-        "artistUrl": "https://books.apple.com/fr/author/lacrim/id361434320",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/78/34/99/78349977-5b58-4fc6-c7c5-a31db7b40200/9782488581493.jpg/100x150bb.png",
-        "genres": [
-          {
-            "genreId": "9008",
-            "name": "Biographies et mémoires",
-            "url": "https://itunes.apple.com/fr/genre/id9008"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/de-ma-fen%C3%AAtre/id6810859407"
-      },
-      {
-        "artistName": "Marc Levy",
-        "id": "6804833197",
-        "name": "Les Évadées - Partie 1",
-        "releaseDate": "2026-09-22",
-        "kind": "books",
-        "artistId": "286592678",
-        "artistUrl": "https://books.apple.com/fr/author/marc-levy/id286592678",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6c/bc/15/6cbc15c4-aeae-acae-85ee-a841ed43322f/9782361324964.jpg/100x150bb.png",
-        "genres": [
-          {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/les-%C3%A9vad%C3%A9es-partie-1/id6804833197"
+        "url": "https://books.apple.com/fr/book/hellstone-academy-tome-1-my-bloody-princes/id6756182077"
       },
       {
         "artistName": "Freida McFadden",
@@ -357,6 +318,294 @@
           }
         ],
         "url": "https://books.apple.com/fr/book/ch%C3%A8re-debbie/id6789093525"
+      },
+      {
+        "artistName": "Ken Follett",
+        "id": "579624413",
+        "name": "Les Lions du Panshir",
+        "releaseDate": "2012-11-19",
+        "kind": "books",
+        "artistId": "41828779",
+        "artistUrl": "https://books.apple.com/fr/author/ken-follett/id41828779",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9f/1a/7a/9f1a7a27-75b7-a45c-c0ce-7333c313cee3/9782253174615-001-x.jpeg/100x162bb.png",
+        "genres": [
+          {
+            "genreId": "9032",
+            "name": "Policier et suspense",
+            "url": "https://itunes.apple.com/fr/genre/id9032"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/les-lions-du-panshir/id579624413"
+      },
+      {
+        "artistName": "Arielle Héra",
+        "id": "6795193047",
+        "name": "Pretty Lies",
+        "releaseDate": "2026-10-07",
+        "kind": "books",
+        "artistId": "1610935290",
+        "artistUrl": "https://books.apple.com/fr/author/arielle-h%C3%A9ra/id1610935290",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0a/fa/8c/0afa8cbe-d02a-02b8-7091-00eca70f4d97/9791025762325-001-x.jpeg/100x159bb.png",
+        "genres": [
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/pretty-lies/id6795193047"
+      },
+      {
+        "artistName": "Marc Levy",
+        "id": "6805213206",
+        "name": "Les Evadées - Partie 2",
+        "releaseDate": "2026-10-15",
+        "kind": "books",
+        "artistId": "286592678",
+        "artistUrl": "https://books.apple.com/fr/author/marc-levy/id286592678",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/10/f4/4d/10f44dc2-3682-d5bc-f3b9-44356c30a233/9782361324940.jpg/100x150bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/les-evad%C3%A9es-partie-2/id6805213206"
+      },
+      {
+        "artistName": "Pauline Libersart",
+        "id": "6477065934",
+        "name": "L'Iceberg",
+        "releaseDate": "2024-02-01",
+        "kind": "books",
+        "artistId": "674539869",
+        "artistUrl": "https://books.apple.com/fr/author/pauline-libersart/id674539869",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/c8/85/15/c885153c-a0f4-ab0f-528f-f6b1eace51b9/cover.jpg/100x145bb.png",
+        "genres": [
+          {
+            "genreId": "11233",
+            "name": "Romance militaire",
+            "url": "https://itunes.apple.com/fr/genre/id11233"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/liceberg/id6477065934"
+      },
+      {
+        "artistName": "Adélaïde de Clermont-Tonnerre",
+        "id": "1122455724",
+        "name": "Le dernier des nôtres",
+        "releaseDate": "2016-08-17",
+        "kind": "books",
+        "artistId": "373181333",
+        "artistUrl": "https://books.apple.com/fr/author/ad%C3%A9la%C3%AFde-de-clermont-tonnerre/id373181333",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/29/4f/51/294f5183-969d-19dc-4e6b-e1d14b4fa5fa/9782246861904-001-x.jpeg/100x146bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/le-dernier-des-n%C3%B4tres/id1122455724"
+      },
+      {
+        "artistName": "Ali Hazelwood & Pauline Buscail",
+        "id": "6477066390",
+        "name": "The Love Hypothesis",
+        "releaseDate": "2025-04-02",
+        "kind": "books",
+        "artistId": "1549344169",
+        "artistUrl": "https://books.apple.com/fr/author/ali-hazelwood/id1549344169",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1b/92/30/1b9230d1-392d-9b8b-afde-cf13a6752122/9782381222608-001-x.jpeg/100x150bb.png",
+        "genres": [
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/the-love-hypothesis/id6477066390"
+      },
+      {
+        "artistName": "Sarah J. Maas",
+        "id": "6771687890",
+        "name": "ACOTAR - Tome 6",
+        "releaseDate": "2026-10-28",
+        "kind": "books",
+        "artistId": "535404063",
+        "artistUrl": "https://books.apple.com/fr/author/sarah-j-maas/id535404063",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ef/f7/17/eff717cb-5bb5-06d3-04b4-0c46ee1563ab/9791040128748.jpg/100x148bb.png",
+        "genres": [
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9020",
+            "name": "SF et fantasy",
+            "url": "https://itunes.apple.com/fr/genre/id9020"
+          },
+          {
+            "genreId": "10044",
+            "name": "Fantasy",
+            "url": "https://itunes.apple.com/fr/genre/id10044"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/acotar-tome-6/id6771687890"
+      },
+      {
+        "artistName": "Agnès Martin-Lugand",
+        "id": "6789377911",
+        "name": "Retour à Folegandros - Le nouveau roman d'Agnès Martin-Lugand 2026",
+        "releaseDate": "2026-09-17",
+        "kind": "books",
+        "artistId": "595101005",
+        "artistUrl": "https://books.apple.com/fr/author/agn%C3%A8s-martin-lugand/id595101005",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ad/fb/4c/adfb4ced-d5f0-f766-ca8c-06d3dd62b025/9782749966137.jpg/100x160bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/retour-%C3%A0-folegandros-le-nouveau-roman-dagn%C3%A8s-martin/id6789377911"
+      },
+      {
+        "artistName": "Trondheim",
+        "id": "6791098609",
+        "name": "Gaston - Tome 23 - Des Boum et des Paf",
+        "releaseDate": "2026-10-21",
+        "kind": "books",
+        "artistId": "514998134",
+        "artistUrl": "https://books.apple.com/fr/author/trondheim/id514998134",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/23/18/c7/2318c758-0bc6-9471-1410-a420031aa69d/9782808519892.jpg/100x138bb.png",
+        "genres": [
+          {
+            "genreId": "9026",
+            "name": "BD et mangas",
+            "url": "https://itunes.apple.com/fr/genre/id9026"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/gaston-tome-23-des-boum-et-des-paf/id6791098609"
+      },
+      {
+        "artistName": "S.T. Abby",
+        "id": "6791132074",
+        "name": "Mindf*ck série - Tome 5 : Tout peindre en rouge",
+        "releaseDate": "2026-09-24",
+        "kind": "books",
+        "artistId": "1181074890",
+        "artistUrl": "https://books.apple.com/fr/author/s-t-abby/id1181074890",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b2/35/11/b235115d-8b45-c5f9-e79f-fe47312de14b/9782017373858-001-x.jpeg/100x162bb.png",
+        "genres": [
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/mindf-ck-s%C3%A9rie-tome-5-tout-peindre-en-rouge/id6791132074"
+      },
+      {
+        "artistName": "Antonio Garrido",
+        "id": "824347998",
+        "name": "Le lecteur de cadavres",
+        "releaseDate": "2014-03-19",
+        "kind": "books",
+        "artistId": "476003813",
+        "artistUrl": "https://books.apple.com/fr/author/antonio-garrido/id476003813",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6b/2c/b1/6b2cb104-5826-c2f2-e617-b6efdec4e354/9782246802440-001-x.jpeg/100x150bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/le-lecteur-de-cadavres/id824347998"
       },
       {
         "artistName": "Tessa Ellwick",
@@ -392,230 +641,6 @@
         "url": "https://books.apple.com/fr/book/play-nice-coach/id6819287077"
       },
       {
-        "artistName": "Anna Triss",
-        "id": "6756182077",
-        "name": "Hellstone Academy, Tome 1 : My Bloody Princes",
-        "releaseDate": "2026-01-22",
-        "kind": "books",
-        "artistId": "1461447481",
-        "artistUrl": "https://books.apple.com/fr/author/anna-triss/id1461447481",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c1/09/6a/c1096a5b-484e-455a-e649-202b59d3f887/9782017330295-001-x.jpeg/100x151bb.png",
-        "genres": [
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/hellstone-academy-tome-1-my-bloody-princes/id6756182077"
-      },
-      {
-        "artistName": "Lisa Jewell & Adèle Rolland-le Dem",
-        "id": "6476978753",
-        "name": "On se reverra",
-        "releaseDate": "2021-11-03",
-        "kind": "books",
-        "artistId": "262725607",
-        "artistUrl": "https://books.apple.com/fr/author/lisa-jewell/id262725607",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/aa/7a/24/aa7a2420-32d3-7101-a0d3-e68e39bcfdf7/9782811224332-001-x.jpeg/100x150bb.png",
-        "genres": [
-          {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/on-se-reverra/id6476978753"
-      },
-      {
-        "artistName": "Oreco Tachibana",
-        "id": "6805464628",
-        "name": "Les Noces des lucioles - Tome 09",
-        "releaseDate": "2026-10-07",
-        "kind": "books",
-        "artistId": "1750079252",
-        "artistUrl": "https://books.apple.com/fr/author/oreco-tachibana/id1750079252",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/23/7e/ca/237ecaf8-bd08-3b35-4e18-e5f5ab0cf052/9782331091209-001-x.jpeg/100x138bb.png",
-        "genres": [
-          {
-            "genreId": "50000084",
-            "name": "Manga : Romance",
-            "url": "https://itunes.apple.com/fr/genre/id50000084"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "BD et mangas",
-            "url": "https://itunes.apple.com/fr/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "Manga",
-            "url": "https://itunes.apple.com/fr/genre/id10016"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/les-noces-des-lucioles-tome-09/id6805464628"
-      },
-      {
-        "artistName": "Oreco Tachibana",
-        "id": "6756061233",
-        "name": "Les Noces des lucioles - Tome 06",
-        "releaseDate": "2026-01-21",
-        "kind": "books",
-        "artistId": "1750079252",
-        "artistUrl": "https://books.apple.com/fr/author/oreco-tachibana/id1750079252",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/67/87/6b/67876b2b-9db1-bcc4-d254-da1171626ae1/9782331090196-001-x.jpeg/100x138bb.png",
-        "genres": [
-          {
-            "genreId": "50000084",
-            "name": "Manga : Romance",
-            "url": "https://itunes.apple.com/fr/genre/id50000084"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "BD et mangas",
-            "url": "https://itunes.apple.com/fr/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "Manga",
-            "url": "https://itunes.apple.com/fr/genre/id10016"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/les-noces-des-lucioles-tome-06/id6756061233"
-      },
-      {
-        "artistName": "Fiona Davis",
-        "id": "6740913549",
-        "name": "L’héritière du Dakota Building",
-        "releaseDate": "2026-05-13",
-        "kind": "books",
-        "artistId": "1073810891",
-        "artistUrl": "https://books.apple.com/fr/author/fiona-davis/id1073810891",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/31/d4/ca/31d4ca16-2a62-2619-507a-579c682d0165/cover.jpg/100x150bb.png",
-        "genres": [
-          {
-            "genreId": "10049",
-            "name": "Fiction et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id10049"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/lh%C3%A9riti%C3%A8re-du-dakota-building/id6740913549"
-      },
-      {
-        "artistName": "Agnès Martin-Lugand",
-        "id": "6789377911",
-        "name": "Retour à Folegandros - Le nouveau roman d'Agnès Martin-Lugand 2026",
-        "releaseDate": "2026-09-17",
-        "kind": "books",
-        "artistId": "595101005",
-        "artistUrl": "https://books.apple.com/fr/author/agn%C3%A8s-martin-lugand/id595101005",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ad/fb/4c/adfb4ced-d5f0-f766-ca8c-06d3dd62b025/9782749966137.jpg/100x160bb.png",
-        "genres": [
-          {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/retour-%C3%A0-folegandros-le-nouveau-roman-dagn%C3%A8s-martin/id6789377911"
-      },
-      {
-        "artistName": "The Shift Project",
-        "id": "6819235564",
-        "name": "Réussir à l'ère des crises",
-        "releaseDate": "2026-10-14",
-        "kind": "books",
-        "artistId": "1605763736",
-        "artistUrl": "https://books.apple.com/fr/author/the-shift-project/id1605763736",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5b/a5/66/5ba566de-272b-0eda-7e71-6b4706a89dab/9782415016739.jpg/100x148bb.png",
-        "genres": [
-          {
-            "genreId": "11066",
-            "name": "Écologie",
-            "url": "https://itunes.apple.com/fr/genre/id11066"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9019",
-            "name": "Science et nature",
-            "url": "https://itunes.apple.com/fr/genre/id9019"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/r%C3%A9ussir-%C3%A0-l%C3%A8re-des-crises/id6819235564"
-      },
-      {
-        "artistName": "Marie Vareille",
-        "id": "6473976589",
-        "name": "La Dernière allumette",
-        "releaseDate": "2025-04-02",
-        "kind": "books",
-        "artistId": "884947563",
-        "artistUrl": "https://books.apple.com/fr/author/marie-vareille/id884947563",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1d/c0/c9/1dc0c972-e80f-4b6a-1188-76207841422b/9782385291396.jpg/100x159bb.png",
-        "genres": [
-          {
-            "genreId": "10049",
-            "name": "Fiction et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id10049"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/la-derni%C3%A8re-allumette/id6473976589"
-      },
-      {
         "artistName": "Thélyson Orélien",
         "id": "6779188241",
         "name": "C'était ça ou mourir",
@@ -637,314 +662,6 @@
           }
         ],
         "url": "https://books.apple.com/fr/book/c%C3%A9tait-%C3%A7a-ou-mourir/id6779188241"
-      },
-      {
-        "artistName": "Agatha Christie",
-        "id": "1083627374",
-        "name": "Intégrale Miss Marple (premier volume)",
-        "releaseDate": "2016-02-17",
-        "kind": "books",
-        "artistId": "2035795",
-        "artistUrl": "https://books.apple.com/fr/author/agatha-christie/id2035795",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1e/04/31/1e04311f-660e-fde5-2f36-f53d3222ab69/9782702445310-001-x.jpeg/100x153bb.png",
-        "genres": [
-          {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/int%C3%A9grale-miss-marple-premier-volume/id1083627374"
-      },
-      {
-        "artistName": "Laura Ezrena",
-        "id": "6740201784",
-        "name": "The Sons of Death - tome 1",
-        "releaseDate": "2025-02-27",
-        "kind": "books",
-        "artistId": "1788878034",
-        "artistUrl": "https://books.apple.com/fr/author/laura-ezrena/id1788878034",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7c/fa/20/7cfa204b-aa48-cb1e-b3bf-83c348fe5a76/9782017269878-001-x.jpeg/100x159bb.png",
-        "genres": [
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          },
-          {
-            "genreId": "10061",
-            "name": "Thriller romantique",
-            "url": "https://itunes.apple.com/fr/genre/id10061"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/the-sons-of-death-tome-1/id6740201784"
-      },
-      {
-        "artistName": "Arielle Héra",
-        "id": "6795193047",
-        "name": "Pretty Lies",
-        "releaseDate": "2026-10-07",
-        "kind": "books",
-        "artistId": "1610935290",
-        "artistUrl": "https://books.apple.com/fr/author/arielle-h%C3%A9ra/id1610935290",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0a/fa/8c/0afa8cbe-d02a-02b8-7091-00eca70f4d97/9791025762325-001-x.jpeg/100x159bb.png",
-        "genres": [
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/pretty-lies/id6795193047"
-      },
-      {
-        "artistName": "S.T. Abby",
-        "id": "6791132075",
-        "name": "Mindf*ck série - Tome 1 : Le risque",
-        "releaseDate": "2026-09-24",
-        "kind": "books",
-        "artistId": "1181074890",
-        "artistUrl": "https://books.apple.com/fr/author/s-t-abby/id1181074890",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d3/0f/a0/d30fa0c5-80e5-80db-8f6f-856d3b248062/9782017373520-001-x.jpeg/100x162bb.png",
-        "genres": [
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/mindf-ck-s%C3%A9rie-tome-1-le-risque/id6791132075"
-      },
-      {
-        "artistName": "Tessa Ellwick",
-        "id": "6820105590",
-        "name": "Breathe Easy, Captain",
-        "releaseDate": "2026-10-05",
-        "kind": "books",
-        "artistId": "6819287325",
-        "artistUrl": "https://books.apple.com/fr/author/tessa-ellwick/id6819287325",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/46/c7/7b/46c77b76-5eee-e84e-9e66-26e713d6478e/0004452600.jpg/100x150bb.png",
-        "genres": [
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
-          },
-          {
-            "genreId": "11040",
-            "name": "Romance jeunes adultes",
-            "url": "https://itunes.apple.com/fr/genre/id11040"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/breathe-easy-captain/id6820105590"
-      },
-      {
-        "artistName": "Charles Alloncle",
-        "id": "6809687650",
-        "name": "Je jure de dire toute la vérité",
-        "releaseDate": "2026-09-30",
-        "kind": "books",
-        "artistId": "6809687651",
-        "artistUrl": "https://books.apple.com/fr/author/charles-alloncle/id6809687651",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/bb/68/ef/bb68ef96-1a58-f913-8fb0-2d6e6be06af6/9782213737225-001-x.jpeg/100x160bb.png",
-        "genres": [
-          {
-            "genreId": "9034",
-            "name": "Politique et actualité",
-            "url": "https://itunes.apple.com/fr/genre/id9034"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/je-jure-de-dire-toute-la-v%C3%A9rit%C3%A9/id6809687650"
-      },
-      {
-        "artistName": "Vi Keeland",
-        "id": "6759933092",
-        "name": "Quiproquo",
-        "releaseDate": "2026-09-23",
-        "kind": "books",
-        "artistId": "639401764",
-        "artistUrl": "https://books.apple.com/fr/author/vi-keeland/id639401764",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/cd/ea/b0/cdeab0e1-05df-7f72-a5b8-a61cecae5450/82493548-8e52-46f2-bae1-d6411c367495_cover_image.jpg/100x154bb.png",
-        "genres": [
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/quiproquo/id6759933092"
-      },
-      {
-        "artistName": "Freida McFadden",
-        "id": "6479750162",
-        "name": "La psy",
-        "releaseDate": "2024-04-17",
-        "kind": "books",
-        "artistId": "1101564107",
-        "artistUrl": "https://books.apple.com/fr/author/freida-mcfadden/id1101564107",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/77/71/b8/7771b885-8d04-24cd-8935-2a2de2000b2e/9782824639512-001-x.jpeg/100x155bb.png",
-        "genres": [
-          {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/la-psy/id6479750162"
-      },
-      {
-        "artistName": "Alex Aster",
-        "id": "6802879900",
-        "name": "Starside - Tome 1 Starside",
-        "releaseDate": "2026-10-01",
-        "kind": "books",
-        "artistId": "1495907572",
-        "artistUrl": "https://books.apple.com/fr/author/alex-aster/id1495907572",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/da/6f/bb/da6fbbd1-92ae-5a8d-c90e-37c8b2028f1c/9782371025592.jpg/100x161bb.png",
-        "genres": [
-          {
-            "genreId": "10044",
-            "name": "Fantasy",
-            "url": "https://itunes.apple.com/fr/genre/id10044"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9020",
-            "name": "SF et fantasy",
-            "url": "https://itunes.apple.com/fr/genre/id9020"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/starside-tome-1-starside/id6802879900"
-      },
-      {
-        "artistName": "Eric Giacometti & Jacques Ravenne",
-        "id": "6811850097",
-        "name": "La pierre du destin : La Saga du Soleil Noir",
-        "releaseDate": "2026-10-14",
-        "kind": "books",
-        "artistId": "476284510",
-        "artistUrl": "https://books.apple.com/fr/author/eric-giacometti/id476284510",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/fe/75/59/fe755981-89c1-30d6-ecba-4978f0ee136d/9782709670562-001-x.jpeg/100x161bb.png",
-        "genres": [
-          {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/la-pierre-du-destin-la-saga-du-soleil-noir/id6811850097"
-      },
-      {
-        "artistName": "Rebecca Robinson & Fabrice Canepa",
-        "id": "6743846874",
-        "name": "Les Cités de sel, T1 : Le Loup et le Serpent",
-        "releaseDate": "2026-10-14",
-        "kind": "books",
-        "artistId": "406533910",
-        "artistUrl": "https://books.apple.com/fr/author/rebecca-robinson/id406533910",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a9/39/66/a9396663-f928-cf13-1456-6d8a8bad7fc7/9791028133948-001-x.jpeg/100x162bb.png",
-        "genres": [
-          {
-            "genreId": "10044",
-            "name": "Fantasy",
-            "url": "https://itunes.apple.com/fr/genre/id10044"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9020",
-            "name": "SF et fantasy",
-            "url": "https://itunes.apple.com/fr/genre/id9020"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/les-cit%C3%A9s-de-sel-t1-le-loup-et-le-serpent/id6743846874"
       },
       {
         "artistName": "Jo Nesbø",
@@ -975,19 +692,19 @@
         "url": "https://books.apple.com/fr/book/un-loup-dans-la-ville-prix-du-meilleur-polar-scandinave-2026/id6817335661"
       },
       {
-        "artistName": "Philippe de Villiers",
-        "id": "6811036280",
-        "name": "Résurrection",
-        "releaseDate": "2026-10-07",
+        "artistName": "Marc Levy",
+        "id": "6804833197",
+        "name": "Les Évadées - Partie 1",
+        "releaseDate": "2026-09-22",
         "kind": "books",
-        "artistId": "524329607",
-        "artistUrl": "https://books.apple.com/fr/author/philippe-de-villiers/id524329607",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/11/a2/bb/11a2bb14-27a4-cfcb-fab1-3bbe0286df22/9782213735832-001-x.jpeg/100x154bb.png",
+        "artistId": "286592678",
+        "artistUrl": "https://books.apple.com/fr/author/marc-levy/id286592678",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6c/bc/15/6cbc15c4-aeae-acae-85ee-a841ed43322f/9782361324964.jpg/100x150bb.png",
         "genres": [
           {
-            "genreId": "9034",
-            "name": "Politique et actualité",
-            "url": "https://itunes.apple.com/fr/genre/id9034"
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
           },
           {
             "genreId": "38",
@@ -995,40 +712,18 @@
             "url": "https://itunes.apple.com/fr/genre/id38"
           }
         ],
-        "url": "https://books.apple.com/fr/book/r%C3%A9surrection/id6811036280"
+        "url": "https://books.apple.com/fr/book/les-%C3%A9vad%C3%A9es-partie-1/id6804833197"
       },
       {
-        "artistName": "Claire McGowan & Odile Carton",
-        "id": "6476974095",
-        "name": "Personne ne doit savoir",
-        "releaseDate": "2022-06-01",
+        "artistName": "Vi Keeland",
+        "id": "1558912782",
+        "name": "Inconvenant",
+        "releaseDate": "2021-09-22",
         "kind": "books",
-        "artistId": "494847837",
-        "artistUrl": "https://books.apple.com/fr/author/claire-mcgowan/id494847837",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b3/0e/a0/b30ea096-972c-ed9c-52d8-66f322916b78/9782381225753-001-x.jpeg/100x162bb.png",
-        "genres": [
-          {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/personne-ne-doit-savoir/id6476974095"
-      },
-      {
-        "artistName": "Sarah Rivens",
-        "id": "6739566583",
-        "name": "Lakestone - tome 2",
-        "releaseDate": "2025-03-27",
-        "kind": "books",
-        "artistId": "1616472564",
-        "artistUrl": "https://books.apple.com/fr/author/sarah-rivens/id1616472564",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/0d/4d/c5/0d4dc548-8885-6b6e-f4f0-6aff6f14ecfa/9782017207818-001-x.jpeg/100x159bb.png",
+        "artistId": "639401764",
+        "artistUrl": "https://books.apple.com/fr/author/vi-keeland/id639401764",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/c6/f9/7a/c6f97a1b-b34a-2092-d97d-7a3a52234c54/600a8fa3-4045-42d2-b6b2-80c5d938ea81_cover_image.jpg/100x160bb.png",
         "genres": [
           {
             "genreId": "10057",
@@ -1046,22 +741,22 @@
             "url": "https://itunes.apple.com/fr/genre/id9003"
           }
         ],
-        "url": "https://books.apple.com/fr/book/lakestone-tome-2/id6739566583"
+        "url": "https://books.apple.com/fr/book/inconvenant/id1558912782"
       },
       {
-        "artistName": "Colleen Hoover",
-        "id": "6445271135",
-        "name": "Verity",
-        "releaseDate": "2026-09-09",
+        "artistName": "Christian Dedet",
+        "id": "1602862477",
+        "name": "La Mémoire du fleuve",
+        "releaseDate": "2014-10-16",
         "kind": "books",
-        "artistId": "546189032",
-        "artistUrl": "https://books.apple.com/fr/author/colleen-hoover/id546189032",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d7/1f/14/d71f1406-a1b1-8ac6-25cd-4ae138b481ed/9782755648720-001-x.jpeg/100x158bb.png",
+        "artistId": "929047419",
+        "artistUrl": "https://books.apple.com/fr/author/christian-dedet/id929047419",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/f1/e0/0d/f1e00dbc-5a71-db94-2022-92d6f3f2bf50/9782369141457.png/100x152bb.png",
         "genres": [
           {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
           },
           {
             "genreId": "38",
@@ -1069,18 +764,17 @@
             "url": "https://itunes.apple.com/fr/genre/id38"
           }
         ],
-        "url": "https://books.apple.com/fr/book/verity/id6445271135"
+        "url": "https://books.apple.com/fr/book/la-m%C3%A9moire-du-fleuve/id1602862477"
       },
       {
-        "artistName": "Elle Kennedy",
-        "id": "6466581025",
-        "name": "The Mistake",
-        "releaseDate": "2023-11-14",
+        "artistName": "Tessa Wrenvale",
+        "id": "6818814518",
+        "name": "The Sweetest Bluff",
+        "releaseDate": "2026-10-03",
         "kind": "books",
-        "artistId": "380128356",
-        "artistUrl": "https://books.apple.com/fr/author/elle-kennedy/id380128356",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/7e/91/fc/7e91fc7c-ecfc-46a2-4aa6-9b5dcc5a87ed/9780349440866.jpg/100x158bb.png",
+        "artistId": "6818814519",
+        "artistUrl": "https://books.apple.com/fr/author/tessa-wrenvale/id6818814519",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d4/bf/34/d4bf3479-625d-0800-daa0-503255cb58c4/0004449160.jpg/100x150bb.png",
         "genres": [
           {
             "genreId": "9003",
@@ -1103,407 +797,73 @@
             "url": "https://itunes.apple.com/fr/genre/id10057"
           }
         ],
-        "url": "https://books.apple.com/fr/book/the-mistake/id6466581025"
+        "url": "https://books.apple.com/fr/book/the-sweetest-bluff/id6818814518"
       },
       {
-        "artistName": "Ken Follett",
-        "id": "579624413",
-        "name": "Les Lions du Panshir",
-        "releaseDate": "2012-11-19",
+        "artistName": "Sarah Morgan",
+        "id": "6803835718",
+        "name": "Neige, sapins et petits secrets",
+        "releaseDate": "2026-10-14",
         "kind": "books",
-        "artistId": "41828779",
-        "artistUrl": "https://books.apple.com/fr/author/ken-follett/id41828779",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9f/1a/7a/9f1a7a27-75b7-a45c-c0ce-7333c313cee3/9782253174615-001-x.jpeg/100x162bb.png",
+        "artistId": "264798537",
+        "artistUrl": "https://books.apple.com/fr/author/sarah-morgan/id264798537",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a7/ce/37/a7ce37b8-bb4c-8af1-4378-cdb5472dbc63/9791033929611-001-x.jpeg/100x158bb.png",
         "genres": [
           {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
+            "genreId": "10049",
+            "name": "Fiction et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id10049"
           },
           {
             "genreId": "38",
             "name": "Livres",
             "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/les-lions-du-panshir/id579624413"
-      },
-      {
-        "artistName": "Olivier Guez",
-        "id": "1246429842",
-        "name": "La disparition de Josef Mengele",
-        "releaseDate": "2017-08-16",
-        "kind": "books",
-        "artistId": "461090096",
-        "artistUrl": "https://books.apple.com/fr/author/olivier-guez/id461090096",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/28/72/18/28721800-75ec-47ea-07d7-fd6b1793be0a/9782246855880-001-x.jpeg/100x155bb.png",
-        "genres": [
+          },
           {
             "genreId": "9031",
             "name": "Romans et littérature",
             "url": "https://itunes.apple.com/fr/genre/id9031"
           },
           {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/la-disparition-de-josef-mengele/id1246429842"
-      },
-      {
-        "artistName": "Virginia Heath",
-        "id": "6815640398",
-        "name": "Les protégées de Mlle Prentice (Tome 1) - Rien ne sert de batailler…",
-        "releaseDate": "2026-10-07",
-        "kind": "books",
-        "artistId": "1057407835",
-        "artistUrl": "https://books.apple.com/fr/author/virginia-heath/id1057407835",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e8/ea/18/e8ea18a4-7cc2-65e6-7cff-6cef92f72264/9782290430118.jpg/100x162bb.png",
-        "genres": [
-          {
-            "genreId": "10059",
-            "name": "Romance historique",
-            "url": "https://itunes.apple.com/fr/genre/id10059"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
             "genreId": "9003",
             "name": "Romance",
             "url": "https://itunes.apple.com/fr/genre/id9003"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/les-prot%C3%A9g%C3%A9es-de-mlle-prentice-tome-1-rien-ne-sert/id6815640398"
-      },
-      {
-        "artistName": "Ana Scott",
-        "id": "6753195923",
-        "name": "Too Late to Say Sorry",
-        "releaseDate": "2026-01-21",
-        "kind": "books",
-        "artistId": "1350807207",
-        "artistUrl": "https://books.apple.com/fr/author/ana-scott/id1350807207",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/64/d4/ef/64d4efb6-c3f8-b498-c084-52e5151aa0ed/9791025760475-001-x.jpeg/100x165bb.png",
-        "genres": [
+          },
           {
             "genreId": "10057",
             "name": "Romance contemporaine",
             "url": "https://itunes.apple.com/fr/genre/id10057"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/neige-sapins-et-petits-secrets/id6803835718"
+      },
+      {
+        "artistName": "Giuliano Da Empoli",
+        "id": "6813071997",
+        "name": "Le fondateur",
+        "releaseDate": "2026-10-01",
+        "kind": "books",
+        "artistId": "663411995",
+        "artistUrl": "https://books.apple.com/fr/author/giuliano-da-empoli/id663411995",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/92/e3/f0/92e3f015-4529-dfb3-0de6-0ad594306574/9782073170682.jpg/100x146bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
           },
           {
             "genreId": "38",
             "name": "Livres",
             "url": "https://itunes.apple.com/fr/genre/id38"
           },
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          },
-          {
-            "genreId": "10061",
-            "name": "Thriller romantique",
-            "url": "https://itunes.apple.com/fr/genre/id10061"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/too-late-to-say-sorry/id6753195923"
-      },
-      {
-        "artistName": "S. J Brennan",
-        "id": "6741843074",
-        "name": "Le prix du sang",
-        "releaseDate": "2025-04-01",
-        "kind": "books",
-        "artistId": "1700410799",
-        "artistUrl": "https://books.apple.com/fr/author/s-j-brennan/id1700410799",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/da/ee/b1/daeeb16d-fb6b-9fdc-1fcf-c355c15c35c3/cover.jpg/100x142bb.png",
-        "genres": [
-          {
-            "genreId": "10061",
-            "name": "Thriller romantique",
-            "url": "https://itunes.apple.com/fr/genre/id10061"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/le-prix-du-sang/id6741843074"
-      },
-      {
-        "artistName": "Donato Carrisi",
-        "id": "6810214361",
-        "name": "Le Mensonge de l'orchidée",
-        "releaseDate": "2026-10-07",
-        "kind": "books",
-        "artistId": "367527918",
-        "artistUrl": "https://books.apple.com/fr/author/donato-carrisi/id367527918",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1f/c4/b8/1fc4b877-4b1d-783a-ccd6-b6ad53453293/9782702196601-001-x.jpeg/100x153bb.png",
-        "genres": [
           {
             "genreId": "9032",
             "name": "Policier et suspense",
             "url": "https://itunes.apple.com/fr/genre/id9032"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
           }
         ],
-        "url": "https://books.apple.com/fr/book/le-mensonge-de-lorchid%C3%A9e/id6810214361"
-      },
-      {
-        "artistName": "Virginie Grimaldi",
-        "id": "1370912361",
-        "name": "Il est grand temps de rallumer les étoiles",
-        "releaseDate": "2018-05-02",
-        "kind": "books",
-        "artistId": "958093226",
-        "artistUrl": "https://books.apple.com/fr/author/virginie-grimaldi/id958093226",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6e/4f/00/6e4f00bf-d60d-b2b9-dff9-a5d8e166517b/9782213710556-001-x.jpeg/100x159bb.png",
-        "genres": [
-          {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/il-est-grand-temps-de-rallumer-les-%C3%A9toiles/id1370912361"
-      },
-      {
-        "artistName": "Marie Vareille",
-        "id": "6445599954",
-        "name": "La vie rêvée des chaussettes orphelines",
-        "releaseDate": "2020-05-13",
-        "kind": "books",
-        "artistId": "884947563",
-        "artistUrl": "https://books.apple.com/fr/author/marie-vareille/id884947563",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/2e/63/30/2e633060-2328-551e-e6d7-a7a1cacbc364/9782368124222.jpg/100x163bb.png",
-        "genres": [
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/la-vie-r%C3%AAv%C3%A9e-des-chaussettes-orphelines/id6445599954"
-      },
-      {
-        "artistName": "Agnès Martin-Lugand",
-        "id": "6739238856",
-        "name": "Les Renaissances",
-        "releaseDate": "2025-02-20",
-        "kind": "books",
-        "artistId": "595101005",
-        "artistUrl": "https://books.apple.com/fr/author/agn%C3%A8s-martin-lugand/id595101005",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ef/71/c5/ef71c585-5baf-69f3-1a5c-a520c474654a/9782749961460.jpg/100x159bb.png",
-        "genres": [
-          {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/les-renaissances/id6739238856"
-      },
-      {
-        "artistName": "Freida McFadden",
-        "id": "6756112410",
-        "name": "La locataire",
-        "releaseDate": "2026-02-11",
-        "kind": "books",
-        "artistId": "1101564107",
-        "artistUrl": "https://books.apple.com/fr/author/freida-mcfadden/id1101564107",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/26/b1/ff/26b1ff92-18d3-3db5-acd4-0e29577c81e1/9782824625539-001-x.jpeg/100x155bb.png",
-        "genres": [
-          {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/la-locataire/id6756112410"
-      },
-      {
-        "artistName": "Azra Reed",
-        "id": "6739130940",
-        "name": "Valentina - T02",
-        "releaseDate": "2025-02-19",
-        "kind": "books",
-        "artistId": "1753254111",
-        "artistUrl": "https://books.apple.com/fr/author/azra-reed/id1753254111",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a8/5b/d1/a85bd136-9e26-cc9d-8404-37942443756c/9791042900267-001-x.jpeg/100x158bb.png",
-        "genres": [
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          },
-          {
-            "genreId": "10061",
-            "name": "Thriller romantique",
-            "url": "https://itunes.apple.com/fr/genre/id10061"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/valentina-t02/id6739130940"
-      },
-      {
-        "artistName": "Stefan Zweig",
-        "id": "1332698216",
-        "name": "Lettre d'une inconnue (édition enrichie)",
-        "releaseDate": "2018-02-01",
-        "kind": "books",
-        "artistId": "17465679",
-        "artistUrl": "https://books.apple.com/fr/author/stefan-zweig/id17465679",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/5d/d3/9c/5dd39c37-8472-118f-50ec-c460b1845c56/9782072657320.jpg/100x165bb.png",
-        "genres": [
-          {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "10042",
-            "name": "Classiques",
-            "url": "https://itunes.apple.com/fr/genre/id10042"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/lettre-dune-inconnue-%C3%A9dition-enrichie/id1332698216"
-      },
-      {
-        "artistName": "S.T. Abby",
-        "id": "6791132074",
-        "name": "Mindf*ck série - Tome 5 : Tout peindre en rouge",
-        "releaseDate": "2026-09-24",
-        "kind": "books",
-        "artistId": "1181074890",
-        "artistUrl": "https://books.apple.com/fr/author/s-t-abby/id1181074890",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b2/35/11/b235115d-8b45-c5f9-e79f-fe47312de14b/9782017373858-001-x.jpeg/100x162bb.png",
-        "genres": [
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/mindf-ck-s%C3%A9rie-tome-5-tout-peindre-en-rouge/id6791132074"
-      },
-      {
-        "artistName": "Christine Angot",
-        "id": "6797914404",
-        "name": "Je change de nom",
-        "releaseDate": "2026-09-30",
-        "kind": "books",
-        "artistId": "403332208",
-        "artistUrl": "https://books.apple.com/fr/author/christine-angot/id403332208",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1b/33/d8/1b33d8d8-6161-4942-eed4-f2b8ff6669ad/9782080232045.jpg/100x161bb.png",
-        "genres": [
-          {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9008",
-            "name": "Biographies et mémoires",
-            "url": "https://itunes.apple.com/fr/genre/id9008"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/je-change-de-nom/id6797914404"
-      },
-      {
-        "artistName": "Riley Sager",
-        "id": "6767224898",
-        "name": "Celle qui sait",
-        "releaseDate": "2026-07-03",
-        "kind": "books",
-        "artistId": "1167845991",
-        "artistUrl": "https://books.apple.com/fr/author/riley-sager/id1167845991",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/99/ee/ef/99eeef4c-1f7c-4b7f-80fb-db3427e7d7bd/9782386433474.jpg/100x147bb.png",
-        "genres": [
-          {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/celle-qui-sait/id6767224898"
+        "url": "https://books.apple.com/fr/book/le-fondateur/id6813071997"
       },
       {
         "artistName": "Rebecca Yarros",
@@ -1529,19 +889,19 @@
         "url": "https://books.apple.com/fr/book/iron-flame-version-fran%C3%A7aise/id6476491343"
       },
       {
-        "artistName": "Lauren Roberts",
-        "id": "6755293347",
-        "name": "Powerless (Tome 3) - Fearless",
-        "releaseDate": "2026-02-19",
+        "artistName": "Ali Hazelwood & Joëlle Touati",
+        "id": "6480044802",
+        "name": "Love, Theoretically",
+        "releaseDate": "2026-05-06",
         "kind": "books",
-        "artistId": "1127590063",
-        "artistUrl": "https://books.apple.com/fr/author/lauren-roberts/id1127590063",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/bf/be/ea/bfbeeaf9-3ec7-a732-55fb-2dc118b93f13/9782073049216.jpg/100x150bb.png",
+        "artistId": "1549344169",
+        "artistUrl": "https://books.apple.com/fr/author/ali-hazelwood/id1549344169",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/8c/b1/39/8cb1398d-afd2-335c-fb95-26437fa349dd/9782381229546-001-x.jpeg/100x150bb.png",
         "genres": [
           {
-            "genreId": "10044",
-            "name": "Fantasy",
-            "url": "https://itunes.apple.com/fr/genre/id10044"
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
           },
           {
             "genreId": "38",
@@ -1549,22 +909,114 @@
             "url": "https://itunes.apple.com/fr/genre/id38"
           },
           {
-            "genreId": "9020",
-            "name": "SF et fantasy",
-            "url": "https://itunes.apple.com/fr/genre/id9020"
-          },
-          {
             "genreId": "9003",
             "name": "Romance",
             "url": "https://itunes.apple.com/fr/genre/id9003"
-          },
-          {
-            "genreId": "10058",
-            "name": "Romance paranormale",
-            "url": "https://itunes.apple.com/fr/genre/id10058"
           }
         ],
-        "url": "https://books.apple.com/fr/book/powerless-tome-3-fearless/id6755293347"
+        "url": "https://books.apple.com/fr/book/love-theoretically/id6480044802"
+      },
+      {
+        "artistName": "The Shift Project",
+        "id": "6819235564",
+        "name": "Réussir à l'ère des crises",
+        "releaseDate": "2026-10-14",
+        "kind": "books",
+        "artistId": "1605763736",
+        "artistUrl": "https://books.apple.com/fr/author/the-shift-project/id1605763736",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5b/a5/66/5ba566de-272b-0eda-7e71-6b4706a89dab/9782415016739.jpg/100x148bb.png",
+        "genres": [
+          {
+            "genreId": "11066",
+            "name": "Écologie",
+            "url": "https://itunes.apple.com/fr/genre/id11066"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9019",
+            "name": "Science et nature",
+            "url": "https://itunes.apple.com/fr/genre/id9019"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/r%C3%A9ussir-%C3%A0-l%C3%A8re-des-crises/id6819235564"
+      },
+      {
+        "artistName": "Anne Godard",
+        "id": "6768961194",
+        "name": "Nous aussi",
+        "releaseDate": "2026-08-19",
+        "kind": "books",
+        "artistId": "1249992507",
+        "artistUrl": "https://books.apple.com/fr/author/anne-godard/id1249992507",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/60/da/ef/60daef57-d7a6-07d5-54d6-387e423f8eaf/9782330225612.jpg/100x189bb.png",
+        "genres": [
+          {
+            "genreId": "10049",
+            "name": "Fiction et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id10049"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/nous-aussi/id6768961194"
+      },
+      {
+        "artistName": "Mayada Boulos",
+        "id": "6812302597",
+        "name": "De bonne famille",
+        "releaseDate": "2026-09-30",
+        "kind": "books",
+        "artistId": "6812302599",
+        "artistUrl": "https://books.apple.com/fr/author/mayada-boulos/id6812302599",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/12/bf/14/12bf143f-afa2-57f5-04b7-b980aada42f7/9782246847113-001-x.jpeg/100x146bb.png",
+        "genres": [
+          {
+            "genreId": "9034",
+            "name": "Politique et actualité",
+            "url": "https://itunes.apple.com/fr/genre/id9034"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/de-bonne-famille/id6812302597"
+      },
+      {
+        "artistName": "Amin Maalouf",
+        "id": "6812301883",
+        "name": "Le siècle de notre métamorphose",
+        "releaseDate": "2026-10-14",
+        "kind": "books",
+        "artistId": "324991800",
+        "artistUrl": "https://books.apple.com/fr/author/amin-maalouf/id324991800",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b4/38/e4/b438e41a-5fbc-5fe5-ec70-8a18450b87b4/9782246839071-001-x.jpeg/100x158bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/le-si%C3%A8cle-de-notre-m%C3%A9tamorphose/id6812301883"
       },
       {
         "artistName": "Philippe Jaenada",
@@ -1600,19 +1052,19 @@
         "url": "https://books.apple.com/fr/book/linconnue-du-quai-de-javel/id6769685932"
       },
       {
-        "artistName": "Gérard Davet & Fabrice Lhomme",
-        "id": "6811972604",
-        "name": "Le complot contre la France",
-        "releaseDate": "2026-12-14",
+        "artistName": "Laurie Gilmore",
+        "id": "6737836202",
+        "name": "Le Pumpkin Spice Café",
+        "releaseDate": "2024-11-27",
         "kind": "books",
-        "artistId": "461708161",
-        "artistUrl": "https://books.apple.com/fr/author/g%C3%A9rard-davet/id461708161",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3c/dc/51/3cdc51df-b37d-26b9-bafe-1564c0b11e82/dj.dlttaiaw.jpg/100x158bb.png",
+        "artistId": "1669930291",
+        "artistUrl": "https://books.apple.com/fr/author/laurie-gilmore/id1669930291",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9c/fc/53/9cfc5304-35cf-92ba-cd33-5d971390279b/9791033921363-001-x.jpeg/100x166bb.png",
         "genres": [
           {
-            "genreId": "11264",
-            "name": "Science politique",
-            "url": "https://itunes.apple.com/fr/genre/id11264"
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
           },
           {
             "genreId": "38",
@@ -1620,22 +1072,696 @@
             "url": "https://itunes.apple.com/fr/genre/id38"
           },
           {
-            "genreId": "9034",
-            "name": "Politique et actualité",
-            "url": "https://itunes.apple.com/fr/genre/id9034"
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
           }
         ],
-        "url": "https://books.apple.com/fr/book/le-complot-contre-la-france/id6811972604"
+        "url": "https://books.apple.com/fr/book/le-pumpkin-spice-caf%C3%A9/id6737836202"
       },
       {
-        "artistName": "Roland Perez",
-        "id": "6780682407",
-        "name": "Le goût du possible",
-        "releaseDate": "2026-09-17",
+        "artistName": "Sherry Argov",
+        "id": "1589197938",
+        "name": "Pourquoi Les Hommes Adorent Les Chieuses",
+        "releaseDate": "2017-12-01",
         "kind": "books",
-        "artistId": "446582247",
-        "artistUrl": "https://books.apple.com/fr/author/roland-perez/id446582247",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c0/d1/be/c0d1be94-f201-a6a8-5fa9-f7a237424f17/9782385298425.jpg/100x165bb.png",
+        "artistId": "254167373",
+        "artistUrl": "https://books.apple.com/fr/author/sherry-argov/id254167373",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/ef/fe/18/effe18ce-d82a-7839-11e9-f2a49a5330e4/9bb08bb9-4945-4b30-9be5-9e1219b580f6_cover_image.jpg/100x155bb.png",
+        "genres": [
+          {
+            "genreId": "10038",
+            "name": "Famille et relations",
+            "url": "https://itunes.apple.com/fr/genre/id10038"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9002",
+            "name": "Essais et sciences humaines",
+            "url": "https://itunes.apple.com/fr/genre/id9002"
+          },
+          {
+            "genreId": "9025",
+            "name": "Santé et bien-être",
+            "url": "https://itunes.apple.com/fr/genre/id9025"
+          },
+          {
+            "genreId": "10119",
+            "name": "Développement personnel",
+            "url": "https://itunes.apple.com/fr/genre/id10119"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/pourquoi-les-hommes-adorent-les-chieuses/id1589197938"
+      },
+      {
+        "artistName": "Sonia Devillers",
+        "id": "6786520975",
+        "name": "Le Fabuleux piano",
+        "releaseDate": "2026-08-27",
+        "kind": "books",
+        "artistId": "1631543650",
+        "artistUrl": "https://books.apple.com/fr/author/sonia-devillers/id1631543650",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c2/5d/70/c25d7072-9f88-015e-eed5-7cea8e0914c0/9782221286814.jpg/100x157bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/le-fabuleux-piano/id6786520975"
+      },
+      {
+        "artistName": "Natacha Calestrémé",
+        "id": "1493779286",
+        "name": "La Clé de votre énergie",
+        "releaseDate": "2020-01-08",
+        "kind": "books",
+        "artistId": "477710379",
+        "artistUrl": "https://books.apple.com/fr/author/natacha-calestr%C3%A9m%C3%A9/id477710379",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/0d/ba/d8/0dbad8bd-df9e-9f21-63d9-19f75802c56c/9782226449849-001-x.jpeg/100x155bb.png",
+        "genres": [
+          {
+            "genreId": "10119",
+            "name": "Développement personnel",
+            "url": "https://itunes.apple.com/fr/genre/id10119"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9025",
+            "name": "Santé et bien-être",
+            "url": "https://itunes.apple.com/fr/genre/id9025"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/la-cl%C3%A9-de-votre-%C3%A9nergie/id1493779286"
+      },
+      {
+        "artistName": "Virginie Grimaldi",
+        "id": "1370912361",
+        "name": "Il est grand temps de rallumer les étoiles",
+        "releaseDate": "2018-05-02",
+        "kind": "books",
+        "artistId": "958093226",
+        "artistUrl": "https://books.apple.com/fr/author/virginie-grimaldi/id958093226",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6e/4f/00/6e4f00bf-d60d-b2b9-dff9-a5d8e166517b/9782213710556-001-x.jpeg/100x159bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/il-est-grand-temps-de-rallumer-les-%C3%A9toiles/id1370912361"
+      },
+      {
+        "artistName": "Rebecca Yarros",
+        "id": "6817276066",
+        "name": "Threshing Day - version française",
+        "releaseDate": "2026-10-14",
+        "kind": "books",
+        "artistId": "802770747",
+        "artistUrl": "https://books.apple.com/fr/author/rebecca-yarros/id802770747",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/cf/74/78/cf7478f6-a56b-7b52-96f0-6f82bcac654a/9791042911850-001-x.jpeg/100x155bb.png",
+        "genres": [
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/threshing-day-version-fran%C3%A7aise/id6817276066"
+      },
+      {
+        "artistName": "Ana Scott",
+        "id": "6753193343",
+        "name": "Le meilleur ami de mon frère",
+        "releaseDate": "2024-02-15",
+        "kind": "books",
+        "artistId": "1350807207",
+        "artistUrl": "https://books.apple.com/fr/author/ana-scott/id1350807207",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/8c/0b/04/8c0b043a-6917-5440-e90d-26e721e0bf61/9791025756782-001-x.jpeg/100x146bb.png",
+        "genres": [
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          },
+          {
+            "genreId": "10061",
+            "name": "Thriller romantique",
+            "url": "https://itunes.apple.com/fr/genre/id10061"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/le-meilleur-ami-de-mon-fr%C3%A8re/id6753193343"
+      },
+      {
+        "artistName": "Anne-Sylvie Homassel & Peng Shepherd",
+        "id": "6446185371",
+        "name": "Les Cartographes",
+        "releaseDate": "2023-03-29",
+        "kind": "books",
+        "artistId": "488953650",
+        "artistUrl": "https://books.apple.com/fr/author/anne-sylvie-homassel/id488953650",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/07/6e/2b/076e2b39-b96c-9b3b-0b24-424eea24cde2/9782226484116.jpg/100x147bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9020",
+            "name": "SF et fantasy",
+            "url": "https://itunes.apple.com/fr/genre/id9020"
+          },
+          {
+            "genreId": "10044",
+            "name": "Fantasy",
+            "url": "https://itunes.apple.com/fr/genre/id10044"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/les-cartographes/id6446185371"
+      },
+      {
+        "artistName": "Liz Nugent",
+        "id": "6756796790",
+        "name": "La Voisine sans histoire",
+        "releaseDate": "2026-01-15",
+        "kind": "books",
+        "artistId": "645648237",
+        "artistUrl": "https://books.apple.com/fr/author/liz-nugent/id645648237",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0c/d3/97/0cd397c8-21b8-3c78-413e-f7073c593eb0/9782749964478.jpg/100x161bb.png",
+        "genres": [
+          {
+            "genreId": "10050",
+            "name": "Romans noirs",
+            "url": "https://itunes.apple.com/fr/genre/id10050"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9032",
+            "name": "Policier et suspense",
+            "url": "https://itunes.apple.com/fr/genre/id9032"
+          },
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/la-voisine-sans-histoire/id6756796790"
+      },
+      {
+        "artistName": "Vi Keeland",
+        "id": "6759933092",
+        "name": "Quiproquo",
+        "releaseDate": "2026-09-23",
+        "kind": "books",
+        "artistId": "639401764",
+        "artistUrl": "https://books.apple.com/fr/author/vi-keeland/id639401764",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/cd/ea/b0/cdeab0e1-05df-7f72-a5b8-a61cecae5450/82493548-8e52-46f2-bae1-d6411c367495_cover_image.jpg/100x154bb.png",
+        "genres": [
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/quiproquo/id6759933092"
+      },
+      {
+        "artistName": "Mercedes Ron & Nathalie Nédélec-Courtès",
+        "id": "6782851068",
+        "name": "À contre-sens - Culpa vuestra -  La nouveauté de la saga phénomène",
+        "releaseDate": "2026-10-21",
+        "kind": "books",
+        "artistId": "1215065930",
+        "artistUrl": "https://books.apple.com/fr/author/mercedes-ron/id1215065930",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/11/b2/26/11b2264c-7545-7429-823c-bafec4fcc307/9782017334927-001-x.jpeg/100x159bb.png",
+        "genres": [
+          {
+            "genreId": "11177",
+            "name": "Fiction pour jeunes adultes",
+            "url": "https://itunes.apple.com/fr/genre/id11177"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "11165",
+            "name": "Jeunes adultes",
+            "url": "https://itunes.apple.com/fr/genre/id11165"
+          },
+          {
+            "genreId": "11194",
+            "name": "Romance pour jeunes adultes",
+            "url": "https://itunes.apple.com/fr/genre/id11194"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/%C3%A0-contre-sens-culpa-vuestra-la-nouveaut%C3%A9-de-la-saga/id6782851068"
+      },
+      {
+        "artistName": "Katherine Center & Isabelle Varange",
+        "id": "6739500276",
+        "name": "The Bodyguard",
+        "releaseDate": "2026-02-11",
+        "kind": "books",
+        "artistId": "306071002",
+        "artistUrl": "https://books.apple.com/fr/author/katherine-center/id306071002",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6d/1a/b3/6d1ab39a-7b21-7883-3a13-1d735793a1fb/9782381226019-001-x.jpeg/100x163bb.png",
+        "genres": [
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/the-bodyguard/id6739500276"
+      },
+      {
+        "artistName": "Robert Greene",
+        "id": "6445600403",
+        "name": "Power, les 48 lois du pouvoir",
+        "releaseDate": "2014-03-17",
+        "kind": "books",
+        "artistId": "2722791",
+        "artistUrl": "https://books.apple.com/fr/author/robert-greene/id2722791",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e8/b5/6d/e8b56d86-2ef9-e0bb-55b4-1986edd7b52c/9791092928075.jpg/100x141bb.png",
+        "genres": [
+          {
+            "genreId": "10119",
+            "name": "Développement personnel",
+            "url": "https://itunes.apple.com/fr/genre/id10119"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9025",
+            "name": "Santé et bien-être",
+            "url": "https://itunes.apple.com/fr/genre/id9025"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/power-les-48-lois-du-pouvoir/id6445600403"
+      },
+      {
+        "artistName": "Pauline Libersart",
+        "id": "6526483880",
+        "name": "Erwan",
+        "releaseDate": "2024-07-09",
+        "kind": "books",
+        "artistId": "674539869",
+        "artistUrl": "https://books.apple.com/fr/author/pauline-libersart/id674539869",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fa/1b/aa/fa1baaf6-9d75-7d30-9964-88c6522deb7a/cover.jpg/100x145bb.png",
+        "genres": [
+          {
+            "genreId": "11233",
+            "name": "Romance militaire",
+            "url": "https://itunes.apple.com/fr/genre/id11233"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/erwan/id6526483880"
+      },
+      {
+        "artistName": "Jérôme Loubry",
+        "id": "1527924518",
+        "name": "De soleil et de sang",
+        "releaseDate": "2020-09-02",
+        "kind": "books",
+        "artistId": "1282948917",
+        "artistUrl": "https://books.apple.com/fr/author/j%C3%A9r%C3%B4me-loubry/id1282948917",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7f/e0/11/7fe011a6-cdea-a068-4c9d-7a2f6e40e2a4/cover.jpg/100x159bb.png",
+        "genres": [
+          {
+            "genreId": "9032",
+            "name": "Policier et suspense",
+            "url": "https://itunes.apple.com/fr/genre/id9032"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          },
+          {
+            "genreId": "10049",
+            "name": "Fiction et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id10049"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/de-soleil-et-de-sang/id1527924518"
+      },
+      {
+        "artistName": "Julien Sandrel",
+        "id": "6748218780",
+        "name": "Le jour où Rose a disparu",
+        "releaseDate": "2025-10-01",
+        "kind": "books",
+        "artistId": "1356140736",
+        "artistUrl": "https://books.apple.com/fr/author/julien-sandrel/id1356140736",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ae/5a/62/ae5a6237-61a9-3077-1762-ab38b7711b55/9791033921233-001-x.jpeg/100x166bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/le-jour-o%C3%B9-rose-a-disparu/id6748218780"
+      },
+      {
+        "artistName": "Laura Ezrena",
+        "id": "6755879555",
+        "name": "The Sons of Death - tome 3",
+        "releaseDate": "2026-01-08",
+        "kind": "books",
+        "artistId": "1788878034",
+        "artistUrl": "https://books.apple.com/fr/author/laura-ezrena/id1788878034",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/98/88/7c/98887c8d-4348-27d5-8174-fed683ae474d/9782017269892-001-x.jpeg/100x159bb.png",
+        "genres": [
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "10061",
+            "name": "Thriller romantique",
+            "url": "https://itunes.apple.com/fr/genre/id10061"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/the-sons-of-death-tome-3/id6755879555"
+      },
+      {
+        "artistName": "Ana Scott",
+        "id": "6753194402",
+        "name": "Say Yes to the Boss",
+        "releaseDate": "2022-04-21",
+        "kind": "books",
+        "artistId": "1350807207",
+        "artistUrl": "https://books.apple.com/fr/author/ana-scott/id1350807207",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/5a/36/a3/5a36a37c-beb3-0056-5416-acd250be2da3/9791025752494-001-x.jpeg/100x164bb.png",
+        "genres": [
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          },
+          {
+            "genreId": "10061",
+            "name": "Thriller romantique",
+            "url": "https://itunes.apple.com/fr/genre/id10061"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/say-yes-to-the-boss/id6753194402"
+      },
+      {
+        "artistName": "Harlan Coben & Reese Witherspoon",
+        "id": "6762355571",
+        "name": "Près de moi pour toujours",
+        "releaseDate": "2026-09-24",
+        "kind": "books",
+        "artistId": "2079141",
+        "artistUrl": "https://books.apple.com/fr/author/harlan-coben/id2079141",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/83/54/28/835428ca-0bed-7327-ff01-11b4a720566b/9782714405562.jpg/100x161bb.png",
+        "genres": [
+          {
+            "genreId": "9032",
+            "name": "Policier et suspense",
+            "url": "https://itunes.apple.com/fr/genre/id9032"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/pr%C3%A8s-de-moi-pour-toujours/id6762355571"
+      },
+      {
+        "artistName": "Franck Thilliez",
+        "id": "6781140307",
+        "name": "La Route du Diable",
+        "releaseDate": "2026-09-10",
+        "kind": "books",
+        "artistId": "416100063",
+        "artistUrl": "https://books.apple.com/fr/author/franck-thilliez/id416100063",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c3/1b/3e/c31b3ec6-0c17-c72e-7c18-545f29af525e/9782265160187.jpg/100x150bb.png",
+        "genres": [
+          {
+            "genreId": "10048",
+            "name": "Horreur",
+            "url": "https://itunes.apple.com/fr/genre/id10048"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/la-route-du-diable/id6781140307"
+      },
+      {
+        "artistName": "Ana Scott",
+        "id": "6753195923",
+        "name": "Too Late to Say Sorry",
+        "releaseDate": "2026-01-21",
+        "kind": "books",
+        "artistId": "1350807207",
+        "artistUrl": "https://books.apple.com/fr/author/ana-scott/id1350807207",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/64/d4/ef/64d4efb6-c3f8-b498-c084-52e5151aa0ed/9791025760475-001-x.jpeg/100x165bb.png",
+        "genres": [
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "10061",
+            "name": "Thriller romantique",
+            "url": "https://itunes.apple.com/fr/genre/id10061"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/too-late-to-say-sorry/id6753195923"
+      },
+      {
+        "artistName": "Freida McFadden",
+        "id": "6749051701",
+        "name": "Le boyfriend",
+        "releaseDate": "2025-10-08",
+        "kind": "books",
+        "artistId": "1101564107",
+        "artistUrl": "https://books.apple.com/fr/author/freida-mcfadden/id1101564107",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/fb/b5/e2/fbb5e27f-40c1-cebf-2e5e-571f268235f9/9782824626598-001-x.jpeg/100x155bb.png",
+        "genres": [
+          {
+            "genreId": "9032",
+            "name": "Policier et suspense",
+            "url": "https://itunes.apple.com/fr/genre/id9032"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/le-boyfriend/id6749051701"
+      },
+      {
+        "artistName": "Stephen King, Océane Bies & Nadine Gassie",
+        "id": "1201187273",
+        "name": "Fin de ronde",
+        "releaseDate": "2017-03-08",
+        "kind": "books",
+        "artistId": "2024797",
+        "artistUrl": "https://books.apple.com/fr/author/stephen-king/id2024797",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/02/66/7f/02667fa8-a3cd-548e-d4fa-e4e0d8179d45/9782226422729-001-X.jpeg/100x155bb.png",
+        "genres": [
+          {
+            "genreId": "9032",
+            "name": "Policier et suspense",
+            "url": "https://itunes.apple.com/fr/genre/id9032"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/fin-de-ronde/id1201187273"
+      },
+      {
+        "artistName": "Rebecca Yarros",
+        "id": "6474303567",
+        "name": "Fourth Wing - Version française",
+        "releaseDate": "2024-02-07",
+        "kind": "books",
+        "artistId": "802770747",
+        "artistUrl": "https://books.apple.com/fr/author/rebecca-yarros/id802770747",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/14/cd/59/14cd594a-dd90-ec8f-ae3b-049575aa977b/9782755673081-001-x.jpeg/100x155bb.png",
+        "genres": [
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/fourth-wing-version-fran%C3%A7aise/id6474303567"
+      },
+      {
+        "artistName": "Paulo Coelho",
+        "id": "876785813",
+        "name": "L'Alchimiste",
+        "releaseDate": "2014-05-10",
+        "kind": "books",
+        "artistId": "2024311",
+        "artistUrl": "https://books.apple.com/fr/author/paulo-coelho/id2024311",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/dd/56/03/dd56030e-ff13-7028-0e6c-70d9af43fbd0/9782081345980.jpg/100x153bb.png",
         "genres": [
           {
             "genreId": "10049",
@@ -1653,17 +1779,259 @@
             "url": "https://itunes.apple.com/fr/genre/id9031"
           }
         ],
-        "url": "https://books.apple.com/fr/book/le-go%C3%BBt-du-possible/id6780682407"
+        "url": "https://books.apple.com/fr/book/lalchimiste/id876785813"
       },
       {
-        "artistName": "Emma Vegas",
-        "id": "6755473013",
-        "name": "Tell me Why",
-        "releaseDate": "2026-01-21",
+        "artistName": "Laura Bishop",
+        "id": "6774152891",
+        "name": "Obsessively Yours T1",
+        "releaseDate": "2026-06-24",
         "kind": "books",
-        "artistId": "1854092205",
-        "artistUrl": "https://books.apple.com/fr/author/emma-vegas/id1854092205",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7b/46/82/7b468278-623a-2f0b-a79b-5bb29ac4a586/9791025761540-001-x.jpeg/100x153bb.png",
+        "artistId": "73525238",
+        "artistUrl": "https://books.apple.com/fr/author/laura-bishop/id73525238",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/83/50/f9/8350f90b-2c0a-57cb-2125-2426aa033915/9782824624198-001-x.jpeg/100x153bb.png",
+        "genres": [
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/obsessively-yours-t1/id6774152891"
+      },
+      {
+        "artistName": "Alfreda Enwy",
+        "id": "6445305440",
+        "name": "Mad Love",
+        "releaseDate": "2023-03-08",
+        "kind": "books",
+        "artistId": "725314417",
+        "artistUrl": "https://books.apple.com/fr/author/alfreda-enwy/id725314417",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/81/8b/64/818b6477-8f5d-6b2f-5b10-68899f5026e3/9782280491778-001-x.jpeg/100x164bb.png",
+        "genres": [
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          },
+          {
+            "genreId": "10049",
+            "name": "Fiction et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id10049"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/mad-love/id6445305440"
+      },
+      {
+        "artistName": "Sarah J. Maas",
+        "id": "6761760444",
+        "name": "ACOTAR - Tome 1",
+        "releaseDate": "2026-06-05",
+        "kind": "books",
+        "artistId": "535404063",
+        "artistUrl": "https://books.apple.com/fr/author/sarah-j-maas/id535404063",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0c/5e/ee/0c5eee77-b948-0783-f33c-9b0884f99b43/9791040127888.jpg/100x148bb.png",
+        "genres": [
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9020",
+            "name": "SF et fantasy",
+            "url": "https://itunes.apple.com/fr/genre/id9020"
+          },
+          {
+            "genreId": "10044",
+            "name": "Fantasy",
+            "url": "https://itunes.apple.com/fr/genre/id10044"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/acotar-tome-1/id6761760444"
+      },
+      {
+        "artistName": "Mark Lawrence & Claire Kreutzberger",
+        "id": "6498920479",
+        "name": "La Trilogie de la Bibliothèque, T1 : Le livre qui refusait de brûler",
+        "releaseDate": "2026-06-04",
+        "kind": "books",
+        "artistId": "78984635",
+        "artistUrl": "https://books.apple.com/fr/author/mark-lawrence/id78984635",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d7/8a/30/d78a3060-5991-16e5-2db1-4699d1ab9775/9791028115159-001-x.jpeg/100x155bb.png",
+        "genres": [
+          {
+            "genreId": "10044",
+            "name": "Fantasy",
+            "url": "https://itunes.apple.com/fr/genre/id10044"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9020",
+            "name": "SF et fantasy",
+            "url": "https://itunes.apple.com/fr/genre/id9020"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/la-trilogie-de-la-biblioth%C3%A8que-t1-le-livre-qui/id6498920479"
+      },
+      {
+        "artistName": "Claire McGowan & Odile Carton",
+        "id": "6476974095",
+        "name": "Personne ne doit savoir",
+        "releaseDate": "2022-06-01",
+        "kind": "books",
+        "artistId": "494847837",
+        "artistUrl": "https://books.apple.com/fr/author/claire-mcgowan/id494847837",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b3/0e/a0/b30ea096-972c-ed9c-52d8-66f322916b78/9782381225753-001-x.jpeg/100x162bb.png",
+        "genres": [
+          {
+            "genreId": "9032",
+            "name": "Policier et suspense",
+            "url": "https://itunes.apple.com/fr/genre/id9032"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/personne-ne-doit-savoir/id6476974095"
+      },
+      {
+        "artistName": "Gaël Faye",
+        "id": "1122455240",
+        "name": "Petit pays",
+        "releaseDate": "2016-08-24",
+        "kind": "books",
+        "artistId": "1122455550",
+        "artistUrl": "https://books.apple.com/fr/author/ga%C3%ABl-faye/id1122455550",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e9/14/e0/e914e0f6-0847-1928-70bd-5bb21fe7c167/9782246857341-001-x.jpeg/100x145bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/petit-pays/id1122455240"
+      },
+      {
+        "artistName": "Lise Bourbeau",
+        "id": "596490919",
+        "name": "Les 5 blessures qui empêchent d'être soi -même",
+        "releaseDate": "2013-01-01",
+        "kind": "books",
+        "artistId": "251611686",
+        "artistUrl": "https://books.apple.com/fr/author/lise-bourbeau/id251611686",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/99/0f/b6/990fb664-f4e4-2971-2ba1-ca7a340ba884/9782920932432.jpg/100x136bb.png",
+        "genres": [
+          {
+            "genreId": "10119",
+            "name": "Développement personnel",
+            "url": "https://itunes.apple.com/fr/genre/id10119"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9025",
+            "name": "Santé et bien-être",
+            "url": "https://itunes.apple.com/fr/genre/id9025"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/les-5-blessures-qui-emp%C3%AAchent-d%C3%AAtre-soi-m%C3%AAme/id596490919"
+      },
+      {
+        "artistName": "Valérie Perrin",
+        "id": "1340352428",
+        "name": "Changer l'eau des fleurs",
+        "releaseDate": "2018-03-01",
+        "kind": "books",
+        "artistId": "920245437",
+        "artistUrl": "https://books.apple.com/fr/author/val%C3%A9rie-perrin/id920245437",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/bc/b0/46/bcb04616-31eb-6893-b76c-68a5d5efab73/9782226429537.jpg/100x146bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/changer-leau-des-fleurs/id1340352428"
+      },
+      {
+        "artistName": "Thomas Cantaloube",
+        "id": "6793738819",
+        "name": "Les Mouettes - Mission Bakou",
+        "releaseDate": "2026-10-15",
+        "kind": "books",
+        "artistId": "1445677106",
+        "artistUrl": "https://books.apple.com/fr/author/thomas-cantaloube/id1445677106",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/80/38/5e/80385e0b-0f3c-ec7b-556d-8fed0a07133e/9782265159976.jpg/100x152bb.png",
+        "genres": [
+          {
+            "genreId": "9032",
+            "name": "Policier et suspense",
+            "url": "https://itunes.apple.com/fr/genre/id9032"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/les-mouettes-mission-bakou/id6793738819"
+      },
+      {
+        "artistName": "Anna Triss",
+        "id": "6443792008",
+        "name": "Christmas Park",
+        "releaseDate": "2022-10-28",
+        "kind": "books",
+        "artistId": "1461447481",
+        "artistUrl": "https://books.apple.com/fr/author/anna-triss/id1461447481",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f3/fe/16/f3fe1697-ed1e-ce9e-c5b8-5b1d095dc8fe/cover.jpg/100x151bb.png",
         "genres": [
           {
             "genreId": "10057",
@@ -1681,68 +2049,45 @@
             "url": "https://itunes.apple.com/fr/genre/id9003"
           }
         ],
-        "url": "https://books.apple.com/fr/book/tell-me-why/id6755473013"
+        "url": "https://books.apple.com/fr/book/christmas-park/id6443792008"
       },
       {
-        "artistName": "Anne Gracie",
-        "id": "6752530920",
-        "name": "Les archanges du diable (Tome 5) - L'épouse andalouse",
-        "releaseDate": "2025-10-01",
+        "artistName": "AUTORAATENA",
+        "id": "6811830052",
+        "name": "L'Éveil de la Luna de Feu – Une Romance de Loups-Garous",
+        "releaseDate": "2026-09-14",
         "kind": "books",
-        "artistId": "357914854",
-        "artistUrl": "https://books.apple.com/fr/author/anne-gracie/id357914854",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/bd/64/ed/bd64ed88-72bd-1c3d-ede9-fd483883504f/9782290420737.jpg/100x162bb.png",
+        "artistId": "6811830294",
+        "artistUrl": "https://books.apple.com/fr/author/autoraatena/id6811830294",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/40/fa/38/40fa38ca-4569-bab9-1102-bd36dde70bc1/0004422589.jpg/100x150bb.png",
         "genres": [
-          {
-            "genreId": "10059",
-            "name": "Romance historique",
-            "url": "https://itunes.apple.com/fr/genre/id10059"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
           {
             "genreId": "9003",
             "name": "Romance",
             "url": "https://itunes.apple.com/fr/genre/id9003"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/les-archanges-du-diable-tome-5-l%C3%A9pouse-andalouse/id6752530920"
-      },
-      {
-        "artistName": "Alice Feeney & Adèle Rolland-le Dem",
-        "id": "6476973216",
-        "name": "Lui & Moi",
-        "releaseDate": "2023-01-04",
-        "kind": "books",
-        "artistId": "1174365072",
-        "artistUrl": "https://books.apple.com/fr/author/alice-feeney/id1174365072",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b5/9a/fa/b59afaa5-7196-45d6-a5b2-e50eabd1b7b7/9782381223131-001-x.jpeg/100x150bb.png",
-        "genres": [
-          {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
           },
           {
             "genreId": "38",
             "name": "Livres",
             "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "10058",
+            "name": "Romance paranormale",
+            "url": "https://itunes.apple.com/fr/genre/id10058"
           }
         ],
-        "url": "https://books.apple.com/fr/book/lui-moi/id6476973216"
+        "url": "https://books.apple.com/fr/book/l%C3%A9veil-de-la-luna-de-feu-une-romance-de-loups-garous/id6811830052"
       },
       {
-        "artistName": "Harper Lee",
-        "id": "1018388643",
-        "name": "Ne tirez pas sur l'oiseau moqueur",
-        "releaseDate": "2015-10-07",
+        "artistName": "Patrick Modiano",
+        "id": "6805552954",
+        "name": "L’éléphant",
+        "releaseDate": "2026-10-01",
         "kind": "books",
-        "artistId": "164883469",
-        "artistUrl": "https://books.apple.com/fr/author/harper-lee/id164883469",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/79/82/2f/79822f79-12bc-7831-fab7-d1b10f260770/9782246857747-001-x.jpeg/100x146bb.png",
+        "artistId": "135135429",
+        "artistUrl": "https://books.apple.com/fr/author/patrick-modiano/id135135429",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/71/cd/02/71cd020d-652f-6070-0c39-003a96152862/9782073036827.jpg/100x147bb.png",
         "genres": [
           {
             "genreId": "9031",
@@ -1755,17 +2100,17 @@
             "url": "https://itunes.apple.com/fr/genre/id38"
           }
         ],
-        "url": "https://books.apple.com/fr/book/ne-tirez-pas-sur-loiseau-moqueur/id1018388643"
+        "url": "https://books.apple.com/fr/book/l%C3%A9l%C3%A9phant/id6805552954"
       },
       {
-        "artistName": "Nora Roberts",
-        "id": "6802682722",
-        "name": "Lieutenant Eve Dallas (Tome 60) - Liens du crime",
-        "releaseDate": "2026-09-09",
+        "artistName": "Olivier Truc",
+        "id": "6764814305",
+        "name": "Base Toundra",
+        "releaseDate": "2026-09-04",
         "kind": "books",
-        "artistId": "2025040",
-        "artistUrl": "https://books.apple.com/fr/author/nora-roberts/id2025040",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c7/cc/6a/c7cc6ad0-16c4-eedf-c983-e72f66ba52e8/9782290438404.jpg/100x162bb.png",
+        "artistId": "373392077",
+        "artistUrl": "https://books.apple.com/fr/author/olivier-truc/id373392077",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/52/5b/8b/525b8ba2-909d-c5a2-0098-ce651556f7fa/cover.jpg/100x154bb.png",
         "genres": [
           {
             "genreId": "9032",
@@ -1776,29 +2121,47 @@
             "genreId": "38",
             "name": "Livres",
             "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
           }
         ],
-        "url": "https://books.apple.com/fr/book/lieutenant-eve-dallas-tome-60-liens-du-crime/id6802682722"
+        "url": "https://books.apple.com/fr/book/base-toundra/id6764814305"
       },
       {
-        "artistName": "S.T. Abby",
-        "id": "6791131727",
-        "name": "Mindf*ck série - Tome 2 : Double jeu",
-        "releaseDate": "2026-09-24",
+        "artistName": "Elle Kennedy",
+        "id": "6445271925",
+        "name": "Off-campus - Tome 02",
+        "releaseDate": "2026-05-06",
         "kind": "books",
-        "artistId": "1181074890",
-        "artistUrl": "https://books.apple.com/fr/author/s-t-abby/id1181074890",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ce/44/11/ce4411cf-60de-f5f1-36b0-613a268f59cb/9782017373537-001-x.jpeg/100x162bb.png",
+        "artistId": "380128356",
+        "artistUrl": "https://books.apple.com/fr/author/elle-kennedy/id380128356",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/84/2b/f3/842bf306-a2de-5547-a20c-ace81dc5b86f/9782755626933-001-x.jpeg/100x164bb.png",
         "genres": [
           {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/off-campus-tome-02/id6445271925"
+      },
+      {
+        "artistName": "Patricia Briggs & Sophie Barthélémy",
+        "id": "6786664165",
+        "name": "Alpha & Omega : Rendez-vous avec un loup-garou",
+        "releaseDate": "2026-10-21",
+        "kind": "books",
+        "artistId": "304006602",
+        "artistUrl": "https://books.apple.com/fr/author/patricia-briggs/id304006602",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/92/25/b8/9225b813-45f7-3baa-7fd0-c89279dad97f/9782811231057-001-x.jpeg/100x162bb.png",
+        "genres": [
+          {
+            "genreId": "10058",
+            "name": "Romance paranormale",
+            "url": "https://itunes.apple.com/fr/genre/id10058"
           },
           {
             "genreId": "38",
@@ -1811,22 +2174,22 @@
             "url": "https://itunes.apple.com/fr/genre/id9003"
           }
         ],
-        "url": "https://books.apple.com/fr/book/mindf-ck-s%C3%A9rie-tome-2-double-jeu/id6791131727"
+        "url": "https://books.apple.com/fr/book/alpha-omega-rendez-vous-avec-un-loup-garou/id6786664165"
       },
       {
-        "artistName": "Oreco Tachibana",
-        "id": "6759603056",
-        "name": "Les Noces des lucioles - Tome 07",
-        "releaseDate": "2026-04-08",
+        "artistName": "J.K. Rowling & Jean-François Ménard",
+        "id": "1037198744",
+        "name": "Harry Potter et la Chambre des Secrets (Enhanced Edition)",
+        "releaseDate": "2015-11-20",
         "kind": "books",
-        "artistId": "1750079252",
-        "artistUrl": "https://books.apple.com/fr/author/oreco-tachibana/id1750079252",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/64/7a/42/647a427f-cecf-d2b8-2e83-60a19d0e8aee/9782331090424-001-x.jpeg/100x138bb.png",
+        "artistId": "79595314",
+        "artistUrl": "https://books.apple.com/fr/author/j-k-rowling/id79595314",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a5/5f/ed/a55fed42-68c4-63ed-5b5b-5dbf0f1c0899/9781781105993.jpg/100x131bb.png",
         "genres": [
           {
-            "genreId": "50000084",
-            "name": "Manga : Romance",
-            "url": "https://itunes.apple.com/fr/genre/id50000084"
+            "genreId": "11113",
+            "name": "Action et aventure pour enfants",
+            "url": "https://itunes.apple.com/fr/genre/id11113"
           },
           {
             "genreId": "38",
@@ -1834,37 +2197,14 @@
             "url": "https://itunes.apple.com/fr/genre/id38"
           },
           {
-            "genreId": "9026",
-            "name": "BD et mangas",
-            "url": "https://itunes.apple.com/fr/genre/id9026"
+            "genreId": "11086",
+            "name": "Enfants",
+            "url": "https://itunes.apple.com/fr/genre/id11086"
           },
           {
-            "genreId": "10016",
-            "name": "Manga",
-            "url": "https://itunes.apple.com/fr/genre/id10016"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/les-noces-des-lucioles-tome-07/id6759603056"
-      },
-      {
-        "artistName": "Suzanne Collins",
-        "id": "6740602758",
-        "name": "Hunger Games : Lever de soleil sur la moisson",
-        "releaseDate": "2025-03-20",
-        "kind": "books",
-        "artistId": "110188933",
-        "artistUrl": "https://books.apple.com/fr/author/suzanne-collins/id110188933",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/46/42/bf/4642bf34-0e50-ec81-e3fe-9b3dd8c8280a/9782266350754.jpg/100x161bb.png",
-        "genres": [
-          {
-            "genreId": "11183",
-            "name": "Dystopie pour jeunes adultes",
-            "url": "https://itunes.apple.com/fr/genre/id11183"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
+            "genreId": "11112",
+            "name": "Fiction pour enfants",
+            "url": "https://itunes.apple.com/fr/genre/id11112"
           },
           {
             "genreId": "11165",
@@ -1875,9 +2215,413 @@
             "genreId": "11177",
             "name": "Fiction pour jeunes adultes",
             "url": "https://itunes.apple.com/fr/genre/id11177"
+          },
+          {
+            "genreId": "11185",
+            "name": "Fantasy pour jeunes adultes",
+            "url": "https://itunes.apple.com/fr/genre/id11185"
+          },
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          },
+          {
+            "genreId": "10039",
+            "name": "Action et aventure",
+            "url": "https://itunes.apple.com/fr/genre/id10039"
+          },
+          {
+            "genreId": "9020",
+            "name": "SF et fantasy",
+            "url": "https://itunes.apple.com/fr/genre/id9020"
+          },
+          {
+            "genreId": "10044",
+            "name": "Fantasy",
+            "url": "https://itunes.apple.com/fr/genre/id10044"
+          },
+          {
+            "genreId": "11119",
+            "name": "Fantasy pour enfants",
+            "url": "https://itunes.apple.com/fr/genre/id11119"
+          },
+          {
+            "genreId": "11178",
+            "name": "Action et aventure pour jeunes adultes",
+            "url": "https://itunes.apple.com/fr/genre/id11178"
+          },
+          {
+            "genreId": "11001",
+            "name": "Contemporain",
+            "url": "https://itunes.apple.com/fr/genre/id11001"
           }
         ],
-        "url": "https://books.apple.com/fr/book/hunger-games-lever-de-soleil-sur-la-moisson/id6740602758"
+        "url": "https://books.apple.com/fr/book/harry-potter-et-la-chambre-des-secrets-enhanced-edition/id1037198744"
+      },
+      {
+        "artistName": "Daphne Rotcajg",
+        "id": "6811850101",
+        "name": "A tout de suite",
+        "releaseDate": "2026-10-21",
+        "kind": "books",
+        "artistId": "6811850103",
+        "artistUrl": "https://books.apple.com/fr/author/daphne-rotcajg/id6811850103",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e9/5b/9c/e95b9c5c-aa14-a784-bbdd-942fb8728005/9782246841791-001-x.jpeg/100x148bb.png",
+        "genres": [
+          {
+            "genreId": "10049",
+            "name": "Fiction et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id10049"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/a-tout-de-suite/id6811850101"
+      },
+      {
+        "artistName": "Alyxia Fall",
+        "id": "6757207651",
+        "name": "Hell's Lake - Crescendo",
+        "releaseDate": "2025-04-03",
+        "kind": "books",
+        "artistId": "1803827906",
+        "artistUrl": "https://books.apple.com/fr/author/alyxia-fall/id1803827906",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/65/38/43/65384361-5fa8-9bba-5b0c-4006a1956a9f/9791025760741-001-x.jpeg/100x150bb.png",
+        "genres": [
+          {
+            "genreId": "10061",
+            "name": "Thriller romantique",
+            "url": "https://itunes.apple.com/fr/genre/id10061"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/hells-lake-crescendo/id6757207651"
+      },
+      {
+        "artistName": "Jul",
+        "id": "6822662388",
+        "name": "Les Aventures de Lucky Luke d'après Morris - Tome 12 - Saint Lucky Luke",
+        "releaseDate": "2026-11-06",
+        "kind": "books",
+        "artistId": "895119728",
+        "artistUrl": "https://books.apple.com/fr/author/jul/id895119728",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/01/ae/f0/01aef0f9-dce0-d88b-67c5-bcb58ca70fda/9782889880157.jpg/100x131bb.png",
+        "genres": [
+          {
+            "genreId": "9026",
+            "name": "BD et mangas",
+            "url": "https://itunes.apple.com/fr/genre/id9026"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/les-aventures-de-lucky-luke-dapr%C3%A8s-morris-tome-12/id6822662388"
+      },
+      {
+        "artistName": "Laura Ezrena",
+        "id": "6740201784",
+        "name": "The Sons of Death - tome 1",
+        "releaseDate": "2025-02-27",
+        "kind": "books",
+        "artistId": "1788878034",
+        "artistUrl": "https://books.apple.com/fr/author/laura-ezrena/id1788878034",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7c/fa/20/7cfa204b-aa48-cb1e-b3bf-83c348fe5a76/9782017269878-001-x.jpeg/100x159bb.png",
+        "genres": [
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "10061",
+            "name": "Thriller romantique",
+            "url": "https://itunes.apple.com/fr/genre/id10061"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/the-sons-of-death-tome-1/id6740201784"
+      },
+      {
+        "artistName": "Gilles Legardinier",
+        "id": "6805401988",
+        "name": "Tu n'auras plus peur de rien",
+        "releaseDate": "2026-10-07",
+        "kind": "books",
+        "artistId": "476305144",
+        "artistUrl": "https://books.apple.com/fr/author/gilles-legardinier/id476305144",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d4/86/a8/d486a82a-329f-f830-54d6-01b0342698f0/9782080461582.jpg/100x151bb.png",
+        "genres": [
+          {
+            "genreId": "10047",
+            "name": "Fiction historique",
+            "url": "https://itunes.apple.com/fr/genre/id10047"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/tu-nauras-plus-peur-de-rien/id6805401988"
+      },
+      {
+        "artistName": "Emma Green",
+        "id": "6794299331",
+        "name": "Toi + Moi, Tome 02 : L'un contre l'autre - Nouvelle édition - La suite du film Prime",
+        "releaseDate": "2026-09-18",
+        "kind": "books",
+        "artistId": "767013914",
+        "artistUrl": "https://books.apple.com/fr/author/emma-green/id767013914",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/bf/e0/ba/bfe0bae7-cecf-74aa-e90e-5d8d066d5944/9791025762332-001-x.jpeg/100x160bb.png",
+        "genres": [
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/toi-moi-tome-02-lun-contre-lautre-nouvelle-%C3%A9dition/id6794299331"
+      },
+      {
+        "artistName": "Johana Gustawsson",
+        "id": "6445305496",
+        "name": "L'Île de Yule",
+        "releaseDate": "2023-01-18",
+        "kind": "books",
+        "artistId": "1023768973",
+        "artistUrl": "https://books.apple.com/fr/author/johana-gustawsson/id1023768973",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/77/c0/8d/77c08d76-8f11-a557-e464-46ff5e7f59a7/9782702182024-001-x.jpeg/100x159bb.png",
+        "genres": [
+          {
+            "genreId": "9032",
+            "name": "Policier et suspense",
+            "url": "https://itunes.apple.com/fr/genre/id9032"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/l%C3%AEle-de-yule/id6445305496"
+      },
+      {
+        "artistName": "Camilla Grebe & Åsa Träff",
+        "id": "6789093940",
+        "name": "L'homme sans coeur (Siri Bergman, Tome 4)",
+        "releaseDate": "2026-09-02",
+        "kind": "books",
+        "artistId": "420761594",
+        "artistUrl": "https://books.apple.com/fr/author/camilla-grebe/id420761594",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b5/f4/7a/b5f47a93-fa69-4ea4-bc17-e442503c4ee5/9782253244981-001-x.jpeg/100x162bb.png",
+        "genres": [
+          {
+            "genreId": "9032",
+            "name": "Policier et suspense",
+            "url": "https://itunes.apple.com/fr/genre/id9032"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/lhomme-sans-coeur-siri-bergman-tome-4/id6789093940"
+      },
+      {
+        "artistName": "Andrée Martin",
+        "id": "6755395401",
+        "name": "Nos liens brisés",
+        "releaseDate": "2026-01-22",
+        "kind": "books",
+        "artistId": "411075818",
+        "artistUrl": "https://books.apple.com/fr/author/andr%C3%A9e-martin/id411075818",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6c/01/4a/6c014af5-6ce5-2790-3045-b8e432b404be/cover.jpg/100x160bb.png",
+        "genres": [
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/nos-liens-bris%C3%A9s/id6755395401"
+      },
+      {
+        "artistName": "L.J. Shen",
+        "id": "6825256575",
+        "name": "Twisted Pawn",
+        "releaseDate": "2027-01-13",
+        "kind": "books",
+        "artistId": "1126158048",
+        "artistUrl": "https://books.apple.com/fr/author/l-j-shen/id1126158048",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f2/b9/c8/f2b9c87f-b472-6540-6f43-827b60de0cb1/9791042911294-001-x.jpeg/100x158bb.png",
+        "genres": [
+          {
+            "genreId": "10061",
+            "name": "Thriller romantique",
+            "url": "https://itunes.apple.com/fr/genre/id10061"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          },
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/twisted-pawn/id6825256575"
+      },
+      {
+        "artistName": "K. M. Moronova",
+        "id": "6765688228",
+        "name": "Leave me behind",
+        "releaseDate": "2026-09-03",
+        "kind": "books",
+        "artistId": "1718999813",
+        "artistUrl": "https://books.apple.com/fr/author/k-m-moronova/id1718999813",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/69/83/98/698398bf-0a0e-bda7-693c-4403ef69d180/9782385791766.jpg/100x159bb.png",
+        "genres": [
+          {
+            "genreId": "10057",
+            "name": "Romance contemporaine",
+            "url": "https://itunes.apple.com/fr/genre/id10057"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          },
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "11040",
+            "name": "Romance jeunes adultes",
+            "url": "https://itunes.apple.com/fr/genre/id11040"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/leave-me-behind/id6765688228"
+      },
+      {
+        "artistName": "Rebecca Yarros",
+        "id": "6740267936",
+        "name": "Onyx Storm - Version française",
+        "releaseDate": "2025-06-18",
+        "kind": "books",
+        "artistId": "802770747",
+        "artistUrl": "https://books.apple.com/fr/author/rebecca-yarros/id802770747",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a9/3a/e4/a93ae4b1-757b-2dc6-67ea-f9c12a4ec174/9782755673104-001-x.jpeg/100x153bb.png",
+        "genres": [
+          {
+            "genreId": "9003",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/fr/genre/id9003"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/onyx-storm-version-fran%C3%A7aise/id6740267936"
+      },
+      {
+        "artistName": "John Steinbeck",
+        "id": "600797437",
+        "name": "A l'est d'Eden",
+        "releaseDate": "2013-02-04",
+        "kind": "books",
+        "artistId": "299088305",
+        "artistUrl": "https://books.apple.com/fr/author/john-steinbeck/id299088305",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/e6/ea/a4/e6eaa466-5cca-0374-14fc-d2e590cd0159/9782253174691-001-x.jpeg/100x162bb.png",
+        "genres": [
+          {
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
+          },
+          {
+            "genreId": "38",
+            "name": "Livres",
+            "url": "https://itunes.apple.com/fr/genre/id38"
+          }
+        ],
+        "url": "https://books.apple.com/fr/book/a-lest-deden/id600797437"
       },
       {
         "artistName": "S. J Brennan",
@@ -1908,19 +2652,19 @@
         "url": "https://books.apple.com/fr/book/dark-irish-2/id6798185721"
       },
       {
-        "artistName": "Azra Reed",
-        "id": "6757309472",
-        "name": "Mariposa - Tome 1",
-        "releaseDate": "2026-04-01",
+        "artistName": "Éric Heyer, Pascal Lokiec & Dominique Méda",
+        "id": "6817289433",
+        "name": "« Les caisses sont vides » Le grand malentendu",
+        "releaseDate": "2026-10-14",
         "kind": "books",
-        "artistId": "1753254111",
-        "artistUrl": "https://books.apple.com/fr/author/azra-reed/id1753254111",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/df/44/2f/df442fec-7819-cbae-7499-6293883aba17/9791042905538-001-x.jpeg/100x158bb.png",
+        "artistId": "1434521641",
+        "artistUrl": "https://books.apple.com/fr/author/%C3%A9ric-heyer/id1434521641",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5e/2a/23/5e2a2383-7794-080d-4e72-6f7022a291dd/9782080167873.jpg/100x165bb.png",
         "genres": [
           {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
+            "genreId": "10083",
+            "name": "Droit",
+            "url": "https://itunes.apple.com/fr/genre/id10083"
           },
           {
             "genreId": "38",
@@ -1928,65 +2672,65 @@
             "url": "https://itunes.apple.com/fr/genre/id38"
           },
           {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
+            "genreId": "9029",
+            "name": "Professionnel et technique",
+            "url": "https://itunes.apple.com/fr/genre/id9029"
           },
           {
-            "genreId": "10061",
-            "name": "Thriller romantique",
-            "url": "https://itunes.apple.com/fr/genre/id10061"
+            "genreId": "9009",
+            "name": "Entreprise et management",
+            "url": "https://itunes.apple.com/fr/genre/id9009"
+          },
+          {
+            "genreId": "9034",
+            "name": "Politique et actualité",
+            "url": "https://itunes.apple.com/fr/genre/id9034"
+          },
+          {
+            "genreId": "10011",
+            "name": "Économie",
+            "url": "https://itunes.apple.com/fr/genre/id10011"
           }
         ],
-        "url": "https://books.apple.com/fr/book/mariposa-tome-1/id6757309472"
+        "url": "https://books.apple.com/fr/book/les-caisses-sont-vides-le-grand-malentendu/id6817289433"
       },
       {
-        "artistName": "Aria R. Blue",
-        "id": "6815966624",
-        "name": "La Nounou et la Bête: Une dark romance milliardaire avec age gap",
-        "releaseDate": "2026-09-21",
+        "artistName": "Mathieu Menegaux",
+        "id": "1182537667",
+        "name": "Un fils parfait",
+        "releaseDate": "2017-02-01",
         "kind": "books",
-        "artistId": "1845342705",
-        "artistUrl": "https://books.apple.com/fr/author/aria-r-blue/id1845342705",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/24/a4/54/24a4541b-b2fe-bf7c-2479-c1b4d414b67c/0004433868.jpg/100x150bb.png",
+        "artistId": "462217767",
+        "artistUrl": "https://books.apple.com/fr/author/mathieu-menegaux/id462217767",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5f/b4/39/5fb439c8-1ae1-742d-2606-c11e0b5b7d0c/9782246863106-001-x.jpeg/100x158bb.png",
         "genres": [
           {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
+            "genreId": "9031",
+            "name": "Romans et littérature",
+            "url": "https://itunes.apple.com/fr/genre/id9031"
           },
           {
             "genreId": "38",
             "name": "Livres",
             "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "10061",
-            "name": "Thriller romantique",
-            "url": "https://itunes.apple.com/fr/genre/id10061"
-          },
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
           }
         ],
-        "url": "https://books.apple.com/fr/book/la-nounou-et-la-b%C3%AAte-une-dark-romance-milliardaire/id6815966624"
+        "url": "https://books.apple.com/fr/book/un-fils-parfait/id1182537667"
       },
       {
-        "artistName": "Joe Abercrombie & Jean Claude Mallé",
-        "id": "6742885605",
-        "name": "Les Diables T01",
-        "releaseDate": "2025-05-14",
+        "artistName": "Dale Carnegie",
+        "id": "6445655871",
+        "name": "Comment se faire des amis (Nouvelle édition)",
+        "releaseDate": "2023-02-15",
         "kind": "books",
-        "artistId": "330715921",
-        "artistUrl": "https://books.apple.com/fr/author/joe-abercrombie/id330715921",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/36/b0/77/36b07798-1957-8dfc-7bb0-74d77ccc7be7/9791028131890-001-x.jpeg/100x156bb.png",
+        "artistId": "23547707",
+        "artistUrl": "https://books.apple.com/fr/author/dale-carnegie/id23547707",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/09/fb/cf/09fbcf7e-9c87-080b-3037-322b4970e35f/9782253938637-001-x.jpeg/100x162bb.png",
         "genres": [
           {
-            "genreId": "10044",
-            "name": "Fantasy",
-            "url": "https://itunes.apple.com/fr/genre/id10044"
+            "genreId": "10038",
+            "name": "Famille et relations",
+            "url": "https://itunes.apple.com/fr/genre/id10038"
           },
           {
             "genreId": "38",
@@ -1994,12 +2738,32 @@
             "url": "https://itunes.apple.com/fr/genre/id38"
           },
           {
-            "genreId": "9020",
-            "name": "SF et fantasy",
-            "url": "https://itunes.apple.com/fr/genre/id9020"
+            "genreId": "9002",
+            "name": "Essais et sciences humaines",
+            "url": "https://itunes.apple.com/fr/genre/id9002"
+          },
+          {
+            "genreId": "9025",
+            "name": "Santé et bien-être",
+            "url": "https://itunes.apple.com/fr/genre/id9025"
+          },
+          {
+            "genreId": "10119",
+            "name": "Développement personnel",
+            "url": "https://itunes.apple.com/fr/genre/id10119"
+          },
+          {
+            "genreId": "9009",
+            "name": "Entreprise et management",
+            "url": "https://itunes.apple.com/fr/genre/id9009"
+          },
+          {
+            "genreId": "10010",
+            "name": "Carrière",
+            "url": "https://itunes.apple.com/fr/genre/id10010"
           }
         ],
-        "url": "https://books.apple.com/fr/book/les-diables-t01/id6742885605"
+        "url": "https://books.apple.com/fr/book/comment-se-faire-des-amis-nouvelle-%C3%A9dition/id6445655871"
       },
       {
         "artistName": "S.T. Abby",
@@ -2030,19 +2794,19 @@
         "url": "https://books.apple.com/fr/book/mindf-ck-s%C3%A9rie-tome-4-tous-les-mensonges/id6791132031"
       },
       {
-        "artistName": "Jérôme Fourquet & Ruben Rabinovitch",
-        "id": "6805807669",
-        "name": "Homo occidentalis",
-        "releaseDate": "2026-10-02",
+        "artistName": "Giuliano Da Empoli",
+        "id": "6774921658",
+        "name": "L'heure des prédateurs",
+        "releaseDate": "2026-06-04",
         "kind": "books",
-        "artistId": "1054920914",
-        "artistUrl": "https://books.apple.com/fr/author/j%C3%A9r%C3%B4me-fourquet/id1054920914",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d5/5f/db/d55fdb51-e0f9-d4f2-3e2f-b671a2d185ef/9782021619720.jpg/100x157bb.png",
+        "artistId": "663411995",
+        "artistUrl": "https://books.apple.com/fr/author/giuliano-da-empoli/id663411995",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c8/16/9a/c8169ab9-bc56-1e93-fd67-2bcf18327a4f/9782073134578.jpg/100x165bb.png",
         "genres": [
           {
-            "genreId": "10120",
-            "name": "Sciences sociales",
-            "url": "https://itunes.apple.com/fr/genre/id10120"
+            "genreId": "11264",
+            "name": "Science politique",
+            "url": "https://itunes.apple.com/fr/genre/id11264"
           },
           {
             "genreId": "38",
@@ -2050,139 +2814,37 @@
             "url": "https://itunes.apple.com/fr/genre/id38"
           },
           {
-            "genreId": "9002",
-            "name": "Essais et sciences humaines",
-            "url": "https://itunes.apple.com/fr/genre/id9002"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/homo-occidentalis/id6805807669"
-      },
-      {
-        "artistName": "Dan Brown",
-        "id": "6741199529",
-        "name": "Le secret des secrets",
-        "releaseDate": "2025-09-09",
-        "kind": "books",
-        "artistId": "2079716",
-        "artistUrl": "https://books.apple.com/fr/author/dan-brown/id2079716",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/7c/6b/72/7c6b7243-eea6-af2b-42bf-ff78ebe83153/9782709668132-001-x.jpeg/100x154bb.png",
-        "genres": [
-          {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
+            "genreId": "9034",
+            "name": "Politique et actualité",
+            "url": "https://itunes.apple.com/fr/genre/id9034"
           },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/le-secret-des-secrets/id6741199529"
-      },
-      {
-        "artistName": "Freida McFadden",
-        "id": "6760700815",
-        "name": "L'intruse",
-        "releaseDate": "2026-05-06",
-        "kind": "books",
-        "artistId": "1101564107",
-        "artistUrl": "https://books.apple.com/fr/author/freida-mcfadden/id1101564107",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3e/96/91/3e9691b4-5c76-faf6-5ff2-dbd9b5c41f45/9782824624730-001-x.jpeg/100x155bb.png",
-        "genres": [
           {
             "genreId": "9031",
             "name": "Romans et littérature",
             "url": "https://itunes.apple.com/fr/genre/id9031"
           },
           {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
+            "genreId": "11261",
+            "name": "Politique étrangère et relations internationales",
+            "url": "https://itunes.apple.com/fr/genre/id11261"
           }
         ],
-        "url": "https://books.apple.com/fr/book/lintruse/id6760700815"
+        "url": "https://books.apple.com/fr/book/lheure-des-pr%C3%A9dateurs/id6774921658"
       },
       {
-        "artistName": "Drusilla Swan",
-        "id": "6819944117",
-        "name": "Un loup milliardaire a besoin d’une nounou",
-        "releaseDate": "2026-10-06",
+        "artistName": "Rebecca Yarros",
+        "id": "6770818252",
+        "name": "Threshing Day",
+        "releaseDate": "2026-09-29",
         "kind": "books",
-        "artistId": "1595109578",
-        "artistUrl": "https://books.apple.com/fr/author/drusilla-swan/id1595109578",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/de/43/fb/de43fb1f-9c03-16ef-48bd-a900f3920b79/0004454442.jpg/100x150bb.png",
+        "artistId": "802770747",
+        "artistUrl": "https://books.apple.com/fr/author/rebecca-yarros/id802770747",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/11/15/39/111539dd-1750-ff54-064e-a0cb514703df/dj.cuxsrnxi.jpg/100x152bb.png",
         "genres": [
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "11231",
-            "name": "Romance pendant les Fêtes",
-            "url": "https://itunes.apple.com/fr/genre/id11231"
-          },
           {
             "genreId": "10058",
             "name": "Romance paranormale",
             "url": "https://itunes.apple.com/fr/genre/id10058"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/un-loup-milliardaire-a-besoin-dune-nounou/id6819944117"
-      },
-      {
-        "artistName": "Witness Lee",
-        "id": "6823000674",
-        "name": "Le Grand besoin d’un nouveau réveil",
-        "releaseDate": "2026-10-14",
-        "kind": "books",
-        "artistId": "464218827",
-        "artistUrl": "https://books.apple.com/fr/author/witness-lee/id464218827",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ec/3c/ee/ec3cee54-e7ce-18b1-6340-79bf564e3389/c6949a59-ea43-4003-a568-e6b1dfd6e18f_cover_image.jpg/100x153bb.png",
-        "genres": [
-          {
-            "genreId": "10105",
-            "name": "Étude biblique",
-            "url": "https://itunes.apple.com/fr/genre/id10105"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9018",
-            "name": "Religion et spiritualité",
-            "url": "https://itunes.apple.com/fr/genre/id9018"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/le-grand-besoin-dun-nouveau-r%C3%A9veil/id6823000674"
-      },
-      {
-        "artistName": "Ana Huang",
-        "id": "6761269066",
-        "name": "Kings of sin - tome 06",
-        "releaseDate": "2026-09-10",
-        "kind": "books",
-        "artistId": "1001710589",
-        "artistUrl": "https://books.apple.com/fr/author/ana-huang/id1001710589",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5b/6c/78/5b6c78d9-7b0f-05f6-86e7-6ad284c4667b/9791042906023-001-x.jpeg/100x158bb.png",
-        "genres": [
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
           },
           {
             "genreId": "38",
@@ -2193,561 +2855,49 @@
             "genreId": "9003",
             "name": "Romance",
             "url": "https://itunes.apple.com/fr/genre/id9003"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/kings-of-sin-tome-06/id6761269066"
-      },
-      {
-        "artistName": "Laura Ezrena",
-        "id": "6783736831",
-        "name": "The Sons of Death - tome 4",
-        "releaseDate": "2026-09-10",
-        "kind": "books",
-        "artistId": "1788878034",
-        "artistUrl": "https://books.apple.com/fr/author/laura-ezrena/id1788878034",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/73/80/1c/73801c7b-8f9f-d7cd-9764-81ded480221b/9782017307259-001-x.jpeg/100x159bb.png",
-        "genres": [
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
           },
           {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
+            "genreId": "9020",
+            "name": "SF et fantasy",
+            "url": "https://itunes.apple.com/fr/genre/id9020"
           },
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/the-sons-of-death-tome-4/id6783736831"
-      },
-      {
-        "artistName": "Jérôme Loubry",
-        "id": "1476569132",
-        "name": "Les Refuges ",
-        "releaseDate": "2019-09-04",
-        "kind": "books",
-        "artistId": "1282948917",
-        "artistUrl": "https://books.apple.com/fr/author/j%C3%A9r%C3%B4me-loubry/id1282948917",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9b/dc/57/9bdc57b8-5e59-ba32-9e8e-14b360817967/cover.jpg/100x155bb.png",
-        "genres": [
-          {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/les-refuges/id1476569132"
-      },
-      {
-        "artistName": "Oreco Tachibana",
-        "id": "6763268763",
-        "name": "Les Noces des lucioles - Tome 08",
-        "releaseDate": "2026-07-01",
-        "kind": "books",
-        "artistId": "1750079252",
-        "artistUrl": "https://books.apple.com/fr/author/oreco-tachibana/id1750079252",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/12/ab/ae/12abaef4-7929-8317-3033-b579358ca975/9782331090554-001-x.jpeg/100x139bb.png",
-        "genres": [
-          {
-            "genreId": "50000084",
-            "name": "Manga : Romance",
-            "url": "https://itunes.apple.com/fr/genre/id50000084"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9026",
-            "name": "BD et mangas",
-            "url": "https://itunes.apple.com/fr/genre/id9026"
-          },
-          {
-            "genreId": "10016",
-            "name": "Manga",
-            "url": "https://itunes.apple.com/fr/genre/id10016"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/les-noces-des-lucioles-tome-08/id6763268763"
-      },
-      {
-        "artistName": "Jennifer L. Armentrout",
-        "id": "6499003170",
-        "name": "La Guerre des deux Reines (e-book) - Tome 04",
-        "releaseDate": "2024-05-23",
-        "kind": "books",
-        "artistId": "531528746",
-        "artistUrl": "https://books.apple.com/fr/author/jennifer-l-armentrout/id531528746",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5c/68/70/5c68702a-261e-59e0-d636-b2b2a8f37325/9782378764432.jpg/100x145bb.png",
-        "genres": [
           {
             "genreId": "10044",
             "name": "Fantasy",
             "url": "https://itunes.apple.com/fr/genre/id10044"
           },
           {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9020",
-            "name": "SF et fantasy",
-            "url": "https://itunes.apple.com/fr/genre/id9020"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/la-guerre-des-deux-reines-e-book-tome-04/id6499003170"
-      },
-      {
-        "artistName": "Aleyna Diaz",
-        "id": "6807999610",
-        "name": "Rose (Tome 1) - Les enfants de l’ombre. Roman Dark Romance Mafia – Enemies to Lovers – Slow Burn – Romance interdite – Suspense – New Adult  Aleyna Diaz",
-        "releaseDate": "2026-09-30",
-        "kind": "books",
-        "artistId": "6807999615",
-        "artistUrl": "https://books.apple.com/fr/author/aleyna-diaz/id6807999615",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7d/5a/00/7d5a0025-bc0e-0c04-f1b1-56d710b18010/9782387380319.jpg/100x161bb.png",
-        "genres": [
-          {
-            "genreId": "10061",
-            "name": "Thriller romantique",
-            "url": "https://itunes.apple.com/fr/genre/id10061"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          },
-          {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/rose-tome-1-les-enfants-de-lombre-roman-dark-romance/id6807999610"
-      },
-      {
-        "artistName": "Jacques Saussey",
-        "id": "6698864771",
-        "name": "Le seul coupable",
-        "releaseDate": "2024-10-10",
-        "kind": "books",
-        "artistId": "496980209",
-        "artistUrl": "https://books.apple.com/fr/author/jacques-saussey/id496980209",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ac/70/d7/ac70d7bb-3608-b316-ab18-b71ee572d861/9782265158252.jpg/100x150bb.png",
-        "genres": [
-          {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/le-seul-coupable/id6698864771"
-      },
-      {
-        "artistName": "Rina Kent",
-        "id": "6752772316",
-        "name": "Kingdom Duet - Tome 2 : Rise of a Queen",
-        "releaseDate": "2025-10-30",
-        "kind": "books",
-        "artistId": "1472501789",
-        "artistUrl": "https://books.apple.com/fr/author/rina-kent/id1472501789",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/2f/77/d5/2f77d59e-a57f-a486-78b1-7cb9c892f32d/9782017269854-001-x.jpeg/100x159bb.png",
-        "genres": [
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/kingdom-duet-tome-2-rise-of-a-queen/id6752772316"
-      },
-      {
-        "artistName": "Apolline Vercel",
-        "id": "6760733727",
-        "name": "Juste Pour T'oublier",
-        "releaseDate": "2026-03-17",
-        "kind": "books",
-        "artistId": "1863063952",
-        "artistUrl": "https://books.apple.com/fr/author/apolline-vercel/id1863063952",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/17/2d/8d/172d8dea-164b-b3a7-9777-e2eceda88eb7/0004172324.jpg/100x149bb.png",
-        "genres": [
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/juste-pour-toublier/id6760733727"
-      },
-      {
-        "artistName": "Analia Noir",
-        "id": "1619566098",
-        "name": "Tu Seras Ma Soumise (L'Intégrale)",
-        "releaseDate": "2022-04-14",
-        "kind": "books",
-        "artistId": "1020487223",
-        "artistUrl": "https://books.apple.com/fr/author/analia-noir/id1020487223",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/1f/89/5a/1f895aec-61f7-8d79-39eb-d5831d419274/0000866082.jpg/100x150bb.png",
-        "genres": [
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "11040",
-            "name": "Romance jeunes adultes",
-            "url": "https://itunes.apple.com/fr/genre/id11040"
-          },
-          {
-            "genreId": "10061",
-            "name": "Thriller romantique",
-            "url": "https://itunes.apple.com/fr/genre/id10061"
-          },
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/tu-seras-ma-soumise-lint%C3%A9grale/id1619566098"
-      },
-      {
-        "artistName": "Andrée Michaud",
-        "id": "6748012975",
-        "name": "Baignades - Grand prix de littérature policière 2026",
-        "releaseDate": "2025-08-20",
-        "kind": "books",
-        "artistId": "1131926140",
-        "artistUrl": "https://books.apple.com/fr/author/andr%C3%A9e-michaud/id1131926140",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ed/28/5e/ed285e0e-b3b4-2079-7679-3e3bb9118484/9782743668150.jpg/100x154bb.png",
-        "genres": [
-          {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/baignades-grand-prix-de-litt%C3%A9rature-polici%C3%A8re-2026/id6748012975"
-      },
-      {
-        "artistName": "Curzio Malaparte",
-        "id": "1610310625",
-        "name": "Technique du coup d'État",
-        "releaseDate": "2022-03-16",
-        "kind": "books",
-        "artistId": "332336431",
-        "artistUrl": "https://books.apple.com/fr/author/curzio-malaparte/id332336431",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/74/24/17/7424173c-5d35-6d6d-42cd-1d6544a67262/9782246830894-001-x.jpeg/100x158bb.png",
-        "genres": [
-          {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/technique-du-coup-d%C3%A9tat/id1610310625"
-      },
-      {
-        "artistName": "Alexandra Vasti",
-        "id": "6815640188",
-        "name": "Le cabinet de lecture (Tome 1) - Le jeu de l'amour et du scandale",
-        "releaseDate": "2026-10-07",
-        "kind": "books",
-        "artistId": "1713176721",
-        "artistUrl": "https://books.apple.com/fr/author/alexandra-vasti/id1713176721",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/9f/0d/76/9f0d7606-02ae-4c1c-280d-c763e667297f/9782290436905.jpg/100x162bb.png",
-        "genres": [
-          {
-            "genreId": "10059",
-            "name": "Romance historique",
-            "url": "https://itunes.apple.com/fr/genre/id10059"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/le-cabinet-de-lecture-tome-1-le-jeu-de-lamour-et-du-scandale/id6815640188"
-      },
-      {
-        "artistName": "Bill Clinton & James Patterson",
-        "id": "1386195641",
-        "name": "Le Président a disparu",
-        "releaseDate": "2018-06-06",
-        "kind": "books",
-        "artistId": "1386195648",
-        "artistUrl": "https://books.apple.com/fr/author/bill-clinton/id1386195648",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/32/cb/0d/32cb0d13-8ee8-fb3d-a98c-7da7a3061bab/9782709662253-001-x.jpeg/100x161bb.png",
-        "genres": [
-          {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/le-pr%C3%A9sident-a-disparu/id1386195641"
-      },
-      {
-        "artistName": "S.T. Abby",
-        "id": "6791132073",
-        "name": "Mindf*ck série - Tome 3 : L'ange écarlate",
-        "releaseDate": "2026-09-24",
-        "kind": "books",
-        "artistId": "1181074890",
-        "artistUrl": "https://books.apple.com/fr/author/s-t-abby/id1181074890",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ec/b7/5f/ecb75f1c-67a0-b3e3-c07e-69c511728790/9782017373544-001-x.jpeg/100x162bb.png",
-        "genres": [
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/mindf-ck-s%C3%A9rie-tome-3-lange-%C3%A9carlate/id6791132073"
-      },
-      {
-        "artistName": "Harlan Coben & Reese Witherspoon",
-        "id": "6762355571",
-        "name": "Près de moi pour toujours",
-        "releaseDate": "2026-09-24",
-        "kind": "books",
-        "artistId": "2079141",
-        "artistUrl": "https://books.apple.com/fr/author/harlan-coben/id2079141",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/83/54/28/835428ca-0bed-7327-ff01-11b4a720566b/9782714405562.jpg/100x161bb.png",
-        "genres": [
-          {
-            "genreId": "9032",
-            "name": "Policier et suspense",
-            "url": "https://itunes.apple.com/fr/genre/id9032"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/pr%C3%A8s-de-moi-pour-toujours/id6762355571"
-      },
-      {
-        "artistName": "Gaël Faye",
-        "id": "1122455240",
-        "name": "Petit pays",
-        "releaseDate": "2016-08-24",
-        "kind": "books",
-        "artistId": "1122455550",
-        "artistUrl": "https://books.apple.com/fr/author/ga%C3%ABl-faye/id1122455550",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e9/14/e0/e914e0f6-0847-1928-70bd-5bb21fe7c167/9782246857341-001-x.jpeg/100x145bb.png",
-        "genres": [
-          {
-            "genreId": "9031",
-            "name": "Romans et littérature",
-            "url": "https://itunes.apple.com/fr/genre/id9031"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/petit-pays/id1122455240"
-      },
-      {
-        "artistName": "Liz Tomforde",
-        "id": "6739447847",
-        "name": "Windy City # 2 - The Right Move - Tome 2",
-        "releaseDate": "2025-01-16",
-        "kind": "books",
-        "artistId": "1664931985",
-        "artistUrl": "https://books.apple.com/fr/author/liz-tomforde/id1664931985",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/73/d3/66/73d36634-e8c7-d06b-29b7-a2054f972196/9782385790462.jpg/100x159bb.png",
-        "genres": [
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "9003",
-            "name": "Romance",
-            "url": "https://itunes.apple.com/fr/genre/id9003"
-          },
-          {
-            "genreId": "11040",
-            "name": "Romance jeunes adultes",
-            "url": "https://itunes.apple.com/fr/genre/id11040"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/windy-city-2-the-right-move-tome-2/id6739447847"
-      },
-      {
-        "artistName": "Emilie Steinbach",
-        "id": "6820061128",
-        "name": "Votre assiette optimisée",
-        "releaseDate": "2026-09-30",
-        "kind": "books",
-        "artistId": "1822246251",
-        "artistUrl": "https://books.apple.com/fr/author/emilie-steinbach/id1822246251",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c5/34/54/c5345445-5fe8-e1ec-d3d8-1a28d822744c/9782501206327-001-x.jpeg/100x124bb.png",
-        "genres": [
-          {
             "genreId": "9025",
             "name": "Santé et bien-être",
             "url": "https://itunes.apple.com/fr/genre/id9025"
           },
           {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
+            "genreId": "10004",
+            "name": "Spiritualité",
+            "url": "https://itunes.apple.com/fr/genre/id10004"
           },
           {
-            "genreId": "9028",
-            "name": "Cuisine et vin",
-            "url": "https://itunes.apple.com/fr/genre/id9028"
-          },
-          {
-            "genreId": "10028",
-            "name": "Livres de cuisine pour régimes spéciaux",
-            "url": "https://itunes.apple.com/fr/genre/id10028"
+            "genreId": "11002",
+            "name": "Épopées fantasy",
+            "url": "https://itunes.apple.com/fr/genre/id11002"
           }
         ],
-        "url": "https://books.apple.com/fr/book/votre-assiette-optimis%C3%A9e/id6820061128"
+        "url": "https://books.apple.com/fr/book/threshing-day/id6770818252"
       },
       {
-        "artistName": "Julien Neel & Carole Neel",
-        "id": "6796280046",
-        "name": "Lou ! Sonata - Tome 03",
-        "releaseDate": "2026-10-07",
+        "artistName": "Allie Oleander",
+        "id": "6808463461",
+        "name": "Proie sous contrat",
+        "releaseDate": "2026-10-15",
         "kind": "books",
-        "artistId": "564216286",
-        "artistUrl": "https://books.apple.com/fr/author/julien-neel/id564216286",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6c/7c/11/6c7c1168-ec57-6456-20bc-2f66fa7e7f52/9782331093203-001-x.jpeg/100x137bb.png",
+        "artistId": "1807147722",
+        "artistUrl": "https://books.apple.com/fr/author/allie-oleander/id1807147722",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3f/b6/9c/3fb69c74-ba36-c8c8-a7a6-699729a23ff0/9782386902291.jpg/100x151bb.png",
         "genres": [
           {
-            "genreId": "11116",
-            "name": "BD et romans graphiques pour enfants",
-            "url": "https://itunes.apple.com/fr/genre/id11116"
-          },
-          {
-            "genreId": "38",
-            "name": "Livres",
-            "url": "https://itunes.apple.com/fr/genre/id38"
-          },
-          {
-            "genreId": "11086",
-            "name": "Enfants",
-            "url": "https://itunes.apple.com/fr/genre/id11086"
-          },
-          {
-            "genreId": "11112",
-            "name": "Fiction pour enfants",
-            "url": "https://itunes.apple.com/fr/genre/id11112"
-          }
-        ],
-        "url": "https://books.apple.com/fr/book/lou-sonata-tome-03/id6796280046"
-      },
-      {
-        "artistName": "Ana Huang",
-        "id": "6458186020",
-        "name": "Twisted Games - Tome 02 - Version française",
-        "releaseDate": "2023-12-06",
-        "kind": "books",
-        "artistId": "1001710589",
-        "artistUrl": "https://books.apple.com/fr/author/ana-huang/id1001710589",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/16/2b/5a/162b5a95-4b23-c95c-3aec-63c83d71f044/9782755670547-001-x.jpeg/100x158bb.png",
-        "genres": [
-          {
-            "genreId": "10057",
-            "name": "Romance contemporaine",
-            "url": "https://itunes.apple.com/fr/genre/id10057"
+            "genreId": "10061",
+            "name": "Thriller romantique",
+            "url": "https://itunes.apple.com/fr/genre/id10061"
           },
           {
             "genreId": "38",
@@ -2760,7 +2910,7 @@
             "url": "https://itunes.apple.com/fr/genre/id9003"
           }
         ],
-        "url": "https://books.apple.com/fr/book/twisted-games-tome-02-version-fran%C3%A7aise/id6458186020"
+        "url": "https://books.apple.com/fr/book/proie-sous-contrat/id6808463461"
       }
     ]
   }
