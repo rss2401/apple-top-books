@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 37,
+      "artistName": "Amin Maalouf",
+      "id": "6812301883",
+      "name": "Le siècle de notre métamorphose",
+      "releaseDate": "2026-10-14",
+      "kind": "books",
+      "artistId": "324991800",
+      "artistUrl": "https://books.apple.com/fr/author/amin-maalouf/id324991800",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b4/38/e4/b438e41a-5fbc-5fe5-ec70-8a18450b87b4/9782246839071-001-x.jpeg/100x158bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/le-si%C3%A8cle-de-notre-m%C3%A9tamorphose/id6812301883"
+    }
+  ]
+}

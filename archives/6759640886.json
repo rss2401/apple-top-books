@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 95,
+      "artistName": "Good Food",
+      "id": "6759640886",
+      "name": "GOOD FOOD Best Ever Batch Cooks",
+      "releaseDate": "2026-08-27",
+      "kind": "books",
+      "artistId": "1206776800",
+      "artistUrl": "https://books.apple.com/gb/author/good-food/id1206776800",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/21/81/25/2181257f-8bdc-8989-06d0-1ab7c9b41c91/9780600640424.jpg/100x129bb.png",
+      "genres": [
+        {
+          "genreId": "9028",
+          "name": "Food & Drink",
+          "url": "https://itunes.apple.com/gb/genre/id9028"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "10030",
+          "name": "Cooking Methods",
+          "url": "https://itunes.apple.com/gb/genre/id10030"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/good-food-best-ever-batch-cooks/id6759640886"
+    }
+  ]
+}

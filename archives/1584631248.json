@@ -6,7 +6,7 @@
       "country": "us",
       "mediaType": "books",
       "feed": "top-paid",
-      "rank": 61,
+      "rank": 32,
       "artistName": "Buzz Bissinger",
       "id": "1584631248",
       "name": "The Mosquito Bowl",
@@ -47,6 +47,21 @@
           "url": "https://itunes.apple.com/us/genre/id10125"
         },
         {
+          "genreId": "9002",
+          "name": "Nonfiction",
+          "url": "https://itunes.apple.com/us/genre/id9002"
+        },
+        {
+          "genreId": "10120",
+          "name": "Social Science",
+          "url": "https://itunes.apple.com/us/genre/id10120"
+        },
+        {
+          "genreId": "11076",
+          "name": "Society",
+          "url": "https://itunes.apple.com/us/genre/id11076"
+        },
+        {
           "genreId": "11031",
           "name": "Historical Bios & Memoirs",
           "url": "https://itunes.apple.com/us/genre/id11031"
@@ -67,19 +82,9 @@
           "url": "https://itunes.apple.com/us/genre/id10121"
         },
         {
-          "genreId": "9002",
-          "name": "Nonfiction",
-          "url": "https://itunes.apple.com/us/genre/id9002"
-        },
-        {
-          "genreId": "10120",
-          "name": "Social Science",
-          "url": "https://itunes.apple.com/us/genre/id10120"
-        },
-        {
-          "genreId": "11076",
-          "name": "Society",
-          "url": "https://itunes.apple.com/us/genre/id11076"
+          "genreId": "11038",
+          "name": "Sports Bios & Memoirs",
+          "url": "https://itunes.apple.com/us/genre/id11038"
         },
         {
           "genreId": "9034",
@@ -90,11 +95,6 @@
           "genreId": "11264",
           "name": "Political Science",
           "url": "https://itunes.apple.com/us/genre/id11264"
-        },
-        {
-          "genreId": "11038",
-          "name": "Sports Bios & Memoirs",
-          "url": "https://itunes.apple.com/us/genre/id11038"
         }
       ],
       "url": "https://books.apple.com/us/book/the-mosquito-bowl/id1584631248"

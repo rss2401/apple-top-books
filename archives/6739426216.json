@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 94,
+      "artistName": "Bartosz Sztybor & Asano",
+      "id": "6739426216",
+      "name": "Cyberpunk: Edgerunners MADNESS - Chapitre 01",
+      "releaseDate": "2024-12-13",
+      "kind": "books",
+      "artistId": "1108054729",
+      "artistUrl": "https://books.apple.com/fr/author/bartosz-sztybor/id1108054729",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/89/33/d0/8933d03c-0ed8-fd64-7a11-eeee0990d9d0/9791039137379-001-x.jpeg/100x138bb.png",
+      "genres": [
+        {
+          "genreId": "50000071",
+          "name": "Manga : Action",
+          "url": "https://itunes.apple.com/fr/genre/id50000071"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "BD et mangas",
+          "url": "https://itunes.apple.com/fr/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "Manga",
+          "url": "https://itunes.apple.com/fr/genre/id10016"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/cyberpunk-edgerunners-madness-chapitre-01/id6739426216"
+    }
+  ]
+}

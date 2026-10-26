@@ -1,0 +1,58 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 85,
+      "artistName": "Robert Greene",
+      "id": "448934995",
+      "name": "The 48 Laws Of Power",
+      "releaseDate": "2010-09-03",
+      "kind": "books",
+      "artistId": "2722791",
+      "artistUrl": "https://books.apple.com/de/author/robert-greene/id2722791",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/4e/2d/36/4e2d3644-fd8d-bddd-da7b-15d097a51678/9781847651341.jpg/100x140bb.png",
+      "genres": [
+        {
+          "genreId": "10004",
+          "name": "Spiritualität",
+          "url": "https://itunes.apple.com/de/genre/id10004"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9025",
+          "name": "Gesundheit, Körper und Geist",
+          "url": "https://itunes.apple.com/de/genre/id9025"
+        },
+        {
+          "genreId": "9034",
+          "name": "Politik und Zeitgeschehen",
+          "url": "https://itunes.apple.com/de/genre/id9034"
+        },
+        {
+          "genreId": "10119",
+          "name": "Selbstverwirklichung",
+          "url": "https://itunes.apple.com/de/genre/id10119"
+        },
+        {
+          "genreId": "9002",
+          "name": "Sachbücher",
+          "url": "https://itunes.apple.com/de/genre/id9002"
+        },
+        {
+          "genreId": "10120",
+          "name": "Sozialwissenschaft",
+          "url": "https://itunes.apple.com/de/genre/id10120"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/the-48-laws-of-power/id448934995"
+    }
+  ]
+}

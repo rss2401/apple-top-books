@@ -1,0 +1,58 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 73,
+      "artistName": "Kerry Barrett",
+      "id": "6686398606",
+      "name": "The Bookshop of Secrets",
+      "releaseDate": "2025-02-13",
+      "kind": "books",
+      "artistId": "706061008",
+      "artistUrl": "https://books.apple.com/gb/author/kerry-barrett/id706061008",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/41/1e/9f/411e9f2f-9ead-8699-a09c-e6f387984257/9780008603212.jpg/100x153bb.png",
+      "genres": [
+        {
+          "genreId": "10047",
+          "name": "Historical Fiction",
+          "url": "https://itunes.apple.com/gb/genre/id10047"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id9031"
+        },
+        {
+          "genreId": "11050",
+          "name": "Family Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id11050"
+        },
+        {
+          "genreId": "10039",
+          "name": "Action & Adventure",
+          "url": "https://itunes.apple.com/gb/genre/id10039"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/gb/genre/id9003"
+        },
+        {
+          "genreId": "10059",
+          "name": "Historical Romance",
+          "url": "https://itunes.apple.com/gb/genre/id10059"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/the-bookshop-of-secrets/id6686398606"
+    }
+  ]
+}

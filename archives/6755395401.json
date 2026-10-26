@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 88,
+      "artistName": "Andrée Martin",
+      "id": "6755395401",
+      "name": "Nos liens brisés",
+      "releaseDate": "2026-01-22",
+      "kind": "books",
+      "artistId": "411075818",
+      "artistUrl": "https://books.apple.com/fr/author/andr%C3%A9e-martin/id411075818",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6c/01/4a/6c014af5-6ce5-2790-3045-b8e432b404be/cover.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "10057",
+          "name": "Romance contemporaine",
+          "url": "https://itunes.apple.com/fr/genre/id10057"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/nos-liens-bris%C3%A9s/id6755395401"
+    }
+  ]
+}

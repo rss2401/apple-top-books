@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 97,
+      "artistName": "Not Being",
+      "id": "6749016198",
+      "name": "Jenseits des Ichs: Eine spirituelle Anatomie des Egos",
+      "releaseDate": "2025-07-23",
+      "kind": "books",
+      "artistId": "1800758779",
+      "artistUrl": "https://books.apple.com/de/author/not-being/id1800758779",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/73/a5/6e/73a56e34-326e-f84e-b430-349715a5a713/0003059840.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "10119",
+          "name": "Selbstverwirklichung",
+          "url": "https://itunes.apple.com/de/genre/id10119"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9025",
+          "name": "Gesundheit, Körper und Geist",
+          "url": "https://itunes.apple.com/de/genre/id9025"
+        },
+        {
+          "genreId": "9018",
+          "name": "Religion und Spiritualität",
+          "url": "https://itunes.apple.com/de/genre/id9018"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/jenseits-des-ichs-eine-spirituelle-anatomie-des-egos/id6749016198"
+    }
+  ]
+}

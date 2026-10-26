@@ -1,0 +1,73 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 74,
+      "artistName": "Lauren Palphreyman",
+      "id": "6756037096",
+      "name": "The Night Prince",
+      "releaseDate": "2025-12-18",
+      "kind": "books",
+      "artistId": "1253119427",
+      "artistUrl": "https://books.apple.com/gb/author/lauren-palphreyman/id1253119427",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3e/19/4b/3e194bec-5718-0b45-1d89-6a1015b28b8e/9781911751120.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "10044",
+          "name": "Fantasy",
+          "url": "https://itunes.apple.com/gb/genre/id10044"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "9020",
+          "name": "Sci-Fi & Fantasy",
+          "url": "https://itunes.apple.com/gb/genre/id9020"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/gb/genre/id9003"
+        },
+        {
+          "genreId": "11004",
+          "name": "Paranormal Fantasy",
+          "url": "https://itunes.apple.com/gb/genre/id11004"
+        },
+        {
+          "genreId": "10058",
+          "name": "Paranormal Romance",
+          "url": "https://itunes.apple.com/gb/genre/id10058"
+        },
+        {
+          "genreId": "9025",
+          "name": "Health & Well-Being",
+          "url": "https://itunes.apple.com/gb/genre/id9025"
+        },
+        {
+          "genreId": "10004",
+          "name": "Spirituality",
+          "url": "https://itunes.apple.com/gb/genre/id10004"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id9031"
+        },
+        {
+          "genreId": "10039",
+          "name": "Action & Adventure",
+          "url": "https://itunes.apple.com/gb/genre/id10039"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/the-night-prince/id6756037096"
+    }
+  ]
+}

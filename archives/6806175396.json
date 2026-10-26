@@ -1,0 +1,63 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 75,
+      "artistName": "金田一蓮十郎",
+      "id": "6806175396",
+      "name": "ゆうべはお楽しみでしたね 13巻",
+      "releaseDate": "2026-10-23",
+      "kind": "books",
+      "artistId": "608653711",
+      "artistUrl": "https://books.apple.com/jp/author/%E9%87%91%E7%94%B0%E4%B8%80%E8%93%AE%E5%8D%81%E9%83%8E/id608653711",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/cd/9b/17/cd9b17bd-8b56-e72a-0316-39cfad1a6f96/BT000030756701301301900209.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000072",
+          "name": "ギャグ／コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id50000072"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "50000085",
+          "name": "ラブコメディ",
+          "url": "https://itunes.apple.com/jp/genre/id50000085"
+        },
+        {
+          "genreId": "11052",
+          "name": "ヒューマンドラマ",
+          "url": "https://itunes.apple.com/jp/genre/id11052"
+        },
+        {
+          "genreId": "11338",
+          "name": "青年",
+          "url": "https://itunes.apple.com/jp/genre/id11338"
+        },
+        {
+          "genreId": "11347",
+          "name": "メディア化",
+          "url": "https://itunes.apple.com/jp/genre/id11347"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%82%86%E3%81%86%E3%81%B9%E3%81%AF%E3%81%8A%E6%A5%BD%E3%81%97%E3%81%BF%E3%81%A7%E3%81%97%E3%81%9F%E3%81%AD-13%E5%B7%BB/id6806175396"
+    }
+  ]
+}

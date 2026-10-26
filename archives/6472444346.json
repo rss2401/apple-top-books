@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 88,
+      "artistName": "Gebrüder Grimm & Märchensammlung Kinder",
+      "id": "6472444346",
+      "name": "Die schönsten Märchen der Gebrüder Grimm",
+      "releaseDate": "2023-11-17",
+      "kind": "books",
+      "artistId": "2498934",
+      "artistUrl": "https://books.apple.com/de/author/gebr%C3%BCder-grimm/id2498934",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/ac/67/5a/ac675a06-44b6-d550-da00-8326c8172061/1042751048.jpg/100x130bb.png",
+      "genres": [
+        {
+          "genreId": "11049",
+          "name": "Märchen, Mythen und Fabeln",
+          "url": "https://itunes.apple.com/de/genre/id11049"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/die-sch%C3%B6nsten-m%C3%A4rchen-der-gebr%C3%BCder-grimm/id6472444346"
+    }
+  ]
+}

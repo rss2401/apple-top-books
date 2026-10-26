@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 95,
+      "artistName": "Mathieu Menegaux",
+      "id": "1182537667",
+      "name": "Un fils parfait",
+      "releaseDate": "2017-02-01",
+      "kind": "books",
+      "artistId": "462217767",
+      "artistUrl": "https://books.apple.com/fr/author/mathieu-menegaux/id462217767",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5f/b4/39/5fb439c8-1ae1-742d-2606-c11e0b5b7d0c/9782246863106-001-x.jpeg/100x158bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/un-fils-parfait/id1182537667"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 76,
+      "artistName": "Kate Bold",
+      "id": "1574786256",
+      "name": "Das mörderische Spiel (Ein Alexa Chase Thriller – Buch 1)",
+      "releaseDate": "2021-12-08",
+      "kind": "books",
+      "artistId": "1566629948",
+      "artistUrl": "https://books.apple.com/de/author/kate-bold/id1566629948",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/4b/0d/39/4b0d39f4-0adf-6413-e289-f3d1dbeedba0/The_Killing_Game--German--Cover_NEW.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10055",
+          "name": "Weibliche Spürnasen",
+          "url": "https://itunes.apple.com/de/genre/id10055"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "10052",
+          "name": "Polizeiromane",
+          "url": "https://itunes.apple.com/de/genre/id10052"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/das-m%C3%B6rderische-spiel-ein-alexa-chase-thriller-buch-1/id1574786256"
+    }
+  ]
+}

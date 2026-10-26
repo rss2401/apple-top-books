@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 95,
+      "artistName": "Kazé Manga",
+      "id": "1535059218",
+      "name": "Manga! Manga! – KAZÉ Manga Preview – Herbst/Winter 2020/2021",
+      "releaseDate": "2020-10-01",
+      "kind": "books",
+      "artistId": "483163464",
+      "artistUrl": "https://books.apple.com/de/author/kaz%C3%A9-manga/id483163464",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/02/b4/07/02b407d3-d9f3-7e1e-c860-ce6252c4683b/1032201632.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "10016",
+          "name": "Manga",
+          "url": "https://itunes.apple.com/de/genre/id10016"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "Comics und Graphic Novels",
+          "url": "https://itunes.apple.com/de/genre/id9026"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/manga-manga-kaz%C3%A9-manga-preview-herbst-winter-2020-2021/id1535059218"
+    }
+  ]
+}

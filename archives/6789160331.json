@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 81,
+      "artistName": "Liv Zander",
+      "id": "6789160331",
+      "name": "Shadows So Cruel",
+      "releaseDate": "2026-11-18",
+      "kind": "books",
+      "artistId": "1573081873",
+      "artistUrl": "https://books.apple.com/de/author/liv-zander/id1573081873",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/94/b0/de/94b0de9e-70fb-9edb-d943-abeeeb5fe945/1066932292.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9020",
+          "name": "Science-Fiction und Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id9020"
+        },
+        {
+          "genreId": "10044",
+          "name": "Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id10044"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/shadows-so-cruel/id6789160331"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 99,
+      "artistName": "Elizabeth George",
+      "id": "6743947318",
+      "name": "Wer Zwietracht sät",
+      "releaseDate": "2025-09-24",
+      "kind": "books",
+      "artistId": "2024234",
+      "artistUrl": "https://books.apple.com/de/author/elizabeth-george/id2024234",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6a/8c/55/6a8c5561-a60c-af73-43cb-659291aefe2f/9783641329617.jpg/100x158bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/wer-zwietracht-s%C3%A4t/id6743947318"
+    }
+  ]
+}

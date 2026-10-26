@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 87,
+      "artistName": "Camilla Grebe & Åsa Träff",
+      "id": "6789093940",
+      "name": "L'homme sans coeur (Siri Bergman, Tome 4)",
+      "releaseDate": "2026-09-02",
+      "kind": "books",
+      "artistId": "420761594",
+      "artistUrl": "https://books.apple.com/fr/author/camilla-grebe/id420761594",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b5/f4/7a/b5f47a93-fa69-4ea4-bc17-e442503c4ee5/9782253244981-001-x.jpeg/100x162bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/lhomme-sans-coeur-siri-bergman-tome-4/id6789093940"
+    }
+  ]
+}

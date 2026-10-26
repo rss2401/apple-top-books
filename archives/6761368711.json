@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 70,
+      "artistName": "ラドン & セムニ",
+      "id": "6761368711",
+      "name": "小悪魔なお隣さん第3話",
+      "releaseDate": "2026-04-02",
+      "kind": "books",
+      "artistId": "1857941771",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%83%A9%E3%83%89%E3%83%B3/id1857941771",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f2/24/e4/f224e42e-9e6b-e389-3ed9-7e1f7fd4fe1a/21789_130562061_001_001_artwork_20260330182354.jpg/100x133bb.png",
+      "genres": [
+        {
+          "genreId": "50000085",
+          "name": "ラブコメディ",
+          "url": "https://itunes.apple.com/jp/genre/id50000085"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "10015",
+          "name": "グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id10015"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E5%B0%8F%E6%82%AA%E9%AD%94%E3%81%AA%E3%81%8A%E9%9A%A3%E3%81%95%E3%82%93%E7%AC%AC3%E8%A9%B1/id6761368711"
+    }
+  ]
+}

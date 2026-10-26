@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 84,
+      "artistName": "Krinke Rehberg",
+      "id": "6758053435",
+      "name": "SYLTKRIMI Nordseegrab",
+      "releaseDate": "2023-12-13",
+      "kind": "books",
+      "artistId": "1569816751",
+      "artistUrl": "https://books.apple.com/de/author/krinke-rehberg/id1569816751",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ab/cd/a0/abcda0d0-3a5e-1c93-aad3-ff8d28a5a31f/9783757983628.jpg/100x148bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "10052",
+          "name": "Polizeiromane",
+          "url": "https://itunes.apple.com/de/genre/id10052"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/syltkrimi-nordseegrab/id6758053435"
+    }
+  ]
+}

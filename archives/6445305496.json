@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 86,
+      "artistName": "Johana Gustawsson",
+      "id": "6445305496",
+      "name": "L'Île de Yule",
+      "releaseDate": "2023-01-18",
+      "kind": "books",
+      "artistId": "1023768973",
+      "artistUrl": "https://books.apple.com/fr/author/johana-gustawsson/id1023768973",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/77/c0/8d/77c08d76-8f11-a557-e464-46ff5e7f59a7/9782702182024-001-x.jpeg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/l%C3%AEle-de-yule/id6445305496"
+    }
+  ]
+}

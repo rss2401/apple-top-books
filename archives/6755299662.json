@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 90,
+      "artistName": "Rüdiger Schäfer",
+      "id": "6755299662",
+      "name": "Perry Rhodan Neo 394: Berg der Schöpfung",
+      "releaseDate": "2026-10-22",
+      "kind": "books",
+      "artistId": "486820735",
+      "artistUrl": "https://books.apple.com/de/author/r%C3%BCdiger-sch%C3%A4fer/id486820735",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f3/5a/ea/f35aea8c-5d66-93fb-b206-1c47c7a1063f/1062888001.jpg/100x144bb.png",
+      "genres": [
+        {
+          "genreId": "9020",
+          "name": "Science-Fiction und Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id9020"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/perry-rhodan-neo-394-berg-der-sch%C3%B6pfung/id6755299662"
+    }
+  ]
+}

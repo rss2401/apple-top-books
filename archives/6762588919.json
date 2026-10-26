@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 86,
+      "artistName": "Mikoto Yamaguchi, D.P, Arbash Mughal & Giuseppe Di Martino",
+      "id": "6762588919",
+      "name": "Game of Familia, Vol. 9",
+      "releaseDate": "2026-10-27",
+      "kind": "books",
+      "artistId": "1456109955",
+      "artistUrl": "https://books.apple.com/de/author/mikoto-yamaguchi/id1456109955",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/7c/5e/fe/7c5efeca-fb8f-606c-67de-d67ec64df14a/9798855403862.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10016",
+          "name": "Manga",
+          "url": "https://itunes.apple.com/de/genre/id10016"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "Comics und Graphic Novels",
+          "url": "https://itunes.apple.com/de/genre/id9026"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/game-of-familia-vol-9/id6762588919"
+    }
+  ]
+}

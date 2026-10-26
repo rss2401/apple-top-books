@@ -1,0 +1,54 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 39,
+      "artistName": "太田垣康男",
+      "id": "6822868287",
+      "name": "MOONLIGHT MILE【完全版】  (24)",
+      "releaseDate": "2026-10-23",
+      "kind": "books",
+      "artistId": "657648573",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%A4%AA%E7%94%B0%E5%9E%A3%E5%BA%B7%E7%94%B7/id657648573",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/96/e3/73/96e373d5-6cdd-ae75-869d-a43a09b1d56f/BT000136981602502501900209.jpg/100x144bb.png",
+      "genres": [
+        {
+          "genreId": "50000071",
+          "name": "アクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000071"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11338",
+          "name": "青年",
+          "url": "https://itunes.apple.com/jp/genre/id11338"
+        },
+        {
+          "genreId": "50000086",
+          "name": "SF",
+          "url": "https://itunes.apple.com/jp/genre/id50000086"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/moonlight-mile-%E5%AE%8C%E5%85%A8%E7%89%88-24/id6822868287"
+    }
+  ]
+}

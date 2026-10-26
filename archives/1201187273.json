@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 61,
+      "artistName": "Stephen King, Océane Bies & Nadine Gassie",
+      "id": "1201187273",
+      "name": "Fin de ronde",
+      "releaseDate": "2017-03-08",
+      "kind": "books",
+      "artistId": "2024797",
+      "artistUrl": "https://books.apple.com/fr/author/stephen-king/id2024797",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/02/66/7f/02667fa8-a3cd-548e-d4fa-e4e0d8179d45/9782226422729-001-X.jpeg/100x155bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/fin-de-ronde/id1201187273"
+    }
+  ]
+}

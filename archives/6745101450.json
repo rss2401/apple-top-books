@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 17,
+      "artistName": "J. H. Gelernter",
+      "id": "6745101450",
+      "name": "Hold Fast",
+      "releaseDate": "2021-05-04",
+      "kind": "books",
+      "artistId": "1535675529",
+      "artistUrl": "https://books.apple.com/us/author/j-h-gelernter/id1535675529",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ce/11/1f/ce111fc4-adc9-31a5-9299-cd7cd4d733d1/1059185916.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "10039",
+          "name": "Action & Adventure",
+          "url": "https://itunes.apple.com/us/genre/id10039"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        },
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/hold-fast/id6745101450"
+    }
+  ]
+}

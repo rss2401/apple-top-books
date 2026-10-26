@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 72,
+      "artistName": "Stephanie Parente",
+      "id": "6761612874",
+      "name": "Letter for you. Sich zu verlieben war nie geplant",
+      "releaseDate": "2026-10-01",
+      "kind": "books",
+      "artistId": "1844864502",
+      "artistUrl": "https://books.apple.com/de/author/stephanie-parente/id1844864502",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ba/25/94/ba25940a-8494-f9cb-68e9-b3a052a2da86/9783641345402.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "10057",
+          "name": "Zeitgenössische Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10057"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/letter-for-you-sich-zu-verlieben-war-nie-geplant/id6761612874"
+    }
+  ]
+}

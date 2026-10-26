@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 100,
+      "artistName": "Matt Abrahams",
+      "id": "6445637936",
+      "name": "Think Faster, Talk Smarter",
+      "releaseDate": "2023-09-26",
+      "kind": "books",
+      "artistId": "1471113551",
+      "artistUrl": "https://books.apple.com/us/author/matt-abrahams/id1471113551",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/7b/17/32/7b173200-0233-c4a3-4734-a649d6bbf005/9781668010327.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "10119",
+          "name": "Self-Improvement",
+          "url": "https://itunes.apple.com/us/genre/id10119"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9025",
+          "name": "Health, Mind & Body",
+          "url": "https://itunes.apple.com/us/genre/id9025"
+        },
+        {
+          "genreId": "9009",
+          "name": "Business & Personal Finance",
+          "url": "https://itunes.apple.com/us/genre/id9009"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/think-faster-talk-smarter/id6445637936"
+    }
+  ]
+}

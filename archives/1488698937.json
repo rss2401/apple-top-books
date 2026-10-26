@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 70,
+      "artistName": "Dr. med. Sheila de Liz",
+      "id": "1488698937",
+      "name": "Woman on Fire",
+      "releaseDate": "2020-09-15",
+      "kind": "books",
+      "artistId": "1434216984",
+      "artistUrl": "https://books.apple.com/de/author/dr-med-sheila-de-liz/id1434216984",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/75/1a/d3/751ad392-218d-2b3f-6f9c-df3880009019/1032090191.jpg/100x156bb.png",
+      "genres": [
+        {
+          "genreId": "9025",
+          "name": "Gesundheit, Körper und Geist",
+          "url": "https://itunes.apple.com/de/genre/id9025"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "10069",
+          "name": "Gesundheit und Fitness",
+          "url": "https://itunes.apple.com/de/genre/id10069"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/woman-on-fire/id1488698937"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 79,
+      "artistName": "Alex Schönfelder",
+      "id": "6761406707",
+      "name": "Die Töchter der Zirbelnuss - Geschichte einer Heimkehr nach Augsburg",
+      "releaseDate": "2026-10-14",
+      "kind": "books",
+      "artistId": "1889431822",
+      "artistUrl": "https://books.apple.com/de/author/alex-sch%C3%B6nfelder/id1889431822",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5f/64/fb/5f64fb7e-2777-5f57-240a-8e96e16fb31f/9783734937989.jpg/100x156bb.png",
+      "genres": [
+        {
+          "genreId": "10047",
+          "name": "Historische Romane",
+          "url": "https://itunes.apple.com/de/genre/id10047"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/die-t%C3%B6chter-der-zirbelnuss-geschichte-einer-heimkehr/id6761406707"
+    }
+  ]
+}

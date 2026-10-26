@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 89,
+      "artistName": "Jessica Ashley",
+      "id": "6780303671",
+      "name": "SEAL of Refuge",
+      "releaseDate": "2026-10-26",
+      "kind": "books",
+      "artistId": "1118084153",
+      "artistUrl": "https://books.apple.com/us/author/jessica-ashley/id1118084153",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ea/8d/7f/ea8d7fa3-c006-1962-9945-56a026ad86d8/0004305795.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10041",
+          "name": "Religious Fiction",
+          "url": "https://itunes.apple.com/us/genre/id10041"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        },
+        {
+          "genreId": "10061",
+          "name": "Romantic Suspense",
+          "url": "https://itunes.apple.com/us/genre/id10061"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/seal-of-refuge/id6780303671"
+    }
+  ]
+}

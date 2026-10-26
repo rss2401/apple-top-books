@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 72,
+      "artistName": "Professor Alice Roberts & DK",
+      "id": "6758074943",
+      "name": "Humans",
+      "releaseDate": "2026-06-04",
+      "kind": "books",
+      "artistId": "1850069280",
+      "artistUrl": "https://books.apple.com/gb/author/professor-alice-roberts/id1850069280",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/df/b5/6f/dfb56f9b-6e94-f167-38cf-bf282683286f/9780241825877.jpg/100x132bb.png",
+      "genres": [
+        {
+          "genreId": "10116",
+          "name": "Life Sciences",
+          "url": "https://itunes.apple.com/gb/genre/id10116"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "9019",
+          "name": "Science & Nature",
+          "url": "https://itunes.apple.com/gb/genre/id9019"
+        },
+        {
+          "genreId": "11065",
+          "name": "Biology",
+          "url": "https://itunes.apple.com/gb/genre/id11065"
+        },
+        {
+          "genreId": "9002",
+          "name": "Non-Fiction",
+          "url": "https://itunes.apple.com/gb/genre/id9002"
+        },
+        {
+          "genreId": "10120",
+          "name": "Social Science",
+          "url": "https://itunes.apple.com/gb/genre/id10120"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/humans/id6758074943"
+    }
+  ]
+}

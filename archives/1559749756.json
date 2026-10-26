@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 83,
+      "artistName": "Heidi Chiavaroli",
+      "id": "1559749756",
+      "name": "Where Grace Appears",
+      "releaseDate": "2021-04-22",
+      "kind": "books",
+      "artistId": "1229769795",
+      "artistUrl": "https://books.apple.com/us/author/heidi-chiavaroli/id1229769795",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/29/a8/46/29a8466e-70f1-c5ce-9c0d-3ff0f2dde989/9781733577922.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "11050",
+          "name": "Family Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id11050"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/where-grace-appears/id1559749756"
+    }
+  ]
+}

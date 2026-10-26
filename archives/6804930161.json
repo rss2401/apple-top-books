@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 99,
+      "artistName": "Sadie King",
+      "id": "6804930161",
+      "name": "The Biker’s Revenge",
+      "releaseDate": "2023-01-05",
+      "kind": "books",
+      "artistId": "1480183962",
+      "artistUrl": "https://books.apple.com/us/author/sadie-king/id1480183962",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9d/a2/8d/9da28d5b-fce7-e895-f2e0-c05e2f47b2e2/ca98e0cb-a6a5-428b-a5ad-c14d695c20bb_cover_image.jpg/100x161bb.png",
+      "genres": [
+        {
+          "genreId": "10057",
+          "name": "Contemporary Romance",
+          "url": "https://itunes.apple.com/us/genre/id10057"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/the-bikers-revenge/id6804930161"
+    }
+  ]
+}

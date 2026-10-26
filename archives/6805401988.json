@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 84,
+      "artistName": "Gilles Legardinier",
+      "id": "6805401988",
+      "name": "Tu n'auras plus peur de rien",
+      "releaseDate": "2026-10-07",
+      "kind": "books",
+      "artistId": "476305144",
+      "artistUrl": "https://books.apple.com/fr/author/gilles-legardinier/id476305144",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d4/86/a8/d486a82a-329f-f830-54d6-01b0342698f0/9782080461582.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "10047",
+          "name": "Fiction historique",
+          "url": "https://itunes.apple.com/fr/genre/id10047"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/tu-nauras-plus-peur-de-rien/id6805401988"
+    }
+  ]
+}
