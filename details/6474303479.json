@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1721333564
+      ],
+      "trackCensoredName": "Borderline - Tome 02",
+      "artistViewUrl": "https://books.apple.com/fr/artist/joyce-kitten/1721333564?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/borderline-tome-02/id6474303479?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/3e/bc/5a/3ebc5a6d-4058-71f0-40d2-cafe53546281/9782755675399-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/3e/bc/5a/3ebc5a6d-4058-71f0-40d2-cafe53546281/9782755675399-001-x.jpeg/100x100bb.jpg",
+      "artistId": 1721333564,
+      "artistName": "Joyce Kitten",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance"
+      ],
+      "price": 9.99,
+      "genreIds": [
+        "10057",
+        "38",
+        "9003"
+      ],
+      "trackId": 6474303479,
+      "trackName": "Borderline - Tome 02",
+      "releaseDate": "2024-02-28T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "La tornade Milton a frappé mon existence avec une force spectaculaire. Du brasier qui m’animait en entrant à l’université, il ne reste que des cendres. Dorénavant, je ne peux que constater le désastre qu’il a laissé dans son sillage.<br /><br />Toutefois, la partie ne fait que commencer et s’il a gagné la première manche, nul doute qu’il ne se prépare pas à la seconde. Après son dernier coup, j’ai compris à quel point les cartes étaient truquées. Qu’à cela ne tienne…<br /><br />Laisse-moi le temps de relever l’échine pour récupérer mon jeu et voyons qui de nous deux, cette-fois, possède le meilleur atout.",
+      "formattedPrice": "9,99 €",
+      "averageUserRating": 4,
+      "userRatingCount": 293,
+      "country": "FRA"
+    }
+  ]
+}

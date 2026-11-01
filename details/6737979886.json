@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        2091351,
+        375971638
+      ],
+      "artistId": 2091351,
+      "artistName": "David Baldacci & Frauke Meier",
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Belletristik und Literatur"
+      ],
+      "price": 4.99,
+      "releaseDate": "2025-03-28T07:00:00Z",
+      "genreIds": [
+        "9032",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Mord an einer CIA-Agentin. Kann Travis Devine die Wahrheit herausfinden?<br /><br />CIA-Agentin Jennifer Silkwell wird bei einem Besuch in ihrer Heimatstadt im ländlichen Maine ermordet. Zusätzlich besonders brisant: Ihr Laptop samt gespeicherter Staatsgeheimnisse ist spurlos verschwunden. Die Regierung schickt Ex-Army-Ranger Travis Devine nach Maine, um diskret zu ermitteln und die sensiblen Daten zu sichern. Dabei muss er sich misstrauischen Einheimischen stellen, darunter Jennifers Geschwistern Dak und Alex. Schnell wird Devine klar, dass es in der Kleinstadt viele Geheimnisse gibt und viele Einwohner vor nichts zurückschrecken, damit diese nicht ans Tageslicht kommen. Und so weiß Devine bald nicht mehr, wem er trauen kann - und wer ihn tot sehen will ...<br /><br />Der 2. Fall für Ex-Army-Ranger Travis Devine",
+      "trackCensoredName": "Die Silkwell-Verschwörung",
+      "formattedPrice": "4,99 €",
+      "trackViewUrl": "https://books.apple.com/de/book/die-silkwell-verschw%C3%B6rung/id6737979886?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0c/94/f2/0c94f278-d990-04e7-3fa5-af3c8672295a/9783751774703.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0c/94/f2/0c94f278-d990-04e7-3fa5-af3c8672295a/9783751774703.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/david-baldacci-frauke-meier/2091351?uo=4",
+      "trackName": "Die Silkwell-Verschwörung",
+      "trackId": 6737979886,
+      "userRatingCount": 77,
+      "averageUserRating": 4,
+      "country": "DEU"
+    }
+  ]
+}

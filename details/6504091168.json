@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Jacaranda",
+      "artistViewUrl": "https://books.apple.com/fr/artist/ga%C3%ABl-faye/1122455550?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/jacaranda/id6504091168?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/51/55/8b/51558bdb-5213-ea02-751f-f093ff218368/9782246831464-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/51/55/8b/51558bdb-5213-ea02-751f-f093ff218368/9782246831464-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        1122455550
+      ],
+      "artistId": 1122455550,
+      "artistName": "Gaël Faye",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "releaseDate": "2024-08-14T07:00:00Z",
+      "trackId": 6504091168,
+      "trackName": "Jacaranda",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Quels secrets cache l’ombre du jacaranda, l’arbre fétiche de Stella&#xa0; ? Il faudra à son ami Milan des années pour le découvrir. Des années pour percer les silences du Rwanda, dévasté après le génocide des Tutsi. En rendant leur parole aux disparus, les jeunes gens échapperont à la solitude. Et trouveront la paix près des rivages magnifiques du lac Kivu.<br />Sur quatre générations, avec sa douceur unique, Gaël Faye nous raconte l’histoire terrible d’un pays qui s’essaie malgré tout au dialogue et au pardon. Comme un arbre se dresse entre ténèbres et lumière, Jacaranda célèbre l’humanité, paradoxale, aimante, vivante.",
+      "formattedPrice": "2,99 €",
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "price": 2.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 144,
+      "country": "FRA"
+    }
+  ]
+}

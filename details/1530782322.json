@@ -13,8 +13,15 @@
         1045005663,
         1190004483
       ],
+      "price": 0,
       "artistId": 944172942,
       "artistName": "青辺マヒト, 十夜 & chibi",
+      "genres": [
+        "マンガ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "ファンタジー"
+      ],
       "genreIds": [
         "10016",
         "38",
@@ -22,20 +29,13 @@
         "50000074"
       ],
       "releaseDate": "2020-09-12T07:00:00Z",
+      "trackId": 1530782322,
+      "trackName": "転生した大聖女は、聖女であることをひた隠す A Tale of The Great Saint 2",
       "kind": "ebook",
       "currency": "JPY",
       "description": "規格外の「大聖女」のチート能力を手にした騎士家の少女・フィーア。魔王の右腕に正体がばれたら殺されてしまうため、能力を隠しながら騎士を目指すが、大聖女の能力がばれかかり…。",
-      "trackId": 1530782322,
-      "trackName": "転生した大聖女は、聖女であることをひた隠す A Tale of The Great Saint 2",
-      "genres": [
-        "マンガ",
-        "ブック",
-        "マンガ／グラフィックノベル",
-        "ファンタジー"
-      ],
-      "price": 0,
-      "userRatingCount": 149,
       "averageUserRating": 4,
+      "userRatingCount": 151,
       "country": "JPN"
     }
   ]

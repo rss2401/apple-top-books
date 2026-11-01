@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        510602317
+      ],
+      "artistId": 510602317,
+      "artistName": "Anne Jacobs",
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher",
+        "Historische Romane"
+      ],
+      "price": 4.99,
+      "releaseDate": "2024-11-13T08:00:00Z",
+      "genreIds": [
+        "9031",
+        "38",
+        "10047"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Ganz unterschiedliche Lebenswege warten auf die Schwestern vom Dorfladen – doch ihre Heimat wird ihre Herzen für immer verbinden …</b><br /><br />Dingelbach, am Fuße des Taunus, 1925. Der kleine Dorfladen der Familie Haller ist nach wie vor der Dreh- und Angelpunkt, das Herzstück, des ganzen Ortes. Aber Einiges hat sich doch verändert. Frieda besucht weiterhin die Schauspielschule, so ganz loslassen kann sie ihre Heimat allerdings nicht, hängt sie doch sehr vor allem an ihrer kleinen Schwester Ida. Diese ist der schlaue Kopf der Familie und besucht inzwischen ein Gymnasium in Frankfurt. Die Herta, die Älteste, ist immer noch die größte Stütze im Dorfladen. Aber auch in ihrem Leben wird es einen großen Umbruch geben ... <br /><br /><b>Lesen Sie auch weitere dramatisch-emotionale Bestseller von Anne Jacobs:</b><br />Die \"Die Tuchvilla\"-Saga <br />Die \"Der Dorfladen\"-Tetralogie",
+      "trackCensoredName": "Der Dorfladen - Was das Leben verspricht",
+      "formattedPrice": "4,99 €",
+      "trackViewUrl": "https://books.apple.com/de/book/der-dorfladen-was-das-leben-verspricht/id6511246885?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/5e/d4/ef/5ed4ef2d-df07-8e8f-6bb6-464158dc198d/9783641262518.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/5e/d4/ef/5ed4ef2d-df07-8e8f-6bb6-464158dc198d/9783641262518.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/anne-jacobs/510602317?uo=4",
+      "trackName": "Der Dorfladen - Was das Leben verspricht",
+      "trackId": 6511246885,
+      "userRatingCount": 30,
+      "averageUserRating": 4,
+      "country": "DEU"
+    }
+  ]
+}

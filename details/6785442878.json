@@ -1,0 +1,35 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Un mensonge de plus",
+      "artistViewUrl": "https://books.apple.com/fr/artist/claire-mcgowan-karine-forestier/494847837?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/un-mensonge-de-plus/id6785442878?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c0/4c/a4/c04ca400-806a-39ff-c352-442f88e5ee73/9782387216403-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c0/4c/a4/c04ca400-806a-39ff-c352-442f88e5ee73/9782387216403-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        494847837,
+        962143337
+      ],
+      "artistId": 494847837,
+      "artistName": "Claire McGowan & Karine Forestier",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "releaseDate": "2026-10-07T07:00:00Z",
+      "trackId": 6785442878,
+      "trackName": "Un mensonge de plus",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Il y a vingt ans elle était suspecte.<br />Et si cette fois elle était coupable ?<br /><br />Rachel mène une vie tranquille à la campagne, comblée par son compagnon et son adorable chien. Jusqu'au jour où elle tombe sur un cadavre dans les bois. Elle sait ce qu'elle doit faire : s'enfuir. Pour ne pas être accusée à tort. Car pour rien au monde elle ne revivra le cauchemar d'autrefois. Quand elle était encore Casey, une nounou qui cherchait à faire décoller sa carrière à Hollywood. Quand elle a failli être déclarée coupable et condamnée à mort pour le meurtre de la famille chez qui elle travaillait. Mais cette fois, quand la police découvre que la victime est l'ex-femme de son petit ami, sa culpabilité semble évidente. Alors, fuir ou prouver son innocence ?&#xa0;<br /><br />Par l'autrice des best-sellers Personne ne doit savoir et Deux vérités, un mensonge.<br />&#xa0;<br /><br />« La définition même d'un livre captivant qu'on ne peut pas lâcher. Des personnages finement dessinés, une intrigue captivante et un dénouement qui vous tiendra en haleine jusqu'à la fin. » John Marrs, auteur de&#xa0;La Maison des mensonges<br /><br />« J'ai adoré cette histoire. Les personnages très réalistes, l'humour pince-sans-rire et l'intrigue brillante sont tout aussi captivants que dans Big Little Lies. » Louise Candlish, autrice de Chez nous<br /><br />« Une lecture pleine de rebondissements, riche en sensations fortes et ponctuée d'un rebondissement spectaculaire ! » Liz Nugent, autrice de La Voisine sans histoire<br /><br />« Un roman complexe, troublant et émouvant, qui n'en reste pas moins extrêmement captivant. Le style rapide et direct de Claire McGowan garantit un enchaînement des rebondissements à un rythme effréné. » The Irish Times<br /><br />« Un page-turner. » The Guardian<br /><br />« Extrêmement satisfaisant et intelligent. » The Bookseller<br /><br />« Vous tiendra en haleine jusqu'à son dénouement haletant. » Sunday Mirror<br /><br />« Un thriller minutieux, riche en rebondissements et en fausses pistes. » Crime Time<br /><br />« Vous mourrez d'envie de savoir ce qui s'est passé et comment tout cela va finir. » The Sun",
+      "formattedPrice": "5,99 €",
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "price": 5.99,
+      "country": "FRA"
+    }
+  ]
+}

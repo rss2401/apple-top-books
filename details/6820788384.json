@@ -12,15 +12,17 @@
         1441515483,
         1505663540
       ],
-      "formattedPrice": "¥1,000",
+      "artistName": "瀬川はじめ, 結城涼 & なかむら",
+      "artistId": 598493280,
       "genres": [
         "ファンタジー",
         "ブック",
         "マンガ／グラフィックノベル",
         "マンガ"
       ],
-      "artistId": 598493280,
-      "artistName": "瀬川はじめ, 結城涼 & なかむら",
+      "price": 1000,
+      "trackName": "物語の黒幕に転生して (9)",
+      "trackId": 6820788384,
       "releaseDate": "2026-10-23T07:00:00Z",
       "genreIds": [
         "50000074",
@@ -31,11 +33,9 @@
       "kind": "ebook",
       "currency": "JPY",
       "description": "始まったカイとメイダスとの死闘。 彼らは”戦技”を使いこなす想像以上の実力者で、 レンは窮地へと追いこまれる。 しかし、突然謎の猛火が襲いかかり戦況は激変。 フィオナは炎によって連れ去られてしまい!?",
-      "price": 1000,
-      "trackId": 6820788384,
-      "trackName": "物語の黒幕に転生して (9)",
+      "formattedPrice": "¥1,000",
       "averageUserRating": 4.5,
-      "userRatingCount": 26,
+      "userRatingCount": 35,
       "country": "JPN"
     }
   ]

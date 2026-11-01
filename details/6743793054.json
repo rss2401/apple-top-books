@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Le Bâtard du Roussillon",
+      "artistViewUrl": "https://books.apple.com/fr/artist/jacques-de-villiers/718824335?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/le-b%C3%A2tard-du-roussillon/id6743793054?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1e/31/01/1e3101f9-d4f3-5071-c530-c229d2503a1e/9782213730264-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1e/31/01/1e3101f9-d4f3-5071-c530-c229d2503a1e/9782213730264-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        718824335
+      ],
+      "artistId": 718824335,
+      "artistName": "Jacques De Villiers",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "releaseDate": "2025-04-30T07:00:00Z",
+      "trackId": 6743793054,
+      "trackName": "Le Bâtard du Roussillon",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "1285, au temps des preux et des chevaliers.<br />Bientôt, Philippe le Bel sera roi. Mais avant cette consécration, il accompagne son père Philippe III le Hardi dans le projet fou d’une ultime croisade, en terre du Midi. Se plaçant sous la protection de Saint Louis, Philippe III, avec le soutien du pape, veut imposer son plus jeune fils, Charles, sur le trône d’Aragon.<br />Sur leur chemin se dresse la ville d’Elne, dont les remparts gardent l’entrée des Pyrénées. Elle est dirigée par un mystérieux gouverneur, surnommé « le bâtard du Roussillon », ou encore « Estefan le ruseur ». Aussi à l’aise avec les seigneurs qu’avec les manants, avec les chrétiens qu’avec les Maures, capable de se glisser dans la peau d’un conseiller du prince comme dans celle d’un cuisinier, quel parti cet homme imprévisible prendra-t-il ?<br />La tension monte et le choc s’annonce gigantesque. Personne n’en sortira indemne, et c’est peut-être de cet incroyable gouverneur que viendra la surprise. En quête de vengeance, manoeuvrant dans l’ombre et en solitaire pour des motivations que lui seul connaît, il va donner un cours inattendu à cette épopée.<br /><br />Jacques de Villiers exhume dans ce grand roman historique une période méconnue de l’histoire de France, à travers un récit d’aventures peuplé de personnages aussi troublants que fascinants.",
+      "formattedPrice": "2,99 €",
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "price": 2.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 38,
+      "country": "FRA"
+    }
+  ]
+}

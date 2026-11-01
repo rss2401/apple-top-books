@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Martha Stewart's Cookie Perfection",
+      "artistViewUrl": "https://books.apple.com/us/artist/editors-of-martha-stewart-living/432777911?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/martha-stewarts-cookie-perfection/id1455845514?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/9f/ac/f5/9facf568-08e9-30ac-9316-a06f46646b5c/9781524763404.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/9f/ac/f5/9facf568-08e9-30ac-9316-a06f46646b5c/9781524763404.d.jpg/100x100bb.jpg",
+      "formattedPrice": "$1.99",
+      "artistIds": [
+        432777911
+      ],
+      "artistId": 432777911,
+      "artistName": "Editors of Martha Stewart Living",
+      "genres": [
+        "Cookbooks",
+        "Books",
+        "Cookbooks, Food & Wine",
+        "Cooking Methods",
+        "Special Occasion Cookbooks"
+      ],
+      "price": 1.99,
+      "trackName": "Martha Stewart's Cookie Perfection",
+      "trackId": 1455845514,
+      "releaseDate": "2019-10-15T07:00:00Z",
+      "genreIds": [
+        "10027",
+        "38",
+        "9028",
+        "10030",
+        "10029"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>Showstopper cookies for a new generation: from Martha Stewart, an authoritative and creative collection to take your cookies to the next level in flavor, technique, and decorative appeal</b><br /><br /><b>NAMED ONE OF THE BEST COOKBOOKS OF THE YEAR BY <i>FOOD NETWORK</i></b><br /><br />The editors of <i>Martha Stewart Living</i> present a new, fun source for anyone looking to make their go-to cookies even better and bolder. These recipes make ordinary cookies absolutely extraordinary—all the familiar favorites you love, but taken up a notch in variety, flavor, and creativity. Classic recipes discover new life with unexpected twists such as Brown-Butter Crinkle Cookies and Carrot Cake Thumbprint Cookies. Go over-the-top in super-sized fashion with Chocolate-Chocolate Chip Skillet Cookies; get inspired by cultures around the globe with Brazilian Wedding Cookies and Stroopwafels; and celebrate with beautifully decorated holiday treats, such as Easter Egg Puzzle Cookies and Snowball Truffles. Whether for a special celebration or a sweet anytime-treat, you'll be sure to find inspiration to trade in your everyday cookies for versions far more special—and especially delicious.",
+      "averageUserRating": 3.5,
+      "userRatingCount": 6,
+      "country": "USA"
+    }
+  ]
+}

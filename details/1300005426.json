@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        220259893
+      ],
+      "artistId": 220259893,
+      "artistName": "Jörg Maurer",
+      "genres": [
+        "Cosy Crime",
+        "Bücher",
+        "Krimis und Thriller",
+        "Polizeiromane"
+      ],
+      "trackName": "Am Abgrund lässt man gern den Vortritt",
+      "trackId": 1300005426,
+      "releaseDate": "2018-03-21T07:00:00Z",
+      "genreIds": [
+        "11259",
+        "38",
+        "9032",
+        "10052"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Nur der Föhn kennt die ganze Wahrheit. Kommissar Jennerweins waghalsigster Fall – der zehnte Alpenkrimi von Nr.1-Bestsellerautor Jörg Maurer<br />Kommissar Hubertus Jennerwein gönnt sich eine Auszeit. Ein wenig überrascht ist er schon, dass er auf dem Weg ins Allgäu gleich einen sehr bekannten Kollegen trifft. Aber bevor die beiden ins Fachsimpeln kommen, erreicht Jennerwein ein Hilferuf aus dem Kurort: Ursel Grasegger, Bestattungsunternehmerin a.D., hat eine blutige Morddrohung gegen Ignaz erhalten. Ihr Mann ist seit Tagen unauffindbar. Ist er in den Händen von Entführern? Oder hat er heimlich etwas Illegales geplant, was nun schiefgegangen ist? Jennerwein weiß nur zu gut, dass die Graseggers beste Mafiaverbindungen haben. Aber er verspricht Ursel, Ignaz' Spur außerdienstlich zu verfolgen – und bringt sich in noch nie gekannte Gefahr. Sein Team geht derweil tödlichen Umtrieben von Medizinern nach, eine frühere Freundin von Ignaz kündigt ihre bevorstehende Ermordung an, und auf einmal steht Jennerwein vor dem Abgrund seiner Polizeikarriere…",
+      "trackCensoredName": "Am Abgrund lässt man gern den Vortritt",
+      "artistViewUrl": "https://books.apple.com/de/artist/j%C3%B6rg-maurer/220259893?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/am-abgrund-l%C3%A4sst-man-gern-den-vortritt/id1300005426?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/8c/f7/03/8cf703b7-eef1-56f8-faba-a8ab584aece4/1024341107.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/8c/f7/03/8cf703b7-eef1-56f8-faba-a8ab584aece4/1024341107.jpg/100x100bb.jpg",
+      "formattedPrice": "3,99 €",
+      "price": 3.99,
+      "averageUserRating": 4,
+      "userRatingCount": 101,
+      "country": "DEU"
+    }
+  ]
+}

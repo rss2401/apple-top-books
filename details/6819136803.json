@@ -10,14 +10,16 @@
       "artistIds": [
         588433399
       ],
+      "artistName": "原泰久",
+      "artistId": 588433399,
       "genres": [
         "アクション",
         "ブック",
         "マンガ／グラフィックノベル",
         "マンガ"
       ],
-      "artistId": 588433399,
-      "artistName": "原泰久",
+      "trackName": "キングダム 81",
+      "trackId": 6819136803,
       "releaseDate": "2026-11-18T08:00:00Z",
       "genreIds": [
         "50000071",
@@ -28,8 +30,6 @@
       "kind": "ebook",
       "currency": "JPY",
       "description": "ヤングジャンプコミックスDIGITAL「キングダム」81巻、11月18日配信スタート!! ※配信日は変更になることがあります。ご了承ください。",
-      "trackId": 6819136803,
-      "trackName": "キングダム 81",
       "country": "JPN"
     }
   ]

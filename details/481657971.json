@@ -34,15 +34,17 @@
       "userRatingCount": 333
     },
     {
+      "trackViewUrl": "https://books.apple.com/us/book/the-count-of-monte-cristo/id481657971?uo=4",
       "trackCensoredName": "The Count of Monte Cristo",
       "formattedPrice": "Free",
-      "trackViewUrl": "https://books.apple.com/us/book/the-count-of-monte-cristo/id481657971?uo=4",
+      "artistViewUrl": "https://books.apple.com/us/artist/alexandre-dumas/2037292?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/8b/b0/b0/8bb0b03a-3f80-e6cb-de7f-c74e0aaa4f7f/PD-The_Count_of_Monte_Cristo-Adj.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/8b/b0/b0/8bb0b03a-3f80-e6cb-de7f-c74e0aaa4f7f/PD-The_Count_of_Monte_Cristo-Adj.jpg/100x100bb.jpg",
-      "artistViewUrl": "https://books.apple.com/us/artist/alexandre-dumas/2037292?uo=4",
       "artistIds": [
         2037292
       ],
+      "trackName": "The Count of Monte Cristo",
+      "trackId": 481657971,
       "artistId": 2037292,
       "artistName": "Alexandre Dumas",
       "genres": [
@@ -56,8 +58,6 @@
         "38",
         "9031"
       ],
-      "trackId": 481657971,
-      "trackName": "The Count of Monte Cristo",
       "releaseDate": "1846-01-14T08:00:00Z",
       "kind": "ebook",
       "currency": "USD",
@@ -67,24 +67,19 @@
       "country": "USA"
     },
     {
+      "formattedPrice": "Free",
       "artistIds": [
         2037292
       ],
-      "artistId": 2037292,
       "artistName": "Alexandre Dumas",
-      "genres": [
-        "Classics",
-        "Books",
-        "Fiction & Literature"
-      ],
-      "price": 0,
-      "trackId": 481657971,
-      "trackName": "The Count of Monte Cristo",
+      "artistId": 2037292,
       "genreIds": [
         "10042",
         "38",
         "9031"
       ],
+      "trackId": 481657971,
+      "trackName": "The Count of Monte Cristo",
       "releaseDate": "1846-01-14T08:00:00Z",
       "kind": "ebook",
       "currency": "GBP",
@@ -94,7 +89,12 @@
       "trackViewUrl": "https://books.apple.com/gb/book/the-count-of-monte-cristo/id481657971?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/8b/b0/b0/8bb0b03a-3f80-e6cb-de7f-c74e0aaa4f7f/PD-The_Count_of_Monte_Cristo-Adj.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/8b/b0/b0/8bb0b03a-3f80-e6cb-de7f-c74e0aaa4f7f/PD-The_Count_of_Monte_Cristo-Adj.jpg/100x100bb.jpg",
-      "formattedPrice": "Free",
+      "price": 0,
+      "genres": [
+        "Classics",
+        "Books",
+        "Fiction & Literature"
+      ],
       "averageUserRating": 4.5,
       "userRatingCount": 345,
       "country": "GBR"

@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "De l'autre côté du lac",
+      "artistViewUrl": "https://books.apple.com/fr/artist/sylvain-prudhomme/517140790?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/de-lautre-c%C3%B4t%C3%A9-du-lac/id6783844243?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/8d/73/38/8d733835-f528-588f-479f-318d2ed4287f/9782707358240.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/8d/73/38/8d733835-f528-588f-479f-318d2ed4287f/9782707358240.jpg/100x100bb.jpg",
+      "artistIds": [
+        517140790
+      ],
+      "artistId": 517140790,
+      "artistName": "Sylvain Prudhomme",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "releaseDate": "2026-08-27T07:00:00Z",
+      "trackId": 6783844243,
+      "trackName": "De l'autre côté du lac",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "« Paola était comme ça. Elle était entière. Elle voulait toujours que tout&#xa0;soit vrai, les rapports humains, les discussions, les rencontres, les projets dans lesquels elle s’engageait. Elle ne supportait pas les faux-semblants, les demi-mesures. Elle était d’un bloc. Elle disait les mots ont de la valeur. Les actes ont de la valeur. Elle voulait qu’il y ait de l’enjeu. C’est dans l’inconfort qu’on se découvre, elle disait. C’est dans l’inconfort qu’on grandit. » <br />Aux abords d’un lac de haute montagne, à la lisière d’une réserve interdite aux humains, un groupe de chercheurs s’affaire. Parmi eux, une photographe aperçoit sur un des versants quelque chose qui échappe au regard de tous les autres. Les signes étranges s’accumulent, un corps est retrouvé. La photographe décide de rester là-haut, seule.&#xa0;Quelques mois plus tard, c’est elle qui, à son tour, disparaît.&#xa0;<br />Avec ce roman tout en tension, Sylvain Prudhomme approfondit plusieurs&#xa0;thèmes qui lui sont chers : le désir d’intensité, l’appel du sauvage, le rêve d’une vie vraie.&#xa0;",
+      "formattedPrice": "15,99 €",
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "price": 15.99,
+      "averageUserRating": 4,
+      "userRatingCount": 7,
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        411628325
+      ],
+      "artistId": 411628325,
+      "artistName": "Wolfgang Schorlau",
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher"
+      ],
+      "price": 9.99,
+      "releaseDate": "2005-03-15T08:00:00Z",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Ein Flugzeugabsturz, eine mysteriöse Liste und ein Privatdetektiv auf der Suche nach der Wahrheit – der fesselnde Auftakt der Krimi-Reihe von Wolfgang Schorlau.</b><br /><br />Privatdetektiv Georg Dengler, früher Zielfahnder beim BKA, nimmt einen scheinbar einfachen Fall an: Die Freundin eines Anrufers möchte wissen, warum ihr Vater vor zwölf Jahren bei einem Flugzeugabsturz ums Leben kam, obwohl er sie zuvor angerufen hatte und sagte, er habe die Maschine verpasst. Doch als Dengler beginnt nachzuforschen, stößt er auf Verbindungen zu brisanten Ereignissen der deutschen <i>Wendezeit</i>.<br /><br />Der Vermisste war Mitarbeiter der <i>Treuhand</i> und Verfasser der »Blauen Liste« – eines Dokuments, das der Deutschen Vereinigung einen völlig anderen Weg wies. Je tiefer Dengler gräbt, desto gefährlicher wird es für ihn. Denn der Fall führt zurück zum Attentat auf den Treuhand-Präsidenten Rohwedder, zur RAF und zum mysteriösen Tod von Wolfgang Grams. Kann Dengler die Wahrheit aufdecken, bevor es zu spät ist?<br /><br />Wolfgang Schorlau verwebt in »Die blaue Liste<i>«</i> geschickt reale Ereignisse zu einem fesselnden <i>Politthriller</i>. Ein Muss für Fans intelligenter Krimis mit zeitgeschichtlichem Hintergrund.<br /><br /><b>Alle Fälle von Georg Dengler:</b><br />Die blaue ListeDas dunkle SchweigenFremde WasserBrennende KälteDas München-KomplottDie letzte FluchtAm zwölften TagDie schützende HandDer große PlanKreuzberg BluesBlack Forest<br /><b>Die Bücher erzählen eigenständige Fälle und können unabhängig voneinander gelesen werden.</b>",
+      "trackCensoredName": "Die blaue Liste",
+      "formattedPrice": "9,99 €",
+      "trackViewUrl": "https://books.apple.com/de/book/die-blaue-liste/id411628324?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/50/21/9e/50219e3f-85eb-9614-f556-36e78eb097b7/1019052032.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/50/21/9e/50219e3f-85eb-9614-f556-36e78eb097b7/1019052032.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/wolfgang-schorlau/411628325?uo=4",
+      "trackName": "Die blaue Liste",
+      "trackId": 411628324,
+      "userRatingCount": 120,
+      "averageUserRating": 4.5,
+      "country": "DEU"
+    }
+  ]
+}

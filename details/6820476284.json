@@ -10,7 +10,8 @@
       "artistIds": [
         1114730412
       ],
-      "formattedPrice": "¥800",
+      "artistName": "出端祐大",
+      "artistId": 1114730412,
       "genres": [
         "ヒューマンドラマ",
         "ブック",
@@ -20,8 +21,9 @@
         "青年",
         "ノンフィクション"
       ],
-      "artistId": 1114730412,
-      "artistName": "出端祐大",
+      "price": 800,
+      "trackName": "ふたりソロキャンプ(25)",
+      "trackId": 6820476284,
       "releaseDate": "2026-10-22T07:00:00Z",
       "genreIds": [
         "11052",
@@ -35,11 +37,9 @@
       "kind": "ebook",
       "currency": "JPY",
       "description": "「ふたりソロキャンパー」の樹乃倉厳は、恋人である草野雫の兄・草野海と共にキャンプに訪れていた。<br />ピーマン料理や焼き肉でソロ時間を楽しむ厳、一方で海は「自分なりのキャンプの楽しみ方」に頭を悩ませる。<br />厳とのキャンプを通して、海が出した答えとは……!?<br />さらには厳と雫の久々のふたりソロキャンプも収録!<br />厳並みに巨大なニューギアの登場も見逃すな!",
-      "price": 800,
-      "trackId": 6820476284,
-      "trackName": "ふたりソロキャンプ(25)",
+      "formattedPrice": "¥800",
       "averageUserRating": 4.5,
-      "userRatingCount": 14,
+      "userRatingCount": 18,
       "country": "JPN"
     }
   ]

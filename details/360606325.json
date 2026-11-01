@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistId": 41531286,
+      "artistName": "Mary Kay Andrews",
+      "genres": [
+        "Women Sleuths",
+        "Books",
+        "Mysteries & Thrillers",
+        "Fiction & Literature",
+        "Romance",
+        "Contemporary Romance",
+        "Romantic Comedies",
+        "Police Procedural"
+      ],
+      "price": 2.99,
+      "genreIds": [
+        "10055",
+        "38",
+        "9032",
+        "9031",
+        "9003",
+        "10057",
+        "11042",
+        "10052"
+      ],
+      "trackId": 360606325,
+      "trackName": "To Live and Die in Dixie",
+      "releaseDate": "2009-10-13T07:00:00Z",
+      "artistIds": [
+        41531286
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "“Bright and sassy.” —&#xa0;New York Times Book Review<br /><br />The second entry in the thoroughly original and witty series about Callahan Garrity in which the cleaning lady cum sleuth runs afoul of right-wing radicals and a dangerous collector when she’s hired to find the valuable and controversial diary of a Civil War madam.<br /><br />Former Atlanta police officer Callahan is known for scrubbing all kinds of muck, but she has no idea what she’s getting herself into when she is hired by Elliott Littlefield, a notorious Atlanta antiques dealer.<br /><br />Right from the start, Callahan’s job turns into a lively quest to find a priceless Civil War diary penned by an infamous madam. Soon Callahan and her team become entangled with a motley group of Civil War collectors, right-wing extremists, and nosy teens, making the case messier and tougher to clean.<br /><br />The Callahan Garrity mysteries always entertain and delight!",
+      "formattedPrice": "$2.99",
+      "trackCensoredName": "To Live and Die in Dixie",
+      "artistViewUrl": "https://books.apple.com/us/artist/mary-kay-andrews/41531286?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/to-live-and-die-in-dixie/id360606325?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/af/1a/e3/af1ae3bc-84ec-7a9c-7b26-94dbf1ac8254/9780061842207.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/af/1a/e3/af1ae3bc-84ec-7a9c-7b26-94dbf1ac8254/9780061842207.jpg/100x100bb.jpg",
+      "averageUserRating": 4,
+      "userRatingCount": 189,
+      "country": "USA"
+    }
+  ]
+}

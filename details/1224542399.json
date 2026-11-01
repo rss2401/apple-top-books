@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1224542403
+      ],
+      "trackCensoredName": "La tresse",
+      "artistViewUrl": "https://books.apple.com/fr/artist/laetitia-colombani/1224542403?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/la-tresse/id1224542399?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/29/c4/ad/29c4adde-17c0-f57a-0d4c-ab5054c2ecff/9782246813927-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/29/c4/ad/29c4adde-17c0-f57a-0d4c-ab5054c2ecff/9782246813927-001-x.jpeg/100x100bb.jpg",
+      "artistId": 1224542403,
+      "artistName": "Laetitia Colombani",
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "price": 2.99,
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "trackId": 1224542399,
+      "trackName": "La tresse",
+      "releaseDate": "2017-05-10T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Trois femmes, trois vies, trois continents. Une même soif de liberté.<br />&#xa0; <br />Inde. Smita est une Intouchable. Elle rêve de voir sa fille échapper à sa condition misérable et entrer à l’école.<br />&#xa0; <br />Sicile. Giulia travaille dans l’atelier de son père. Lorsqu’il est victime d’un accident, elle découvre que l’entreprise familiale est ruinée.<br />&#xa0; <br />Canada. Sarah, avocate réputée, va être promue à la tête de son cabinet quand elle apprend qu’elle est gravement malade.<br />&#xa0; <br />Liées sans le savoir par ce qu’elles ont de plus intime et de plus singulier, Smita, Giulia et Sarah refusent le sort qui leur est destiné et décident de se battre. Vibrantes d’humanité, leurs histoires tissent une tresse d’espoir et de solidarité.",
+      "formattedPrice": "2,99 €",
+      "averageUserRating": 4.5,
+      "userRatingCount": 781,
+      "country": "FRA"
+    }
+  ]
+}

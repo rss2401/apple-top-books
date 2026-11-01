@@ -13,8 +13,6 @@
       ],
       "price": 15.99,
       "releaseDate": "2026-10-07T07:00:00Z",
-      "trackId": 6766355350,
-      "trackName": "Léon und der König der Riviera",
       "genreIds": [
         "9032",
         "38"
@@ -28,7 +26,9 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/2a/ce/52/2ace528b-261b-7964-e8e8-1500c52cf41e/1062876600.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/2a/ce/52/2ace528b-261b-7964-e8e8-1500c52cf41e/1062876600.jpg/100x100bb.jpg",
       "artistViewUrl": "https://books.apple.com/de/artist/alexander-oetker/1182951408?uo=4",
-      "userRatingCount": 6,
+      "trackName": "Léon und der König der Riviera",
+      "trackId": 6766355350,
+      "userRatingCount": 13,
       "averageUserRating": 4,
       "country": "DEU"
     }

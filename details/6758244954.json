@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Mafia Segreta",
+      "artistViewUrl": "https://books.apple.com/fr/artist/victoria-o-bright/1871721540?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/mafia-segreta/id6758244954?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/34/8f/cc/348fcce7-0b14-c189-a8c2-720d89a331f0/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/34/8f/cc/348fcce7-0b14-c189-a8c2-720d89a331f0/cover.jpg/100x100bb.jpg",
+      "artistIds": [
+        1871721540
+      ],
+      "artistId": 1871721540,
+      "artistName": "Victoria O. Bright",
+      "genreIds": [
+        "10061",
+        "38",
+        "9003"
+      ],
+      "releaseDate": "2026-04-02T07:00:00Z",
+      "trackId": 6758244954,
+      "trackName": "Mafia Segreta",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Le problème lorsque l’on est la fille du mafieux le plus redouté du pays, c’est que l’on devient une cible parfaite. Mais pas Giulia Pavarotti. Déterminée, calculatrice et sans peur, elle a tout appris de son père. Son prochain objectif : infiltrer l’une des plus grosses organisations criminelles des États-Unis pour la détruire de l’intérieur. Comment ? En séduisant son impitoyable héritier.<br /><br />Loin d’être effrayée, elle se laisse kidnapper par la famille Stan. Cette mission sera l’occasion de s’éloigner de l’emprise destructrice de son père, et si pour cela, elle doit charmer l’ennemi, eh bien... que le jeu commence !<br /><br />Néréo Stan succédera bientôt à son oncle, mais avant d’accéder au trône, il doit se venger et évincer Julien Pavarotti. Et quelle arme plus tranchante que sa fille ?<br /><br />Forcé d’accueillir la jeune femme chez lui, il va devoir la surveiller. Et trouver un moyen de dompter son caractère indocile.<br /><br />S’instaure alors un jeu de pouvoir où le Roi et la Reine s’affrontent.<br /><br />Mais entre secrets, trahisons et sentiments naissants, la frontière qui sépare alliés et ennemis devient toujours plus floue...<br /><br />Comment prédire qui va gagner, quand les ennemis les plus redoutables semblent si proches ?",
+      "formattedPrice": "6,99 €",
+      "genres": [
+        "Thriller romantique",
+        "Livres",
+        "Romance"
+      ],
+      "price": 6.99,
+      "averageUserRating": 4,
+      "userRatingCount": 16,
+      "country": "FRA"
+    }
+  ]
+}

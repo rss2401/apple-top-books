@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        271620937
+      ],
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books"
+      ],
+      "price": 2.99,
+      "artistId": 271620937,
+      "artistName": "C. J. Box",
+      "releaseDate": "2023-02-28T08:00:00Z",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>Wyoming Game Warden Joe Pickett investigates a mysterious death at a secret remote high-tech facility in this riveting new novel from #1 <i>New York Times</i> bestseller C.J. Box.<br /></b><br />When a prominent University of Wyoming professor goes missing, authorities are stumped. That is, until Joe Pickett makes two surprising discoveries while hunting down a wounded elk on his district as an epic spring storm descends upon him. First, he finds the professor’s vehicle parked on a remote mountainside. Then Joe finds the professor’s frozen and mutilated body. When he attempts to learn more, his investigation is obstructed by federal agents, extremists, and Governor Colter Allen.<br /><br />Nate Romanowski is rebuilding his falconry company—and financing this through crypto mining with the assistance of Geronimo Jones. He’s then approached by a shadowy group of local militant activists that is gaining in power and influence, and demanding that Wyoming join other western states and secede from the union—by force, if necessary. They ask Nate to throw in with them, but he’s wary. Should he trust them, or is he being set up?<br /><br />As a storm of peril gathers around them, Joe and Nate confront it in different ways—and maybe, for the first time, on opposite sides.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/db/cd/67/dbcd6711-c940-59de-4ad4-59480ec5df9c/9780593331316.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/db/cd/67/dbcd6711-c940-59de-4ad4-59480ec5df9c/9780593331316.d.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/c-j-box/271620937?uo=4",
+      "trackCensoredName": "Storm Watch",
+      "formattedPrice": "$2.99",
+      "trackViewUrl": "https://books.apple.com/us/book/storm-watch/id6442896406?uo=4",
+      "trackId": 6442896406,
+      "trackName": "Storm Watch",
+      "averageUserRating": 4,
+      "userRatingCount": 2658,
+      "country": "USA"
+    }
+  ]
+}

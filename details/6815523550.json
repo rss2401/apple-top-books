@@ -24,8 +24,6 @@
       ],
       "price": 4.99,
       "releaseDate": "2026-10-01T07:00:00Z",
-      "trackId": 6815523550,
-      "trackName": "Todesstille über Föhr",
       "genreIds": [
         "10052",
         "38",
@@ -50,7 +48,9 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/24/9c/ec/249cecc0-f021-7ff4-be41-f31ef6881976/9783690903899.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/24/9c/ec/249cecc0-f021-7ff4-be41-f31ef6881976/9783690903899.jpg/100x100bb.jpg",
       "artistViewUrl": "https://books.apple.com/de/artist/cornelia-h%C3%A4rtl/836483835?uo=4",
-      "userRatingCount": 5,
+      "trackName": "Todesstille über Föhr",
+      "trackId": 6815523550,
+      "userRatingCount": 10,
       "averageUserRating": 4.5,
       "country": "DEU"
     }

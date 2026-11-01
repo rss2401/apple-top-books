@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1263015502
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Books",
+        "Fiction & Literature"
+      ],
+      "price": 9.99,
+      "artistId": 1263015502,
+      "artistName": "Amanda Skenandore",
+      "releaseDate": "2026-05-26T07:00:00Z",
+      "genreIds": [
+        "10047",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>Based on the true story of an illegal women’s clinic at the center of a high-profile trial in 1940s Chicago and the nurse who risked her safety and freedom to work there, a thought-provoking, powerfully timely novel of courage, sisterhood, and women’s healthcare for readers of Kristin Hannah, Kerri Maher, and Audrey Blake.</b><br /><br /> In the fall of 1939, while Europe grapples with the outbreak of war, Mimi Lukas wages a private battle in her Chicago neighborhood. Her husband, Stan, once a promising White Sox player, has been sidelined by a broken leg. His hopes of returning to baseball are dwindling along with their savings. As Stan sinks into inertia, Mimi resolves to go back to nursing.<br /><br /> When a friend tells her of a women’s clinic in need of a nurse, Mimi hesitates. Such places are illegal and at odds with her religious upbringing. But Dr. Gabler’s office isn’t the dingy establishment Mimi envisioned. The space is clean, bright, and welcoming, the staff skillful. Patients are treated with dignity and compassion, even as they are sworn to secrecy about what happens within its walls.<br /><br /> The patients, too, are not who Mimi expected. Some are heartbreakingly young. Most are married, and many already have children. Police and state prosecutors are paid handsomely to turn a blind eye. As Mimi finds kinship with her colleagues and with an officer on retainer, she begins her own private reckoning between what is legal and what is necessary, no matter how painful or inconvenient.<br /><br /> But Mimi senses the tide turning against them. She knows, too, that soon she must decide how much she will risk to defend the ideals she’s come to embrace through hard-won experience . . .<br /><br /> Poignant and insightful, here is a story of courage and empathy, as timeless as it is timely.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/d1/9a/80/d19a8081-f316-ad87-257b-fc7122c57bfd/9781496741714.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/d1/9a/80/d19a8081-f316-ad87-257b-fc7122c57bfd/9781496741714.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/amanda-skenandore/1263015502?uo=4",
+      "trackCensoredName": "When No One Else Will",
+      "formattedPrice": "$9.99",
+      "trackViewUrl": "https://books.apple.com/us/book/when-no-one-else-will/id6755541042?uo=4",
+      "trackId": 6755541042,
+      "trackName": "When No One Else Will",
+      "averageUserRating": 4.5,
+      "userRatingCount": 10,
+      "country": "USA"
+    }
+  ]
+}

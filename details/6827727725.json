@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        6827720886
+      ],
+      "trackCensoredName": "INFLUENCER LES MASSES",
+      "artistViewUrl": "https://books.apple.com/fr/artist/klaus-brennan/6827720886?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/influencer-les-masses/id6827727725?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/50/d0/59/50d059e7-6927-8582-863d-8cbe7d89a5ad/d930fa60-e49f-498a-800a-7c5f6840eb51_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/50/d0/59/50d059e7-6927-8582-863d-8cbe7d89a5ad/d930fa60-e49f-498a-800a-7c5f6840eb51_cover_image.jpg/100x100bb.jpg",
+      "artistId": 6827720886,
+      "artistName": "Klaus Brennan",
+      "genres": [
+        "Science politique",
+        "Livres",
+        "Politique et actualité",
+        "Santé et bien-être",
+        "Psychologie",
+        "Administration publique"
+      ],
+      "price": 14.99,
+      "genreIds": [
+        "11264",
+        "38",
+        "9034",
+        "9025",
+        "10094",
+        "11265"
+      ],
+      "trackId": 6827727725,
+      "trackName": "INFLUENCER LES MASSES",
+      "releaseDate": "2026-10-27T20:24:56Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "En 1895, le médecin français Gustave Le Bon publia une étude sur la façon dont les foules pensent et agissent. Des décennies plus tard, Edward Bernays, neveu de Sigmund Freud, transforma la psychologie de la persuasion en un outil moderne pour la publicité et les relations publiques. Ses méthodes contribuèrent à vendre des produits, à façonner l’opinion publique et à influencer des événements politiques. Aujourd’hui, les mêmes questions sont plus urgentes que jamais : qui cherche à orienter votre attention, et comment ?\n\nInfluencing the Masses retrace l’évolution de la persuasion de masse, de Le Bon et Bernays à Walter Lippmann, Carl Jung et au modèle de propagande de Chomsky et Herman. L’ouvrage suit cette histoire jusqu’à nos jours, où annonceurs, campagnes politiques, plateformes sociales et algorithmes de recommandation rivalisent pour façonner ce que les gens remarquent, croient et partagent.\n\nAu fil de treize chapitres, ce livre examine les idées, les personnes et les techniques qui sous-tendent cette influence. Il s’appuie sur des faits historiques documentés et des sources que les lecteurs peuvent consulter, distingue les preuves des spéculations et montre comment des tactiques bien connues s’adaptent aux nouveaux médias.\n\nPuis, il passe à la pratique. Apprenez à repérer les procédés récurrents de persuasion, à remettre en question les filtres qui façonnent l’actualité, à reconnaître les tactiques de pression dans une conversation et à adopter des habitudes quotidiennes qui protègent votre attention et votre jugement.\n\nPourquoi avez-vous acheté ce produit, cru cette affirmation ou craint cette menace ? Dans quelle mesure vos opinions sont-elles vraiment les vôtres ? Influencing the Masses propose un guide lucide des forces qui façonnent la vie moderne, ainsi que des outils pratiques pour réfléchir plus délibérément, décider par vous-même et résister à la tendance à acquiescer par inertie.",
+      "formattedPrice": "14,99 €",
+      "country": "FRA"
+    }
+  ]
+}

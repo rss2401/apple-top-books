@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        213196586
+      ],
+      "trackCensoredName": "La Bibliothèque de Minuit",
+      "artistViewUrl": "https://books.apple.com/fr/artist/matt-haig/213196586?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/la-biblioth%C3%A8que-de-minuit/id1599083975?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c7/8e/1e/c78e1e84-5908-0806-b900-ae56c45d2dda/9782863748145-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c7/8e/1e/c78e1e84-5908-0806-b900-ae56c45d2dda/9782863748145-001-x.jpeg/100x100bb.jpg",
+      "artistId": 213196586,
+      "artistName": "Matt Haig",
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "price": 2.99,
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "trackId": 1599083975,
+      "trackName": "La Bibliothèque de Minuit",
+      "releaseDate": "2022-01-05T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "« Entre la vie et la mort, il y a une bibliothèque, avec des rayonnages infinis et une multitude d'autres vies à essayer.&#xa0; »<br />&#xa0; &#xa0; À trente-cinq ans, Nora Seeds a l'impression d'avoir tout raté. Lorsqu'elle se retrouve un soir dans la mystérieuse Bibliothèque de Minuit, c'est sa dernière chance de reprendre en main son destin. Si elle avait fait d'autres choix, que se serait-il passé ?<br />Avec l'aide d'une amie bibliophile, elle n'a qu'à prendre des livres dans les rayonnages, tourner les pages et corriger ses erreurs pour inventer la vie parfaite. Pourtant, les choses ne se déroulent pas comme elle l'imaginait.<br />Avant que minuit sonne, pourra-t-elle répondre à l'énigme la plus importante : qu'est-ce qu'une vie heureuse ?&#xa0; « Une lecture étonnante, pleine de chaleur et d'humour, et un éloge vibrant du pouvoir qu'ont les livres&#xa0; de changer le cours de nos vies.&#xa0; »Sunday Times<br />&#xa0; Traduit de l'anglais (Angleterre) par Dominique Haas",
+      "formattedPrice": "2,99 €",
+      "averageUserRating": 4.5,
+      "userRatingCount": 92,
+      "country": "FRA"
+    }
+  ]
+}

@@ -10,15 +10,17 @@
       "artistIds": [
         1441524809
       ],
-      "formattedPrice": "¥1,000",
+      "artistName": "殆ど死んでいる",
+      "artistId": 1441524809,
       "genres": [
         "ギャグ／コメディ",
         "ブック",
         "マンガ／グラフィックノベル",
         "マンガ"
       ],
-      "artistId": 1441524809,
-      "artistName": "殆ど死んでいる",
+      "price": 1000,
+      "trackName": "異世界おじさん 16",
+      "trackId": 6820328766,
       "releaseDate": "2026-10-23T07:00:00Z",
       "genreIds": [
         "50000072",
@@ -29,11 +31,9 @@
       "kind": "ebook",
       "currency": "JPY",
       "description": "メイベルの夢、不労所得生活をかなえるべく、彼女の故郷にたどり着いたおじさん。しかし村は危機的状況で、そんなことを言える空気ではない。村長から依頼され、おじさんとメイベルは魔獣の討伐へと出発するが……。",
-      "price": 1000,
-      "trackId": 6820328766,
-      "trackName": "異世界おじさん 16",
-      "averageUserRating": 5,
-      "userRatingCount": 32,
+      "formattedPrice": "¥1,000",
+      "averageUserRating": 4.5,
+      "userRatingCount": 45,
       "country": "JPN"
     }
   ]

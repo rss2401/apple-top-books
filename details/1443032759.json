@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "La putain de la République",
+      "artistViewUrl": "https://books.apple.com/fr/artist/christine-deviers-joncour/638500227?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/la-putain-de-la-r%C3%A9publique/id1443032759?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/38/62/5a/38625a2b-babf-ac2a-832c-f1cf0efc0011/9782402284004.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/38/62/5a/38625a2b-babf-ac2a-832c-f1cf0efc0011/9782402284004.jpg/100x100bb.jpg",
+      "artistIds": [
+        638500227
+      ],
+      "artistId": 638500227,
+      "artistName": "Christine Deviers-Joncour",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "releaseDate": "1998-01-01T08:00:00Z",
+      "trackId": 1443032759,
+      "trackName": "La putain de la République",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "«&#xa0;Il était question, à l’automne 1997, de faire tomber “la putain de la République”. Ces propos ont-ils bien été tenus devant témoins, tels qu’ils m’ont été rapportes&#xa0;? Par qui ont-ils été proférés&#xa0;? Cela reste une énigme. Je suis en tout cas redevable à quelqu’un du titre de ce livre. Malgré la réprobation de mes proches et leur tristesse, je veux assumer cette dénomination. Puisque c’est au tribunal des médias qu’a été clouée au pilori la caricature d’une femme dans laquelle je ne me reconnais pas, c’est au tribunal de l’opinion que je m’adresse pour la première fois avec mes propres mots.&#xa0;»",
+      "formattedPrice": "7,99 €",
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "price": 7.99,
+      "country": "FRA"
+    }
+  ]
+}

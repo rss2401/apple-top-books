@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        497905012,
+        1582927507
+      ],
+      "artistId": 497905012,
+      "artistName": "Fjodor Dostojewski & mehrbuch Verlag",
+      "genres": [
+        "Klassiker",
+        "Bücher",
+        "Belletristik und Literatur"
+      ],
+      "price": 1.99,
+      "releaseDate": "2021-10-17T07:00:00Z",
+      "genreIds": [
+        "10042",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "mehrbuch-Weltliteratur! eBooks, die nie in Vergessenheit geraten sollten.<br/>\n<br/>\nEin zynischer Eremit haust in einer ärmlichen Kellerwohnung und philosophiert über den modernen Menschen und dessen Unzulänglichkeiten. Er erzählt von der für beide Seiten erniedrigenden Begegnung mit einer Prostituierten und versucht sich selbst Rechenschaft abzulegen über die eigene Verkommenheit. Dabei verstrickt er sich permanent in Widersprüche.",
+      "trackCensoredName": "Aufzeichnungen aus dem Kellerloch",
+      "formattedPrice": "1,99 €",
+      "trackViewUrl": "https://books.apple.com/de/book/aufzeichnungen-aus-dem-kellerloch/id1618534926?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/70/a7/20/70a72035-c1a3-be3c-8520-d8a6da57dacf/1035122603.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/70/a7/20/70a72035-c1a3-be3c-8520-d8a6da57dacf/1035122603.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/fjodor-dostojewski-mehrbuch-verlag/497905012?uo=4",
+      "trackName": "Aufzeichnungen aus dem Kellerloch",
+      "trackId": 1618534926,
+      "userRatingCount": 11,
+      "averageUserRating": 4,
+      "country": "DEU"
+    }
+  ]
+}

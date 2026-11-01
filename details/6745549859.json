@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1484446473
+      ],
+      "trackCensoredName": "Mon Patron, Mon Meilleur Ennemi Tome 2",
+      "artistViewUrl": "https://books.apple.com/fr/artist/sophie-philippe/1484446473?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/mon-patron-mon-meilleur-ennemi-tome-2/id6745549859?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/7e/c0/00/7ec00088-dd88-518e-f3e3-baa74a223e26/9782379873669-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/7e/c0/00/7ec00088-dd88-518e-f3e3-baa74a223e26/9782379873669-001-x.jpeg/100x100bb.jpg",
+      "artistId": 1484446473,
+      "artistName": "Sophie Philippe",
+      "genres": [
+        "Romance",
+        "Livres"
+      ],
+      "price": 1.99,
+      "genreIds": [
+        "9003",
+        "38"
+      ],
+      "trackId": 6745549859,
+      "trackName": "Mon Patron, Mon Meilleur Ennemi Tome 2",
+      "releaseDate": "2025-06-19T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Rien ne va plus entre Abby et Nick... Entre un voyage qui tourne à la catastrophe et une dispute qui se transforme en impasse, le blocage semble insurmontable.<br />Et si cette fois, les rôles étaient inversés... Abby parviendrait-elle à renverser la vapeur ?<br />Le bras de fer continue dans les nouvelles aventures de nos deux héros et dans ce tome riche en tension et en rebondissements.",
+      "formattedPrice": "1,99 €",
+      "averageUserRating": 4,
+      "userRatingCount": 9,
+      "country": "FRA"
+    }
+  ]
+}

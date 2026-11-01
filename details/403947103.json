@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        2025433
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Books",
+        "Fiction & Literature"
+      ],
+      "price": 2.99,
+      "artistId": 2025433,
+      "artistName": "Tom Wolfe",
+      "releaseDate": "2002-02-21T08:00:00Z",
+      "genreIds": [
+        "10049",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>Vintage Tom Wolfe, <i>The Bonfire of the Vanities,</i> the #1 bestseller that will forever define late-twentieth-century New York style. <br /> </b><br /> <b>\"No one has portrayed New York Society this accurately and devastatingly since Edith Wharton\" (<i>The National Review</i>)</b><br /> <b><br /> “A page-turner . . . Brilliant high comedy.” <i>(The New Republic</i>)</b><br /><br /> Sherman McCoy, the central figure of Tom Wolfe's first novel, is a young investment banker with a fourteen-room apartment in Manhattan. When he is involved in a freak accident in the Bronx, prosecutors, politicians, the press, the police, the clergy, and assorted hustlers high and low close in on him, licking their chops and giving us a gargantuan helping of the human comedy, of New York in the 1980s, a city boiling over with racial and ethnic hostilities and burning with the itch to Grab It Now. <br /><br /> Wolfe's novel is a big, panoramic story of the metropolis that reinforces the author's reputation as the foremost chronicler of the way we live in America. <br /><br />Adapted to film in 1990 by director Brian De Palma, the movie stars Tom Hanks, Bruce Willis, Melanie Griffith, and Morgan Freeman.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/86/7b/c8/867bc887-722b-7b2b-5c6b-9d1d5423fc52/9781429960564.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/86/7b/c8/867bc887-722b-7b2b-5c6b-9d1d5423fc52/9781429960564.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/tom-wolfe/2025433?uo=4",
+      "trackCensoredName": "The Bonfire of the Vanities",
+      "formattedPrice": "$2.99",
+      "trackViewUrl": "https://books.apple.com/us/book/the-bonfire-of-the-vanities/id403947103?uo=4",
+      "trackId": 403947103,
+      "trackName": "The Bonfire of the Vanities",
+      "averageUserRating": 4.5,
+      "userRatingCount": 363,
+      "country": "USA"
+    }
+  ]
+}

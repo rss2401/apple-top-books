@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        168851161
+      ],
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books"
+      ],
+      "price": 1.99,
+      "artistId": 168851161,
+      "artistName": "Mike Lawson",
+      "releaseDate": "2026-07-07T07:00:00Z",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "From Edgar, Barry, and Shamus Award finalist Mike Lawson comes McKenna’s Guy, a fast-paced thriller full of secrets, lies, and betrayal.<br /><br />When an intruder with murderous intent breaks into Roger Smith’s modest home one night, the big brute gets more than he bargained for, ending up a bloody corpse staining Roger’s carpet.<br /><br />Washington, DC, Detective Grace Lillinthal is summoned to the crime scene and marvels at the outcome. Why would anyone want to kill gray-haired Roger Smith? He’s the picture of respectability—a widower devoted to his family, an amateur painter, and a civil servant who works at the Government Publishing Office. When asked why he’d be a target, a clearly shaken Roger claims to be baffled.<br /><br />But instinct tells Grace there’s more to Roger’s story, and when she learns that Roger—after killing his home invader and before calling the police—phoned John McKenna, she knows she’s onto something. John McKenna is a disreputable character of the first order. He’s the gregarious, larger-than-life owner of a local bar that’s a notorious den of thieves.<br /><br />After one hired assassin fails, another’s bound to show up. The clock is ticking for Roger and McKenna to find out who wants Roger dead and why—and suspects abound. Stubborn Grace is as determined to dig up Roger’s secrets as he is to keep them hidden, and soon the investigation becomes a relentless game of cat and mouse. Even if Roger doesn’t consider himself a criminal, as chaos takes hold of his world, survival requires that he think like one.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/08/67/0a/08670afb-f835-ae34-fdca-a899d8f74c21/jct7-rectangle.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/08/67/0a/08670afb-f835-ae34-fdca-a899d8f74c21/jct7-rectangle.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/mike-lawson/168851161?uo=4",
+      "trackCensoredName": "McKenna's Guy",
+      "formattedPrice": "$1.99",
+      "trackViewUrl": "https://books.apple.com/us/book/mckennas-guy/id6757762649?uo=4",
+      "trackId": 6757762649,
+      "trackName": "McKenna's Guy",
+      "averageUserRating": 4.5,
+      "userRatingCount": 30,
+      "country": "USA"
+    }
+  ]
+}

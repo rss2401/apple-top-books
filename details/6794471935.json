@@ -1,0 +1,35 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        79680968,
+        967067664
+      ],
+      "trackCensoredName": "Hamish Macbeth 32 - Château hanté",
+      "artistViewUrl": "https://books.apple.com/fr/artist/m-c-beaton-carla-lavaste/79680968?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/hamish-macbeth-32-ch%C3%A2teau-hant%C3%A9/id6794471935?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ee/57/8d/ee578d97-ebfa-0b49-213a-54b5dd98e210/9782226517722.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ee/57/8d/ee578d97-ebfa-0b49-213a-54b5dd98e210/9782226517722.jpg/100x100bb.jpg",
+      "artistId": 79680968,
+      "artistName": "M.C. Beaton & Carla Lavaste",
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "price": 9.99,
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "trackId": 6794471935,
+      "trackName": "Hamish Macbeth 32 - Château hanté",
+      "releaseDate": "2026-10-28T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Hamish et son collègue Charlie sont appelés au château de Drim, dans les environs de Lochdubh : son propriétaire prétend qu’un fantôme hante la vieille tour en ruine, terrorisant les voisins par ses hurlements. Les deux policiers décident de passer une nuit sur place, sans pouvoir constater le moindre spectre. Ils ne sont cependant pas venus pour rien : en atterrissant par accident dans un sous-sol, c’est un cadavre qu’ils découvrent ! Aussitôt apparu, celui-ci se volatilise à l’arrivée des renforts. Hamish aurait-il perdu la tête ? Sa réputation est en jeu : il doit retrouver le cadavre… et son assassin !",
+      "formattedPrice": "9,99 €",
+      "country": "FRA"
+    }
+  ]
+}

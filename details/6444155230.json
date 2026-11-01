@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        375644852
+      ],
+      "artistId": 375644852,
+      "artistName": "Eva Almstädt",
+      "genres": [
+        "Polizeiromane",
+        "Bücher",
+        "Krimis und Thriller",
+        "Weibliche Spürnasen"
+      ],
+      "price": 5.99,
+      "releaseDate": "2023-03-31T07:00:00Z",
+      "genreIds": [
+        "10052",
+        "38",
+        "9032",
+        "10055"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Der Ostseeurlaub von Alva Dohrmann findet ein jähes Ende, als sie im Garten ihres Ferienhauses eine Leiche entdeckt. Der Schädel des Mannes wurde eingeschlagen, das Gesicht des Toten wurde post mortem mit Schlamm bedeckt. Es handelt sich um den umstrittenen Bürgermeister des Ortes, der aus verschiedensten Gründen zahlreiche Feinde hatte. Pia Korittki ermittelt gemeinsam mit der örtlichen Polizei. Der Fall nimmt eine überraschende Wendung, als Alva Dohrmann spurlos aus dem Dorfgasthof verschwindet, in dem sie vorübergehend untergebracht wurde. Und dann wird eine weitere Leiche in den Dünen gefunden...",
+      "trackCensoredName": "Ostseenebel",
+      "formattedPrice": "5,99 €",
+      "trackViewUrl": "https://books.apple.com/de/book/ostseenebel/id6444155230?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/91/eb/9d/91eb9def-d8b1-c179-4dff-4bb6d13dc81e/9783751741910.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/91/eb/9d/91eb9def-d8b1-c179-4dff-4bb6d13dc81e/9783751741910.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/eva-almst%C3%A4dt/375644852?uo=4",
+      "trackName": "Ostseenebel",
+      "trackId": 6444155230,
+      "userRatingCount": 116,
+      "averageUserRating": 4.5,
+      "country": "DEU"
+    }
+  ]
+}

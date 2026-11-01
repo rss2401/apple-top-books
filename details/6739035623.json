@@ -1,0 +1,46 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1584049634
+      ],
+      "genres": [
+        "Historical Romance",
+        "Books",
+        "Romance",
+        "Wholesome Romance",
+        "Fiction & Literature",
+        "Historical Fiction",
+        "Romantic Comedies"
+      ],
+      "price": 0.99,
+      "artistId": 1584049634,
+      "artistName": "Sophie Irwin",
+      "releaseDate": "2025-07-31T07:00:00Z",
+      "genreIds": [
+        "10059",
+        "38",
+        "9003",
+        "11232",
+        "9031",
+        "10047",
+        "11042"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "‘Sophie Irwin is an exciting and original voice. She's a must-buy author for me’ Taylor Jenkins Reid<br /><br />'I simply couldn't put this book down. Joyous, hilarious and full of sparkling enemies-to-lovers tension, it has everything you could want in a regency romcom’ – Beth O’Leary, The Flat Share<br /><br />From the Sunday Times bestselling author comes a delicious new romance…<br /><br />He wants a wife. She wants to be jilted. This. Is. War.<br /><br />Rich, handsome and titled Lord Ashford has every lady in England longing for his hand in marriage.<br /><br />Everyone, that is, except Miss Lydia Hanworth – the only young woman Ashford wishes to marry.<br /><br />Pressured into accepting Ashford’s proposal, the announcement must be kept secret for ten days. Can Lydia free herself from her obligations before the engagement is publicly announced, without ruining her reputation? You can achieve an awful lot in ten days, after all…<br /><br />Readers LOVE Sophie Irwin:<br /><br />‘LOVED this’ *****<br /><br />‘Sophie Irwin – she is such a fresh, fun, witty writer in this space. I'd read anything she wrote’ *****<br /><br />‘An excellent, delightful, refreshing Regency Romance’ *****<br /><br />‘What an absolute treat’ *****<br /><br />‘Inhaled it. Loved it’ *****<br /><br />‘Fun, light and romantic’ *****<br /><br />‘20 stars out of 5!! This book was a balm to my soul’ *****<br /><br />‘It is going to become a go-to favourite’ *****<br /><br />‘An absolute must read for fans of Regency romance’ *****<br /><br />‘So enjoyable, unpredictable, wonderful characters, just SO GOOD’ *****<br /><br />Reviews<br /><br />'I simply couldn't put this book down. Joyous, hilarious and full of sparkling enemies-to-lovers tension, it has everything you could want' Beth O'Leary, Swept Away<br /><br />‘Austen meets Emily Henry, this is a total treat. Stylish, witty, pacey, and immersive – Sophie Irwin is the queen of the regency romcom’ Niamh Hargan, The Break-Up Clause<br /><br />‘Full of heart, laugh out loud funny and a pure joy to read – her best yet’ Jessica Bull, Ms Austen Investigates<br /><br />‘Such style, wit and beautiful story-telling … Better than Bridgerton, as good as any Heyer’ Susan Lewis, Nothing to See Here<br /><br />‘Sheer happiness and sunshine … deliciously funny, warm and wise and sparklingly romantic. An enemies to lovers romance that is far too tempting to put down’ Cressida McLaughlin, The Happy Hour<br /><br />‘A funny, clever read packed full of characters to root for. A must-read author for me’ Cesca Major, If I Were You<br /><br />'An epic battle of wills … this Regency romcom is a must read’ Red<br /><br />‘Funny [with] plenty of laugh out loud moments … You’ll find yourself easily getting lost in the love and drama’ My Weekly<br /><br />'Nonstop witty banter enhances the slow simmering romantic tension as this madcap love story unfolds. Regency fans won’t want to miss out' *STARRED REVIEW* Publishers Weekly<br /><br />'Laugh-out-loud funny … a charming book, perfect for readers looking for a lighthearted story of love and petty pranks' Jenny Kobiela-Mondor, Library Journal<br /><br />'Thoroughly entertaining, mischievous mayhem' Kirkus Reviews",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/7d/f8/d6/7df8d678-55ed-e954-c368-9b742068ccd3/9780008696764.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/7d/f8/d6/7df8d678-55ed-e954-c368-9b742068ccd3/9780008696764.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/sophie-irwin/1584049634?uo=4",
+      "trackCensoredName": "How to Lose a Lord in Ten Days",
+      "formattedPrice": "$0.99",
+      "trackViewUrl": "https://books.apple.com/us/book/how-to-lose-a-lord-in-ten-days/id6739035623?uo=4",
+      "trackId": 6739035623,
+      "trackName": "How to Lose a Lord in Ten Days",
+      "averageUserRating": 4,
+      "userRatingCount": 56,
+      "country": "USA"
+    }
+  ]
+}

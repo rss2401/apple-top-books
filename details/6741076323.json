@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1790784847
+      ],
+      "artistId": 1790784847,
+      "artistName": "SenLinYu",
+      "genres": [
+        "Fantasy",
+        "Bücher",
+        "Science-Fiction und Fantasy",
+        "Liebesromane",
+        "Paranormale Liebesromane"
+      ],
+      "trackName": "Alchemised",
+      "trackId": 6741076323,
+      "releaseDate": "2025-09-23T07:00:00Z",
+      "genreIds": [
+        "10044",
+        "38",
+        "9020",
+        "9003",
+        "10058"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<i>\"Wen glaubst du zu beschützen? Der Krieg ist vorbei. Holdfast ist tot. Die Ewige Flamme ist erloschen. Es gibt niemanden mehr, den du retten kannst.\"</i><br /><br />Helena Marino ist die letzte Überlebende des Widerstands, vergessen in Gefangenschaft. Bis sie durch einen Zufall in die Hände von Kaine Ferron gerät, dem erbarmungslosen High Reeve. Eingesperrt auf seinem eisernen Anwesen, will Helena die letzten Geheimnisse des Widerstands wahren, während Kaine versucht, mit alchemistischer Gewalt in ihren Kopf einzudringen. Denn Helena erinnert sich nicht an die letzten Jahre des Krieges. War sie wirklich nur eine einfache Heilerin in den Reihen der Ewigen Flamme? Helena ringt um ihr Überleben – und beginnt zu ahnen, dass Kaine und sie weit mehr verbindet, als ihre Feinde je erfahren dürfen …&#xa0;<br /><br />Alchemised ist eine düstere Fantasy mit einer epischen Liebesgeschichte.",
+      "trackCensoredName": "Alchemised",
+      "artistViewUrl": "https://books.apple.com/de/artist/senlinyu/1790784847?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/alchemised/id6741076323?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3b/fc/9d/3bfc9d44-463a-27d8-2368-34a73fa62463/9783989780682.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3b/fc/9d/3bfc9d44-463a-27d8-2368-34a73fa62463/9783989780682.jpg/100x100bb.jpg",
+      "formattedPrice": "24,99 €",
+      "price": 24.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 116,
+      "country": "DEU"
+    }
+  ]
+}

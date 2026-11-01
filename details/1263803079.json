@@ -34,15 +34,17 @@
       "userRatingCount": 2017
     },
     {
+      "trackViewUrl": "https://books.apple.com/us/book/becoming-mindful-silence-your-negative-thoughts-and/id1263803079?uo=4",
       "trackCensoredName": "Becoming Mindful: Silence Your Negative Thoughts and Emotions to Regain Control of Your Life",
       "formattedPrice": "Free",
-      "trackViewUrl": "https://books.apple.com/us/book/becoming-mindful-silence-your-negative-thoughts-and/id1263803079?uo=4",
+      "artistViewUrl": "https://books.apple.com/us/artist/howtorelax-blog-team/1263803261?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/0e/c2/a7/0ec2a7da-dd8d-b271-03fc-88521ac69c40/9781370277261.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/0e/c2/a7/0ec2a7da-dd8d-b271-03fc-88521ac69c40/9781370277261.jpg/100x100bb.jpg",
-      "artistViewUrl": "https://books.apple.com/us/artist/howtorelax-blog-team/1263803261?uo=4",
       "artistIds": [
         1263803261
       ],
+      "trackName": "Becoming Mindful: Silence Your Negative Thoughts and Emotions to Regain Control of Your Life",
+      "trackId": 1263803079,
       "artistId": 1263803261,
       "artistName": "HowToRelax Blog Team",
       "genres": [
@@ -56,8 +58,6 @@
         "38",
         "9029"
       ],
-      "trackId": 1263803079,
-      "trackName": "Becoming Mindful: Silence Your Negative Thoughts and Emotions to Regain Control of Your Life",
       "releaseDate": "2017-07-25T07:00:00Z",
       "kind": "ebook",
       "currency": "USD",

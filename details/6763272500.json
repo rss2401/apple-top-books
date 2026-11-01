@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "La psychologie de l'argent",
+      "artistViewUrl": "https://books.apple.com/fr/artist/morgan-housel/1518559909?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/la-psychologie-de-largent/id6763272500?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9a/f8/c5/9af8c5f3-a1f2-8940-8318-905854c38733/9782361170578-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9a/f8/c5/9af8c5f3-a1f2-8940-8318-905854c38733/9782361170578-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        1518559909
+      ],
+      "artistId": 1518559909,
+      "artistName": "Morgan Housel",
+      "genreIds": [
+        "10008",
+        "38",
+        "9009"
+      ],
+      "releaseDate": "2022-02-26T08:00:00Z",
+      "trackId": 6763272500,
+      "trackName": "La psychologie de l'argent",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Votre réussite financière ne dépend pas forcément de vos connaissances. Elle dépend de votre attitude. Or l'attitude n'est pas quelque chose qui s'apprend facilement, même quand on est très intelligent.</b><br /><br />Le plus souvent, la finance est enseignée comme une discipline mathématique où il suffirait d'entrer des données et d'appliquer des formules pour savoir quoi faire en matière d'investissement, de finances personnelles ou de stratégies économiques. Pourtant, dans la vraie vie, nous ne prenons pas nos décisions financières devant une feuille de calcul. Nous les prenons à la table du dîner familial ou dans une salle de réunion, des endroits où s'entremêlent notre histoire personnelle, une vision du monde qui n'appartient qu'à nous, notre ego, notre fierté, des considérations commerciales et d'étranges motivations.<br /><br />Dans <i>La Psychologie de l'argent</i>, Morgan Housel, auteur plusieurs fois primé, partage dix-neuf histoires courtes dans lesquelles il explore nos façons singulières d'envisager les questions d'argent. Ce faisant, il nous aide à mieux comprendre ce qui constitue l'un des sujets les plus importants de la vie humaine.",
+      "formattedPrice": "14,99 €",
+      "genres": [
+        "Finances personnelles",
+        "Livres",
+        "Entreprise et management"
+      ],
+      "price": 14.99,
+      "averageUserRating": 4,
+      "userRatingCount": 5,
+      "country": "FRA"
+    }
+  ]
+}

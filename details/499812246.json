@@ -42,11 +42,7 @@
       "artistIds": [
         2038168
       ],
-      "genres": [
-        "Classiques",
-        "Livres",
-        "Romans et littérature"
-      ],
+      "price": 0,
       "artistId": 2038168,
       "artistName": "Jules Verne",
       "genreIds": [
@@ -61,9 +57,13 @@
       "currency": "EUR",
       "description": "C’est le roman d’aventure par excellence. Écrit il y a plus d’un siècle, ce récit de voyage connu dans le monde entier n’a pas pris une ride. Le pari d’un gentleman anglais de réussir le tour du monde en 80 jours pourrait faire rire à l’heure d’Internet et des voyages express. Et pourtant, il n’en est rien. Bien au contraire. Les aventures de Phileas Fogg et de son célèbre valet Passepartout continuent de fasciner des générations de lecteurs impatients de savoir si le défi sera relevé.",
       "formattedPrice": "Gratuit",
-      "price": 0,
+      "genres": [
+        "Classiques",
+        "Livres",
+        "Romans et littérature"
+      ],
       "averageUserRating": 4,
-      "userRatingCount": 936,
+      "userRatingCount": 938,
       "country": "FRA"
     }
   ]

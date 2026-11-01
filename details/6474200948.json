@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Rouge comme la mer",
+      "artistViewUrl": "https://books.apple.com/fr/artist/lilja-sigurdard%C3%B3ttir/469775620?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/rouge-comme-la-mer/id6474200948?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/cd/99/91/cd99911a-a695-24c2-10b3-7a019559af88/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/cd/99/91/cd99911a-a695-24c2-10b3-7a019559af88/cover.jpg/100x100bb.jpg",
+      "artistIds": [
+        469775620
+      ],
+      "artistId": 469775620,
+      "artistName": "Lilja Sigurdardóttir",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "releaseDate": "2025-04-18T07:00:00Z",
+      "trackId": 6474200948,
+      "trackName": "Rouge comme la mer",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Aurora l’enquêtrice financière s’est juré de retrouver le corps de sa sœur disparue et de faire condamner son assassin.<br /><br />Elle part explorer systématiquement tous les champs de lave autour de Reykjavík, et un homme fait appel à elle pour retrouver une autre femme disparue.<br /><b>Une intrigue surprenante et pleine de twists au milieu de l’automne islandais. Aurora se révèle à la fois astucieuse et ingénue, honnête et manipulatrice, et le lecteur est captivé jusqu’au bout.<br /></b><br />    « <b>Lilja Sigurdardóttir</b> est en train de devenir mon écrivaine islandaise préférée. Elle ne gaspille aucun mot quand elle crée ses mystères surprenants et son humour espiègle souligne sa vision si juste de la nature humaine. » - <i><b>The Times<br /></b></i>« Les paysages islandais sont si bien décrits que vous sentez presque la brume automnale sortir des pages, mais ce sont les innombrables twists qui font de ce livre une expérience glaçante et captivante. » - <i><b>Daily Mail</b></i>",
+      "formattedPrice": "5,99 €",
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "price": 5.99,
+      "averageUserRating": 4,
+      "userRatingCount": 21,
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Compagne du Prince",
+      "artistViewUrl": "https://books.apple.com/fr/artist/anna-zaires/593202904?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/compagne-du-prince/id6815882028?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/40/f5/5a/40f55afd-18b1-5979-6045-89259dd13dc6/1fbcc4b2-aee6-4c22-95c4-e272d716a940_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/40/f5/5a/40f55afd-18b1-5979-6045-89259dd13dc6/1fbcc4b2-aee6-4c22-95c4-e272d716a940_cover_image.jpg/100x100bb.jpg",
+      "artistIds": [
+        593202904
+      ],
+      "artistId": 593202904,
+      "artistName": "Anna Zaires",
+      "genreIds": [
+        "9003",
+        "38",
+        "10058"
+      ],
+      "releaseDate": "2026-10-20T07:00:00Z",
+      "trackId": 6815882028,
+      "trackName": "Compagne du Prince",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Je pensais qu’il n’y avait rien de pire que la mort. Et puis j’ai découvert que certaines choses faisaient beaucoup plus mal que la chimio – comme de se faire piétiner le cœur par le prince surhumain à la puissance démentielle qui prétend être votre âme sœur. Juste après qu’on a consommé notre union, en plus.\n\n\tEh bien, je lui souhaite une belle vie. Dès qu’une occasion s’est présentée, je me suis tirée.\n\n\tTout ce que j’ai à faire, c’est localiser quelqu’un capable de m’ouvrir un portail vers la Terre avant qu’il me retrouve.",
+      "formattedPrice": "7,99 €",
+      "genres": [
+        "Romance",
+        "Livres",
+        "Romance paranormale"
+      ],
+      "price": 7.99,
+      "country": "FRA"
+    }
+  ]
+}

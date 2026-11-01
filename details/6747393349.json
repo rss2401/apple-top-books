@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        373181333
+      ],
+      "trackCensoredName": "Je voulais vivre",
+      "artistViewUrl": "https://books.apple.com/fr/artist/ad%C3%A9la%C3%AFde-de-clermont-tonnerre/373181333?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/je-voulais-vivre/id6747393349?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/17/fc/c0/17fcc01c-951c-c2ed-16d3-5c5f8e63e7eb/9782246831679-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/17/fc/c0/17fcc01c-951c-c2ed-16d3-5c5f8e63e7eb/9782246831679-001-x.jpeg/100x100bb.jpg",
+      "artistId": 373181333,
+      "artistName": "Adélaïde de Clermont-Tonnerre",
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "price": 16.99,
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "trackId": 6747393349,
+      "trackName": "Je voulais vivre",
+      "releaseDate": "2025-08-20T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Par une nuit glaciale, le père Lamandre recueille une fillette de six ans venue frapper avec insistance à sa porte. L’enfant aux yeux admirables tremble de froid et de faim. Elle a les pieds en sang dans ses souliers à boucles d’argent, mais refuse de répondre aux questions qui lui sont posées. Le vieux prêtre ne saura que son prénom&#xa0; : Anne. Vingt ans plus tard, Anne est devenue Lady Clarick. Richissime, courtisée, elle a l’oreille des grands et le cardinal de Richelieu ne jure que par elle. Pourtant, dans l’ombre, quatre hommes connaissent son vrai visage et sont prêts à tout pour la punir de ses forfaits. Manipulatrice sans foi ni loi, intrigante, traîtresse, empoisonneuse, cette criminelle au visage angélique a traversé les siècles et la littérature&#xa0; : elle se nomme Milady.<br />Voici venu le temps d’écarter la légende pour rencontrer la femme. Même un personnage de fiction peut réclamer justice. Ce roman inoubliable, écrit d’une voix puissamment contemporaine, rend vie à Milady et nous offre son histoire dont Dumas a semé les indices dans Les Trois Mousquetaires.<br />Magnifique portrait d’une femme libre menant, pour sa survie, un jeu dangereux. Dans une époque où trop d’hommes voudraient la contraindre et la posséder, elle se bat – jusqu’à la transgression ultime – pour son pays, pour son idéal et pour sa liberté.",
+      "formattedPrice": "16,99 €",
+      "averageUserRating": 4.5,
+      "userRatingCount": 74,
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1644546326
+      ],
+      "genres": [
+        "Historical Romance",
+        "Books",
+        "Romance"
+      ],
+      "price": 0.99,
+      "artistId": 1644546326,
+      "artistName": "Sofi Laporte",
+      "releaseDate": "2022-05-31T07:00:00Z",
+      "genreIds": [
+        "10059",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "A strict schoolmistress. A degenerate duke. One house standing between them.\n\nWeary of his decadent life, the wicked Duke of Rochford arrives in Bath with every intent to turn over a new leaf. But when the prim, meddling, feisty headmistress of the neighbouring school unleashes her outspoken opposition to Marcus’s presence, he decides to turn his new house into a gambling den, if only to vex her.\n\nMiss Eleonore Hilversham, headmistress of the Seminary for Young Ladies in Bath, has one aim in life: to run the most exclusive school in all of England. When she discovers that the property she needs has been snitched from right under her nose, she vows to get rid of the new owner, even if he is a powerful duke.\n\nWhen tragedy strikes at the height of their conflict, both unveil facets of themselves that they have hitherto managed to hide. What heartbreak does Miss Hilversham harbor, and is the wicked duke really that wicked?\n\nCan love prevail and triumph over clashing goals and personalities?\n\nA sweet enemies to lovers Regency romance that is part of the Wishing Well Seminary series.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/5f/69/7d/5f697d51-c9ea-948b-ffd7-cafb0bfd3a2d/d76c95b6-3c70-4df1-8dac-5243f994507b_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/5f/69/7d/5f697d51-c9ea-948b-ffd7-cafb0bfd3a2d/d76c95b6-3c70-4df1-8dac-5243f994507b_cover_image.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/sofi-laporte/1644546326?uo=4",
+      "trackCensoredName": "Miss Hilversham and the Pesky Duke",
+      "formattedPrice": "$0.99",
+      "trackViewUrl": "https://books.apple.com/us/book/miss-hilversham-and-the-pesky-duke/id6755199337?uo=4",
+      "trackId": 6755199337,
+      "trackName": "Miss Hilversham and the Pesky Duke",
+      "averageUserRating": 4.5,
+      "userRatingCount": 5,
+      "country": "USA"
+    }
+  ]
+}

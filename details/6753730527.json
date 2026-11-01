@@ -1,0 +1,41 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "A Week from Never",
+      "artistViewUrl": "https://books.apple.com/us/artist/william-w-johnstone-j-a-johnstone/210315221?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/a-week-from-never/id6753730527?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/76/a5/7f/76a57fa2-7d10-601b-2872-480e52a50dbd/9781496757432.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/76/a5/7f/76a57fa2-7d10-601b-2872-480e52a50dbd/9781496757432.jpg/100x100bb.jpg",
+      "formattedPrice": "$12.99",
+      "artistIds": [
+        210315221,
+        372789786
+      ],
+      "artistId": 210315221,
+      "artistName": "William W. Johnstone & J.A. Johnstone",
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Action & Adventure",
+        "Historical Fiction"
+      ],
+      "price": 12.99,
+      "trackName": "A Week from Never",
+      "trackId": 6753730527,
+      "releaseDate": "2026-06-30T07:00:00Z",
+      "genreIds": [
+        "9031",
+        "38",
+        "10039",
+        "10047"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>From the bestselling Johnstones comes the latest adventure in the wild life of Cullen Murphy, a West Texas legend-in-the-making, with big dreams, fast guns, and whose word is the law. . . .</b><br /><br /><b>BREAK MURPHY’S LAW, FACE MURPHY’S WRATH.</b><br /><br /> Life is hard in the Old West—but so is Cullen Murphy. Orphaned as a child, he drifted from town to town across a merciless frontier, taking any job he could in order to survive. Ranch hand, cattle driver, Confederate soldier. Whatever it took, he was up for the task. But when the Civil War ended, Murphy was ready to settle down and start his own ranch in Newtown, Texas, a beautiful but untamed stretch of land with no marshal, no jailhouse—and no defense against trigger-happy lowlifes looking for trouble.<br /><br /> As rumors spread about a sittin’ duck of a town in that godforsaken corner of the West, every stripe of lawless miscreant comes crawling out of the Panhandle with nothing but bad intentions. Like Spade Atkins, a degenerate gambler and gunslinger ready to bet his life away. Or a gang of outlaws just itching for mayhem, with ill-gotten money to burn. Holed up three miles outside of town, it won’t be long before they come riding through. But Cullen Murphy is not one to stand down.<br /><br /> High noon or last call, it’s time for the deadly justice of Murphy’s Law. . . .",
+      "averageUserRating": 4.5,
+      "userRatingCount": 13,
+      "country": "USA"
+    }
+  ]
+}

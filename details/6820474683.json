@@ -10,7 +10,8 @@
       "artistIds": [
         661612726
       ],
-      "formattedPrice": "¥800",
+      "artistName": "石黒正数",
+      "artistId": 661612726,
       "genres": [
         "ファンタジー",
         "ブック",
@@ -18,8 +19,9 @@
         "マンガ",
         "青年"
       ],
-      "artistId": 661612726,
-      "artistName": "石黒正数",
+      "price": 800,
+      "trackName": "天国大魔境(14)",
+      "trackId": 6820474683,
       "releaseDate": "2026-10-22T07:00:00Z",
       "genreIds": [
         "50000074",
@@ -31,11 +33,9 @@
       "kind": "ebook",
       "currency": "JPY",
       "description": "「天国」と呼ばれる場所を探して、「魔境」と化した未来の日本を旅するマルとキルコ。“ヒルコ”との戦闘で負傷したキルコを休ませて食料を調達するマルは新たな\"ヒルコ\"の襲撃を受ける。一方、「いずくのえ島」を出て復興省を立ち上げた迫田達だったが、行動を共にした子供達は一人、また一人とそれぞれの旅へと出ていく。テレビアニメも国内外で大反響のポスト・アポカリプス冒険譚、最新14巻!!",
-      "price": 800,
-      "trackId": 6820474683,
-      "trackName": "天国大魔境(14)",
+      "formattedPrice": "¥800",
       "averageUserRating": 4.5,
-      "userRatingCount": 19,
+      "userRatingCount": 25,
       "country": "JPN"
     }
   ]

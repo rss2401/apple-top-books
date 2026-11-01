@@ -11,27 +11,27 @@
       "artistIds": [
         173331980
       ],
+      "price": 0,
       "artistId": 173331980,
       "artistName": "太宰治",
+      "genres": [
+        "名作",
+        "ブック",
+        "小説／文学"
+      ],
       "genreIds": [
         "10042",
         "38",
         "9031"
       ],
       "releaseDate": "1994-04-28T07:00:00Z",
+      "trackId": 566869605,
+      "trackName": "津軽",
       "kind": "ebook",
       "currency": "JPY",
       "description": "明治時代の日本の小説家太宰治。『津軽』は底本の「太宰治全集第六巻」(筑摩書房)では「日本の小説・文芸」としてまとめられている。本書で登場するのは、「序編」「本編」などが収録されている。",
-      "trackId": 566869605,
-      "trackName": "津軽",
-      "genres": [
-        "名作",
-        "ブック",
-        "小説／文学"
-      ],
-      "price": 0,
-      "userRatingCount": 182,
       "averageUserRating": 4,
+      "userRatingCount": 182,
       "country": "JPN"
     }
   ]

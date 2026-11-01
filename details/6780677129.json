@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1817435396
+      ],
+      "formattedPrice": "Free",
+      "trackCensoredName": "My Reaper Wears Fishnets",
+      "artistViewUrl": "https://books.apple.com/us/artist/genevieve-fischer/1817435396?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/my-reaper-wears-fishnets/id6780677129?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/cd/dc/02/cddc02f7-b17b-fd58-43a4-f8938ad0e980/0004305278.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/cd/dc/02/cddc02f7-b17b-fd58-43a4-f8938ad0e980/0004305278.jpg/100x100bb.jpg",
+      "price": 0,
+      "artistId": 1817435396,
+      "artistName": "Genevieve Fischer",
+      "genres": [
+        "Romance",
+        "Books",
+        "Fiction & Literature",
+        "Ghost Stories",
+        "Horror",
+        "Contemporary Romance"
+      ],
+      "trackId": 6780677129,
+      "trackName": "My Reaper Wears Fishnets",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "​Frank Finnegan is fifty, jagged, and exactly ten days away from the needle. He didn't just kill an abusive ex-husband—he enjoyed it. He's accepted the darkness, the silence, and the needle. He wasn't expecting a thirty-year-old Psychopomp in a red corset and shredded fishnets to manifest in his cell, smelling like clove cigarettes and cherry lip gloss.<br /><br />​Vesper isn't there to save his life. She's there to audit his sins. But while the prison chaplain wants his repentance, and the guards want his blood, Vesper wants his stories. She wants the grit under his fingernails, and the darkness in his eyes that matches her own.",
+      "genreIds": [
+        "9003",
+        "38",
+        "9031",
+        "10046",
+        "10048",
+        "10057"
+      ],
+      "releaseDate": "2026-08-12T07:00:00Z",
+      "country": "USA"
+    }
+  ]
+}

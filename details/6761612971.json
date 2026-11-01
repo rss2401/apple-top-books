@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1736827652
+      ],
+      "artistId": 1736827652,
+      "artistName": "Sloane St. James",
+      "genres": [
+        "Militär-Liebesromane",
+        "Bücher",
+        "Liebesromane",
+        "Belletristik und Literatur"
+      ],
+      "price": 4.99,
+      "releaseDate": "2026-11-01T07:00:00Z",
+      "genreIds": [
+        "11233",
+        "38",
+        "9003",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Riskiere dein Leben, aber niemals dein Herz.</b><br /><br />Als Captain der Sky Ridge Fire Station ist mein Job alles andere als Routine. Wir sind eine Eliteeinheit, die in besonders gefährlichen Situationen gerufen wird. Und als jüngster Captain in der Geschichte der Station weiß ich, dass ich mir keine Fehler erlauben kann. Denn Fehler kosten Leben. Wir wissen nie, ob wir abends heimkehren. Deshalb lasse ich mich auch nie auf etwas Festes ein. Das war zumindest mein Vorsatz, bis Scottie Timmons als Rettungssanitäterin zu uns stößt. Sie ist wunderschön, hat das frechste Mundwerk, das mir je begegnet ist, und ich bekomme sie einfach nicht mehr aus dem Kopf. Sie ist die erste Frau, die ich an meiner Seite haben will. Doch ich merke, dass etwas zwischen uns steht – dass sie etwas vor mir verbirgt …<br /><b>Es wird noch heißer – mit exklusivem Bonuskapitel.</b><br /><br />Enthaltene Tropes: Spicy Romance, Forced Proximity, Grumpy x Sunshine, Small Town, Workplace Romance<br />Spice-Level: 3 von 5",
+      "trackCensoredName": "Fight. Sky Ridge Fire Station",
+      "formattedPrice": "4,99 €",
+      "trackViewUrl": "https://books.apple.com/de/book/fight-sky-ridge-fire-station/id6761612971?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/c8/f5/41/c8f541be-78e5-cd5a-aed3-f91d4e86dc9e/9783641348885.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/c8/f5/41/c8f541be-78e5-cd5a-aed3-f91d4e86dc9e/9783641348885.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/sloane-st-james/1736827652?uo=4",
+      "trackName": "Fight. Sky Ridge Fire Station",
+      "trackId": 6761612971,
+      "country": "DEU"
+    }
+  ]
+}

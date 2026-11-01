@@ -13,8 +13,15 @@
         1045005663,
         1190004483
       ],
+      "price": 0,
       "artistId": 944172942,
       "artistName": "青辺マヒト, 十夜 & chibi",
+      "genres": [
+        "マンガ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "ファンタジー"
+      ],
       "genreIds": [
         "10016",
         "38",
@@ -22,20 +29,13 @@
         "50000074"
       ],
       "releaseDate": "2021-02-12T08:00:00Z",
+      "trackId": 1552156862,
+      "trackName": "転生した大聖女は、聖女であることをひた隠す A Tale of The Great Saint 3【電子書店共通特典イラスト付】",
       "kind": "ebook",
       "currency": "JPY",
       "description": "最弱魔物に偽装したザビリアだけど、<br />\r\nある人にはその凄まじいエネルギーが丸見えで…<br />\r\nしかもなぜかフィーアに敬語?バレてる!?<br />\r\nさらに黒竜の探索に出た森では、強力な魔物が大量出現!<br />\r\n大聖女の力…使っちゃう!?",
-      "trackId": 1552156862,
-      "trackName": "転生した大聖女は、聖女であることをひた隠す A Tale of The Great Saint 3【電子書店共通特典イラスト付】",
-      "genres": [
-        "マンガ",
-        "ブック",
-        "マンガ／グラフィックノベル",
-        "ファンタジー"
-      ],
-      "price": 0,
-      "userRatingCount": 143,
       "averageUserRating": 4.5,
+      "userRatingCount": 145,
       "country": "JPN"
     }
   ]

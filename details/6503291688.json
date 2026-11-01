@@ -38,21 +38,12 @@
       "userRatingCount": 1387
     },
     {
+      "formattedPrice": "Free",
       "artistIds": [
         6768505
       ],
-      "artistId": 6768505,
       "artistName": "Chris Merritt",
-      "genres": [
-        "Police Procedural",
-        "Books",
-        "Crime & Thrillers",
-        "Fiction & Literature",
-        "Hard-Boiled Mysteries"
-      ],
-      "price": 0,
-      "trackId": 6503291688,
-      "trackName": "Knock Knock",
+      "artistId": 6768505,
       "genreIds": [
         "10052",
         "38",
@@ -60,6 +51,8 @@
         "9031",
         "10050"
       ],
+      "trackId": 6503291688,
+      "trackName": "Knock Knock",
       "releaseDate": "2024-05-28T07:00:00Z",
       "kind": "ebook",
       "currency": "GBP",
@@ -69,9 +62,16 @@
       "trackViewUrl": "https://books.apple.com/gb/book/knock-knock/id6503291688?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/22/93/b4/2293b453-998c-a49a-e063-525672832781/Knock-Knock-Apple.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/22/93/b4/2293b453-998c-a49a-e063-525672832781/Knock-Knock-Apple.jpg/100x100bb.jpg",
-      "formattedPrice": "Free",
+      "price": 0,
+      "genres": [
+        "Police Procedural",
+        "Books",
+        "Crime & Thrillers",
+        "Fiction & Literature",
+        "Hard-Boiled Mysteries"
+      ],
       "averageUserRating": 4.5,
-      "userRatingCount": 1472,
+      "userRatingCount": 1476,
       "country": "GBR"
     }
   ]

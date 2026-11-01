@@ -1,0 +1,41 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Alaska",
+      "artistViewUrl": "https://books.apple.com/us/artist/james-a-michener-steve-berry/419973932?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/alaska/id721429989?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication3/v4/fe/9d/97/fe9d97bf-4eff-9d16-a912-7f75cb375f0b/9780804151429.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication3/v4/fe/9d/97/fe9d97bf-4eff-9d16-a912-7f75cb375f0b/9780804151429.jpg/100x100bb.jpg",
+      "formattedPrice": "$2.99",
+      "artistIds": [
+        419973932,
+        1395496089
+      ],
+      "artistId": 419973932,
+      "artistName": "James A. Michener & Steve Berry",
+      "genres": [
+        "Historical Fiction",
+        "Books",
+        "Fiction & Literature",
+        "Action & Adventure"
+      ],
+      "price": 2.99,
+      "trackName": "Alaska",
+      "trackId": 721429989,
+      "releaseDate": "1988-05-12T07:00:00Z",
+      "genreIds": [
+        "10047",
+        "38",
+        "9031",
+        "10039"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "In this sweeping epic of the northernmost American frontier, James A. Michener guides us through Alaska’s fierce terrain and history, from the long-forgotten past to the bustling present. As his characters struggle for survival, Michener weaves together the exciting high points of Alaska’s story: its brutal origins; the American acquisition; the gold rush; the tremendous growth and exploitation of the salmon industry; the arduous construction of the Alcan Highway, undertaken to defend the territory during World War II. A spellbinding portrait of a human community fighting to establish its place in the world, <i>Alaska </i>traces a bold and majestic saga of the enduring spirit of a land and its people.<br /><br /> BONUS: This edition includes an excerpt from James A. Michener's <i>Hawaii.</i><br /> &#xa0;<br /> <b>Praise for <i>Alaska</i></b><br /> &#xa0;<br /> “Few will escape the allure of the land and people [Michener] describes. . . . <i>Alaska </i>takes the reader on a journey through one of the bleakest, richest, most foreboding, and highly inviting territories in our Republic, if not the world. . . . The characters that Michener creates are bigger than life.”<b>—<i>Los Angeles Times Book Review</i></b><br /> &#xa0;<br /> “Always the master of exhaustive historical research, Michener tracks the settling of Alaska [in] vividly detailed scenes and well-developed characters.”<b>—<i>Boston Herald</i></b><br /> &#xa0;<br /> “Michener is still, sentence for sentence, writing’s fastest attention grabber.”<b>—<i>The New York Times</i></b>",
+      "averageUserRating": 4.5,
+      "userRatingCount": 326,
+      "country": "USA"
+    }
+  ]
+}

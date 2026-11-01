@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Friends, mes amours et cette chose terrible",
+      "artistViewUrl": "https://books.apple.com/fr/artist/matthew-perry/1451135808?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/friends-mes-amours-et-cette-chose-terrible/id6444124686?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/d7/f2/6a/d7f26afa-63d8-903e-f4ea-b314d37302ab/9782749952161.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/d7/f2/6a/d7f26afa-63d8-903e-f4ea-b314d37302ab/9782749952161.jpg/100x100bb.jpg",
+      "artistIds": [
+        1451135808
+      ],
+      "artistId": 1451135808,
+      "artistName": "Matthew Perry",
+      "genreIds": [
+        "9007",
+        "38",
+        "9008",
+        "9009",
+        "10005"
+      ],
+      "releaseDate": "2022-11-10T08:00:00Z",
+      "trackId": 6444124686,
+      "trackName": "Friends, mes amours et cette chose terrible",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>\" Salut, je m'appelle Matthew, mais vous me connaissez peut-être sous un autre nom. Mes amis m'appellent Matty. Et je devrais être mort. \"</b><br /><br />Ainsi commence la captivante histoire de l'inoubliable Chandler de Friends qui, au fil de ses souvenirs, évoque ses ambitions de jeunesse et son rapport à la célébrité, ses addictions et la guérison après un grave problème de santé qui lui fit frôler la mort. Mais avant les cures de désintoxication et les séjours à l'hôpital, il y a le Matthew de 5 ans qui voyagea de Montréal à Los Angeles, ballotté entre des parents séparés ; celui de 14 ans, star du tennis au Canada ; celui de 24 ans qui décrocha le rôle le plus convoité des États-Unis pour le pilote d'une série appelée à l'époque Friends Like Us... Dans cet incroyable récit que lui seul pouvait raconter, Matthew Perry se met à nu et dévoile la famille brisée dans laquelle il a grandi (et qui l'a laissé livré à lui-même), la soif de reconnaissance qui l'a mené à la célébrité et le vide en lui que rien n'a su combler, pas même la réalisation de ses plus grands rêves. Il revient également sur la paix que lui procure aujourd'hui la sobriété et ce qu'il ressent face à l'omniprésence de Friends, nous livrant des anecdotes sur ses camarades de tournage et d'autres stars croisées sur la route.<br />Avec l'humour et l'honnêteté qu'on lui connaît, Matthew Perry dépeint le combat de toute une vie contre la dépendance et ce qui l'a engendrée, lui qui semblait tout avoir. Des mémoires inoubliables à la fois intimes et édifiants, et une main tendue vers ceux qui luttent contre l'addiction. D'une honnêteté sans faille, émouvant et irrésistiblement drôle, voici le livre que les fans du monde entier attendaient.",
+      "formattedPrice": "9,99 €",
+      "genres": [
+        "Arts et spectacles",
+        "Livres",
+        "Biographies et mémoires",
+        "Entreprise et management",
+        "Secteurs et professions"
+      ],
+      "price": 9.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 84,
+      "country": "FRA"
+    }
+  ]
+}

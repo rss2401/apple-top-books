@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistId": 1395258,
+      "artistName": "Ira Levin",
+      "genres": [
+        "Horror",
+        "Books",
+        "Fiction & Literature"
+      ],
+      "price": 3.99,
+      "genreIds": [
+        "10048",
+        "38",
+        "9031"
+      ],
+      "trackId": 6462944489,
+      "trackName": "Rosemary's Baby",
+      "releaseDate": "2024-01-09T08:00:00Z",
+      "artistIds": [
+        1395258
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>The genre-defining classic that ushered in the era of modern horror &#xa0;</b><br />\nOne of the best-selling books of all time,&#xa0;<i>Rosemary’s Baby</i>&#xa0;is a foundational work of&#xa0;suspense and&#xa0;psychological horror which remains as powerful and chilling as the day it was written. Hailed by Truman Capote as a “darkly brilliant tale” and adapted with near-total fidelity into the monumental film starring Mia Farrow and John Cassavetes, Ira Levin’s&#xa0;<i>Rosemary’s Baby&#xa0;</i>ushered in the era of contemporary horror as we know it, opening the floodgates to later works such as&#xa0;<i>The Exorcist&#xa0;</i>and<i>&#xa0;The Omen.</i>&#xa0;Levin ingeniously fused gothic literary tradition with modern-day New York, creating an enduring classic which&#xa0;the<i> New York Times</i>&#xa0;placed on its recent list of&#xa0;<i>“</i>The 25 Most Significant New York City Novels From the Last 100 Years.<i>”</i><br />\nRosemary Woodhouse&#xa0;and her struggling-actor husband Guy are thrilled to move into&#xa0;the Bramford<i>,</i>&#xa0;a sought-after Manhattan apartment building prized for its Victorian details and gargoyled facade. Yet as they learn of a darker side to the building’s history—and become acquainted with their overly attentive neighbors, the&#xa0;Castevets—unspoken tensions enter into the young couples’ relationship. Matters improve when Guy lands a major role, and Rosemary at last becomes pregnant. But as her pregnancy takes&#xa0;frightening turns,&#xa0;Rosemary begins to question if her neighbors’ heightened interest is strictly innocent, or if their motivations—and those of Guy&#xa0;himself—portend terrifying consequences for her,&#xa0;and her unborn child. Is Rosemary&#xa0;“…going mad, or going sane”?<br />\nForeword by Chuck Palahniuk.",
+      "formattedPrice": "$3.99",
+      "trackCensoredName": "Rosemary's Baby",
+      "artistViewUrl": "https://books.apple.com/us/artist/ira-levin/1395258?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/rosemarys-baby/id6462944489?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/f7/37/96/f7379602-1ddc-ac85-a510-974414d1132b/heaz-rectangle.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/f7/37/96/f7379602-1ddc-ac85-a510-974414d1132b/heaz-rectangle.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 109,
+      "country": "USA"
+    }
+  ]
+}

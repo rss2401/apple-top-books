@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Quelqu'un d'autre",
+      "artistViewUrl": "https://books.apple.com/fr/artist/guillaume-musso/428953685?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/quelquun-dautre/id6473772222?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/70/39/6e/70396ebd-3ea6-544e-6d0c-8b9339639c02/9782702183939-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/70/39/6e/70396ebd-3ea6-544e-6d0c-8b9339639c02/9782702183939-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        428953685
+      ],
+      "artistId": 428953685,
+      "artistName": "Guillaume Musso",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "releaseDate": "2024-03-05T08:00:00Z",
+      "trackId": 6473772222,
+      "trackName": "Quelqu'un d'autre",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "« Il y a trois vérités&#xa0; :&#xa0; ma vérité, ta vérité, la vérité. »<br />Côte d'Azur - Printemps 2023<br />Au large de Cannes, un yacht dérive entre les îles de Lérins.À son bord repose Oriana Di Pietro, éditrice italienne et héritière d'une célèbre famille milanaise. Agressée sauvagement, elle succombera après dix jours de coma.<br />Qui a tué Oriana ?<br />Un homme et trois femmes livrent leur version de l'histoire : Adrien, le mari de la victime, pianiste de jazz séduisant et mystérieux ; l'insaisissable Adèle, sa jeune maîtresse ; Justine, la policière locale chargée de l'enquête et Oriana enfin, à travers le récit bouleversant des dernières semaines de sa vie.<br />Personne ne ment.<br />Mais personne n'est d'accord sur la vérité...<br /><br />Fascinant et audacieux, ce suspense psychologique imprévisible s'impose comme l'un des romans les plus réussis de Guillaume Musso.<br />&#xa0; Une histoire exceptionnelle qui ne livre sa vérité qu’à la dernière ligne<br /><br />« LE ROI DU NOIR EUROPÉEN. »<br />La Repubblica, Italie<br />&#xa0; <br />« LE MAÎTRE FRANÇAIS<br />DU SUSPENSE. »<br />The New York Times, États-Unis<br />&#xa0; <br />« UN PHÉNOMÈNE. »<br />El Mundo, Espagne",
+      "formattedPrice": "2,99 €",
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "price": 2.99,
+      "averageUserRating": 4,
+      "userRatingCount": 393,
+      "country": "FRA"
+    }
+  ]
+}

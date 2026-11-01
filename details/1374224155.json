@@ -46,12 +46,7 @@
         1358701838,
         633592098
       ],
-      "genres": [
-        "Manga : Action",
-        "Livres",
-        "BD et mangas",
-        "Manga"
-      ],
+      "price": 0,
       "artistId": 1358701838,
       "artistName": "Riichirô Inagaki & Boichi",
       "genreIds": [
@@ -67,7 +62,12 @@
       "currency": "EUR",
       "description": "<b>Survivre et évoluer !</b><br /><br />Taiju, un lycéen tokyoïte, est un jour victime d’un phénomène mystérieux : en une fraction de seconde, l’humanité entière est transformée en pierre ! Des milliers d’années plus tard, à son réveil, il décide de rebâtir la civilisation à partir de zéro avec son ami Senku !! Ne manquez pas le premier opus du meilleur récit de survie et d’aventure S.F. de tous les temps !!<br /><br />Lorsque le scénariste d'<i>Eyeshield 21</i> et le dessinateur de <i>Sun-ken Rock</i>, décident de travailler ensemble, le résultat ne peut être qu'exceptionnel. Issu du prestigieux <i>Weekly Shônen Jump</i>, qui a vu éclore <i>Dragon Ball</i> et <i>One Piece</i>, <i>Dr. Stone</i> séduit d'emblée par son propos novateur et ses enjeux colossaux. Quand le renouveau de l'espèce humaine ne tient qu'à deux garçons, quelles solutions peuvent bien s'offrir à la survie de l'humanité ?",
       "formattedPrice": "Gratuit",
-      "price": 0,
+      "genres": [
+        "Manga : Action",
+        "Livres",
+        "BD et mangas",
+        "Manga"
+      ],
       "averageUserRating": 4.5,
       "userRatingCount": 1091,
       "country": "FRA"

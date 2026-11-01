@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        364647375
+      ],
+      "artistId": 364647375,
+      "artistName": "Philippe Sands",
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher"
+      ],
+      "trackName": "Die Rattenlinie – ein Nazi auf der Flucht",
+      "trackId": 1511875659,
+      "releaseDate": "2020-11-25T08:00:00Z",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Eine unfassbare Geschichte über die legendäre Fluchtroute der Nazis vom Vatikan nach Argentinien: Meisterhaft entspinnt der bekannte Menschenrechtsanwalt Philippe Sands eine unfassbare Geschichte über Liebe, Intrigen und Spionage. Er erzählt von Leben, Flucht und Tod des SS-Offiziers Otto Wächter, ab 1942 NS-Gouverneur von Galizien. Nach 1945 als Massenmörder gesucht, gelang ihm die abenteuerliche Flucht in den Vatikan. Doch bevor er von dort – beschützt vom berüchtigten Bischof Hudal – über die Rattenlinie weiterflüchten konnte, starb er 1949 überraschend.<br />Jahrzehnte später begegnet Philippe Sands Ottos Sohn Horst Wächter – der Beginn einer komplexen Ermittlung: Horst behauptet, sein Vater sei vergiftet worden. Sands beschließt, die Wahrheit herauszufinden. Und Horst zu beweisen, dass sein Vater für den Mord an Zehntausenden Menschen verantwortlich war.<br />Ausgehend von den privaten Briefen und Tagebüchern der Familie Wächter und auf Basis zahlreicher Dokumente aus Archiven, gelingt Sands ein intimes, verstörendes Porträt des SS-Mannes und seiner Frau. Zugleich deckt er Intrigen, Korruption und Spionage rund um die Fluchthilfe für NS-Kriegsverbrecher aus dem Vatikan auf. Und er lässt uns teilhaben an seinen Begegnungen mit Horst Wächter - und damit an der unwahrscheinlichen Beziehung zweier Männer, die auf unterschiedlichen Seiten der Geschichte stehen.<br />»Eine fesselnde Reise durch die Zeit und ein Porträt des Bösen in all seiner Komplexität, Banalität und Selbstgerechtigkeit.« Stephen Fry",
+      "trackCensoredName": "Die Rattenlinie – ein Nazi auf der Flucht",
+      "artistViewUrl": "https://books.apple.com/de/artist/philippe-sands/364647375?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/die-rattenlinie-ein-nazi-auf-der-flucht/id1511875659?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/be/5b/85/be5b8543-c4e5-c255-a5a0-293605d67c94/1032490854.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/be/5b/85/be5b8543-c4e5-c255-a5a0-293605d67c94/1032490854.jpg/100x100bb.jpg",
+      "formattedPrice": "4,99 €",
+      "price": 4.99,
+      "averageUserRating": 4,
+      "userRatingCount": 13,
+      "country": "DEU"
+    }
+  ]
+}

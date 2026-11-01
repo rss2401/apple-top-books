@@ -1,0 +1,58 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        272413733
+      ],
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Horror",
+        "Romance",
+        "Mysteries & Thrillers",
+        "Sci-Fi & Fantasy",
+        "Fantasy",
+        "Science Fiction",
+        "Ghost Stories",
+        "Paranormal Romance",
+        "Family Fiction & Literature",
+        "Religious Fiction",
+        "Literary Fiction"
+      ],
+      "price": 2.99,
+      "artistId": 272413733,
+      "artistName": "William Peter Blatty",
+      "releaseDate": "2011-10-04T07:00:00Z",
+      "genreIds": [
+        "9031",
+        "38",
+        "10048",
+        "9003",
+        "9032",
+        "9020",
+        "10044",
+        "10063",
+        "10046",
+        "10058",
+        "11050",
+        "10041",
+        "10049"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>\"A horror story for all midnights.\"  —<i>The Boston Globe</i></b><br /><br /><b>\"Read the book. It’s an experience you will never forget.\"—<i>St. Louis Post-Dispatch</i></b><br /><br /><b>The phenomenal #1 bestseller that inspired the classic motion picture, a landmark of supernatural</b> <b>horror that remains the most terrifying and unforgettable novel ever written.</b><br /><br />Originally published in 1971,<i> The Exorcist </i>is a bestselling literary phenomenon and remains one of the most frightening and controversial novels ever written.<br /><br />Based on true events of a child’s demonic possession in the 1940s, The Exorcist tells the story of eleven-year-old Regan MacNeil and her mother Chris, a famous actress and doting mother. When Regan’s personality unexpectedly shifts and she starts exhibiting disturbing, often violent behavior, her desperate mother is driven to seek help from two Catholic priests, men who will risk everything—including their own souls—in a terrifying rite of exorcism to free the girl from the ancient malevolent force possessing her.<br /><br />Purposefully raw and profane, this landmark of classic horror still has the extraordinary ability to shock readers and cause them to forget that it is \"just a story.\" More than fifty years after its initial publication, The Exorcist remains a truly unforgettable reading experience.<br />A great read for spooky-season nightsA perfect addition to any Halloween reading list",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3f/79/52/3f795263-2e78-8e2b-ef8f-2c181760dbaf/9780062094377.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3f/79/52/3f795263-2e78-8e2b-ef8f-2c181760dbaf/9780062094377.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/william-peter-blatty/272413733?uo=4",
+      "trackCensoredName": "The Exorcist",
+      "formattedPrice": "$2.99",
+      "trackViewUrl": "https://books.apple.com/us/book/the-exorcist/id430664152?uo=4",
+      "trackId": 430664152,
+      "trackName": "The Exorcist",
+      "averageUserRating": 4.5,
+      "userRatingCount": 953,
+      "country": "USA"
+    }
+  ]
+}

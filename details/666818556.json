@@ -42,11 +42,7 @@
       "artistIds": [
         126334248
       ],
-      "genres": [
-        "Art et architecture",
-        "Livres",
-        "Arts et spectacles"
-      ],
+      "price": 0,
       "artistId": 126334248,
       "artistName": "Molière",
       "genreIds": [
@@ -61,9 +57,13 @@
       "currency": "EUR",
       "description": "Représentée pour la première fois à Paris sur le Théâtre du Palais Royal le 9e du mois de septembre 1668 par la Troupe du Roi.",
       "formattedPrice": "Gratuit",
-      "price": 0,
+      "genres": [
+        "Art et architecture",
+        "Livres",
+        "Arts et spectacles"
+      ],
       "averageUserRating": 4,
-      "userRatingCount": 270,
+      "userRatingCount": 271,
       "country": "FRA"
     }
   ]

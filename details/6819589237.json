@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1758423300
+      ],
+      "trackViewUrl": "https://books.apple.com/fr/book/where-roses-bleed-mafia-et-dark-romance/id6819589237?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3b/ac/b2/3bacb2f0-4a30-1c75-2330-0e74873c7b80/6610001431938.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3b/ac/b2/3bacb2f0-4a30-1c75-2330-0e74873c7b80/6610001431938.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/fr/artist/daisy-bloom/1758423300?uo=4",
+      "trackCensoredName": "Where Roses Bleed: Mafia et Dark Romance",
+      "formattedPrice": "Gratuit",
+      "price": 0,
+      "genres": [
+        "Thriller romantique",
+        "Livres",
+        "Romance"
+      ],
+      "trackName": "Where Roses Bleed: Mafia et Dark Romance",
+      "trackId": 6819589237,
+      "genreIds": [
+        "10061",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>ADELINA</b><br /><br />Mon père s’est assis dans l’arrière-salle de mon oncle un jeudi soir, avec une dette de quatre millions de dollars qu’il n’avait pas.<br /><br />Il leur a offert la maison. Il leur a offert le restaurant. Il leur a offert ma sœur.<br /><br />Puis il leur a offert mon petit frère, qui a neuf ans.<br /><br /><b>Et l’homme au bout de la table a prononcé mon nom à la place.</b><br /><br />Huit jours plus tard, j’ai épousé Salvatore Marchetti dans une chapelle où il n’y avait que quatre personnes, dans une robe payée par un inconnu, et j’ai emménagé dans une maison que tout le monde à New York appelle le Jardin du Diable.<br /><br />Je sais ce qu’il est. Tout le monde sait ce qu’il est.<br /><br />Ce que personne ne m’a dit, c’est qu’il ne crie pas, qu’il ne prend pas et qu’il ne ment pas, et qu’il préférerait rester planté sur le pas d’une porte pendant quatre secondes plutôt que de poser sur moi une seule main que je n’ai pas demandée.<br /><br /><b>Je lui ai été vendue un jeudi.</b><br /><br /><b>Dès la troisième semaine, j’arpentais ce couloir toute seule.</b><br /><br /><b>SALVATORE</b><br /><br />Je n’ai jamais rien désiré.<br /><br />Ce n’est pas une vantardise. C’est l’unique raison pour laquelle je suis toujours en vie. On ne peut rien prendre à un homme qui n’a rien de l’autre côté du mur, et j’ai passé dix-huit ans à m’assurer qu’il n’y avait absolument rien là-dehors.<br /><br />Puis je me suis assis dans un restaurant de Bensonhurst lors de la pire nuit de ma vie, et une fille en tablier a posé devant moi une assiette que je n’avais pas commandée.<br /><br />Elle avait dix-sept ans. Elle ne connaissait pas mon nom.<br /><br />Depuis ce jour, je lui ai envoyé une rose par an, et je n’en ai jamais signé une seule.<br /><br /><b>Désormais, elle est dans ma maison, à ma table, dans le jardin de ma mère.</b><br /><br />Son père va tout lui coûter, et il y a cinq hommes dans cette ville qui décident de ce qui arrive ensuite, et chacun d’eux sait désormais qu’elle existe.<br /><br /><b>Ils peuvent avoir mes mains. Ils peuvent avoir le reste de ma vie.</b><br /><br /><b>Ils ne l’auront pas.</b><br /><br /><i>Ceci est le premier livre de la série Le Jardin du Diable. Ordre de lecture :</i><br /><br /><i>Là où les roses saignent.</i><br /><br /><i>Là où meurent les lys.</i><br /><br /><i>Là où brûlent les orchidées.</i>",
+      "releaseDate": "2026-09-27T07:00:00Z",
+      "artistId": 1758423300,
+      "artistName": "Daisy Bloom",
+      "country": "FRA"
+    }
+  ]
+}

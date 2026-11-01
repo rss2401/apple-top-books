@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1161728608,
+        1816681717
+      ],
+      "trackCensoredName": "Icarus Fall - Tome 1 La paix, qu'importe le prix",
+      "artistViewUrl": "https://books.apple.com/fr/artist/delinda-dane-lyly-bay/1161728608?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/icarus-fall-tome-1-la-paix-quimporte-le-prix/id6818067037?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/16/aa/63/16aa6363-d7da-a218-9f61-2e7408bcd915/9782749967295.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/16/aa/63/16aa6363-d7da-a218-9f61-2e7408bcd915/9782749967295.jpg/100x100bb.jpg",
+      "artistId": 1161728608,
+      "artistName": "Delinda Dane & Lyly Bay",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance",
+        "Romance jeunes adultes"
+      ],
+      "price": 9.99,
+      "genreIds": [
+        "10057",
+        "38",
+        "9003",
+        "11040"
+      ],
+      "trackId": 6818067037,
+      "trackName": "Icarus Fall - Tome 1 La paix, qu'importe le prix",
+      "releaseDate": "2026-10-22T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>\" L'un de nous deux ne survivra pas, je mourrai de sa main... ou l'achèverai de la mienne. \"</b><br /><br />Depuis l'Apocalypse qui a anéanti l'Ancien Monde, l'humanité vit à l'abri des murs d'Olympus, au-delà desquels rôdent des créatures redoutables : les Ombres. Dans ce monde où la paix reste fragile, seuls les plus forts survivent. Tous les cinquante ans, les sept familles fondatrices du Nouveau Monde nomment quatorze prétendants parmi les étudiants de l'Académie d'Icarus. Un seul remportera le Tournoi du Sacre et règnera.<br />Rose Seraphel se prépare depuis toujours à succéder à sa grand-mère, la Souveraine d'Olympus. Son destin semble tracé... jusqu'à ce qu'elle croise la route de Thorn, héritier rebelle au charisme dévastateur. Consumé par une haine viscérale envers Rose, il n'a qu'un objectif : faire tomber le pouvoir en place. Et pour y parvenir, il n'hésitera pas à entraîner celle qu'il déteste plus que tout dans sa chute.<br /><br /><b>Quatorze prétendants au trône.<br />Un seul vainqueur.<br />Qui l'emportera ?</b>",
+      "formattedPrice": "9,99 €",
+      "country": "FRA"
+    }
+  ]
+}

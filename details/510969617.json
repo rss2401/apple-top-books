@@ -42,11 +42,7 @@
       "artistIds": [
         2684161
       ],
-      "genres": [
-        "Fiction historique",
-        "Livres",
-        "Romans et littérature"
-      ],
+      "price": 0,
       "artistId": 2684161,
       "artistName": "Victor Hugo",
       "genreIds": [
@@ -61,9 +57,13 @@
       "currency": "EUR",
       "description": "Le livre s'ouvre sur le portrait long et détaillé de monseigneur Myriel, l'évêque du diocèse de Digne, où il vit très modestement en compagnie de sa sœur Baptistine et d'une servante, Madame Magloire. Ce religieux est un juste qui se contente du strict nécessaire pour distribuer le reste de ses économies aux pauvres. Montrant un amour immense, il laisse sa porte grande ouverte et fraternise avec ceux que la société rejette.",
       "formattedPrice": "Gratuit",
-      "price": 0,
+      "genres": [
+        "Fiction historique",
+        "Livres",
+        "Romans et littérature"
+      ],
       "averageUserRating": 4.5,
-      "userRatingCount": 617,
+      "userRatingCount": 618,
       "country": "FRA"
     }
   ]

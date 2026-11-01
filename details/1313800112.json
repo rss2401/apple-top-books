@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        2066399,
+        1313800484
+      ],
+      "formattedPrice": "Free",
+      "trackCensoredName": "The Complete Tales and Poems",
+      "artistViewUrl": "https://books.apple.com/us/artist/edgar-allan-poe-cheesecake-books/2066399?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-complete-tales-and-poems/id1313800112?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/7d/a3/40/7da34027-3f16-7267-9e50-ef7cb7c54d29/1022003469.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/7d/a3/40/7da34027-3f16-7267-9e50-ef7cb7c54d29/1022003469.jpg/100x100bb.jpg",
+      "price": 0,
+      "artistId": 2066399,
+      "artistName": "Edgar Allan Poe & Cheesecake Books",
+      "genres": [
+        "Classics",
+        "Books",
+        "Fiction & Literature"
+      ],
+      "trackId": 1313800112,
+      "trackName": "The Complete Tales and Poems",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "Complete Poems of Edgar Allan Poe:<br/>\n<br/>\n<br/>\nACROSTIC, AN.<br/>\n<br/>\nAL AARAAF.<br/>\n<br/>\nALONE.<br/>\n<br/>\nANNABEL LEE.<br/>\n<br/>\nBELLS, THE.<br/>\n<br/>\nBELOVED PHYSICIAN.<br/>\n<br/>\nBRIDAL BALLAD.<br/>\n<br/>\nCAMPAIGN SONG, A.<br/>\n<br/>\nCITY IN THE SEA, THE.<br/>\n<br/>\nCOLISEUM, THE.<br/>\n<br/>\nCONQUEROR WORM, THE.<br/>\n<br/>\nDEEP IN EARTH.<br/>\n<br/>\nDIVINE RIGHT OF KINGS, THE.<br/>\n<br/>\nDREAM WITHIN A DREAM, A.<br/>\n<br/>\nDREAM, A.<br/>\n<br/>\nDREAM-LAND.<br/>\n<br/>\nDREAMS.<br/>\n<br/>\nELDORADO.<br/>\n<br/>\nELIZABETH.<br/>\n<br/>\nENIGMA.<br/>\n<br/>\nENIGMA, AN.<br/>\n<br/>\nEPIGRAM FOR WALL STREET.<br/>\n<br/>\nEULALIE.<br/>\n<br/>\nEVENING STAR.<br/>\n<br/>\nFAIRY-LAND.<br/>\n<br/>\nFANNY.<br/>\n<br/>\nFOR ANNIE.<br/>\n<br/>\nHAPPIEST DAY, THE.<br/>\n<br/>\nHAUNTED PALACE, THE.<br/>\n<br/>\nHYMN.<br/>\n<br/>\nIMITATION.<br/>\n<br/>\nIMPROMPTU. TO KATE CAROL.<br/>\n<br/>\nISRAFEL.<br/>\n<br/>\nLAKE —— TO ——, THE.<br/>\n<br/>\nLATIN HYMN.<br/>\n<br/>\nLENORE.<br/>\n<br/>\nLINES ON ALE.<br/>\n<br/>\nLINES ON JOE LOCKE.<br/>\n<br/>\nMAY QUEEN ODE [Fragment].<br/>\n<br/>\nO, TEMPORA! O, MORES!.<br/>\n<br/>\nPÆAN, A.<br/>\n<br/>\nPOETRY.<br/>\n<br/>\nRAVEN, THE.<br/>\n<br/>\nROMANCE.<br/>\n<br/>\nSERENADE.<br/>\n<br/>\nSILENCE.<br/>\n<br/>\nSLEEPER, THE.<br/>\n<br/>\nSONG.<br/>\n<br/>\nSONNET—TO SCIENCE.<br/>\n<br/>\nSPIRITS OF THE DEAD.<br/>\n<br/>\nSPIRITUAL SONG.<br/>\n<br/>\nSTANZAS.<br/>\n<br/>\nTAMERLANE.<br/>\n<br/>\nTO ——.<br/>\n<br/>\nTO F——.<br/>\n<br/>\nTO FRANCES S. OSGOOD.<br/>\n<br/>\nTO HELEN.<br/>\n<br/>\nTO HELEN.<br/>\n<br/>\nTO ISAAC LEA.<br/>\n<br/>\nTO M——.<br/>\n<br/>\nTO MARGARET.<br/>\n<br/>\nTO MARIE LOUISE (SHEW).<br/>\n<br/>\nTO MARIE LOUISE (SHEW).<br/>\n<br/>\nTO MY MOTHER.<br/>\n<br/>\nTO ONE IN PARADISE.<br/>\n<br/>\nTO THE RIVER——.<br/>\n<br/>\nTO ZANTE.<br/>\n<br/>\nULALUME.<br/>\n<br/>\nVALENTINE, A.<br/>\n<br/>\nVALLEY OF UNREST, THE.",
+      "genreIds": [
+        "10042",
+        "38",
+        "9031"
+      ],
+      "releaseDate": "1990-01-25T08:00:00Z",
+      "country": "USA"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Briar university - Tome 03",
+      "artistViewUrl": "https://books.apple.com/fr/artist/elle-kennedy-robyn-stella-bligh/380128356?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/briar-university-tome-03/id6445271239?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/0d/2f/8f/0d2f8f99-b563-a0f9-78ca-cbd76df63e6a/9782755651157-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/0d/2f/8f/0d2f8f99-b563-a0f9-78ca-cbd76df63e6a/9782755651157-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        380128356,
+        953080126
+      ],
+      "artistId": 380128356,
+      "artistName": "Elle Kennedy & Robyn Stella Bligh",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003"
+      ],
+      "releaseDate": "2019-11-07T08:00:00Z",
+      "trackId": 6445271239,
+      "trackName": "Briar university - Tome 03",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Dans la lignée de Off campus, la nouvelle série de Elle Kennedy !</b><br />Il entre en première année d'université avec un seul but en tête : pas de petites amies.<br />L'an dernier, il s'est laissé distraire par sa vie amoureuse, ce qui lui a coûté sa saison de hockey.<br />Cette année, il a décidé de renoncer aux femmes. Son équipe passe en premier.<br />Mais ces bonnes résolutions vont être difficile à tenir. Il se trouve qu'il se retrouve en binôme avec une fille hyper sexy sur un projet d'école. Une bavarde invétérée qui a beaucoup d'arguments pour elle.<br />Une fille déterminée à faire ressortir son côté sauvage...",
+      "formattedPrice": "7,99 €",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance"
+      ],
+      "price": 7.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 58,
+      "country": "FRA"
+    }
+  ]
+}

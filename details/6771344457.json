@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1707629446
+      ],
+      "genres": [
+        "Contemporary Romance",
+        "Books",
+        "Romance",
+        "Fiction & Literature",
+        "Romantic Comedies"
+      ],
+      "price": 0.99,
+      "artistId": 1707629446,
+      "artistName": "VH Nicolson",
+      "releaseDate": "2026-09-01T07:00:00Z",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003",
+        "9031",
+        "11042"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "The Billionaire and the Bride: A friends to lovers, retired hockey player, billionaire sports romance (Elite Eagles Legacy Book 1)<br /><br />I’m Leon Hill, ex-hockey player, sports agent, and in so much trouble! I have been in love with my best friend’s little sister for as long as I can remember. But she’s off limits. Forbidden. And now she’s getting married. Until she’s not.<br /><br />Erika Johansson becomes a runaway bride, ending up in my arms. I should turn her away. Tell her no, but the idea of having her is all too tempting. Instead, we do something crazy and I finally get the woman I’ve craved all these years. But if I’ve learned one thing, it’s that our timing is never right. And a bang on the head, where I forget everything, is just another reminder of that.<br /><br />Right now, my heart is as battered as the puck in the closing minutes of the Stanley Cup, and I’m starting to wonder if maybe this love story was just never meant to be.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/46/3a/26/463a2645-0b56-9b82-6a0c-811602f5f152/9781808115707.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/46/3a/26/463a2645-0b56-9b82-6a0c-811602f5f152/9781808115707.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/vh-nicolson/1707629446?uo=4",
+      "trackCensoredName": "The Billionaire and the Runaway Bride",
+      "formattedPrice": "$0.99",
+      "trackViewUrl": "https://books.apple.com/us/book/the-billionaire-and-the-runaway-bride/id6771344457?uo=4",
+      "trackId": 6771344457,
+      "trackName": "The Billionaire and the Runaway Bride",
+      "country": "USA"
+    }
+  ]
+}

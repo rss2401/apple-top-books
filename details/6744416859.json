@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        538629339
+      ],
+      "artistId": 538629339,
+      "artistName": "J. T. Geissinger",
+      "genres": [
+        "New Adult-Liebesromane",
+        "Bücher",
+        "Liebesromane"
+      ],
+      "price": 2.99,
+      "releaseDate": "2025-11-01T07:00:00Z",
+      "genreIds": [
+        "11040",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Eine Liebesgeschichte, die unter die Haut geht …</b><br /><br /><b>Für alle Fans von Dark Romance sowie D. C. Odesza, J. S. Wonda und Alessia Gold</b><br /><br />Kaylas Leben liegt in Trümmern.<br /><br />Kaum hat die junge Illustratorin ihre große Liebe Michael beerdigt, muss sie sich mit dem Zerfall des gemeinsamen Hauses auseinandersetzen und findet den Brief des Gefängnisinsassen Dante in ihrer Post. Sein Inhalt? Eine einzige Zeile. Ich werde ewig warten, wenn es sein muss. Gefangen in ihrer Trauer antwortet Kayla ihm, und es entwickelt sich eine Brieffreundschaft zwischen den beiden, die immer intimer wird.<br /><br />Während Kayla sich fragt, woher Dante sie zu kennen glaubt, wird sie von ihren wachsenden Gefühlen für den attraktiven Handwerker Aidan überrumpelt.<br /><br />Der Anfang einer Liebesgeschichte voller Leidenschaft, Schmerz und Geheimnisse, die tief in Kaylas Vergangenheit verwurzelt sind …<br /><br />Das Haus am See mit <b>dunklem, spicy Twist</b> von Booktok-Sensation und USA Today-Bestsellerautorin <b>J. T. Geissinger</b><br /><br />Dich erwarten diese <b>Tropes</b>:<br />Touch her and die<br />High SpiceHe falls first and harder<br /><b>Weitere Dark Romance-Bücher der Autorin:</b><br />Ruthless Creatures (Queens and Monsters 1)Carnal Urges (Queens and Monsters 2)Savage Hearts (Queens and Monsters 3)Brutal Vows (Queens and Monsters 4)",
+      "trackCensoredName": "Pen Pal",
+      "formattedPrice": "2,99 €",
+      "trackViewUrl": "https://books.apple.com/de/book/pen-pal/id6744416859?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/33/d2/5f/33d25f97-860c-b75c-2952-79011ce79ea2/1052974647.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/33/d2/5f/33d25f97-860c-b75c-2952-79011ce79ea2/1052974647.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/j-t-geissinger/538629339?uo=4",
+      "trackName": "Pen Pal",
+      "trackId": 6744416859,
+      "userRatingCount": 25,
+      "averageUserRating": 4,
+      "country": "DEU"
+    }
+  ]
+}

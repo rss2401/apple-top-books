@@ -42,11 +42,7 @@
       "artistIds": [
         1391159027
       ],
-      "genres": [
-        "Islam",
-        "Livres",
-        "Religion et spiritualité"
-      ],
+      "price": 0,
       "artistId": 1391159027,
       "artistName": "Malik",
       "genreIds": [
@@ -61,7 +57,11 @@
       "currency": "EUR",
       "description": "Le destin est la volonté d'Allah prédestinant chaque événement, mais que savons-nous vraiment du destin ?\n\nNous essayerons d'apporter le plus d'informations à travers 15 questions essentielles.",
       "formattedPrice": "Gratuit",
-      "price": 0,
+      "genres": [
+        "Islam",
+        "Livres",
+        "Religion et spiritualité"
+      ],
       "averageUserRating": 4.5,
       "userRatingCount": 223,
       "country": "FRA"
