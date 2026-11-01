@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 90,
+      "artistName": "Gaël Faye",
+      "id": "6504091168",
+      "name": "Jacaranda",
+      "releaseDate": "2024-08-14",
+      "kind": "books",
+      "artistId": "1122455550",
+      "artistUrl": "https://books.apple.com/fr/author/ga%C3%ABl-faye/id1122455550",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/51/55/8b/51558bdb-5213-ea02-751f-f093ff218368/9782246831464-001-x.jpeg/100x146bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/jacaranda/id6504091168"
+    }
+  ]
+}

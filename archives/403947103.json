@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 88,
+      "artistName": "Tom Wolfe",
+      "id": "403947103",
+      "name": "The Bonfire of the Vanities",
+      "releaseDate": "2002-02-21",
+      "kind": "books",
+      "artistId": "2025433",
+      "artistUrl": "https://books.apple.com/us/author/tom-wolfe/id2025433",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/86/7b/c8/867bc887-722b-7b2b-5c6b-9d1d5423fc52/9781429960564.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "10049",
+          "name": "Literary Fiction",
+          "url": "https://itunes.apple.com/us/genre/id10049"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/the-bonfire-of-the-vanities/id403947103"
+    }
+  ]
+}

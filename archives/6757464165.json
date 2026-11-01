@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 71,
+      "artistName": "Nathaniel Philbrick",
+      "id": "6757464165",
+      "name": "The Rush",
+      "releaseDate": "2026-10-06",
+      "kind": "books",
+      "artistId": "41525228",
+      "artistUrl": "https://books.apple.com/us/author/nathaniel-philbrick/id41525228",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/71/02/55/71025537-8140-7cf5-66b7-8a7df00ddb8c/9780525562245.d.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "10079",
+          "name": "U.S. History",
+          "url": "https://itunes.apple.com/us/genre/id10079"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9015",
+          "name": "History",
+          "url": "https://itunes.apple.com/us/genre/id9015"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/the-rush/id6757464165"
+    }
+  ]
+}

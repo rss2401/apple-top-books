@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 98,
+      "artistName": "Victoria O. Bright",
+      "id": "6758244954",
+      "name": "Mafia Segreta",
+      "releaseDate": "2026-04-02",
+      "kind": "books",
+      "artistId": "1871721540",
+      "artistUrl": "https://books.apple.com/fr/author/victoria-o-bright/id1871721540",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/34/8f/cc/348fcce7-0b14-c189-a8c2-720d89a331f0/cover.jpg/100x143bb.png",
+      "genres": [
+        {
+          "genreId": "10061",
+          "name": "Thriller romantique",
+          "url": "https://itunes.apple.com/fr/genre/id10061"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/mafia-segreta/id6758244954"
+    }
+  ]
+}

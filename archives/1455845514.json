@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 64,
+      "artistName": "Editors of Martha Stewart Living",
+      "id": "1455845514",
+      "name": "Martha Stewart's Cookie Perfection",
+      "releaseDate": "2019-10-15",
+      "kind": "books",
+      "artistId": "432777911",
+      "artistUrl": "https://books.apple.com/us/author/editors-of-martha-stewart-living/id432777911",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/9f/ac/f5/9facf568-08e9-30ac-9316-a06f46646b5c/9781524763404.d.jpg/100x123bb.png",
+      "genres": [
+        {
+          "genreId": "10027",
+          "name": "Cookbooks",
+          "url": "https://itunes.apple.com/us/genre/id10027"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9028",
+          "name": "Cookbooks, Food & Wine",
+          "url": "https://itunes.apple.com/us/genre/id9028"
+        },
+        {
+          "genreId": "10030",
+          "name": "Cooking Methods",
+          "url": "https://itunes.apple.com/us/genre/id10030"
+        },
+        {
+          "genreId": "10029",
+          "name": "Special Occasion Cookbooks",
+          "url": "https://itunes.apple.com/us/genre/id10029"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/martha-stewarts-cookie-perfection/id1455845514"
+    }
+  ]
+}

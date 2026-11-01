@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 82,
+      "artistName": "Anne Jacobs",
+      "id": "6511246885",
+      "name": "Der Dorfladen - Was das Leben verspricht",
+      "releaseDate": "2024-11-13",
+      "kind": "books",
+      "artistId": "510602317",
+      "artistUrl": "https://books.apple.com/de/author/anne-jacobs/id510602317",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/5e/d4/ef/5ed4ef2d-df07-8e8f-6bb6-464158dc198d/9783641262518.jpg/100x158bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "10047",
+          "name": "Historische Romane",
+          "url": "https://itunes.apple.com/de/genre/id10047"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/der-dorfladen-was-das-leben-verspricht/id6511246885"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 54,
+      "artistName": "Genevieve Fischer",
+      "id": "6780677129",
+      "name": "My Reaper Wears Fishnets",
+      "releaseDate": "2026-08-12",
+      "kind": "books",
+      "artistId": "1817435396",
+      "artistUrl": "https://books.apple.com/us/author/genevieve-fischer/id1817435396",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/cd/dc/02/cddc02f7-b17b-fd58-43a4-f8938ad0e980/0004305278.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        },
+        {
+          "genreId": "10046",
+          "name": "Ghost Stories",
+          "url": "https://itunes.apple.com/us/genre/id10046"
+        },
+        {
+          "genreId": "10048",
+          "name": "Horror",
+          "url": "https://itunes.apple.com/us/genre/id10048"
+        },
+        {
+          "genreId": "10057",
+          "name": "Contemporary Romance",
+          "url": "https://itunes.apple.com/us/genre/id10057"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/my-reaper-wears-fishnets/id6780677129"
+    }
+  ]
+}

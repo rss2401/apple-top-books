@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 78,
+      "artistName": "Fjodor Dostojewski & mehrbuch Verlag",
+      "id": "1618534926",
+      "name": "Aufzeichnungen aus dem Kellerloch",
+      "releaseDate": "2021-10-17",
+      "kind": "books",
+      "artistId": "497905012",
+      "artistUrl": "https://books.apple.com/de/author/fjodor-dostojewski/id497905012",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/70/a7/20/70a72035-c1a3-be3c-8520-d8a6da57dacf/1035122603.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10042",
+          "name": "Klassiker",
+          "url": "https://itunes.apple.com/de/genre/id10042"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/aufzeichnungen-aus-dem-kellerloch/id1618534926"
+    }
+  ]
+}

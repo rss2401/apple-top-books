@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 76,
+      "artistName": "Amanda Skenandore",
+      "id": "6755541042",
+      "name": "When No One Else Will",
+      "releaseDate": "2026-05-26",
+      "kind": "books",
+      "artistId": "1263015502",
+      "artistUrl": "https://books.apple.com/us/author/amanda-skenandore/id1263015502",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/d1/9a/80/d19a8081-f316-ad87-257b-fc7122c57bfd/9781496741714.jpg/100x147bb.png",
+      "genres": [
+        {
+          "genreId": "10047",
+          "name": "Historical Fiction",
+          "url": "https://itunes.apple.com/us/genre/id10047"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/when-no-one-else-will/id6755541042"
+    }
+  ]
+}

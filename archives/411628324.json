@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 56,
+      "artistName": "Wolfgang Schorlau",
+      "id": "411628324",
+      "name": "Die blaue Liste",
+      "releaseDate": "2005-03-15",
+      "kind": "books",
+      "artistId": "411628325",
+      "artistUrl": "https://books.apple.com/de/author/wolfgang-schorlau/id411628325",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/50/21/9e/50219e3f-85eb-9614-f556-36e78eb097b7/1019052032.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/die-blaue-liste/id411628324"
+    }
+  ]
+}

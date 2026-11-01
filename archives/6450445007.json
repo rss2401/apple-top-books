@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 69,
+      "artistName": "Barbara Kingsolver",
+      "id": "6450445007",
+      "name": "Animal Dreams",
+      "releaseDate": "2023-06-29",
+      "kind": "books",
+      "artistId": "129691798",
+      "artistUrl": "https://books.apple.com/gb/author/barbara-kingsolver/id129691798",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b4/3f/61/b43f6170-a5ad-6a69-bdc3-80d35631dc42/9780349146522.jpg/100x157bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "10049",
+          "name": "Literary Fiction",
+          "url": "https://itunes.apple.com/gb/genre/id10049"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/animal-dreams/id6450445007"
+    }
+  ]
+}

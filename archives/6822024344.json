@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 85,
+      "artistName": "Renee Rose",
+      "id": "6822024344",
+      "name": "Un Coach pour Noël",
+      "releaseDate": "2026-11-01",
+      "kind": "books",
+      "artistId": "423804844",
+      "artistUrl": "https://books.apple.com/fr/author/renee-rose/id423804844",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/8a/78/f8/8a78f840-f3e3-814a-43e5-e9f25b51781f/64f66aaf-19b8-4bb8-be2d-f6f3be9fd9e8_cover_image.jpg/100x161bb.png",
+      "genres": [
+        {
+          "genreId": "10057",
+          "name": "Romance contemporaine",
+          "url": "https://itunes.apple.com/fr/genre/id10057"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        },
+        {
+          "genreId": "11231",
+          "name": "Romance pendant les Fêtes",
+          "url": "https://itunes.apple.com/fr/genre/id11231"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/un-coach-pour-no%C3%ABl/id6822024344"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 60,
+      "artistName": "Guillaume Musso",
+      "id": "6473772222",
+      "name": "Quelqu'un d'autre",
+      "releaseDate": "2024-03-05",
+      "kind": "books",
+      "artistId": "428953685",
+      "artistUrl": "https://books.apple.com/fr/author/guillaume-musso/id428953685",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/70/39/6e/70396ebd-3ea6-544e-6d0c-8b9339639c02/9782702183939-001-x.jpeg/100x139bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/quelquun-dautre/id6473772222"
+    }
+  ]
+}

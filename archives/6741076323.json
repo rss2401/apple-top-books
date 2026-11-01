@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 95,
+      "artistName": "SenLinYu",
+      "id": "6741076323",
+      "name": "Alchemised",
+      "releaseDate": "2025-09-23",
+      "kind": "books",
+      "artistId": "1790784847",
+      "artistUrl": "https://books.apple.com/de/author/senlinyu/id1790784847",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3b/fc/9d/3bfc9d44-463a-27d8-2368-34a73fa62463/9783989780682.jpg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "10044",
+          "name": "Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id10044"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9020",
+          "name": "Science-Fiction und Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id9020"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "10058",
+          "name": "Paranormale Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10058"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/alchemised/id6741076323"
+    }
+  ]
+}

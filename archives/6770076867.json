@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 65,
+      "artistName": "Isabel Jolie",
+      "id": "6770076867",
+      "name": "Only the Hunter",
+      "releaseDate": "2026-09-17",
+      "kind": "books",
+      "artistId": "1490641112",
+      "artistUrl": "https://books.apple.com/us/author/isabel-jolie/id1490641112",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/99/db/7d/99db7de4-646f-b9cc-1bdd-275980074b57/0004267105.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10061",
+          "name": "Romantic Suspense",
+          "url": "https://itunes.apple.com/us/genre/id10061"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        },
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "10055",
+          "name": "Women Sleuths",
+          "url": "https://itunes.apple.com/us/genre/id10055"
+        },
+        {
+          "genreId": "11233",
+          "name": "Military Romance",
+          "url": "https://itunes.apple.com/us/genre/id11233"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/only-the-hunter/id6770076867"
+    }
+  ]
+}

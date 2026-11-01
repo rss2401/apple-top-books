@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 74,
+      "artistName": "T.J. Maguire & Louise Arnaud",
+      "id": "6784606134",
+      "name": "Bratva, T2 : Bratva Prince",
+      "releaseDate": "2026-10-21",
+      "kind": "books",
+      "artistId": "1869576613",
+      "artistUrl": "https://books.apple.com/fr/author/t-j-maguire/id1869576613",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b2/70/4f/b2704f93-ea93-a5c4-01fe-bbd1051ede29/9782811230333-001-x.jpeg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10057",
+          "name": "Romance contemporaine",
+          "url": "https://itunes.apple.com/fr/genre/id10057"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/bratva-t2-bratva-prince/id6784606134"
+    }
+  ]
+}

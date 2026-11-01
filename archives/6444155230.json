@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 87,
+      "artistName": "Eva Almstädt",
+      "id": "6444155230",
+      "name": "Ostseenebel",
+      "releaseDate": "2023-03-31",
+      "kind": "books",
+      "artistId": "375644852",
+      "artistUrl": "https://books.apple.com/de/author/eva-almst%C3%A4dt/id375644852",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/91/eb/9d/91eb9def-d8b1-c179-4dff-4bb6d13dc81e/9783751741910.jpg/100x149bb.png",
+      "genres": [
+        {
+          "genreId": "10052",
+          "name": "Polizeiromane",
+          "url": "https://itunes.apple.com/de/genre/id10052"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "10055",
+          "name": "Weibliche Spürnasen",
+          "url": "https://itunes.apple.com/de/genre/id10055"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/ostseenebel/id6444155230"
+    }
+  ]
+}

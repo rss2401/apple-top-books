@@ -1,0 +1,49 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 94,
+      "artistName": "VH Nicolson",
+      "id": "6771344457",
+      "name": "The Billionaire and the Runaway Bride",
+      "releaseDate": "2026-09-01",
+      "kind": "books",
+      "artistId": "1707629446",
+      "artistUrl": "https://books.apple.com/us/author/vh-nicolson/id1707629446",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/46/3a/26/463a2645-0b56-9b82-6a0c-811602f5f152/9781808115707.jpg/100x153bb.png",
+      "genres": [
+        {
+          "genreId": "10057",
+          "name": "Contemporary Romance",
+          "url": "https://itunes.apple.com/us/genre/id10057"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        },
+        {
+          "genreId": "11042",
+          "name": "Romantic Comedies",
+          "url": "https://itunes.apple.com/us/genre/id11042"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/the-billionaire-and-the-runaway-bride/id6771344457"
+    }
+  ]
+}

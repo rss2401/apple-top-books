@@ -178,5 +178,55 @@
     "Name": "us_books_top-paid.json",
     "RelativePath": "rankings/202610/us_books_top-paid.json",
     "Length": 128202
+  },
+  {
+    "Name": "de_books_top-free.json",
+    "RelativePath": "rankings/202611/de_books_top-free.json",
+    "Length": 129696
+  },
+  {
+    "Name": "de_books_top-paid.json",
+    "RelativePath": "rankings/202611/de_books_top-paid.json",
+    "Length": 117165
+  },
+  {
+    "Name": "fr_books_top-free.json",
+    "RelativePath": "rankings/202611/fr_books_top-free.json",
+    "Length": 112249
+  },
+  {
+    "Name": "fr_books_top-paid.json",
+    "RelativePath": "rankings/202611/fr_books_top-paid.json",
+    "Length": 104830
+  },
+  {
+    "Name": "gb_books_top-free.json",
+    "RelativePath": "rankings/202611/gb_books_top-free.json",
+    "Length": 125524
+  },
+  {
+    "Name": "gb_books_top-paid.json",
+    "RelativePath": "rankings/202611/gb_books_top-paid.json",
+    "Length": 141400
+  },
+  {
+    "Name": "jp_books_top-free.json",
+    "RelativePath": "rankings/202611/jp_books_top-free.json",
+    "Length": 148505
+  },
+  {
+    "Name": "jp_books_top-paid.json",
+    "RelativePath": "rankings/202611/jp_books_top-paid.json",
+    "Length": 172866
+  },
+  {
+    "Name": "us_books_top-free.json",
+    "RelativePath": "rankings/202611/us_books_top-free.json",
+    "Length": 120790
+  },
+  {
+    "Name": "us_books_top-paid.json",
+    "RelativePath": "rankings/202611/us_books_top-paid.json",
+    "Length": 126699
   }
 ]

@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 4,
+      "artistName": "Maeve Larkwell",
+      "id": "6820560359",
+      "name": "The Art of Saying I Do",
+      "releaseDate": "2026-11-01",
+      "kind": "books",
+      "artistId": "6816102596",
+      "artistUrl": "https://books.apple.com/fr/author/maeve-larkwell/id6816102596",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fe/ba/6f/feba6ff0-30dd-4d08-1ce6-09a632541c77/0004456449.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "11040",
+          "name": "Romance jeunes adultes",
+          "url": "https://itunes.apple.com/fr/genre/id11040"
+        },
+        {
+          "genreId": "11042",
+          "name": "Comédies romantiques",
+          "url": "https://itunes.apple.com/fr/genre/id11042"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/the-art-of-saying-i-do/id6820560359"
+    }
+  ]
+}

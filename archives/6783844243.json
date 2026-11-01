@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 88,
+      "artistName": "Sylvain Prudhomme",
+      "id": "6783844243",
+      "name": "De l'autre côté du lac",
+      "releaseDate": "2026-08-27",
+      "kind": "books",
+      "artistId": "517140790",
+      "artistUrl": "https://books.apple.com/fr/author/sylvain-prudhomme/id517140790",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/8d/73/38/8d733835-f528-588f-479f-318d2ed4287f/9782707358240.jpg/100x137bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/de-lautre-c%C3%B4t%C3%A9-du-lac/id6783844243"
+    }
+  ]
+}

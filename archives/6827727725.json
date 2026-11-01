@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 20,
+      "artistName": "Klaus Brennan",
+      "id": "6827727725",
+      "name": "INFLUENCER LES MASSES",
+      "releaseDate": "2026-10-27",
+      "kind": "books",
+      "artistId": "6827720886",
+      "artistUrl": "https://books.apple.com/fr/author/klaus-brennan/id6827720886",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/50/d0/59/50d059e7-6927-8582-863d-8cbe7d89a5ad/d930fa60-e49f-498a-800a-7c5f6840eb51_cover_image.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "11264",
+          "name": "Science politique",
+          "url": "https://itunes.apple.com/fr/genre/id11264"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9034",
+          "name": "Politique et actualité",
+          "url": "https://itunes.apple.com/fr/genre/id9034"
+        },
+        {
+          "genreId": "9025",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id9025"
+        },
+        {
+          "genreId": "10094",
+          "name": "Psychologie",
+          "url": "https://itunes.apple.com/fr/genre/id10094"
+        },
+        {
+          "genreId": "11265",
+          "name": "Administration publique",
+          "url": "https://itunes.apple.com/fr/genre/id11265"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/influencer-les-masses/id6827727725"
+    }
+  ]
+}

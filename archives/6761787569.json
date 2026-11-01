@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 22,
+      "artistName": "Chloe C. Peñaranda",
+      "id": "6761787569",
+      "name": "Inside the Wicked. Die Schlange im Nest",
+      "releaseDate": "2026-11-01",
+      "kind": "books",
+      "artistId": "1624385577",
+      "artistUrl": "https://books.apple.com/de/author/chloe-c-pe%C3%B1aranda/id1624385577",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/45/35/ef/4535efde-258a-23c9-f995-6656579560aa/1065012781.jpg/100x153bb.png",
+      "genres": [
+        {
+          "genreId": "11040",
+          "name": "New Adult-Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id11040"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/inside-the-wicked-die-schlange-im-nest/id6761787569"
+    }
+  ]
+}

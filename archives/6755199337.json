@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 67,
+      "artistName": "Sofi Laporte",
+      "id": "6755199337",
+      "name": "Miss Hilversham and the Pesky Duke",
+      "releaseDate": "2022-05-31",
+      "kind": "books",
+      "artistId": "1644546326",
+      "artistUrl": "https://books.apple.com/us/author/sofi-laporte/id1644546326",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/5f/69/7d/5f697d51-c9ea-948b-ffd7-cafb0bfd3a2d/d76c95b6-3c70-4df1-8dac-5243f994507b_cover_image.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10059",
+          "name": "Historical Romance",
+          "url": "https://itunes.apple.com/us/genre/id10059"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/miss-hilversham-and-the-pesky-duke/id6755199337"
+    }
+  ]
+}

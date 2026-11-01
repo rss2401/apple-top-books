@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 70,
+      "artistName": "Anna Zaires",
+      "id": "6815882028",
+      "name": "Compagne du Prince",
+      "releaseDate": "2026-10-20",
+      "kind": "books",
+      "artistId": "593202904",
+      "artistUrl": "https://books.apple.com/fr/author/anna-zaires/id593202904",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/40/f5/5a/40f55afd-18b1-5979-6045-89259dd13dc6/1fbcc4b2-aee6-4c22-95c4-e272d716a940_cover_image.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "10058",
+          "name": "Romance paranormale",
+          "url": "https://itunes.apple.com/fr/genre/id10058"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/compagne-du-prince/id6815882028"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 66,
+      "artistName": "Daisy Bloom",
+      "id": "6819567930",
+      "name": "Stolen Petals: Mafia et Dark Romance",
+      "releaseDate": "2026-09-29",
+      "kind": "books",
+      "artistId": "1758423300",
+      "artistUrl": "https://books.apple.com/fr/author/daisy-bloom/id1758423300",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e5/07/9a/e5079ae1-9ade-0400-f94f-80b376a66952/6610001431662.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10061",
+          "name": "Thriller romantique",
+          "url": "https://itunes.apple.com/fr/genre/id10061"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/stolen-petals-mafia-et-dark-romance/id6819567930"
+    }
+  ]
+}

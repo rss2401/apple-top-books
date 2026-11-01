@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -15,6 +15,44 @@
       "artistId": "1706056183",
       "artistUrl": "https://books.apple.com/gb/author/madeline-cash/id1706056183",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1e/0c/4f/1e0c4f1a-2911-591e-5c23-fc7dc36199b0/9781529946147.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "10049",
+          "name": "Literary Fiction",
+          "url": "https://itunes.apple.com/gb/genre/id10049"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id9031"
+        },
+        {
+          "genreId": "11050",
+          "name": "Family Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id11050"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/lost-lambs/id6745533976"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 87,
+      "artistName": "Madeline Cash",
+      "id": "6745533976",
+      "name": "Lost Lambs",
+      "releaseDate": "2026-02-05",
+      "kind": "books",
+      "artistId": "1706056183",
+      "artistUrl": "https://books.apple.com/gb/author/madeline-cash/id1706056183",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c6/e5/a0/c6e5a0b4-be7f-171c-a0ed-d410b9a82a5f/9781529946147.jpg/100x156bb.png",
       "genres": [
         {
           "genreId": "10049",

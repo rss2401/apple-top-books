@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 83,
+      "artistName": "Mike Lawson",
+      "id": "6757762649",
+      "name": "McKenna's Guy",
+      "releaseDate": "2026-07-07",
+      "kind": "books",
+      "artistId": "168851161",
+      "artistUrl": "https://books.apple.com/us/author/mike-lawson/id168851161",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/08/67/0a/08670afb-f835-ae34-fdca-a899d8f74c21/jct7-rectangle.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/mckennas-guy/id6757762649"
+    }
+  ]
+}

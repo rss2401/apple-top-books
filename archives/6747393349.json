@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 34,
+      "artistName": "Adélaïde de Clermont-Tonnerre",
+      "id": "6747393349",
+      "name": "Je voulais vivre",
+      "releaseDate": "2025-08-20",
+      "kind": "books",
+      "artistId": "373181333",
+      "artistUrl": "https://books.apple.com/fr/author/ad%C3%A9la%C3%AFde-de-clermont-tonnerre/id373181333",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/17/fc/c0/17fcc01c-951c-c2ed-16d3-5c5f8e63e7eb/9782246831679-001-x.jpeg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/je-voulais-vivre/id6747393349"
+    }
+  ]
+}

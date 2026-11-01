@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 52,
+      "artistName": "Christina Lauren",
+      "id": "6761517673",
+      "name": "Something Wilder – Sie suchen einen Schatz und landen direkt im Gefühlschaos",
+      "releaseDate": "2026-10-30",
+      "kind": "books",
+      "artistId": "303540126",
+      "artistUrl": "https://books.apple.com/de/author/christina-lauren/id303540126",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/38/f6/7e/38f67ed6-4675-ab42-7611-6812e7548c5f/9783492613880.jpg/100x158bb.png",
+      "genres": [
+        {
+          "genreId": "11042",
+          "name": "Romantische Komödien",
+          "url": "https://itunes.apple.com/de/genre/id11042"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/something-wilder-sie-suchen-einen-schatz-und-landen/id6761517673"
+    }
+  ]
+}

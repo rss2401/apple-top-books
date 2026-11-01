@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 59,
+      "artistName": "Helena Marchmont",
+      "id": "6781997925",
+      "name": "Bunburry - A Honeymoon to Die for",
+      "releaseDate": "2026-11-01",
+      "kind": "books",
+      "artistId": "1385004002",
+      "artistUrl": "https://books.apple.com/us/author/helena-marchmont/id1385004002",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/02/5d/57/025d577e-e467-8f35-6bb4-ea6b2ecf6506/9783751783651.jpg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "11259",
+          "name": "Cozy Mysteries",
+          "url": "https://itunes.apple.com/us/genre/id11259"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "10053",
+          "name": "Mystery Short Stories",
+          "url": "https://itunes.apple.com/us/genre/id10053"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/bunburry-a-honeymoon-to-die-for/id6781997925"
+    }
+  ]
+}

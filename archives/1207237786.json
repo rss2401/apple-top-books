@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 95,
+      "artistName": "Alan Bradley",
+      "id": "1207237786",
+      "name": "Flavia de Luce - Das Geheimnis des kupferroten Toten",
+      "releaseDate": "2017-03-13",
+      "kind": "books",
+      "artistId": "310211229",
+      "artistUrl": "https://books.apple.com/de/author/alan-bradley/id310211229",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication111/v4/4d/8a/6c/4d8a6cc9-08ed-2daa-cb12-398ce51256aa/9783641189068.jpg/100x158bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "11259",
+          "name": "Cosy Crime",
+          "url": "https://itunes.apple.com/de/genre/id11259"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/flavia-de-luce-das-geheimnis-des-kupferroten-toten/id1207237786"
+    }
+  ]
+}

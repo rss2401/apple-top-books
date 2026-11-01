@@ -1,0 +1,63 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 100,
+      "artistName": "Mary Kay Andrews",
+      "id": "360606325",
+      "name": "To Live and Die in Dixie",
+      "releaseDate": "2009-10-13",
+      "kind": "books",
+      "artistId": "41531286",
+      "artistUrl": "https://books.apple.com/us/author/mary-kay-andrews/id41531286",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/af/1a/e3/af1ae3bc-84ec-7a9c-7b26-94dbf1ac8254/9780061842207.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "10055",
+          "name": "Women Sleuths",
+          "url": "https://itunes.apple.com/us/genre/id10055"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        },
+        {
+          "genreId": "10057",
+          "name": "Contemporary Romance",
+          "url": "https://itunes.apple.com/us/genre/id10057"
+        },
+        {
+          "genreId": "11042",
+          "name": "Romantic Comedies",
+          "url": "https://itunes.apple.com/us/genre/id11042"
+        },
+        {
+          "genreId": "10052",
+          "name": "Police Procedural",
+          "url": "https://itunes.apple.com/us/genre/id10052"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/to-live-and-die-in-dixie/id360606325"
+    }
+  ]
+}

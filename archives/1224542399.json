@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 48,
+      "artistName": "Laetitia Colombani",
+      "id": "1224542399",
+      "name": "La tresse",
+      "releaseDate": "2017-05-10",
+      "kind": "books",
+      "artistId": "1224542403",
+      "artistUrl": "https://books.apple.com/fr/author/laetitia-colombani/id1224542403",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/29/c4/ad/29c4adde-17c0-f57a-0d4c-ab5054c2ecff/9782246813927-001-x.jpeg/100x146bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/la-tresse/id1224542399"
+    }
+  ]
+}

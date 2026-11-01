@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 100,
+      "artistName": "Jörg Maurer",
+      "id": "1300005426",
+      "name": "Am Abgrund lässt man gern den Vortritt",
+      "releaseDate": "2018-03-21",
+      "kind": "books",
+      "artistId": "220259893",
+      "artistUrl": "https://books.apple.com/de/author/j%C3%B6rg-maurer/id220259893",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/8c/f7/03/8cf703b7-eef1-56f8-faba-a8ab584aece4/1024341107.jpg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "11259",
+          "name": "Cosy Crime",
+          "url": "https://itunes.apple.com/de/genre/id11259"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "10052",
+          "name": "Polizeiromane",
+          "url": "https://itunes.apple.com/de/genre/id10052"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/am-abgrund-l%C3%A4sst-man-gern-den-vortritt/id1300005426"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 96,
+      "artistName": "Philippe Sands",
+      "id": "1511875659",
+      "name": "Die Rattenlinie – ein Nazi auf der Flucht",
+      "releaseDate": "2020-11-25",
+      "kind": "books",
+      "artistId": "364647375",
+      "artistUrl": "https://books.apple.com/de/author/philippe-sands/id364647375",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/be/5b/85/be5b8543-c4e5-c255-a5a0-293605d67c94/1032490854.jpg/100x152bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/die-rattenlinie-ein-nazi-auf-der-flucht/id1511875659"
+    }
+  ]
+}

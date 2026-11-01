@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 21,
+      "artistName": "Tessa Wrenvale",
+      "id": "6820242594",
+      "name": "The Wildest Secret",
+      "releaseDate": "2026-10-03",
+      "kind": "books",
+      "artistId": "6818814519",
+      "artistUrl": "https://books.apple.com/fr/author/tessa-wrenvale/id6818814519",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/0e/61/2b/0e612b14-cabf-115a-d0de-a83096493f65/0004449493.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "10057",
+          "name": "Romance contemporaine",
+          "url": "https://itunes.apple.com/fr/genre/id10057"
+        },
+        {
+          "genreId": "11040",
+          "name": "Romance jeunes adultes",
+          "url": "https://itunes.apple.com/fr/genre/id11040"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/the-wildest-secret/id6820242594"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -15,6 +15,39 @@
       "artistId": "1464909018",
       "artistUrl": "https://books.apple.com/de/author/miriam-burdelski/id1464909018",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/c2/05/f6/c205f696-53dd-7583-fc37-9beda7d0293f/9783641346409.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "11050",
+          "name": "Familienbelletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id11050"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/ist-doch-sch%C3%B6n-hier/id6761613022"
+    },
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 98,
+      "artistName": "Miriam Burdelski",
+      "id": "6761613022",
+      "name": "Ist doch schön hier",
+      "releaseDate": "2026-07-01",
+      "kind": "books",
+      "artistId": "1464909018",
+      "artistUrl": "https://books.apple.com/de/author/miriam-burdelski/id1464909018",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/37/dd/df/37dddff7-9862-b79e-6f29-75d7d0384c86/9783641346409.jpg/100x160bb.png",
       "genres": [
         {
           "genreId": "9031",

@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 40,
+      "artistName": "Tony Valente",
+      "id": "6823654345",
+      "name": "Radiant - Tome 20 - Radiant",
+      "releaseDate": "2026-10-30",
+      "kind": "books",
+      "artistId": "893404116",
+      "artistUrl": "https://books.apple.com/fr/author/tony-valente/id893404116",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/52/6a/93/526a93a9-f895-f486-26b4-427d2e398c79/9791033570653.jpg/100x157bb.png",
+      "genres": [
+        {
+          "genreId": "50000071",
+          "name": "Manga : Action",
+          "url": "https://itunes.apple.com/fr/genre/id50000071"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "BD et mangas",
+          "url": "https://itunes.apple.com/fr/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "Manga",
+          "url": "https://itunes.apple.com/fr/genre/id10016"
+        },
+        {
+          "genreId": "11337",
+          "name": "Manga : Shōnen",
+          "url": "https://itunes.apple.com/fr/genre/id11337"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/radiant-tome-20-radiant/id6823654345"
+    }
+  ]
+}
