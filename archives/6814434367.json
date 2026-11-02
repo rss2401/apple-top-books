@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 22,
+      "artistName": "Jackie Ashenden",
+      "id": "6814434367",
+      "name": "Un sulfureux ultimatum",
+      "releaseDate": "2026-11-02",
+      "kind": "books",
+      "artistId": "576883863",
+      "artistUrl": "https://books.apple.com/fr/author/jackie-ashenden/id576883863",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ca/d8/95/cad89507-4599-9c29-d719-2457507abd49/9782280536103-001-x.jpeg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/un-sulfureux-ultimatum/id6814434367"
+    }
+  ]
+}

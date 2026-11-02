@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 100,
+      "artistName": "Jules Verne",
+      "id": "492292216",
+      "name": "De la Terre à la Lune",
+      "releaseDate": "1905-03-24",
+      "kind": "books",
+      "artistId": "2038168",
+      "artistUrl": "https://books.apple.com/fr/author/jules-verne/id2038168",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/e9/ec/7b/e9ec7bec-f920-9552-138f-94ccc108be51/coverArt.696337.jpg/100x148bb.png",
+      "genres": [
+        {
+          "genreId": "9020",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id9020"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/de-la-terre-%C3%A0-la-lune/id492292216"
+    }
+  ]
+}

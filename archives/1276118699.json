@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 85,
+      "artistName": "L.J. Shen",
+      "id": "1276118699",
+      "name": "Vicious",
+      "releaseDate": "2017-11-02",
+      "kind": "books",
+      "artistId": "1126158048",
+      "artistUrl": "https://books.apple.com/fr/author/l-j-shen/id1126158048",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a3/60/22/a36022de-8ae9-936f-0631-917608b54df5/9782280379007-001-x.jpeg/100x166bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/vicious/id1276118699"
+    }
+  ]
+}

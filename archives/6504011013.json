@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 71,
+      "artistName": "Krinke Rehberg",
+      "id": "6504011013",
+      "name": "SYLTKRIMI Strandgrab",
+      "releaseDate": "2024-08-09",
+      "kind": "books",
+      "artistId": "1569816751",
+      "artistUrl": "https://books.apple.com/de/author/krinke-rehberg/id1569816751",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ca/56/2d/ca562de1-5ec0-b561-559d-9544060a4401/9783759225054.jpg/100x148bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "11259",
+          "name": "Cosy Crime",
+          "url": "https://itunes.apple.com/de/genre/id11259"
+        },
+        {
+          "genreId": "10052",
+          "name": "Polizeiromane",
+          "url": "https://itunes.apple.com/de/genre/id10052"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/syltkrimi-strandgrab/id6504011013"
+    }
+  ]
+}

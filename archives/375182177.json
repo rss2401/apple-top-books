@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 71,
+      "artistName": "Patrice Van Eersel",
+      "id": "375182177",
+      "name": "La source noire",
+      "releaseDate": "2014-04-01",
+      "kind": "books",
+      "artistId": "373673627",
+      "artistUrl": "https://books.apple.com/fr/author/patrice-van-eersel/id373673627",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/99/7d/ed/997ded49-af3b-6e09-eaf8-f740130eb960/9782246337195-X.jpg/100x170bb.png",
+      "genres": [
+        {
+          "genreId": "9008",
+          "name": "Biographies et mémoires",
+          "url": "https://itunes.apple.com/fr/genre/id9008"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/la-source-noire/id375182177"
+    }
+  ]
+}

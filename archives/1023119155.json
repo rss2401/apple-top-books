@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 94,
+      "artistName": "グリム兄弟, 菊池寛, 中島孤島 & 楠山正雄",
+      "id": "1023119155",
+      "name": "グリム兄弟全集",
+      "releaseDate": "2015-07-25",
+      "kind": "books",
+      "artistId": "102301243",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%82%B0%E3%83%AA%E3%83%A0%E5%85%84%E5%BC%9F/id102301243",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/29/d5/6c/29d56c65-b8eb-fe43-cc44-3c3126f1e986/0000000001091A.jpg/100x156bb.png",
+      "genres": [
+        {
+          "genreId": "10042",
+          "name": "名作",
+          "url": "https://itunes.apple.com/jp/genre/id10042"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "小説／文学",
+          "url": "https://itunes.apple.com/jp/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%82%B0%E3%83%AA%E3%83%A0%E5%85%84%E5%BC%9F%E5%85%A8%E9%9B%86/id1023119155"
+    }
+  ]
+}

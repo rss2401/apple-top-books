@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 90,
+      "artistName": "Anna Maloney",
+      "id": "6753902865",
+      "name": "The 10:12",
+      "releaseDate": "2026-01-29",
+      "kind": "books",
+      "artistId": "1508613969",
+      "artistUrl": "https://books.apple.com/gb/author/anna-maloney/id1508613969",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/87/ec/89/87ec891e-53c7-47d8-c049-604c4f364c95/1062370661.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Crime & Thrillers",
+          "url": "https://itunes.apple.com/gb/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/the-10-12/id6753902865"
+    }
+  ]
+}

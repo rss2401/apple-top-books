@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 78,
+      "artistName": "Christian Heinrich",
+      "id": "6762115407",
+      "name": "15 Entscheidungen, die dein Leben verlängern - gesund alt werden",
+      "releaseDate": "2026-08-21",
+      "kind": "books",
+      "artistId": "464073111",
+      "artistUrl": "https://books.apple.com/de/author/christian-heinrich/id464073111",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/72/b0/4e/72b04ecb-dbc1-da12-5e56-58b6bacae5a2/1065404624.jpg/100x152bb.png",
+      "genres": [
+        {
+          "genreId": "9025",
+          "name": "Gesundheit, Körper und Geist",
+          "url": "https://itunes.apple.com/de/genre/id9025"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9033",
+          "name": "Nachschlagewerke",
+          "url": "https://itunes.apple.com/de/genre/id9033"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/15-entscheidungen-die-dein-leben-verl%C3%A4ngern-gesund/id6762115407"
+    }
+  ]
+}

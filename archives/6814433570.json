@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 23,
+      "artistName": "Heidi Rice",
+      "id": "6814433570",
+      "name": "Dans le rôle d'une reine",
+      "releaseDate": "2026-11-02",
+      "kind": "books",
+      "artistId": "392625627",
+      "artistUrl": "https://books.apple.com/fr/author/heidi-rice/id392625627",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f2/aa/3e/f2aa3e47-ae14-ad87-5125-c8c0b8d861c7/9782280536134-001-x.jpeg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/dans-le-r%C3%B4le-dune-reine/id6814433570"
+    }
+  ]
+}

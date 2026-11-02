@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 95,
+      "artistName": "Mark Billingham",
+      "id": "6442894859",
+      "name": "The Last Dance",
+      "releaseDate": "2023-05-25",
+      "kind": "books",
+      "artistId": "73092649",
+      "artistUrl": "https://books.apple.com/gb/author/mark-billingham/id73092649",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/74/5e/6f/745e6f8d-4832-5acb-b0ad-fb914fad6ebe/9781408726341.jpg/100x157bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Crime & Thrillers",
+          "url": "https://itunes.apple.com/gb/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "11259",
+          "name": "Cosy Mysteries",
+          "url": "https://itunes.apple.com/gb/genre/id11259"
+        },
+        {
+          "genreId": "10052",
+          "name": "Police Procedural",
+          "url": "https://itunes.apple.com/gb/genre/id10052"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/the-last-dance/id6442894859"
+    }
+  ]
+}

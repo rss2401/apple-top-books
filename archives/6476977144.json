@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 97,
+      "artistName": "Andrzej Sapkowski, Laurence Dyèvre & Cd Projeckt Red",
+      "id": "6476977144",
+      "name": "Sorceleur (Witcher), T1 : Le Dernier Voeu",
+      "releaseDate": "2024-10-09",
+      "kind": "books",
+      "artistId": "281832452",
+      "artistUrl": "https://books.apple.com/fr/author/andrzej-sapkowski/id281832452",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b6/ee/80/b6ee8019-05c1-be2a-60c2-e16b3eb9d4ba/9782820507082-001-x.jpeg/100x162bb.png",
+      "genres": [
+        {
+          "genreId": "10044",
+          "name": "Fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id10044"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9020",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id9020"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/sorceleur-witcher-t1-le-dernier-voeu/id6476977144"
+    }
+  ]
+}

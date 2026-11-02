@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 80,
+      "artistName": "Freda MacBride",
+      "id": "6748901383",
+      "name": "Mayfair Ladys - Drei Junggesellen für Lady Beatrice",
+      "releaseDate": "2025-11-01",
+      "kind": "books",
+      "artistId": "1607887136",
+      "artistUrl": "https://books.apple.com/de/author/freda-macbride/id1607887136",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a0/af/cc/a0afccc0-ad91-a686-d4e3-67232679a5af/9783751775540.jpg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "10059",
+          "name": "Historische Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10059"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "10047",
+          "name": "Historische Romane",
+          "url": "https://itunes.apple.com/de/genre/id10047"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/mayfair-ladys-drei-junggesellen-f%C3%BCr-lady-beatrice/id6748901383"
+    }
+  ]
+}

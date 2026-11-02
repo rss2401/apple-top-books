@@ -1,0 +1,58 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 93,
+      "artistName": "Guéshé Kelsang Gyatso",
+      "id": "499844504",
+      "name": "Un Bouddhisme moderne – Volume 1: Le soutra",
+      "releaseDate": "2011-10-28",
+      "kind": "books",
+      "artistId": "476589259",
+      "artistUrl": "https://books.apple.com/fr/author/gu%C3%A9sh%C3%A9-kelsang-gyatso/id476589259",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/9c/64/5a/mzi.plrudljt.jpg/100x143bb.png",
+      "genres": [
+        {
+          "genreId": "10106",
+          "name": "Bouddhisme",
+          "url": "https://itunes.apple.com/fr/genre/id10106"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9018",
+          "name": "Religion et spiritualité",
+          "url": "https://itunes.apple.com/fr/genre/id9018"
+        },
+        {
+          "genreId": "9025",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id9025"
+        },
+        {
+          "genreId": "10004",
+          "name": "Spiritualité",
+          "url": "https://itunes.apple.com/fr/genre/id10004"
+        },
+        {
+          "genreId": "9002",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id9002"
+        },
+        {
+          "genreId": "10091",
+          "name": "Philosophie",
+          "url": "https://itunes.apple.com/fr/genre/id10091"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/un-bouddhisme-moderne-volume-1-le-soutra/id499844504"
+    }
+  ]
+}

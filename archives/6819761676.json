@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 59,
+      "artistName": "Tessa Ellwick",
+      "id": "6819761676",
+      "name": "Make It Real, Superstar",
+      "releaseDate": "2026-10-06",
+      "kind": "books",
+      "artistId": "6819287325",
+      "artistUrl": "https://books.apple.com/fr/author/tessa-ellwick/id6819287325",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9e/3c/48/9e3c48b0-0217-2493-3621-d3749da68ef0/0004453635.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "10057",
+          "name": "Romance contemporaine",
+          "url": "https://itunes.apple.com/fr/genre/id10057"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/make-it-real-superstar/id6819761676"
+    }
+  ]
+}

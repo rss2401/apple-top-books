@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 50,
+      "artistName": "Wieslaw Kielar",
+      "id": "1501678937",
+      "name": "Anus Mundi",
+      "releaseDate": "2020-03-06",
+      "kind": "books",
+      "artistId": "1091216646",
+      "artistUrl": "https://books.apple.com/fr/author/wieslaw-kielar/id1091216646",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/df/57/dc/df57dc03-160e-cec1-6ba0-2a0972021870/9782251912714.jpg/100x152bb.png",
+      "genres": [
+        {
+          "genreId": "9008",
+          "name": "Biographies et mémoires",
+          "url": "https://itunes.apple.com/fr/genre/id9008"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9015",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id9015"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/anus-mundi/id1501678937"
+    }
+  ]
+}

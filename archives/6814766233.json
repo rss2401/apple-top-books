@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 73,
+      "artistName": "Jessica Lemmon & Maureen Child",
+      "id": "6814766233",
+      "name": "Une carte à abattre / Un enfant pour s'aimer",
+      "releaseDate": "2026-11-02",
+      "kind": "books",
+      "artistId": "568945135",
+      "artistUrl": "https://books.apple.com/fr/author/jessica-lemmon/id568945135",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/2f/4a/40/2f4a400a-e5d5-1158-ed12-7dce51548a74/9782280535663-001-x.jpeg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/une-carte-%C3%A0-abattre-un-enfant-pour-saimer/id6814766233"
+    }
+  ]
+}

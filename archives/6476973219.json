@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 96,
+      "artistName": "Claire North & Karine Forestier",
+      "id": "6476973219",
+      "name": "Le Chant des déesses, T1 : Pénélope, Reine d'Ithaque",
+      "releaseDate": "2025-05-14",
+      "kind": "books",
+      "artistId": "665042041",
+      "artistUrl": "https://books.apple.com/fr/author/claire-north/id665042041",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/75/77/9c/75779c23-939f-f35d-b093-13cb86a1effb/9782381225364-001-x.jpeg/100x162bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "10047",
+          "name": "Fiction historique",
+          "url": "https://itunes.apple.com/fr/genre/id10047"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/le-chant-des-d%C3%A9esses-t1-p%C3%A9n%C3%A9lope-reine-dithaque/id6476973219"
+    }
+  ]
+}

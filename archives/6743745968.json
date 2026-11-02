@@ -39,7 +39,7 @@
       "country": "fr",
       "mediaType": "books",
       "feed": "top-paid",
-      "rank": 12,
+      "rank": 64,
       "artistName": "Emily Henry & Claire Allouch",
       "id": "6743745968",
       "name": "Funny Story",
@@ -47,7 +47,7 @@
       "kind": "books",
       "artistId": "1417020808",
       "artistUrl": "https://books.apple.com/fr/author/emily-henry/id1417020808",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e0/b5/93/e0b59303-4210-1e73-8b11-97a67be41015/9782381228648-001-x.jpeg/100x150bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e1/92/67/e19267af-2eba-664d-e2ef-13b37d6b9e3f/9782381228648-001-x.jpeg/100x150bb.png",
       "genres": [
         {
           "genreId": "10057",

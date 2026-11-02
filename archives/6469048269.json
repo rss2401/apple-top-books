@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 76,
+      "artistName": "Emily McIntire",
+      "id": "6469048269",
+      "name": "Hooked",
+      "releaseDate": "2024-02-29",
+      "kind": "books",
+      "artistId": "1560753162",
+      "artistUrl": "https://books.apple.com/de/author/emily-mcintire/id1560753162",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/86/ce/26/86ce26a7-2707-a9b2-380a-1ff5aee8c0cf/9783377901088.jpg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/hooked/id6469048269"
+    }
+  ]
+}

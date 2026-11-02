@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 97,
+      "artistName": "Lorraine Hansberry",
+      "id": "470465746",
+      "name": "A Raisin in the Sun",
+      "releaseDate": "2004-11-29",
+      "kind": "books",
+      "artistId": "322341660",
+      "artistUrl": "https://books.apple.com/de/author/lorraine-hansberry/id322341660",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/11/c5/ba/mzi.zszpngfp.jpg/100x168bb.png",
+      "genres": [
+        {
+          "genreId": "10036",
+          "name": "Theater",
+          "url": "https://itunes.apple.com/de/genre/id10036"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9007",
+          "name": "Kultur und Unterhaltung",
+          "url": "https://itunes.apple.com/de/genre/id9007"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/a-raisin-in-the-sun/id470465746"
+    }
+  ]
+}
