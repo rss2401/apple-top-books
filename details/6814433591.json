@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "3,99 €",
+      "releaseDate": "2026-11-02T08:00:00Z",
+      "artistIds": [
+        1668109450
+      ],
+      "genres": [
+        "Romance",
+        "Livres"
+      ],
+      "artistId": 1668109450,
+      "artistName": "Rosie Maxwell",
+      "price": 3.99,
+      "genreIds": [
+        "9003",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "La liberté est un doux rêve pour Serena, prisonnière de l'emprise oppressante de sa belle-mère. Jusqu'à cette nuit brûlante à Singapour, durant laquelle le magnat Caleb Morgenthau lui offre un avant-goût de l'indépendance et de la passion dont elle a tant besoin. Mais cette parenthèse insouciante révèle bientôt ses conséquences. Serena est enceinte, et Caleb, résolu à assumer ses responsabilités, exige qu'elle l'épouse...",
+      "trackCensoredName": "Ce brûlant dilemme",
+      "artistViewUrl": "https://books.apple.com/fr/artist/rosie-maxwell/1668109450?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/ce-br%C3%BBlant-dilemme/id6814433591?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/74/4d/3d/744d3d49-edb0-fd30-32b6-5df3d485fa21/9782280536073-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/74/4d/3d/744d3d49-edb0-fd30-32b6-5df3d485fa21/9782280536073-001-x.jpeg/100x100bb.jpg",
+      "trackName": "Ce brûlant dilemme",
+      "trackId": 6814433591,
+      "country": "FRA"
+    }
+  ]
+}

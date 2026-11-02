@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1578942900,
+        411545461,
+        384782461
+      ],
+      "formattedPrice": "4,99 €",
+      "artistId": 1578942900,
+      "artistName": "Leah Ashton, Ally Blake & Carol Marinelli",
+      "genres": [
+        "Romance",
+        "Livres"
+      ],
+      "price": 4.99,
+      "genreIds": [
+        "9003",
+        "38"
+      ],
+      "releaseDate": "2026-11-02T08:00:00Z",
+      "trackId": 6814433403,
+      "trackName": "L'hiver d'une princesse / Une secrétaire sous le charme / Une révélation italienne",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b><i>L'hiver d'une princesse</i></b>, Leah Ashton<br /><br />Alors qu'elle s'apprête à épouser un homme qu'elle n'aime pas, Ana, princesse de Vela Alda, prend la fuite. Et c'est chez Rhys North, un expert en sécurité ami de son frère, qu'elle pose ses bagages. Auprès de cet homme protecteur, elle espère échapper au scandale. Mais, conquise par Rhys, Ana doit bientôt faire face à une grossesse inattendue...<br /><br /><b><i>Une secrétaire sous le charme</i></b>, Ally Blake<br /><br />Avec Angus Wolfe, son patron, Lucinda entretient une relation professionnelle harmonieuse. En ce qui concerne le travail, tous deux sont faits l'un pour l'autre&#xa0;! Hélas, quand leurs chemins se séparent à la sortie du bureau, Lucinda ne parvient pas à oublier Angus. Maman célibataire d'un petit garçon, elle n'a pourtant pas le loisir de fantasmer sur un homme qui lui est interdit...<br /><br /><b><i>Une révélation italienne,</i></b> Carol Marinelli<br /><br />Pour Dante Romano, le doute n'est pas permis&#xa0;: Mia Hamilton est une impitoyable croqueuse de diamants. L'attirance qu'il éprouve à son égard le met donc au supplice, jusqu'à ce qu'il l'attire dans son lit. Parce qu'il la découvre innocente, Dante se demande soudain quels secrets la belle peut bien lui dissimuler. Mais bientôt, la révélation de sa grossesse vient tout éclipser...<br /><br />Romans réédité",
+      "trackCensoredName": "L'hiver d'une princesse / Une secrétaire sous le charme / Une révélation italienne",
+      "artistViewUrl": "https://books.apple.com/fr/artist/leah-ashton-ally-blake-carol-marinelli/1578942900?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/lhiver-dune-princesse-une-secr%C3%A9taire-sous-le-charme/id6814433403?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/27/6e/74/276e746f-7e58-fadc-3c43-883f84ac402c/9782280536158-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/27/6e/74/276e746f-7e58-fadc-3c43-883f84ac402c/9782280536158-001-x.jpeg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

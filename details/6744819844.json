@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1279108406
+      ],
+      "formattedPrice": "1,99 €",
+      "artistId": 1279108406,
+      "artistName": "Meagan Brandy",
+      "genres": [
+        "Thriller romantique",
+        "Livres",
+        "Romance",
+        "Romance contemporaine"
+      ],
+      "price": 1.99,
+      "genreIds": [
+        "10061",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "releaseDate": "2025-05-29T07:00:00Z",
+      "trackId": 6744819844,
+      "trackName": "Fake It 'Til You Break It",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Par Meagan Brandy, l'autrice&#xa0; de Say You Swear.<br />Tout était faux.<br />C’était notre pacte&#xa0; : faire semblant. Faire croire que le receveur vedette du lycée était à moi, rien qu’à moi. Je pensais que ce serait difficile. Mais on a joué notre rôle à la perfection. Tellement bien que la frontière entre le faux et le vrai s’est peu à peu effacée… jusqu’à disparaître.<br />Le problème, quand on fait semblant, c’est qu’il y en a toujours un qui y croit plus que l’autre. Et quand je m’en suis rendu compte, c’était trop tard.<br />J’y ai cru. À nous.<br />À lui.<br />Puis tout s’est écroulé.<br />Parce qu’on ne jouait pas au même jeu.<br />Et même s’il n’avait pas besoin de me briser pour gagner…<br />Il l’a fait quand même.",
+      "trackCensoredName": "Fake It 'Til You Break It",
+      "artistViewUrl": "https://books.apple.com/fr/artist/meagan-brandy/1279108406?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/fake-it-til-you-break-it/id6744819844?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/99/df/4c/99df4c06-8c37-b133-539c-bcd4d6e06377/9782379873898-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/99/df/4c/99df4c06-8c37-b133-539c-bcd4d6e06377/9782379873898-001-x.jpeg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 54,
+      "country": "FRA"
+    }
+  ]
+}

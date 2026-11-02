@@ -5,17 +5,20 @@
       "artistIds": [
         2124237
       ],
-      "price": 0,
-      "artistId": 2124237,
-      "artistName": "H.G. Wells",
-      "trackId": 392600264,
-      "trackName": "The Time Machine",
-      "releaseDate": "1895-05-07T08:00:00Z",
       "genreIds": [
         "9020",
         "38",
         "10064",
         "10063"
+      ],
+      "releaseDate": "1895-05-07T08:00:00Z",
+      "artistId": 2124237,
+      "artistName": "H.G. Wells",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Books",
+        "Science Fiction",
+        "Science Fiction"
       ],
       "kind": "ebook",
       "currency": "USD",
@@ -26,14 +29,11 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b6/a6/c5/b6a6c5a7-27e8-f4d8-7501-970f36bf54ae/The_Time_Machine_Cover.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b6/a6/c5/b6a6c5a7-27e8-f4d8-7501-970f36bf54ae/The_Time_Machine_Cover.jpg/100x100bb.jpg",
       "formattedPrice": "Free",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Books",
-        "Science Fiction",
-        "Science Fiction"
-      ],
+      "trackId": 392600264,
+      "trackName": "The Time Machine",
+      "price": 0,
       "averageUserRating": 4.5,
-      "userRatingCount": 1867,
+      "userRatingCount": 1868,
       "country": "USA"
     }
   ]

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        2038317
+      ],
+      "price": 0,
+      "genres": [
+        "Short Stories",
+        "Books",
+        "Fiction & Literature"
+      ],
+      "artistId": 2038317,
+      "artistName": "James Joyce",
+      "releaseDate": "2013-01-25T08:00:00Z",
+      "trackId": 596751062,
+      "trackName": "The Dubliners",
+      "genreIds": [
+        "10065",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "16th of June is Bloomsday. It is called Bloomsday because 16th of June (1904) is the day covered by James Joyce’s masterpiece <i>Ulysses</i>. Why Bloom? Well, read the novel, it’s one of the greatest ever written. One short interesting fact: James Joyce’s books follow a strange pattern with his works:<br />\n1. <i>Dubliners</i>, 1914, a collection of short-stories about the lives of some characters in Dublin<br />\n2. <i>A Portrait of the Artist as a Young Man</i>, 1916, – a novel about the formation years (Bildungsroman) of Stephen Dedalus<br />\n3. <i>Ulysses</i>, 1922, a highly complex novel, spanning the timeperiod of just one day (June 16, 1904) in the lives of several characters<br />\n4. <i>Finnegans Wake</i>, 1939, timespan: one night!<br />\nThe larger the works, the smaller the timespan covered. Now this is one curiosity that should have you start reading Joyce right away (if you are not already a great fan). To help you in this regard, ReadFWD brings a gift: an ebook made by us, for you: Dubliners, by James Joyce. Enjoy!",
+      "trackCensoredName": "The Dubliners",
+      "formattedPrice": "Free",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-dubliners/id596751062?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/1a/40/d5/1a40d531-4b9b-e36f-06e2-a1440fd71ad8/001.Dubliners.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/1a/40/d5/1a40d531-4b9b-e36f-06e2-a1440fd71ad8/001.Dubliners.png/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/gb/artist/james-joyce/2038317?uo=4",
+      "userRatingCount": 68,
+      "averageUserRating": 4.5,
+      "country": "GBR"
+    }
+  ]
+}

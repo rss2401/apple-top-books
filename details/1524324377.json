@@ -5,16 +5,17 @@
       "artistIds": [
         405307759
       ],
+      "artistId": 405307759,
+      "artistName": "Apple Inc.",
       "genres": [
         "Computer",
         "Bücher",
         "Computer und Internet"
       ],
-      "artistId": 405307759,
-      "artistName": "Apple Inc.",
       "price": 0,
-      "trackId": 1524324377,
       "trackName": "iPhone – Benutzerhandbuch",
+      "trackId": 1524324377,
+      "releaseDate": "2020-09-16T07:00:00Z",
       "genreIds": [
         "10017",
         "38",
@@ -23,15 +24,14 @@
       "kind": "ebook",
       "currency": "EUR",
       "description": "Wissenswertes über dein iPhone – direkt von Apple. Dieses umfassende Handbuch enthält eine Einführung in die Grundlagen deines iPhone mit iOS 14 und ausführliche Beschreibungen der vielen fantastischen Funktionen, die dir zur Verfügung stehen.",
-      "trackCensoredName": "iPhone – Benutzerhandbuch",
       "formattedPrice": "Gratis",
+      "trackCensoredName": "iPhone – Benutzerhandbuch",
+      "artistViewUrl": "https://books.apple.com/de/artist/apple-inc/405307759?uo=4",
       "trackViewUrl": "https://books.apple.com/de/book/iphone-benutzerhandbuch/id1524324377?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/23/ec/9b/23ec9b6b-cfdc-b326-b2f9-f617aea42477/ePubCover_iPhone.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/23/ec/9b/23ec9b6b-cfdc-b326-b2f9-f617aea42477/ePubCover_iPhone.png/100x100bb.jpg",
-      "artistViewUrl": "https://books.apple.com/de/artist/apple-inc/405307759?uo=4",
-      "releaseDate": "2020-09-16T07:00:00Z",
-      "userRatingCount": 492,
       "averageUserRating": 3.5,
+      "userRatingCount": 492,
       "country": "DEU"
     }
   ]

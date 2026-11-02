@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "3,99 €",
+      "releaseDate": "2026-11-02T08:00:00Z",
+      "artistIds": [
+        1485700724
+      ],
+      "genres": [
+        "Romance",
+        "Livres"
+      ],
+      "artistId": 1485700724,
+      "artistName": "Juliette Hyland",
+      "price": 3.99,
+      "genreIds": [
+        "9003",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Pour éviter à sa soeur un mariage forcé, Breanna propose au roi Sebastian de Celiana de l'épouser à la place. Il lui suffit d'y mettre de la bonne volonté : leur union restera de pure convenance, certes, mais n'est-ce pas toujours le cas dans l'aristocratie ? Si Breanna tente de s'en convaincre, elle déchante vite. Sitôt après les noces royales, en effet, elle éprouve pour son promis des sentiments inédits et troublants. Une émotion qui ressemble fort à ce qui lui est interdit : l'amour...",
+      "trackCensoredName": "Un roi à dompter",
+      "artistViewUrl": "https://books.apple.com/fr/artist/juliette-hyland/1485700724?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/un-roi-%C3%A0-dompter/id6814433512?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/59/fd/c5/59fdc585-cc81-1c2c-1988-6c7844abfd9f/9782280536080-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/59/fd/c5/59fdc585-cc81-1c2c-1988-6c7844abfd9f/9782280536080-001-x.jpeg/100x100bb.jpg",
+      "trackName": "Un roi à dompter",
+      "trackId": 6814433512,
+      "country": "FRA"
+    }
+  ]
+}

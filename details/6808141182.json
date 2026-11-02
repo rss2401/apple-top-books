@@ -4,14 +4,14 @@
     {
       "trackCensoredName": "ワンナイト・モーニング(16)",
       "artistViewUrl": "https://books.apple.com/jp/artist/%E5%A5%A5%E5%B1%B1%E3%82%B1%E3%83%8B%E3%83%81/1435041839?uo=4",
-      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%AF%E3%83%B3%E3%83%8A%E3%82%A4%E3%83%88-%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0-16/id6808141182?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f8/be/26/f8be26c2-ce85-f866-a179-31d82e02b473/20036_131620894_001_001_artwork_20261021130552.jpg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f8/be/26/f8be26c2-ce85-f866-a179-31d82e02b473/20036_131620894_001_001_artwork_20261021130552.jpg/100x100bb.jpg",
       "artistIds": [
         1435041839
       ],
-      "artistName": "奥山ケニチ",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%AF%E3%83%B3%E3%83%8A%E3%82%A4%E3%83%88-%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0-16/id6808141182?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f8/be/26/f8be26c2-ce85-f866-a179-31d82e02b473/20036_131620894_001_001_artwork_20261021130552.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f8/be/26/f8be26c2-ce85-f866-a179-31d82e02b473/20036_131620894_001_001_artwork_20261021130552.jpg/100x100bb.jpg",
       "artistId": 1435041839,
+      "artistName": "奥山ケニチ",
       "genres": [
         "ヒューマンドラマ",
         "ブック",
@@ -20,8 +20,8 @@
         "グラフィックノベル"
       ],
       "price": 800,
-      "trackName": "ワンナイト・モーニング(16)",
       "trackId": 6808141182,
+      "trackName": "ワンナイト・モーニング(16)",
       "releaseDate": "2026-10-23T07:00:00Z",
       "genreIds": [
         "11052",

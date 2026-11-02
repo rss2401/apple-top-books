@@ -2,15 +2,15 @@
   "resultCount": 1,
   "results": [
     {
-      "trackCensoredName": "Art, Annotated",
-      "artistViewUrl": "https://books.apple.com/us/artist/dk/1088013460?uo=4",
-      "trackViewUrl": "https://books.apple.com/us/book/art-annotated/id6596739311?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/46/37/c9/4637c968-2b22-378c-bd7e-8cfa923c13ad/9780593970409.d.jpg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/46/37/c9/4637c968-2b22-378c-bd7e-8cfa923c13ad/9780593970409.d.jpg/100x100bb.jpg",
-      "formattedPrice": "$2.99",
       "artistIds": [
         1088013460
       ],
+      "trackCensoredName": "Art, Annotated",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/46/37/c9/4637c968-2b22-378c-bd7e-8cfa923c13ad/9780593970409.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/46/37/c9/4637c968-2b22-378c-bd7e-8cfa923c13ad/9780593970409.d.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/dk/1088013460?uo=4",
+      "formattedPrice": "$2.99",
+      "trackViewUrl": "https://books.apple.com/us/book/art-annotated/id6596739311?uo=4",
       "artistId": 1088013460,
       "artistName": "DK",
       "genres": [
@@ -20,9 +20,9 @@
         "Art History"
       ],
       "price": 2.99,
-      "trackName": "Art, Annotated",
-      "trackId": 6596739311,
       "releaseDate": "2024-09-10T07:00:00Z",
+      "trackId": 6596739311,
+      "trackName": "Art, Annotated",
       "genreIds": [
         "10002",
         "38",

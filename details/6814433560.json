@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "3,99 €",
+      "releaseDate": "2026-11-02T08:00:00Z",
+      "artistIds": [
+        387702089
+      ],
+      "genres": [
+        "Romance",
+        "Livres"
+      ],
+      "artistId": 387702089,
+      "artistName": "Kate Hardy",
+      "price": 3.99,
+      "genreIds": [
+        "9003",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Série «&#xa0;Contes et passions » - Tome 6/6</b><br /><br /><b><i>Il était une fois... La Belle au bois dormant des temps modernes&#xa0;!</i></b><br /><br />Voilà des années que Pippa travaille dur pour devenir danseuse étoile. Or, maintenant qu'elle touche à son rêve, pas question pour elle de se laisser distraire. Pas même par le plus séduisant des hommes&#xa0;! C'est bien simple, depuis que Rory Fanshawe, le célèbre présentateur télé, lui a proposé de participer à sa nouvelle émission, elle ne pense qu'à lui... À son charisme, à son sourire, au regard brûlant dont il la couve. Au point que Pippa se demande si elle peut braver l'interdit entre ses bras...",
+      "trackCensoredName": "L'étoile du désir",
+      "artistViewUrl": "https://books.apple.com/fr/artist/kate-hardy/387702089?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/l%C3%A9toile-du-d%C3%A9sir/id6814433560?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/aa/63/31/aa633125-5c57-c84f-0189-9a1f9a3bd5b6/9782280536127-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/aa/63/31/aa633125-5c57-c84f-0189-9a1f9a3bd5b6/9782280536127-001-x.jpeg/100x100bb.jpg",
+      "trackName": "L'étoile du désir",
+      "trackId": 6814433560,
+      "country": "FRA"
+    }
+  ]
+}

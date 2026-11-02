@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "formattedPrice": "7,99 €",
       "trackCensoredName": "Compagne du Prince",
       "artistViewUrl": "https://books.apple.com/fr/artist/anna-zaires/593202904?uo=4",
       "trackViewUrl": "https://books.apple.com/fr/book/compagne-du-prince/id6815882028?uo=4",
@@ -17,13 +18,12 @@
         "38",
         "10058"
       ],
-      "releaseDate": "2026-10-20T07:00:00Z",
       "trackId": 6815882028,
       "trackName": "Compagne du Prince",
+      "releaseDate": "2026-10-20T07:00:00Z",
       "kind": "ebook",
       "currency": "EUR",
       "description": "Je pensais qu’il n’y avait rien de pire que la mort. Et puis j’ai découvert que certaines choses faisaient beaucoup plus mal que la chimio – comme de se faire piétiner le cœur par le prince surhumain à la puissance démentielle qui prétend être votre âme sœur. Juste après qu’on a consommé notre union, en plus.\n\n\tEh bien, je lui souhaite une belle vie. Dès qu’une occasion s’est présentée, je me suis tirée.\n\n\tTout ce que j’ai à faire, c’est localiser quelqu’un capable de m’ouvrir un portail vers la Terre avant qu’il me retrouve.",
-      "formattedPrice": "7,99 €",
       "genres": [
         "Romance",
         "Livres",

@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "6,99 €",
+      "trackCensoredName": "The Hunt",
+      "artistViewUrl": "https://books.apple.com/fr/artist/jace-sailor/1756695142?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/the-hunt/id6747705240?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ae/b1/3e/aeb13e46-b50f-6189-4383-c3e71e45333b/9791033923329-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ae/b1/3e/aeb13e46-b50f-6189-4383-c3e71e45333b/9791033923329-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        1756695142
+      ],
+      "artistId": 1756695142,
+      "artistName": "Jace Sailor",
+      "genreIds": [
+        "9003",
+        "38"
+      ],
+      "trackId": 6747705240,
+      "trackName": "The Hunt",
+      "releaseDate": "2025-09-17T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Après notre premier baiser, je lui avais déjà vendu mon âme.</b><br />3… 2… 1…<br />COUREZ !<br />« The Hunt », ce jeu de traque humaine organisé pour la période d’Halloween vient de commencer, et Olivia trépigne d’impatience. Dissimulée derrière son masque, elle se sent invincible. Plus de pression liée à son travail, plus de rivalité avec son insupportable collègue pour remporter le projet architectural le plus ambitieux de l’université de Cambridge. Mais ce qu’elle n’avait pas prévu, c’est que ses nuits d’octobre seraient hantées par un autre type de rivalité. Dans la pénombre, Olivia croise le chemin d’un mystérieux inconnu. Sous son masque de Ghostface, il lui offre une échappatoire, une chance de laisser derrière elle ses peurs, sa colère, ses sombres secrets. Olivia ne devrait pas céder à l’attirance qu’elle ressent envers cet homme, tout comme elle sait que dévoiler sa véritable identité pourrait tout détruire. Non, le mieux c’est qu’ils ignorent tout l’un de l’autre. Car, si les masques tombaient, Ghostface voudrait-il toujours d’elle ?<br /><br />Tropes : #enemies-to-lovers ; #broken girl.<br />Niveau d'intensité : 4/4<br />Présence de trigger warnings.<br /><br />« Cette lecture m’a procuré tellement d’émotions, tellement de frissons (et un nouveau fantasme pour Ghostface…). » @alicia_bookss<br />« C’est addictif, intense, un peu mystérieux, et surtout profondément humain. Les émotions sont là, les personnages sont imparfaits, vulnérables, et c’est ce qui les rend si réels. » @juboo.ks<br /><br />À propos de l'autrice :&#xa0; <br />Accompagnée de son café matinal ou de son gin nocturne,<b> Jace Sailor </b>écrit dès qu’elle le peut. Elle est le genre d’autrice qui rit lorsqu’elle torture ses personnages et qui pleure lorsque les animaux meurent. Elle puise son inspiration dans les étoiles et les femmes de pouvoir pour tisser ses récits, célébrant la force et la magie de la vie.",
+      "genres": [
+        "Romance",
+        "Livres"
+      ],
+      "price": 6.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 61,
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Gratuit",
+      "releaseDate": "2019-02-22T08:00:00Z",
+      "artistIds": [
+        437208604,
+        438682439,
+        1454035908
+      ],
+      "genres": [
+        "Islam",
+        "Livres",
+        "Religion et spiritualité"
+      ],
+      "artistId": 437208604,
+      "artistName": "Holy Quran, Prophet Muhammad & Mohammad Dabbas",
+      "price": 0,
+      "genreIds": [
+        "10109",
+        "38",
+        "9018"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "القرأن الكريم كتابةً و يطابق التطبيق بشكل سلس",
+      "trackCensoredName": "‎⁨القرأن الكريم⁩",
+      "artistViewUrl": "https://books.apple.com/fr/artist/holy-quran-prophet-muhammad-mohammad-dabbas/437208604?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/%D8%A7%D9%84%D9%82%D8%B1%D8%A3%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/id1454035897?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/3f/58/9f/3f589ffa-09a7-0263-91c1-6da4d780146b/cover.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/3f/58/9f/3f589ffa-09a7-0263-91c1-6da4d780146b/cover.png/100x100bb.jpg",
+      "trackName": "‎⁨القرأن الكريم⁩",
+      "trackId": 1454035897,
+      "averageUserRating": 3.5,
+      "userRatingCount": 7,
+      "country": "FRA"
+    }
+  ]
+}

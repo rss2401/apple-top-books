@@ -2,16 +2,11 @@
   "resultCount": 1,
   "results": [
     {
-      "formattedPrice": "2,49 €",
-      "trackCensoredName": "G. F. Unger Sonder-Edition 358",
-      "artistViewUrl": "https://books.apple.com/de/artist/g-f-unger/609482092?uo=4",
-      "trackViewUrl": "https://books.apple.com/de/book/g-f-unger-sonder-edition-358/id6814430993?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/63/87/7d/63877d16-2ee3-3037-1851-89f41d41f88a/9783819805592.jpg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/63/87/7d/63877d16-2ee3-3037-1851-89f41d41f88a/9783819805592.jpg/100x100bb.jpg",
       "artistIds": [
         609482092
       ],
-      "artistId": 609482092,
+      "formattedPrice": "2,49 €",
+      "price": 2.49,
       "artistName": "G. F. Unger",
       "genres": [
         "Belletristik und Literatur",
@@ -21,9 +16,7 @@
         "Action und Abenteuer",
         "Krimis und Thriller"
       ],
-      "price": 2.49,
-      "trackName": "G. F. Unger Sonder-Edition 358",
-      "trackId": 6814430993,
+      "artistId": 609482092,
       "releaseDate": "2026-10-31T07:00:00Z",
       "genreIds": [
         "9031",
@@ -33,9 +26,16 @@
         "10039",
         "9032"
       ],
+      "trackName": "G. F. Unger Sonder-Edition 358",
+      "trackId": 6814430993,
       "kind": "ebook",
       "currency": "EUR",
       "description": "Als Jack Tucker den Hilferuf der Tammalans erhält, geht er nach einem schweren Reitunfall an zwei Krücken. Doch Logan und Bill, seine beiden Söhne, springen für ihn ein. Das Wort, das der Vater einst seinem Freund Tim Tammalan gab, gilt mehr als das eigene Leben ...",
+      "trackCensoredName": "G. F. Unger Sonder-Edition 358",
+      "artistViewUrl": "https://books.apple.com/de/artist/g-f-unger/609482092?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/g-f-unger-sonder-edition-358/id6814430993?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/63/87/7d/63877d16-2ee3-3037-1851-89f41d41f88a/9783819805592.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/63/87/7d/63877d16-2ee3-3037-1851-89f41d41f88a/9783819805592.jpg/100x100bb.jpg",
       "country": "DEU"
     }
   ]

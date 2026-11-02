@@ -1,0 +1,35 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "5,99 €",
+      "trackCensoredName": "Une carte à abattre / Un enfant pour s'aimer",
+      "artistViewUrl": "https://books.apple.com/fr/artist/jessica-lemmon-maureen-child/568945135?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/une-carte-%C3%A0-abattre-un-enfant-pour-saimer/id6814766233?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/2f/4a/40/2f4a400a-e5d5-1158-ed12-7dce51548a74/9782280535663-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/2f/4a/40/2f4a400a-e5d5-1158-ed12-7dce51548a74/9782280535663-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        568945135,
+        357987205
+      ],
+      "artistId": 568945135,
+      "artistName": "Jessica Lemmon & Maureen Child",
+      "genreIds": [
+        "9003",
+        "38"
+      ],
+      "trackId": 6814766233,
+      "trackName": "Une carte à abattre / Un enfant pour s'aimer",
+      "releaseDate": "2026-11-02T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b><i>Une carte à abattre,</i></b> <b>Jessica Lemmon </b><br /><br />Zach Ferguson, le milliardaire qui l'a engagée pour redorer son image publique, exige qu'elle l'épouse. Sans lui demander son avis. Sans éprouver aucun sentiment pour elle. Penelope sent une colère sourde la gagner. Lui annoncer qu'elle porte son enfant était une terrible erreur. Mais il est désormais trop tard pour faire demi-tour...<br /><br /><b><i>Un enfant pour s'aimer,</i></b> <b>Maureen Child</b><br /><br />Jenny en est certaine&#xa0;: Mike Ryan est l'homme de sa vie&#xa0;! Après la nuit de passion qu'ils viennent de partager, comment pourrait-il en être autrement&#xa0;? Sauf que, lorsque Mike apprend qu'elle est la nièce de son rival, il la repousse, persuadé qu'elle ne l'a séduit que pour le piéger. Profondément blessée, Jenny s'enfuit. Avant de comprendre, bouleversée, qu'elle devra à nouveau affronter Mike, car elle est enceinte...<br /><br />Romans réédités",
+      "genres": [
+        "Romance",
+        "Livres"
+      ],
+      "price": 5.99,
+      "country": "FRA"
+    }
+  ]
+}

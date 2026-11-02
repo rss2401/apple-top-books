@@ -5,12 +5,6 @@
       "artistIds": [
         117245343
       ],
-      "price": 0,
-      "artistId": 117245343,
-      "artistName": "Davina Stone",
-      "trackId": 1542205631,
-      "trackName": "The Alice Equation",
-      "releaseDate": "2021-01-08T08:00:00Z",
       "genreIds": [
         "11042",
         "38",
@@ -18,6 +12,17 @@
         "11040",
         "10057",
         "9031"
+      ],
+      "releaseDate": "2021-01-08T08:00:00Z",
+      "artistId": 117245343,
+      "artistName": "Davina Stone",
+      "genres": [
+        "Romantic Comedies",
+        "Books",
+        "Romance",
+        "New Adult Romance",
+        "Contemporary Romance",
+        "Fiction & Literature"
       ],
       "kind": "ebook",
       "currency": "USD",
@@ -28,16 +33,11 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/f5/4e/f5/f54ef5f9-42a6-f7ea-0a37-7dc17eac4f11/0000638959.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/f5/4e/f5/f54ef5f9-42a6-f7ea-0a37-7dc17eac4f11/0000638959.jpg/100x100bb.jpg",
       "formattedPrice": "Free",
-      "genres": [
-        "Romantic Comedies",
-        "Books",
-        "Romance",
-        "New Adult Romance",
-        "Contemporary Romance",
-        "Fiction & Literature"
-      ],
+      "trackId": 1542205631,
+      "trackName": "The Alice Equation",
+      "price": 0,
       "averageUserRating": 4,
-      "userRatingCount": 722,
+      "userRatingCount": 724,
       "country": "USA"
     },
     {

@@ -5,16 +5,18 @@
       "artistIds": [
         1061299863
       ],
-      "price": 0,
-      "artistId": 1061299863,
-      "artistName": "Blake Pierce",
-      "trackId": 1440385445,
-      "trackName": "The Perfect Wife (A Jessie Hunt Psychological Suspense Thriller—Book One)",
-      "releaseDate": "2018-11-13T08:00:00Z",
       "genreIds": [
         "9032",
         "38",
         "10055"
+      ],
+      "releaseDate": "2018-11-13T08:00:00Z",
+      "artistId": 1061299863,
+      "artistName": "Blake Pierce",
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books",
+        "Women Sleuths"
       ],
       "kind": "ebook",
       "currency": "USD",
@@ -25,13 +27,11 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/b2/a1/24/b2a124af-0073-47bd-d511-e03bad77661c/9781640296589.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/b2/a1/24/b2a124af-0073-47bd-d511-e03bad77661c/9781640296589.jpg/100x100bb.jpg",
       "formattedPrice": "Free",
-      "genres": [
-        "Mysteries & Thrillers",
-        "Books",
-        "Women Sleuths"
-      ],
+      "trackId": 1440385445,
+      "trackName": "The Perfect Wife (A Jessie Hunt Psychological Suspense Thriller—Book One)",
+      "price": 0,
       "averageUserRating": 4.5,
-      "userRatingCount": 8030,
+      "userRatingCount": 8032,
       "country": "USA"
     }
   ]

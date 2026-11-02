@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1091216646
+      ],
+      "formattedPrice": "14,99 €",
+      "artistId": 1091216646,
+      "artistName": "Wieslaw Kielar",
+      "genres": [
+        "Biographies et mémoires",
+        "Livres",
+        "Histoire"
+      ],
+      "price": 14.99,
+      "genreIds": [
+        "9008",
+        "38",
+        "9015"
+      ],
+      "releaseDate": "2020-03-06T08:00:00Z",
+      "trackId": 1501678937,
+      "trackName": "Anus Mundi",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Anus mundi, l’anus du monde : un médecin SS avait ainsi qualifié le camp de concentration et d’extermination d’Auschwitz. Un homme a vécu là durant cinq années et raconte ce qu’il a vu. Arrivé avec les 728 premiers déportés politiques polonais le 14 juin 1940, Wieslaw Kielar (1919-1980) sera à la fois le témoin et la victime des punitions arbitraires qui rythment la vie du camp. Il détaille la terrible hiérarchie installée par les nazis entre les prisonniers, le développement du camp, les nouveaux arrivants, la routine des exécutions qui vont s’accélérer durant la dernière année de sa détention. Tout est décrit aussi objectivement que possible. Son témoignage a la précision d’une mémoire qui a été marquée au fer rouge de l’horreur et qui ne peut oublier ni les potences, ni les coups, ni l’entassement des morts, ni les SS, ni « l’organisation », c’est-à-dire la vie quotidienne dans l’enfer. La vérité modeste qu’il transmet fait de son récit un document irremplaçable pour l’Histoire. Il nous est parvenu au moment où de nouvelles générations ignorantes des faits qu’il rapporte ont pu douter de leur réalité, tant ils sont incroyables. Le général Eisenhower l’avait prévu en termes crus : « Écrivez, photographiez, filmez » avait-il dit aux journalistes présents lors de la libération des camps de concentration : « Dans cinquante ans il se trouvera des bâtards pour dire que tout ceci n’a jamais existé ! » Qui aura suivi « la lente descente de Kielar dans les ténèbres concentrationnaires » ne pourra toutefois plus oublier.",
+      "trackCensoredName": "Anus Mundi",
+      "artistViewUrl": "https://books.apple.com/fr/artist/wieslaw-kielar/1091216646?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/anus-mundi/id1501678937?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/df/57/dc/df57dc03-160e-cec1-6ba0-2a0972021870/9782251912714.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/df/57/dc/df57dc03-160e-cec1-6ba0-2a0972021870/9782251912714.jpg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

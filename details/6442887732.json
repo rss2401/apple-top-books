@@ -10,7 +10,15 @@
       "artistIds": [
         2632114
       ],
+      "formattedPrice": "Free",
+      "artistId": 2632114,
       "artistName": "George Orwell",
+      "genres": [
+        "Classics",
+        "Books",
+        "Fiction & Literature"
+      ],
+      "price": 0,
       "releaseDate": "1949-06-08T08:00:00Z",
       "trackId": 6442887732,
       "trackName": "1984",
@@ -22,14 +30,6 @@
       "kind": "ebook",
       "currency": "GBP",
       "description": "Experience a world of totalitarian control and government surveillance in George Orwell's classic dystopian novel, 1984. Follow the story of Winston Smith, a man struggling against the oppressive rules of the Party, as he embarks on a forbidden love affair and becomes caught in the crosshairs of a revolution. With its powerful themes of rebellion and totalitarianism, 1984 is a must-read for fans of thought-provoking fiction. Don't miss out on this timeless classic.",
-      "formattedPrice": "Free",
-      "price": 0,
-      "genres": [
-        "Classics",
-        "Books",
-        "Fiction & Literature"
-      ],
-      "artistId": 2632114,
       "averageUserRating": 4.5,
       "userRatingCount": 192,
       "country": "GBR"

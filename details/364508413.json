@@ -1,0 +1,64 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        203228428
+      ],
+      "trackCensoredName": "Lair of the Lion",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication/68/c3/f2/mzi.vxetrajc.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/68/c3/f2/mzi.vxetrajc.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/christine-feehan/203228428?uo=4",
+      "formattedPrice": "$2.99",
+      "trackViewUrl": "https://books.apple.com/us/book/lair-of-the-lion/id364508413?uo=4",
+      "artistId": 203228428,
+      "artistName": "Christine Feehan",
+      "genres": [
+        "Paranormal Romance",
+        "Books",
+        "Romance",
+        "Sci-Fi & Fantasy",
+        "Fantasy",
+        "Paranormal Fantasy",
+        "Historical Fantasy",
+        "Historical Romance",
+        "Science Fiction",
+        "Romantic Suspense",
+        "Erotic Romance",
+        "Fiction & Literature",
+        "Horror",
+        "Contemporary",
+        "Mysteries & Thrillers",
+        "Historical Mysteries"
+      ],
+      "price": 2.99,
+      "releaseDate": "2010-06-22T07:00:00Z",
+      "trackId": 364508413,
+      "trackName": "Lair of the Lion",
+      "genreIds": [
+        "10058",
+        "38",
+        "9003",
+        "9020",
+        "10044",
+        "11004",
+        "11003",
+        "10059",
+        "10063",
+        "10061",
+        "10056",
+        "9031",
+        "10048",
+        "11001",
+        "9032",
+        "10051"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "“The Queen of paranormal romance.”<br />—USA Today<br /><br />A classic from #1 New York Times bestselling author Christine Feehan, Lair of the Lion is a&#xa0; dark-edged and enthralling take on the beloved “Beauty and the Beast” fairy tale. It is the breathtaking story of a beautiful, penniless aristocrat who promises herself to the handsome, powerful, mysterious, and not wholly human Don Nicolai DeMarco in order to free her imprisoned brother—even though legend has it that the Don will destroy any woman he weds. Perhaps best known for her bestselling “Dark” series, featuring the haunted and mesmerizing immortal Carpathians, Feehan is arguably the biggest name in paranormal historical romance—and any reader who loves passionate love stories tinged with the supernatural should enter the Lair of the Lion.",
+      "averageUserRating": 4.5,
+      "userRatingCount": 210,
+      "country": "USA"
+    }
+  ]
+}

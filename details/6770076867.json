@@ -2,15 +2,15 @@
   "resultCount": 1,
   "results": [
     {
-      "trackCensoredName": "Only the Hunter",
-      "artistViewUrl": "https://books.apple.com/us/artist/isabel-jolie/1490641112?uo=4",
-      "trackViewUrl": "https://books.apple.com/us/book/only-the-hunter/id6770076867?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/99/db/7d/99db7de4-646f-b9cc-1bdd-275980074b57/0004267105.jpg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/99/db/7d/99db7de4-646f-b9cc-1bdd-275980074b57/0004267105.jpg/100x100bb.jpg",
-      "formattedPrice": "$0.99",
       "artistIds": [
         1490641112
       ],
+      "trackCensoredName": "Only the Hunter",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/99/db/7d/99db7de4-646f-b9cc-1bdd-275980074b57/0004267105.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/99/db/7d/99db7de4-646f-b9cc-1bdd-275980074b57/0004267105.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/isabel-jolie/1490641112?uo=4",
+      "formattedPrice": "$0.99",
+      "trackViewUrl": "https://books.apple.com/us/book/only-the-hunter/id6770076867?uo=4",
       "artistId": 1490641112,
       "artistName": "Isabel Jolie",
       "genres": [
@@ -22,9 +22,9 @@
         "Military Romance"
       ],
       "price": 0.99,
-      "trackName": "Only the Hunter",
-      "trackId": 6770076867,
       "releaseDate": "2026-09-17T07:00:00Z",
+      "trackId": 6770076867,
+      "trackName": "Only the Hunter",
       "genreIds": [
         "10061",
         "38",

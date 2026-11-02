@@ -45,7 +45,16 @@
       "artistIds": [
         386162854
       ],
+      "formattedPrice": "Free",
+      "artistId": 386162854,
       "artistName": "Margaret Watson",
+      "genres": [
+        "Romantic Suspense",
+        "Books",
+        "Romance",
+        "Contemporary Romance"
+      ],
+      "price": 0,
       "releaseDate": "2021-01-12T08:00:00Z",
       "trackId": 1548537459,
       "trackName": "Once Removed",
@@ -58,15 +67,6 @@
       "kind": "ebook",
       "currency": "GBP",
       "description": "When Lainey becomes trapped in a burning building with her almost-divorced husband’s body, Brody rescues her just in time.&#xa0; And when she realizes the killer is now after her, she takes refuge at Brody’s Montana ranch.<br />\nLainey and Brody have been fighting their attraction for years.&#xa0; But as the barriers between them fall, Lainey rescues Phoebe, a runaway teen, from the compound where her husband died.&#xa0; Now they’re forced to focus on Phoebe <i>and</i> an invisible threat.<br />\nWhoever murdered her husband has eyes on Lainey.&#xa0; Will their fragile new family survive a desperate predator?&#xa0; Can they protect Phoebe, identify the killer and find their happily ever after?",
-      "formattedPrice": "Free",
-      "price": 0,
-      "genres": [
-        "Romantic Suspense",
-        "Books",
-        "Romance",
-        "Contemporary Romance"
-      ],
-      "artistId": 386162854,
       "averageUserRating": 4,
       "userRatingCount": 36,
       "country": "GBR"

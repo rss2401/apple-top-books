@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "4,99 €",
+      "trackCensoredName": "Gangsta - Tome 01",
+      "artistViewUrl": "https://books.apple.com/fr/artist/kohske/1455158163?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/gangsta-tome-01/id6820501132?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f1/80/c7/f180c7b3-42d4-439c-4a70-9f2bb9aa6173/9782331093654-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f1/80/c7/f180c7b3-42d4-439c-4a70-9f2bb9aa6173/9782331093654-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        1455158163
+      ],
+      "artistId": 1455158163,
+      "artistName": "Kohske",
+      "genreIds": [
+        "10016",
+        "38",
+        "9026"
+      ],
+      "trackId": 6820501132,
+      "trackName": "Gangsta - Tome 01",
+      "releaseDate": "2026-11-02T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Peur sur la ville</b><br /><br />Ergastulum est un nid de crapules où s’affairent mafieux, criminels, policiers corrompus et prostituées. Nicholas Brown, mercenaire sourd, et Warwick Arcangelo, gigolo finaud, y œuvrent comme hommes à tout faire, acceptant des petits boulots sales pour le compte de divers clients. Lorsque leur route croise celle d’Alex, une belle prostituée, leurs habitudes s’effritent peu à peu et de douloureux souvenirs refont surface… Car en ce monde, il existe une race mutante de surhommes appelés “crépusculaires” et Nick est l’un d’entre eux !<br /><br /><i>Gangsta</i> est aujourd’hui le titre phare du magazine <i>@Bunch</i> où sont publiés <i>Btooom!</i> et <i>Woodstock</i>. Porte drapeau de la nouvelle génération, ce manga est incontournable pour tout lecteur qui n’a pas froid aux yeux !",
+      "genres": [
+        "Manga",
+        "Livres",
+        "BD et mangas"
+      ],
+      "price": 4.99,
+      "country": "FRA"
+    }
+  ]
+}

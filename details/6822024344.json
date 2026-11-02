@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "formattedPrice": "4,99 €",
       "trackCensoredName": "Un Coach pour Noël",
       "artistViewUrl": "https://books.apple.com/fr/artist/renee-rose/423804844?uo=4",
       "trackViewUrl": "https://books.apple.com/fr/book/un-coach-pour-no%C3%ABl/id6822024344?uo=4",
@@ -18,13 +19,12 @@
         "9003",
         "11231"
       ],
-      "releaseDate": "2026-11-01T07:00:00Z",
       "trackId": 6822024344,
       "trackName": "Un Coach pour Noël",
+      "releaseDate": "2026-11-01T07:00:00Z",
       "kind": "ebook",
       "currency": "EUR",
       "description": "Il s’était juré de ne plus sortir avec des femmes ayant des enfants. Il s’était juré de ne plus sortir avec qui que ce soit tout court, d’ailleurs. Mais ça, c’était avant que Noël s’en mêle.\n\nLui, c’est l’ancien quarterback le plus populaire de Santa Fe ; charismatique, généreux et allergique au qu’en-dira-t-on. Après avoir passé son enfance à voir les petits amis de sa mère aller et venir, il s’est imposé une règle : ne jamais laisser un enfant s’attacher à un homme qui risque de ne pas rester. Plutôt simple… jusqu’au jour où il se rend dans la salle de sport de la femme la plus têtue, caustique et intouchable de toute la ville.\n \nElle, elle bâtit un empire du fitness et maintient l’unité de sa famille à coups de listes de choses à faire. Elle n’a pas de temps pour les distractions, surtout celles d’un mètre quatre-vingt-quinze avec des fossettes, un passé de champion et un faible pour ses enfants.\n \nUne romance de Noël enneigée avec un héros paternel à tomber, une héroïne qui fait passer les gens qu’elle aime avant tout, et une attirance fulgurante, pile ce qu’il vous faut pour les fêtes.",
-      "formattedPrice": "4,99 €",
       "genres": [
         "Romance contemporaine",
         "Livres",

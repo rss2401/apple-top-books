@@ -2,24 +2,17 @@
   "resultCount": 1,
   "results": [
     {
-      "artistIds": [
-        893404116
-      ],
+      "formattedPrice": "4,99 €",
       "trackCensoredName": "Radiant - Tome 20 - Radiant",
       "artistViewUrl": "https://books.apple.com/fr/artist/tony-valente/893404116?uo=4",
       "trackViewUrl": "https://books.apple.com/fr/book/radiant-tome-20-radiant/id6823654345?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/52/6a/93/526a93a9-f895-f486-26b4-427d2e398c79/9791033570653.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/52/6a/93/526a93a9-f895-f486-26b4-427d2e398c79/9791033570653.jpg/100x100bb.jpg",
+      "artistIds": [
+        893404116
+      ],
       "artistId": 893404116,
       "artistName": "Tony Valente",
-      "genres": [
-        "Manga : Action",
-        "Livres",
-        "BD et mangas",
-        "Manga",
-        "Manga : Shōnen"
-      ],
-      "price": 4.99,
       "genreIds": [
         "50000071",
         "38",
@@ -33,7 +26,14 @@
       "kind": "ebook",
       "currency": "EUR",
       "description": "Le Concile des généraux de l’Inquisition a commencé à Bôme, présidé par Torque, qui se voit attribuer les fonctions du Maréchal qui a « disparu ». Il met son plan à l’œuvre : soumettre à un contrôle absolu la totalité des infectés. Les troupes sont envoyées pour tous les arrêter, cloisonner la population de la Glèbe et mater tout soupçon de rébellion, bombardant et déployant des Harmoniziums partout pour priver les « terroristes » de Fantasia.<br />Mais les Domitors avaient prévu leur coup : le plan Tartaros. Des œufs de Némésis explosent partout où les Harmoniziums sont activés, libérant une menace à laquelle ni l’Inquisition ni la population ne peuvent faire face… : des Némésis qui - s'ils sont vaincus – explosent !<br />Seth et les siens vont devoir trouver une solution à cette menace, tout en luttant contre une Inquisition en panique, prête à tout pour annihiler les infectés.",
-      "formattedPrice": "4,99 €",
+      "genres": [
+        "Manga : Action",
+        "Livres",
+        "BD et mangas",
+        "Manga",
+        "Manga : Shōnen"
+      ],
+      "price": 4.99,
       "country": "FRA"
     }
   ]

@@ -1,0 +1,41 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        102301243,
+        270151941,
+        566873059,
+        129739765
+      ],
+      "artistId": 102301243,
+      "artistName": "グリム兄弟, 菊池寛, 中島孤島 & 楠山正雄",
+      "genres": [
+        "名作",
+        "ブック",
+        "小説／文学"
+      ],
+      "price": 0,
+      "trackId": 1023119155,
+      "trackName": "グリム兄弟全集",
+      "releaseDate": "2015-07-25T07:00:00Z",
+      "genreIds": [
+        "10042",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "『グリム童話』の編集者として知られるヤーコブとヴィルヘルムのグリム兄弟は、言語学者・文献学者・民話収集家・文学者として19世紀のドイツで活躍した。『グリム童話』の正式なタイトルは『子供たちと家庭のメルヒェン集』で、1812年に初版第1巻が刊行された。以来、170以上の言語に翻訳され、世界で最も多くの人々に読まれた書物と言われている。日本では明治期に外国の教材から取り入れたのが最初とされ、1887(明治20)年に本として初めて出版された。また、1990年代に入って、『グリム童話』の「残酷性」にスポットが当てられ、「童話に潜む恐怖」をテーマに数々のアンソロジーや評論集が出版され、一大ブームを起こした。",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/29/d5/6c/29d56c65-b8eb-fe43-cc44-3c3126f1e986/0000000001091A.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/29/d5/6c/29d56c65-b8eb-fe43-cc44-3c3126f1e986/0000000001091A.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E3%82%B0%E3%83%AA%E3%83%A0%E5%85%84%E5%BC%9F-%E8%8F%8A%E6%B1%A0%E5%AF%9B-%E4%B8%AD%E5%B3%B6%E5%AD%A4%E5%B3%B6-%E6%A5%A0%E5%B1%B1%E6%AD%A3%E9%9B%84/102301243?uo=4",
+      "trackCensoredName": "グリム兄弟全集",
+      "formattedPrice": "無料",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%82%B0%E3%83%AA%E3%83%A0%E5%85%84%E5%BC%9F%E5%85%A8%E9%9B%86/id1023119155?uo=4",
+      "userRatingCount": 294,
+      "averageUserRating": 3.5,
+      "country": "JPN"
+    }
+  ]
+}

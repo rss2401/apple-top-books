@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1599797639,
+        1451562217,
+        1069247937
+      ],
+      "artistId": 1599797639,
+      "artistName": "飴井涼, 黒留ハガネ & 転",
+      "genres": [
+        "青年",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "ファンタジー"
+      ],
+      "price": 0,
+      "trackId": 6747018503,
+      "trackName": "冒険者酒場の料理人【分冊版】 1",
+      "releaseDate": "2025-06-27T07:00:00Z",
+      "genreIds": [
+        "11338",
+        "38",
+        "9026",
+        "10016",
+        "50000074"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "冒険者たちがとる貧相な食事を残念に思っている酒場の店主・ヨイシ。彼はある日、新米冒険者たちが誤って持ち込んだ、苦すぎて食べられないとされる“迷宮”産の「石胡桃」の調理法を探りはじめるのだが……?<br/>\n転移前の現代で得た知識を生かし、1人の料理人が異世界の貧相な食事事情を劇的に変えていく痛快・酒場繁盛記!! 分冊版第1弾。<br/>\n※本作品は単行本を分割したもので、本編内容は同一のものとなります。重複購入にご注意ください。",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/be/10/2c/be102c1f-7aa3-586c-37c6-a81f56217e4e/04000000A22476300000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/be/10/2c/be102c1f-7aa3-586c-37c6-a81f56217e4e/04000000A22476300000.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E9%A3%B4%E4%BA%95%E6%B6%BC-%E9%BB%92%E7%95%99%E3%83%8F%E3%82%AC%E3%83%8D-%E8%BB%A2/1599797639?uo=4",
+      "trackCensoredName": "冒険者酒場の料理人【分冊版】 1",
+      "formattedPrice": "無料",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E5%86%92%E9%99%BA%E8%80%85%E9%85%92%E5%A0%B4%E3%81%AE%E6%96%99%E7%90%86%E4%BA%BA-%E5%88%86%E5%86%8A%E7%89%88-1/id6747018503?uo=4",
+      "country": "JPN"
+    }
+  ]
+}

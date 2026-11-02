@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Last Dance",
+      "artistViewUrl": "https://books.apple.com/gb/artist/mark-billingham/73092649?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-last-dance/id6442894859?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/74/5e/6f/745e6f8d-4832-5acb-b0ad-fb914fad6ebe/9781408726341.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/74/5e/6f/745e6f8d-4832-5acb-b0ad-fb914fad6ebe/9781408726341.jpg/100x100bb.jpg",
+      "artistIds": [
+        73092649
+      ],
+      "artistId": 73092649,
+      "artistName": "Mark Billingham",
+      "genres": [
+        "Crime & Thrillers",
+        "Books",
+        "Cosy Mysteries",
+        "Police Procedural"
+      ],
+      "price": 0.99,
+      "trackId": 6442894859,
+      "trackName": "The Last Dance",
+      "genreIds": [
+        "9032",
+        "38",
+        "11259",
+        "10052"
+      ],
+      "releaseDate": "2023-05-25T07:00:00Z",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>THE FIRST NEW SERIES FROM #1 BESTSELLER MARK BILLINGHAM IN 20 YEARS.</b><br /><br /><b>DON'T MISS THE NEXT BOOK IN THE DETECTIVE MILLER SERIES, <i>THE WRONG HANDS</i>, OUT NOW!</b><br /><br />____________<br /><b>'A captivating new series from Mark Billingham, the very best in the business' RICHARD OSMAN</b><br /><br /><b>'An unmitigated joy from the very first page to last' <i>DAILY MAIL</i><br /></b><br /><b>'Funny, moving, and full of surprises . . . an absolute treat' MICK HERRON<br /></b><b><br />'This new series is bursting with wit, charm and intriguing, complex characters' JANICE HALLETT</b><br /><br /><b>'Deserves a big fat ten' <i>THE TIMES</i></b><br />____________<br /><br /><b>Meet Detective Miller: unique, unconventional, and <i>criminally </i>underestimated...</b><br /><br />He's a detective, a dancer, he has no respect for authority ­- and he's the best hope Blackpool has for keeping criminals off the streets. Meet Detective Declan Miller.<br /><br />A double murder in a seaside hotel sees a grieving Miller return to work to solve what appears to be a case of mistaken identity. Just why were two completely unconnected men taken out?<br /><br />Despite a somewhat dubious relationship with both reality and his new partner, can the eccentric, offbeat Miller find answers where his colleagues have found only an impossible puzzle?<br />____________<br /><br /><b>WHAT REAL READERS SAY ABOUT THE LAST DANCE</b><br /><br /><b>'</b>DS Miller is <b>a wonderful, quirky character with whom I share a sense of humour</b>. I laughed a great deal' ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'An author who is <b>anything but a one-trick pony</b>' ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'Quirky, yet <b>dark in places</b>, Some <b>laugh-out-loud </b>moments that startled bus passengers sitting close by' ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'Very amusing and entertaining. <b>I love Tom Thorne and now I love Declan Miller too</b>' ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'If you are a Billlingham fan you will know <b>it's worth reading</b>, and if you are new to this author, I'm sure <b>you will become a fan!</b>' ⭐ ⭐ ⭐ ⭐ ⭐",
+      "formattedPrice": "£0.99",
+      "averageUserRating": 4.5,
+      "userRatingCount": 188,
+      "country": "GBR"
+    }
+  ]
+}

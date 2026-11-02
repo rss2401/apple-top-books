@@ -5,33 +5,33 @@
       "artistIds": [
         6816102596
       ],
-      "trackViewUrl": "https://books.apple.com/fr/book/the-art-of-saying-i-do/id6820560359?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fe/ba/6f/feba6ff0-30dd-4d08-1ce6-09a632541c77/0004456449.jpg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fe/ba/6f/feba6ff0-30dd-4d08-1ce6-09a632541c77/0004456449.jpg/100x100bb.jpg",
-      "artistViewUrl": "https://books.apple.com/fr/artist/maeve-larkwell/6816102596?uo=4",
-      "trackCensoredName": "The Art of Saying I Do",
       "formattedPrice": "8,99 €",
-      "price": 8.99,
+      "artistId": 6816102596,
+      "artistName": "Maeve Larkwell",
       "genres": [
         "Romance",
         "Livres",
         "Romance jeunes adultes",
         "Comédies romantiques"
       ],
-      "trackName": "The Art of Saying I Do",
-      "trackId": 6820560359,
+      "price": 8.99,
       "genreIds": [
         "9003",
         "38",
         "11040",
         "11042"
       ],
+      "releaseDate": "2026-11-01T07:00:00Z",
+      "trackId": 6820560359,
+      "trackName": "The Art of Saying I Do",
       "kind": "ebook",
       "currency": "EUR",
       "description": "<b>Archibald « Fisher » Fisher excelle dans deux domaines : le hockey et décevoir sa famille.</b><br /><br />À vingt-trois ans, le rookie des Lions de San Francisco préfère largement la glace aux salles de conseil du puissant Fisher Group. Fêtard, charmeur et éternel mouton noir d'une dynastie qui ne cesse de lui rappeler qu'il n'est jamais assez bien, il compte bien mener sa vie comme il l'entend.<br /><br />Jusqu'à ce que son grand-père décide de le contrôler une dernière fois depuis l'au-delà : pour toucher son héritage, Fisher doit être marié avant le début de la prochaine saison de NHL.<br /><br />Lila Chen, elle, n'a que quelques semaines pour sauver le Collectif de la Caserne. Cet ancien bâtiment du quartier des arts est son atelier, son foyer et le dernier endroit où elle se sent encore proche de sa mère. Le problème ? Le groupe immobilier qui veut le racheter pour le démolir appartient précisément à la famille Fisher.<br /><br /><b>Lila devrait donc détester Archibald Fisher.</b><br /><br /><b>Et elle essaie.</b><br /><br />Mais sous ses airs de gosse de riche insupportablement séduisant, Fisher aime sincèrement l'art, comprend ce que signifie se sentir à côté de sa propre famille et, surtout, veut empêcher les siens de détruire la caserne.<br /><br /><b>Alors une idée complètement déraisonnable devient leur meilleure option : se marier.</b><br /><br />Fisher récupère son héritage. Lila obtient les moyens de sauver le Collectif. Ils restent mariés un an, puis divorcent. Un contrat, quelques signatures, aucune complication sentimentale.<br /><br /><b>Simple.</b><br /><br />Sauf qu'un mariage de convenance devient beaucoup plus dangereux quand les jeunes mariés commencent à vivre sous le même toit. Entre les playoffs, les nuits au loft, les secrets artistiques, les conflits familiaux et une bande d'amis bien décidée à les adopter comme un vrai couple, la frontière entre arrangement et amour se brouille dangereusement.<br /><br /><b>Sauver la caserne était le plan.</b><br /><br /><b>Protéger leurs cœurs n'en faisait pas partie.</b><br /><br /><i>Une romance sportive New Adult drôle et tendre, mêlant mariage de convenance, proximité forcée, hockey professionnel, found family, différences sociales et un héros golden retriever qui cache bien plus de profondeur que sa réputation ne le laisse croire.</i>",
-      "releaseDate": "2026-11-01T07:00:00Z",
-      "artistId": 6816102596,
-      "artistName": "Maeve Larkwell",
+      "trackCensoredName": "The Art of Saying I Do",
+      "artistViewUrl": "https://books.apple.com/fr/artist/maeve-larkwell/6816102596?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/the-art-of-saying-i-do/id6820560359?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fe/ba/6f/feba6ff0-30dd-4d08-1ce6-09a632541c77/0004456449.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fe/ba/6f/feba6ff0-30dd-4d08-1ce6-09a632541c77/0004456449.jpg/100x100bb.jpg",
       "country": "FRA"
     }
   ]

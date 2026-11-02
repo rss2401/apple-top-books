@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "13,99 €",
+      "trackCensoredName": "Le Camp des saints",
+      "artistViewUrl": "https://books.apple.com/fr/artist/jean-raspail/555652873?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/le-camp-des-saints/id589066677?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/13/ae/4f/13ae4fba-ecc4-6aac-e7de-d431fe1d7c7b/9782221121276.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/13/ae/4f/13ae4fba-ecc4-6aac-e7de-d431fe1d7c7b/9782221121276.jpg/100x100bb.jpg",
+      "artistIds": [
+        555652873
+      ],
+      "artistId": 555652873,
+      "artistName": "Jean Raspail",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "trackId": 589066677,
+      "trackName": "Le Camp des saints",
+      "releaseDate": "2012-12-20T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "\" Dans la nuit, au midi de notre pays, cent navires se sont échoués, chargés d'un million d'immigrants. Ils viennent chercher l'espérance. Ils inspirent la pitié. Ils sont faibles... Ils ont la puissance du nombre. Ils sont l'Autre, c'est-à-dire multitude, l'avant-garde de la multitude. À tous les niveaux de la conscience universelle, on se pose alors la question : que faire ? Il est trop tard.<br />Paru pour la première fois en 1973,<i>Le Camp des Saints</i>, qui est un roman, relève en 2011 de la réalité. Nous sommes, tous, les acteurs du<i>Camp des Saints</i>. C'est notre destin que ce livre raconte, notre inconscience et notre acquiescement à ce qui va nous dissoudre.<br />C'est pourquoi, en guise de préface à cette nouvelle édition, dans un texte intitulé<i>Big Other</i>, j'ai voulu, une dernière fois, mettre un certain nombre de points sur les i. \" J.R.",
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "price": 13.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 42,
+      "country": "FRA"
+    }
+  ]
+}

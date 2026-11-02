@@ -5,16 +5,18 @@
       "artistIds": [
         2683836
       ],
-      "price": 0,
-      "artistId": 2683836,
-      "artistName": "Washington Irving",
-      "trackId": 765096855,
-      "trackName": "The Legend of Sleepy Hollow",
-      "releaseDate": "2008-06-25T07:00:00Z",
       "genreIds": [
         "10048",
         "38",
         "9031"
+      ],
+      "releaseDate": "2008-06-25T07:00:00Z",
+      "artistId": 2683836,
+      "artistName": "Washington Irving",
+      "genres": [
+        "Horror",
+        "Books",
+        "Fiction & Literature"
       ],
       "kind": "ebook",
       "currency": "USD",
@@ -25,11 +27,9 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/75/45/1a/75451a51-058c-56f8-a3fa-9842dd0cdf17/the_legend_of_sleepy_hollow.jpeg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/75/45/1a/75451a51-058c-56f8-a3fa-9842dd0cdf17/the_legend_of_sleepy_hollow.jpeg/100x100bb.jpg",
       "formattedPrice": "Free",
-      "genres": [
-        "Horror",
-        "Books",
-        "Fiction & Literature"
-      ],
+      "trackId": 765096855,
+      "trackName": "The Legend of Sleepy Hollow",
+      "price": 0,
       "averageUserRating": 4,
       "userRatingCount": 292,
       "country": "USA"

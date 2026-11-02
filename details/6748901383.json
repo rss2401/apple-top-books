@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "2,99 €",
+      "artistIds": [
+        1607887136
+      ],
+      "trackCensoredName": "Mayfair Ladys - Drei Junggesellen für Lady Beatrice",
+      "artistViewUrl": "https://books.apple.com/de/artist/freda-macbride/1607887136?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/mayfair-ladys-drei-junggesellen-f%C3%BCr-lady-beatrice/id6748901383?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a0/af/cc/a0afccc0-ad91-a686-d4e3-67232679a5af/9783751775540.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a0/af/cc/a0afccc0-ad91-a686-d4e3-67232679a5af/9783751775540.jpg/100x100bb.jpg",
+      "artistId": 1607887136,
+      "artistName": "Freda MacBride",
+      "releaseDate": "2025-11-01T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Verliebe dich in Mayfair!</b><br /><br />Lady Beatrice, die älteste Tochter des Earl of Conham, hat sich mit ihrem Schicksal arrangiert. Seit einem Kindheitsunfall trägt sie eine Narbe im Gesicht - und ist überzeugt, dass kein Gentleman je echtes Interesse an ihr haben wird. Fünf erfolglose Londoner Seasons und eine überfürsorgliche Mutter haben sie in diesem Glauben nur bestärkt. Allerdings gelingt es ihr immer wieder, Ehen für ihre Freundinnen zu stiften.<br /><br />Genau aus diesem Grund bittet die Dowager Marchioness of Bayne sie um Hilfe: Ihre drei jüngeren Söhne sollen endlich passende Bräute finden. Walter war schon zweimal verlobt, doch wurde er beide Male von seinen Angebeteten verlassen. Hugh ist als angehender Geistlicher besonders wählerisch, und Francis scheint überhaupt nicht an Frauen interessiert zu sein.<br /><br />Doch Francis hat längst ein Auge auf die einzige Frau geworfen, die sich selbst nicht für begehrenswert hält: Bea. Während sie noch versucht, ihm die richtige Dame zu präsentieren, verfolgt er längst seinen eigenen Plan: ihr zu beweisen, dass sie genau die Frau ist, auf die er gewartet hat.<br /><br /><b>Der herzerwärmende Auftakt der neuen Regency-Reihe von Freda MacBride voller Gefühl und heimlicher Leidenschaft. Für alle, die starke Heldinnen, kluge Dialoge und sinnliche Liebesgeschichten lieben.</b><br /><br />eBooks von beHEARTBEAT - Herzklopfen garantiert!",
+      "price": 2.99,
+      "genreIds": [
+        "10059",
+        "38",
+        "9003",
+        "9031",
+        "10047"
+      ],
+      "genres": [
+        "Historische Liebesromane",
+        "Bücher",
+        "Liebesromane",
+        "Belletristik und Literatur",
+        "Historische Romane"
+      ],
+      "trackId": 6748901383,
+      "trackName": "Mayfair Ladys - Drei Junggesellen für Lady Beatrice",
+      "averageUserRating": 4,
+      "userRatingCount": 9,
+      "country": "DEU"
+    }
+  ]
+}

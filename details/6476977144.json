@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "1,99 €",
+      "trackCensoredName": "Sorceleur (Witcher), T1 : Le Dernier Voeu",
+      "artistViewUrl": "https://books.apple.com/fr/artist/andrzej-sapkowski-laurence-dy%C3%A8vre-cd-projeckt-red/281832452?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/sorceleur-witcher-t1-le-dernier-voeu/id6476977144?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b6/ee/80/b6ee8019-05c1-be2a-60c2-e16b3eb9d4ba/9782820507082-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b6/ee/80/b6ee8019-05c1-be2a-60c2-e16b3eb9d4ba/9782820507082-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        281832452,
+        897493259,
+        1728443253
+      ],
+      "artistId": 281832452,
+      "artistName": "Andrzej Sapkowski, Laurence Dyèvre & Cd Projeckt Red",
+      "genreIds": [
+        "10044",
+        "38",
+        "9020"
+      ],
+      "trackId": 6476977144,
+      "trackName": "Sorceleur (Witcher), T1 : Le Dernier Voeu",
+      "releaseDate": "2024-10-09T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Un best-seller international : David Gemmell Legend Award 2009 du Meilleur roman de Fantasy.<br />Geralt de Riv est un homme inquiétant, un mutant devenu le parfait assassin grâce à la magie et à un long entraînement. En ces temps obscurs, ogres, goules et vampires pullulent, et les magiciens sont des manipulateurs experts. Contre ces menaces, il faut un tueur à gages à la hauteur, et Geralt est plus qu'un guerrier ou un mage. C'est un sorceleur.<br />Au cours de ses aventures, il rencontrera une magicienne capricieuse aux charmes vénéneux, un troubadour paillard au grand coeur... et, au terme de sa quête, peut-être réalisera-t-il son dernier voeu : retrouver son humanité perdue.",
+      "genres": [
+        "Fantasy",
+        "Livres",
+        "SF et fantasy"
+      ],
+      "price": 1.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 29,
+      "country": "FRA"
+    }
+  ]
+}

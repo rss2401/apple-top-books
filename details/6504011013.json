@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "4,99 €",
+      "artistIds": [
+        1569816751
+      ],
+      "trackCensoredName": "SYLTKRIMI Strandgrab",
+      "artistViewUrl": "https://books.apple.com/de/artist/krinke-rehberg/1569816751?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/syltkrimi-strandgrab/id6504011013?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ca/56/2d/ca562de1-5ec0-b561-559d-9544060a4401/9783759225054.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ca/56/2d/ca562de1-5ec0-b561-559d-9544060a4401/9783759225054.jpg/100x100bb.jpg",
+      "artistId": 1569816751,
+      "artistName": "Krinke Rehberg",
+      "releaseDate": "2024-08-09T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Der Strand, Übergang von Meer zu Land, Leben und Tod gehen Hand in Hand.\nHauptkommissarin Bente Brodersen ermittelt mit friesischer Sturheit auf Deutschlands nördlichster Insel.\nIm Biikefeuer auf Sylt wird eine Leiche entdeckt. Die Obduktion ergibt, dass der Mann bereits einen Tag zuvor auf mehrere Arten ermordet wurde. Kurz darauf findet Bente Brodersen eine Leiche im Watt. In welcher Beziehung standen die beiden Toten zueinander und welche Rolle spielt die Wattenmeerstation in List?Eine Notoperation zwingt Bente, sich mit ihrer Vergangenheit auseinanderzusetzen. Hartnäckig verfolgt sie eine Spur, aber als eine weitere Leiche entdeckt wird, überschlagen sich die Ereignisse.\n\nDie raue See, der frische Wind und die endlosen Dünen machen SYLT zum idealen Schauplatz der spannenden Küstenkrimis.\nJeder Teil der Syltkrimiserie ist in sich abgeschlossen und kann unabhängig voneinander gelesen werden.",
+      "price": 4.99,
+      "genreIds": [
+        "9032",
+        "38",
+        "11259",
+        "10052"
+      ],
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Cosy Crime",
+        "Polizeiromane"
+      ],
+      "trackId": 6504011013,
+      "trackName": "SYLTKRIMI Strandgrab",
+      "averageUserRating": 4.5,
+      "userRatingCount": 46,
+      "country": "DEU"
+    }
+  ]
+}

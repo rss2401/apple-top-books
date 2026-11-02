@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        261284573
+      ],
+      "formattedPrice": "8,49 €",
+      "artistId": 261284573,
+      "artistName": "Anna Jacobs",
+      "genres": [
+        "Romance",
+        "Livres"
+      ],
+      "price": 8.49,
+      "genreIds": [
+        "9003",
+        "38"
+      ],
+      "releaseDate": "2021-06-03T07:00:00Z",
+      "trackId": 1559012065,
+      "trackName": "Swan Hill - Tome 2 Au bout du rêve",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "\" À n'ouvrir que si vous avez du temps : c'est un roman qu'on ne peut lâcher ! \" The Australian Bookshelf<br /><br /><b>Le deuxième volet de la série<i>Swan Hill</i>, par l'auteure de la trilogie<i>Cassandra</i></b><br /><br />1868. La jeune Ismay n'a qu'une envie : quitter l'Irlande pour aller rejoindre son frère Bram à Swan Hill, en Australie, là où il s'est installé avec l'ambition de faire fortune.<br /><br />Mais son père veut la contraindre d'épouser un voisin, le sournois Rory Flynn, malgré l'antipathie qu'Ismay éprouve à son égard. Un jour que Rory l'a violemment agressée, elle décide de s'enfuir.<br /><br />À bord du bateau qui la conduit à l'autre bout du monde, la jeune femme se fait passer pour une veuve désargentée et se lie d'amitié avec Adam Treagar.<br /><br />Au fil du voyage, entre Suez et Singapour, les sentiments qu'ils éprouvent l'un pour l'autre évoluent. Ismay craint alors que sa réelle identité soit découverte. Mais Adam, lui-même, lui a-t-il dit toute la vérité ?",
+      "trackCensoredName": "Swan Hill - Tome 2 Au bout du rêve",
+      "artistViewUrl": "https://books.apple.com/fr/artist/anna-jacobs/261284573?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/swan-hill-tome-2-au-bout-du-r%C3%AAve/id1559012065?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/7d/52/a8/7d52a8d9-5bb7-802b-fe48-2a447b938399/9782809842067.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/7d/52/a8/7d52a8d9-5bb7-802b-fe48-2a447b938399/9782809842067.jpg/100x100bb.jpg",
+      "averageUserRating": 4,
+      "userRatingCount": 38,
+      "country": "FRA"
+    }
+  ]
+}

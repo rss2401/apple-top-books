@@ -5,16 +5,18 @@
       "artistIds": [
         2087446
       ],
-      "price": 14.99,
-      "artistId": 2087446,
-      "artistName": "James Patterson",
-      "trackId": 6759546105,
-      "trackName": "The Family Cross",
-      "releaseDate": "2026-10-19T07:00:00Z",
       "genreIds": [
         "9032",
         "38",
         "10052"
+      ],
+      "releaseDate": "2026-10-19T07:00:00Z",
+      "artistId": 2087446,
+      "artistName": "James Patterson",
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books",
+        "Police Procedural"
       ],
       "kind": "ebook",
       "currency": "USD",
@@ -25,13 +27,11 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d3/c1/0a/d3c10a0b-6a1b-e97d-49c7-1a1125772a27/9780316569750.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d3/c1/0a/d3c10a0b-6a1b-e97d-49c7-1a1125772a27/9780316569750.jpg/100x100bb.jpg",
       "formattedPrice": "$14.99",
-      "genres": [
-        "Mysteries & Thrillers",
-        "Books",
-        "Police Procedural"
-      ],
+      "trackId": 6759546105,
+      "trackName": "The Family Cross",
+      "price": 14.99,
       "averageUserRating": 4.5,
-      "userRatingCount": 265,
+      "userRatingCount": 297,
       "country": "USA"
     }
   ]

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "4,49 €",
+      "trackCensoredName": "A Raisin in the Sun",
+      "artistViewUrl": "https://books.apple.com/de/artist/lorraine-hansberry/322341660?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/a-raisin-in-the-sun/id470465746?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication/11/c5/ba/mzi.zszpngfp.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/11/c5/ba/mzi.zszpngfp.jpg/100x100bb.jpg",
+      "artistIds": [
+        322341660
+      ],
+      "artistId": 322341660,
+      "artistName": "Lorraine Hansberry",
+      "genres": [
+        "Theater",
+        "Bücher",
+        "Kultur und Unterhaltung"
+      ],
+      "price": 4.49,
+      "genreIds": [
+        "10036",
+        "38",
+        "9007"
+      ],
+      "releaseDate": "2004-11-29T08:00:00Z",
+      "trackName": "A Raisin in the Sun",
+      "trackId": 470465746,
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>\"Never before, in the entire history of the American theater, has so much of the truth of Black people's lives been seen on the stage,\" observed James Baldwin shortly before <i>A Raisin in the Sun</i> opened on Broadway in 1959.</b><br /><br />This edition presents the fully restored, uncut version of Hansberry's landmark work with an introduction by Robert Nemiroff.<br /><br />Lorraine Hansberry's award-winning drama about the hopes and aspirations of a struggling, working-class family living on the South Side of Chicago connected profoundly with the psyche of Black America—and changed American theater forever. The play's title comes from a line in Langston Hughes's poem \"Harlem,\" which warns that a dream deferred might \"dry up/like a raisin in the sun.\"<br /><br />\"The events of every passing year add resonance to <i>A Raisin in the Sun</i>,\" said <i>The New York Times</i>. \"It is as if history is conspiring to make the play a classic.\"",
+      "averageUserRating": 3.5,
+      "userRatingCount": 20,
+      "country": "DEU"
+    }
+  ]
+}

@@ -45,7 +45,16 @@
       "artistIds": [
         470159121
       ],
+      "formattedPrice": "Free",
+      "artistId": 470159121,
       "artistName": "Alyssa Rose Ivy",
+      "genres": [
+        "Contemporary Romance",
+        "Books",
+        "Romance",
+        "New Adult Romance"
+      ],
+      "price": 0,
       "releaseDate": "2012-09-24T07:00:00Z",
       "trackId": 566145943,
       "trackName": "Derailed (Clayton Falls)",
@@ -58,17 +67,8 @@
       "kind": "ebook",
       "currency": "GBP",
       "description": "When you're lost, sometimes the only place you can go is home.<br /><br />Broken over the death of her fiancé, Molly leaves law school to return to her childhood home in North Carolina. Expecting to lay low until she can figure out what else to do with her life, she finds herself in the arms of her high school sweetheart, the boy who represents everything from the past she tried to leave behind.<br /><br />Looking for an escape, she instead finds a way back to the girl she almost forgot existed and a future she never dreamed possible.",
-      "formattedPrice": "Free",
-      "price": 0,
-      "genres": [
-        "Contemporary Romance",
-        "Books",
-        "Romance",
-        "New Adult Romance"
-      ],
-      "artistId": 470159121,
       "averageUserRating": 4.5,
-      "userRatingCount": 367,
+      "userRatingCount": 368,
       "country": "GBR"
     }
   ]

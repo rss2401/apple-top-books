@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "formattedPrice": "無料",
       "artistIds": [
         1212683720,
         6806918926,
@@ -9,6 +10,8 @@
         6818371498,
         1664423270
       ],
+      "artistId": 1212683720,
+      "artistName": "愛坂タカト, taskey, 片山大樹, グラントアリサ & taskey STUDIO",
       "genres": [
         "ファンタジー",
         "ブック",
@@ -19,11 +22,9 @@
         "アクション"
       ],
       "price": 0,
-      "artistId": 1212683720,
-      "artistName": "愛坂タカト, taskey, 片山大樹, グラントアリサ & taskey STUDIO",
+      "releaseDate": "2026-10-23T07:00:00Z",
       "trackId": 6818372623,
       "trackName": "モブ剣聖、人知れず無双するー雑魚剣士にしか見えないのに、実は世界を救った剣聖ですー第1話",
-      "releaseDate": "2026-10-23T07:00:00Z",
       "genreIds": [
         "50000074",
         "38",
@@ -41,7 +42,6 @@
       "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%A2%E3%83%96%E5%89%A3%E8%81%96-%E4%BA%BA%E7%9F%A5%E3%82%8C%E3%81%9A%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B%E3%83%BC%E9%9B%91%E9%AD%9A%E5%89%A3%E5%A3%AB%E3%81%AB%E3%81%97%E3%81%8B%E8%A6%8B%E3%81%88%E3%81%AA%E3%81%84%E3%81%AE%E3%81%AB-%E5%AE%9F%E3%81%AF%E4%B8%96%E7%95%8C%E3%82%92%E6%95%91%E3%81%A3%E3%81%9F%E5%89%A3%E8%81%96%E3%81%A7%E3%81%99%E3%83%BC%E7%AC%AC1%E8%A9%B1/id6818372623?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6a/37/1b/6a371bd8-9b28-91ce-f6b3-2ce8437d953e/BT000245884300100101900209.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6a/37/1b/6a371bd8-9b28-91ce-f6b3-2ce8437d953e/BT000245884300100101900209.jpg/100x100bb.jpg",
-      "formattedPrice": "無料",
       "country": "JPN"
     }
   ]

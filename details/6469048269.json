@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "2,49 €",
+      "artistIds": [
+        1560753162
+      ],
+      "trackCensoredName": "Hooked",
+      "artistViewUrl": "https://books.apple.com/de/artist/emily-mcintire/1560753162?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/hooked/id6469048269?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/86/ce/26/86ce26a7-2707-a9b2-380a-1ff5aee8c0cf/9783377901088.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/86/ce/26/86ce26a7-2707-a9b2-380a-1ff5aee8c0cf/9783377901088.jpg/100x100bb.jpg",
+      "artistId": 1560753162,
+      "artistName": "Emily McIntire",
+      "releaseDate": "2024-02-29T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Dark Romance meets Retelling: Er will Rache, aber er will sie mehr ... </b><br /><br /><b></b>James hatte immer nur ein Ziel: seinen Feind, Peter Michaels, zu vernichten. Als Peters zwanzigjährige Tochter Wendy in James' Bar auftaucht, sieht er seine Chance gekommen. Er will Wendy verführen und für seine Rache benutzen. Es ist der perfekte Plan, bis die Dinge in James' Organisation zu bröckeln beginnen. Plötzlich muss er den Verräter in ihrer Mitte finden. Und er beginnt, in Wendy mehr als nur eine Schachfigur in seinem Spiel zu sehen.<br /><br />Wendy wurde die meiste Zeit ihres Lebens von ihrem reichen, kalten Vater abgeschirmt. Als sie sich eines abends mit Freunden wegstiehlt, um in einem Club zu feiern, lernt sie den dunklen und geheimnisvollen James kennen. Wendy weiß, dass James gefährlich ist, fühlt sich aber trotzdem zu ihm hingezogen. Während ihre Beziehung immer inniger wird und sie mehr über die Welt erfährt, in der er sich bewegt, kann sie nicht mehr sagen, ob sie sich in den Mann namens James oder das Monster namens Hook verliebt hat.<br /><br />Hooked ist ein düsterer Liebesroman und der erste, unabhängig lesbare, Teil der Never-After-Serie: einer Sammlung von gebrochenen Märchen, in denen die Bösewichte die Helden sind. Es handelt sich nicht um eine Nacherzählung und nicht um Fantasy. Hooked enthält Themen und Inhalte, die möglicherweise nicht für alle Leser:innen geeignet sind. Alle Warnhinweise zum Inhalt findet ihr auf der Webseite der Autorin.<br /><br /><b>GÜNSTIGER EINFÜHRUNGSPREIS NUR FÜR KURZE ZEIT!</b>",
+      "price": 2.49,
+      "genreIds": [
+        "9003",
+        "38"
+      ],
+      "genres": [
+        "Liebesromane",
+        "Bücher"
+      ],
+      "trackId": 6469048269,
+      "trackName": "Hooked",
+      "averageUserRating": 4,
+      "userRatingCount": 139,
+      "country": "DEU"
+    }
+  ]
+}

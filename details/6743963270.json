@@ -5,16 +5,18 @@
       "artistIds": [
         504177219
       ],
-      "price": 0,
-      "artistId": 504177219,
-      "artistName": "Tamara Gill",
-      "trackId": 6743963270,
-      "trackName": "A Wager with a Duke",
-      "releaseDate": "2025-03-29T07:00:00Z",
       "genreIds": [
         "10059",
         "38",
         "9003"
+      ],
+      "releaseDate": "2025-03-29T07:00:00Z",
+      "artistId": 504177219,
+      "artistName": "Tamara Gill",
+      "genres": [
+        "Historical Romance",
+        "Books",
+        "Romance"
       ],
       "kind": "ebook",
       "currency": "USD",
@@ -25,11 +27,9 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d3/69/06/d3690658-8580-482d-335e-64fd23ca77f8/0002816335.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d3/69/06/d3690658-8580-482d-335e-64fd23ca77f8/0002816335.jpg/100x100bb.jpg",
       "formattedPrice": "Free",
-      "genres": [
-        "Historical Romance",
-        "Books",
-        "Romance"
-      ],
+      "trackId": 6743963270,
+      "trackName": "A Wager with a Duke",
+      "price": 0,
       "averageUserRating": 4,
       "userRatingCount": 153,
       "country": "USA"

@@ -5,18 +5,22 @@
       "artistIds": [
         535404063
       ],
-      "price": 16.99,
-      "artistId": 535404063,
-      "artistName": "Sarah J. Maas",
-      "trackId": 6760126452,
-      "trackName": "A Court of Splintered Harmony",
-      "releaseDate": "2026-10-27T07:00:00Z",
       "genreIds": [
         "10058",
         "38",
         "9003",
         "9020",
         "10044"
+      ],
+      "releaseDate": "2026-10-27T07:00:00Z",
+      "artistId": 535404063,
+      "artistName": "Sarah J. Maas",
+      "genres": [
+        "Paranormal Romance",
+        "Books",
+        "Romance",
+        "Sci-Fi & Fantasy",
+        "Fantasy"
       ],
       "kind": "ebook",
       "currency": "USD",
@@ -27,15 +31,11 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0e/9a/7d/0e9a7d29-a120-33c8-38ed-7304b21b9a10/1064696121.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0e/9a/7d/0e9a7d29-a120-33c8-38ed-7304b21b9a10/1064696121.jpg/100x100bb.jpg",
       "formattedPrice": "$16.99",
-      "genres": [
-        "Paranormal Romance",
-        "Books",
-        "Romance",
-        "Sci-Fi & Fantasy",
-        "Fantasy"
-      ],
+      "trackId": 6760126452,
+      "trackName": "A Court of Splintered Harmony",
+      "price": 16.99,
       "averageUserRating": 4.5,
-      "userRatingCount": 426,
+      "userRatingCount": 509,
       "country": "USA"
     },
     {

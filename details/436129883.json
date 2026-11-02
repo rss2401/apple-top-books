@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Battle of Britain",
+      "artistViewUrl": "https://books.apple.com/gb/artist/james-holland/80152206?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-battle-of-britain/id436129883?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/27/ca/e6/27cae609-6fe5-feca-5c3d-6c62a0f7958e/9781407066523.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/27/ca/e6/27cae609-6fe5-feca-5c3d-6c62a0f7958e/9781407066523.jpg/100x100bb.jpg",
+      "formattedPrice": "£0.99",
+      "artistIds": [
+        80152206
+      ],
+      "artistId": 80152206,
+      "artistName": "James Holland",
+      "genres": [
+        "History",
+        "Books",
+        "Military History",
+        "World History"
+      ],
+      "price": 0.99,
+      "trackName": "The Battle of Britain",
+      "releaseDate": "2010-06-10T07:00:00Z",
+      "trackId": 436129883,
+      "genreIds": [
+        "9015",
+        "38",
+        "10078",
+        "10080"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>'A definitive record . . . The fact that we won is remarkable, and Holland brings the events vividly to life.'</b> News of the World<br /><br /><b>'Stuffed with personal accounts that drive the narrative along at a cracking pace.'</b> Mail on Sunday<br />____<br /><br /><b>'Hitler knows that he will have to break us in this island or lose the war' Sir Winston Churchill, speech to the House of Commons, 18 June 1940</b><br /><br />The Nazi Blitzkrieg was unlike any invasion the world had ever seen. It hit Europe with a force and aggression that no-one could counter. Within weeks the German armies were at the French coast and looking across at Britain. It seemed impossible that she would be able to resist invasion.<br /><br />Between the Nazis and glory stood an apparently fragile defence, but the men and women of Fighter, Bomber and Coastal Commands and the Royal Navy would not be cowed. Their heroics that summer would go down in history.<br /><br />In The Battle of Britain for the first time, James Holland tells this most epic of stories from a 360° perspective - when the fate of the world truly hung by a thread.",
+      "averageUserRating": 5,
+      "userRatingCount": 36,
+      "country": "GBR"
+    }
+  ]
+}

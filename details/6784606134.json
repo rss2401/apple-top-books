@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "formattedPrice": "9,99 €",
       "trackCensoredName": "Bratva, T2 : Bratva Prince",
       "artistViewUrl": "https://books.apple.com/fr/artist/t-j-maguire-louise-arnaud/1869576613?uo=4",
       "trackViewUrl": "https://books.apple.com/fr/book/bratva-t2-bratva-prince/id6784606134?uo=4",
@@ -18,13 +19,12 @@
         "38",
         "9003"
       ],
-      "releaseDate": "2026-10-21T07:00:00Z",
       "trackId": 6784606134,
       "trackName": "Bratva, T2 : Bratva Prince",
+      "releaseDate": "2026-10-21T07:00:00Z",
       "kind": "ebook",
       "currency": "EUR",
       "description": "Aleksandr Volkov n'est pas un homme que l'on défie. Prince de la Bratva, destiné à prendre la succession de son père, le pakhan, il s'impose une maîtrise absolue de ses émotions depuis la mort tragique de sa mère, dont il se sent coupable. Alors, quand sa soeur est enlevée, il est prêt à tout pour la sauver. Il ne s'attendait pas à ramener dans le même temps une autre captive, ni à voir une part de lui depuis longtemps enfouie s'éveiller à son contact.<br /><br />Drea Ortega a grandi au coeur du cartel de Los Zetas. Elle n'a jamais connu la peur, et la violence est un langage qu'elle maîtrise parfaitement. Pourtant, même elle sait qu'il vaut mieux se tenir à distance de la redoutable Bratva. Propulsée en territoire ennemi, elle ne s'attendait pas à croiser la route de quelqu'un comme Aleksandr Volkov, ni à voir ses certitudes vaciller, au point de ne plus imaginer sa vie sans lui.<br /><br />Mais dans leur monde aucun répit n'est possible, et l'ennemi est peut-être plus proche qu'Aleksandr et Drea ne le pensent...",
-      "formattedPrice": "9,99 €",
       "genres": [
         "Romance contemporaine",
         "Livres",

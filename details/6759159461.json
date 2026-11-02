@@ -2,12 +2,23 @@
   "resultCount": 1,
   "results": [
     {
+      "formattedPrice": "$15.99",
       "artistIds": [
         129691798
       ],
-      "price": 15.99,
       "artistId": 129691798,
       "artistName": "Barbara Kingsolver",
+      "genres": [
+        "Literary Fiction",
+        "Books",
+        "Fiction & Literature",
+        "Historical Fiction",
+        "Romance",
+        "Arts & Entertainment",
+        "Music",
+        "Family Fiction & Literature"
+      ],
+      "price": 15.99,
       "trackId": 6759159461,
       "trackName": "Partita",
       "releaseDate": "2026-10-06T07:00:00Z",
@@ -29,19 +40,8 @@
       "trackViewUrl": "https://books.apple.com/us/book/partita/id6759159461?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ed/ea/c9/edeac96a-d62c-d3ce-b055-1f138ebfae9d/9780063577558.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ed/ea/c9/edeac96a-d62c-d3ce-b055-1f138ebfae9d/9780063577558.jpg/100x100bb.jpg",
-      "formattedPrice": "$15.99",
-      "genres": [
-        "Literary Fiction",
-        "Books",
-        "Fiction & Literature",
-        "Historical Fiction",
-        "Romance",
-        "Arts & Entertainment",
-        "Music",
-        "Family Fiction & Literature"
-      ],
       "averageUserRating": 4.5,
-      "userRatingCount": 166,
+      "userRatingCount": 174,
       "country": "USA"
     }
   ]

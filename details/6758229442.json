@@ -6,17 +6,20 @@
         17506452,
         1495648255
       ],
-      "price": 14.99,
-      "artistId": 17506452,
-      "artistName": "Lee Child & Andrew Child",
-      "trackId": 6758229442,
-      "trackName": "Chain Reaction",
-      "releaseDate": "2026-10-20T07:00:00Z",
       "genreIds": [
         "9032",
         "38",
         "9031",
         "10039"
+      ],
+      "releaseDate": "2026-10-20T07:00:00Z",
+      "artistId": 17506452,
+      "artistName": "Lee Child & Andrew Child",
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books",
+        "Fiction & Literature",
+        "Action & Adventure"
       ],
       "kind": "ebook",
       "currency": "USD",
@@ -27,14 +30,11 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/83/4d/88/834d8835-dce4-e1bc-5203-7eee79bea52d/9798217375165.d.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/83/4d/88/834d8835-dce4-e1bc-5203-7eee79bea52d/9798217375165.d.jpg/100x100bb.jpg",
       "formattedPrice": "$14.99",
-      "genres": [
-        "Mysteries & Thrillers",
-        "Books",
-        "Fiction & Literature",
-        "Action & Adventure"
-      ],
+      "trackId": 6758229442,
+      "trackName": "Chain Reaction",
+      "price": 14.99,
       "averageUserRating": 4.5,
-      "userRatingCount": 603,
+      "userRatingCount": 693,
       "country": "USA"
     }
   ]

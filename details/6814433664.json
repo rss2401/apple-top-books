@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "3,99 €",
+      "releaseDate": "2026-11-02T08:00:00Z",
+      "artistIds": [
+        392625423
+      ],
+      "genres": [
+        "Romance",
+        "Livres"
+      ],
+      "artistId": 392625423,
+      "artistName": "Caitlin Crews",
+      "price": 3.99,
+      "genreIds": [
+        "9003",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Face à Antonluca Aniello, Hannah frémit. Son nouveau patron est celui-là même qui lui a fait perdre son dernier emploi... Surtout, elle reconnaît en lui l'inconnu avec lequel elle a partagé une nuit de Noël torride. Mais la situation dégénère encore lorsque Antonluca découvre le secret de Hannah. Aussitôt, l'impitoyable homme d'affaires exige qu'elle l'épouse pour le bien du précieux héritier né de leur union...",
+      "trackCensoredName": "L'héritier d'un hiver",
+      "artistViewUrl": "https://books.apple.com/fr/artist/caitlin-crews/392625423?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/lh%C3%A9ritier-dun-hiver/id6814433664?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a6/2e/4a/a62e4adc-d647-f663-7a6d-586d3cb353b4/9782280536042-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a6/2e/4a/a62e4adc-d647-f663-7a6d-586d3cb353b4/9782280536042-001-x.jpeg/100x100bb.jpg",
+      "trackName": "L'héritier d'un hiver",
+      "trackId": 6814433664,
+      "country": "FRA"
+    }
+  ]
+}

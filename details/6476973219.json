@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "5,99 €",
+      "trackCensoredName": "Le Chant des déesses, T1 : Pénélope, Reine d'Ithaque",
+      "artistViewUrl": "https://books.apple.com/fr/artist/claire-north-karine-forestier/665042041?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/le-chant-des-d%C3%A9esses-t1-p%C3%A9n%C3%A9lope-reine-dithaque/id6476973219?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/75/77/9c/75779c23-939f-f35d-b093-13cb86a1effb/9782381225364-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/75/77/9c/75779c23-939f-f35d-b093-13cb86a1effb/9782381225364-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        665042041,
+        962143337
+      ],
+      "artistId": 665042041,
+      "artistName": "Claire North & Karine Forestier",
+      "genreIds": [
+        "9031",
+        "38",
+        "10047"
+      ],
+      "trackId": 6476973219,
+      "trackName": "Le Chant des déesses, T1 : Pénélope, Reine d'Ithaque",
+      "releaseDate": "2025-05-14T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Au-delà des rivages d'Ithaque, les caprices des dieux dictent les guerres des hommes. Mais sur l'île, ce sont les choix des femmes abandonnées - et de leurs déesses - qui changeront le cours du monde.<br /><br />Le roi Ulysse est parti depuis de nombreuses années en guerre contre Troie, emmenant tous les hommes en âge de combattre de l'île d'Ithaque. Pénélope, sa femme, l'attend avec patience et dirige le royaume. Mais lorsque des rumeurs circulent sur la mort de son mari, les prétendants commencent à frapper à sa porte. Or, aucun homme n'est assez puissant pour revendiquer le trône vide d'Ulysse. Si Pénélope choisit l'un d'entre eux, Ithaque plongera dans une guerre civile sanglante. Seule la ruse et son réseau d'espionnes lui permettront de maintenir l'équilibre délicat du pouvoir nécessaire à la survie du royaume. À Ithaque, tout le monde surveille tout le monde et il n'y a pas un coin du palais où l'intrigue ne règne pas en maître.<br /><br />Le plus grand pouvoir des femmes est celui dont elles s'emparent en secret.<br /><br />Pour les fans du Chant d'Achilles de Madeline Miller, de Jennifer Saint, de Pat Barker, de L'Odyssée de Pénélope et de La Servante écarlate de Margaret Atwood.<br /><br />«&#xa0;Dans ce récit éblouissant, complexe et tortueux, Claire North donne vie à une galerie de personnages mythiques, des déesses aux reines en passant par les femmes esclaves, dans un portrait riche et nuancé de la vie humaine. Tout au long du roman, le suspense est à fleur de peau ; la force, l'esprit et la détermination des femmes brillent au travers de la politique trouble et de la sauvagerie à peine contenue d'un monde déchiré par la guerre et gouverné par des rois brutaux et des hommes sans pitié.&#xa0;» Jennifer Saint<br /><br />«&#xa0;Captivant et écrit avec finesse.&#xa0;» New York Times<br /><br />«&#xa0;Claire North à son apogée.&#xa0;» The Guardian<br /><br />«&#xa0;Eblouissant et imaginatif.&#xa0;» Sunday Mirror<br /><br />«&#xa0;Comme Pénélope sur son métier à tisser, Claire North tisse et défait les fils du mythe homérique pour écrire quelque chose d'unique, de merveilleux et d'éminemment contemporain.&#xa0;» M. R. Carey",
+      "genres": [
+        "Romans et littérature",
+        "Livres",
+        "Fiction historique"
+      ],
+      "price": 5.99,
+      "country": "FRA"
+    }
+  ]
+}

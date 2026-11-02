@@ -2,9 +2,12 @@
   "resultCount": 1,
   "results": [
     {
+      "formattedPrice": "無料",
       "artistIds": [
         1817251450
       ],
+      "artistId": 1817251450,
+      "artistName": "中家ヨシタカ",
       "genres": [
         "恋愛／ロマンス",
         "ブック",
@@ -14,11 +17,9 @@
         "ヒューマンドラマ"
       ],
       "price": 0,
-      "artistId": 1817251450,
-      "artistName": "中家ヨシタカ",
+      "releaseDate": "2025-06-27T07:00:00Z",
       "trackId": 6746515946,
       "trackName": "夫に不倫をお願いされました 1",
-      "releaseDate": "2025-06-27T07:00:00Z",
       "genreIds": [
         "50000084",
         "38",
@@ -35,7 +36,6 @@
       "trackViewUrl": "https://books.apple.com/jp/book/%E5%A4%AB%E3%81%AB%E4%B8%8D%E5%80%AB%E3%82%92%E3%81%8A%E9%A1%98%E3%81%84%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F-1/id6746515946?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/18/f0/61/18f06156-5b95-7885-8e05-27cfbcc06981/BT000187753000100101900209.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/18/f0/61/18f06156-5b95-7885-8e05-27cfbcc06981/BT000187753000100101900209.jpg/100x100bb.jpg",
-      "formattedPrice": "無料",
       "country": "JPN"
     }
   ]

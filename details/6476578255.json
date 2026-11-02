@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "2,99 €",
+      "trackCensoredName": "Remember us",
+      "artistViewUrl": "https://books.apple.com/fr/artist/azal%C3%A9e-fray/1727231104?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/remember-us/id6476578255?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/79/83/bd/7983bda7-856d-98eb-3439-55424387b8ca/9782380159356.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/79/83/bd/7983bda7-856d-98eb-3439-55424387b8ca/9782380159356.jpg/100x100bb.jpg",
+      "artistIds": [
+        1727231104
+      ],
+      "artistId": 1727231104,
+      "artistName": "Azalée Fray",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003"
+      ],
+      "trackId": 6476578255,
+      "trackName": "Remember us",
+      "releaseDate": "2026-05-28T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "May-Lee Sawyer arrive à Los Angeles pour sa première année à l’UCLA après avoir laissé son passé ravageur et ses problèmes derrière elle. Elle rencontre sa colocataire et ses amis et essaye de se faire une place parmi cette nouvelle vie alors que l’angoisse et la peur du renouveau la crispent, ayant toujours connu l’oppression et la noirceur.<br /><br />Lors d’une soirée, quand elle pense pouvoir enfin avancer et ouvrir la porte de son futur, elle retombe sur Kaiden Crawford, le DJ de la boite, mais aussi son premier amour, son premier chagrin, celui qu’il l’a abandonné alors qu’elle tombait déjà dans un puits sans fond il y a 4 ans de cela.<br /><br />Il a disparu sans un mot, sans un bruit et May-Lee n’a cessé de l’attendre avant de lui vouer une haine atroce. Les retrouvailles de ces derniers s’annoncent ainsi explosives, touchantes et teintées de mystères, de secrets, de nostalgie.<br /><br /><b>Une rancœur trop grande, un amour voué à l’échec et des passés lourds, May et Kaiden devront se déchirer pour se reconstruire.</b>",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance"
+      ],
+      "price": 2.99,
+      "averageUserRating": 4,
+      "userRatingCount": 67,
+      "country": "FRA"
+    }
+  ]
+}

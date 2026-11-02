@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        6819287325
+      ],
+      "formattedPrice": "8,99 €",
+      "artistId": 6819287325,
+      "artistName": "Tessa Ellwick",
+      "genres": [
+        "Romance",
+        "Livres",
+        "Romance contemporaine"
+      ],
+      "price": 8.99,
+      "genreIds": [
+        "9003",
+        "38",
+        "10057"
+      ],
+      "releaseDate": "2026-10-06T07:00:00Z",
+      "trackId": 6819761676,
+      "trackName": "Make It Real, Superstar",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Il lui a brisé le cœur.</b><br /><b>Elle accepte pourtant de l'épouser.</b><br /><br />Pour Avery Chamberlin, devenir la nouvelle commentatrice principale des Bobcats de Green Bay est l'occasion de reprendre sa vie en main. Après un mariage qui a ébranlé sa confiance, elle veut retrouver sa place dans le hockey. Même si cela signifie travailler près de Connor Smith, son premier amour.<br /><br />Mais ses malaises se multiplient et, sans assurance santé, les examens dont elle a besoin restent hors de portée.<br /><br />Connor n'a jamais cessé de l'aimer. Quand il découvre sa situation, le défenseur vedette lui propose un arrangement inattendu : l'épouser pour qu'elle bénéficie de sa couverture santé. Un mariage discret et temporaire, sans rien exiger d'elle en retour.<br /><br />Avery compte bien garder son cœur à l'abri. Pourtant, sous le même toit, les attentions de Connor réveillent une tendresse qu'elle croyait perdue. Leur complicité renaît et le désir grandit, alors même que les blessures de leur première histoire restent ouvertes.<br /><br />Avery ne veut plus vivre à travers les choix d'un homme. Pour la reconquérir, Connor devra lui prouver qu'il sait aimer la femme qu'elle est devenue.<br /><br /><i>Une romance de hockey à double point de vue, entre seconde chance, mariage de convenance et slow burn, avec des scènes explicites et une fin heureuse.</i>",
+      "trackCensoredName": "Make It Real, Superstar",
+      "artistViewUrl": "https://books.apple.com/fr/artist/tessa-ellwick/6819287325?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/make-it-real-superstar/id6819761676?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9e/3c/48/9e3c48b0-0217-2493-3621-d3749da68ef0/0004453635.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9e/3c/48/9e3c48b0-0217-2493-3621-d3749da68ef0/0004453635.jpg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

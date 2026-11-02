@@ -10,7 +10,14 @@
       "artistIds": [
         17268605
       ],
+      "formattedPrice": "Free",
+      "artistId": 17268605,
       "artistName": "Franz Kafka",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Books"
+      ],
+      "price": 0,
       "releaseDate": "2005-08-16T07:00:00Z",
       "trackId": 764939920,
       "trackName": "Metamorphosis",
@@ -21,15 +28,8 @@
       "kind": "ebook",
       "currency": "GBP",
       "description": "Metamorphosis is a biological process by which an animal physically develops after birth or hatching, involving a conspicuous and relatively abrupt change in the animal's body structure through cell growth and differentiation. Some insects, amphibians, molluscs, crustaceans, Cnidarians, echinoderms and tunicates undergo metamorphosis, which is usually accompanied by a change of habitat or behavior.<br /><br />\nScientific usage of the term is exclusive, and is not applied to general aspects of cell growth, including rapid growth spurts. References to \"metamorphosis\" in mammals are imprecise and only colloquial, but historically idealist ideas of transformation and monadology, as in Goethe's Metamorphosis of Plants, influenced the development of ideas of evolution.",
-      "formattedPrice": "Free",
-      "price": 0,
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Books"
-      ],
-      "artistId": 17268605,
       "averageUserRating": 4.5,
-      "userRatingCount": 522,
+      "userRatingCount": 523,
       "country": "GBR"
     }
   ]

@@ -1,0 +1,46 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Gratuit",
+      "releaseDate": "2011-10-28T07:00:00Z",
+      "artistIds": [
+        476589259
+      ],
+      "genres": [
+        "Bouddhisme",
+        "Livres",
+        "Religion et spiritualité",
+        "Santé et bien-être",
+        "Spiritualité",
+        "Essais et sciences humaines",
+        "Philosophie"
+      ],
+      "artistId": 476589259,
+      "artistName": "Guéshé Kelsang Gyatso",
+      "price": 0,
+      "genreIds": [
+        "10106",
+        "38",
+        "9018",
+        "9025",
+        "10004",
+        "9002",
+        "10091"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Introduction et encouragements<br /><br />\nCe livre électronique en trois volumes, Un Bouddhisme moderne – la voie de la compassion et de la sagesse, est distribué gratuitement à la demande de son auteur, Guéshé Kelsang Gyatso. L'auteur nous dit que, « Grâce à la lecture et la pratique des instructions données dans ce livre, chacun peut résoudre ses problèmes quotidiens et maintenir un esprit heureux à tout moment. » Afin que ces bienfaits puissent imprégner le monde entier, Guéshé Kelsang souhaite offrir ce livre à tous.<br /><br />\nNous voudrions vous demander de, s'il vous plaît, respecter ce précieux livre du dharma, dont la fonction est de libérer définitivement les êtres vivants de la souffrance. En lisant et en pratiquant continuellement les conseils donnés dans ce livre, tous vos problèmes causés par la colère, l'attachement et l'ignorance vont prendre fin.<br /><br />\nLe premier volume – Le soutra – explique comment pratiquer la sagesse et la compassion bouddhistes dans notre vie quotidienne. Nous découvrons comment transformer nos vies, comment améliorer nos relations avec les autres, et à regarder derrière les apparences pour comprendre la manière dont les choses existent. Les sujets couverts sont : Qu'est-ce que le bouddhisme ? Que signifie notre mort ? Qu'est-ce que le karma ? Les quatre nobles vérités, et S'entraîner à l'amour et à la compassion.<br /><br />\nS'il vous plait, profitez de ce cadeau spécial de Guéshé Kelsang Gyatso, qui dédie « pour que chaque personne qui lit ce livre connaisse une profonde paix intérieure et accomplisse le vrai sens de la vie humaine ».<br /><br />\nSincèrement,<br /><br />\nManuel Rivero-De Martine<br />\nDirecteur de Tharpa Publications, en Angleterre<br />\ninfo@emodernbuddhism.com",
+      "trackCensoredName": "Un Bouddhisme moderne – Volume 1: Le soutra",
+      "artistViewUrl": "https://books.apple.com/fr/artist/gu%C3%A9sh%C3%A9-kelsang-gyatso/476589259?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/un-bouddhisme-moderne-volume-1-le-soutra/id499844504?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication/9c/64/5a/mzi.plrudljt.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/9c/64/5a/mzi.plrudljt.jpg/100x100bb.jpg",
+      "trackName": "Un Bouddhisme moderne – Volume 1: Le soutra",
+      "trackId": 499844504,
+      "averageUserRating": 4,
+      "userRatingCount": 150,
+      "country": "FRA"
+    }
+  ]
+}

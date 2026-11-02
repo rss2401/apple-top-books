@@ -2,21 +2,17 @@
   "resultCount": 1,
   "results": [
     {
-      "artistIds": [
-        595626504
-      ],
+      "formattedPrice": "7,99 €",
       "trackCensoredName": "Bellatrix - Tome 4",
       "artistViewUrl": "https://books.apple.com/fr/artist/leo/595626504?uo=4",
       "trackViewUrl": "https://books.apple.com/fr/book/bellatrix-tome-4/id6781550961?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/58/0a/c9/580ac9b4-781d-fd66-9276-128d33cd41ff/9782205217193.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/58/0a/c9/580ac9b4-781d-fd66-9276-128d33cd41ff/9782205217193.jpg/100x100bb.jpg",
+      "artistIds": [
+        595626504
+      ],
       "artistId": 595626504,
       "artistName": "Leo",
-      "genres": [
-        "BD et mangas",
-        "Livres"
-      ],
-      "price": 7.99,
       "genreIds": [
         "9026",
         "38"
@@ -27,7 +23,11 @@
       "kind": "ebook",
       "currency": "EUR",
       "description": "Manon et Kim, envoyées sur la planète Bellatrix, poursuivent leur mission afin d’observer les événements survenus sur cette planète qui ressemble à notre terre, mais dans une version uchronique ! Elles découvriront notamment un peuple extra-terrestre installé depuis longtemps sur Bellatrix mais qui, pour se protéger, a décidé de vivre dans les profondeurs de la planète, à l’abri des autres populations…",
-      "formattedPrice": "7,99 €",
+      "genres": [
+        "BD et mangas",
+        "Livres"
+      ],
+      "price": 7.99,
       "country": "FRA"
     }
   ]

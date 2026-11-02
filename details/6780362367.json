@@ -5,17 +5,20 @@
       "artistIds": [
         6779985551
       ],
-      "price": 14.99,
-      "artistId": 6779985551,
-      "artistName": "Collin Gosselin",
-      "trackId": 6780362367,
-      "trackName": "In the Shadow of Eight",
-      "releaseDate": "2026-10-13T07:00:00Z",
       "genreIds": [
         "9008",
         "38",
         "9002",
         "10038"
+      ],
+      "releaseDate": "2026-10-13T07:00:00Z",
+      "artistId": 6779985551,
+      "artistName": "Collin Gosselin",
+      "genres": [
+        "Biographies & Memoirs",
+        "Books",
+        "Nonfiction",
+        "Family & Relationships"
       ],
       "kind": "ebook",
       "currency": "USD",
@@ -26,14 +29,11 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ea/39/f9/ea39f9c8-fb36-092e-3bf6-e8d843829ce8/9781538784747.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ea/39/f9/ea39f9c8-fb36-092e-3bf6-e8d843829ce8/9781538784747.jpg/100x100bb.jpg",
       "formattedPrice": "$14.99",
-      "genres": [
-        "Biographies & Memoirs",
-        "Books",
-        "Nonfiction",
-        "Family & Relationships"
-      ],
+      "trackId": 6780362367,
+      "trackName": "In the Shadow of Eight",
+      "price": 14.99,
       "averageUserRating": 4.5,
-      "userRatingCount": 306,
+      "userRatingCount": 319,
       "country": "USA"
     }
   ]

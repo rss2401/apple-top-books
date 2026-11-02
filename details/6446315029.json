@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "6,99 €",
+      "trackCensoredName": "Sur l'île de ton coeur",
+      "artistViewUrl": "https://books.apple.com/fr/artist/sarah-morgan/264798537?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/sur-l%C3%AEle-de-ton-coeur/id6446315029?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/b7/a2/86/b7a286d9-f662-7f34-df43-bae5e1544c36/9782280491822-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/b7/a2/86/b7a286d9-f662-7f34-df43-bae5e1544c36/9782280491822-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        264798537
+      ],
+      "artistId": 264798537,
+      "artistName": "Sarah Morgan",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003",
+        "9031",
+        "10049"
+      ],
+      "trackId": 6446315029,
+      "trackName": "Sur l'île de ton coeur",
+      "releaseDate": "2023-05-03T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Castaway Cottage, là où s’épanouissent les secondes chances<br /><br />Toute sa vie, Brittany a rêvé d’aventures, bien au-delà des rives de Puffin Island. Elle a parcouru le monde, de sites archéologiques en fouilles, mais voilà qu’un poignet cassé lors d’un malheureux accident l’oblige à rentrer pour l’été. Elle se retrouve alors coincée sur cette île chère à son cœur, certes, mais surtout coincée avec Zach&#xa0; : le pilote aux yeux envoûtants et au sourire narquois, qui a été son premier amour. Celui qu’elle a épousé à dix-huit ans, et qui lui a brisé le cœur dix jours plus tard. Celui pour qui elle ne voudrait ressentir que haine ou indifférence, mais qui la trouble toujours au plus haut point. À moins que ces retrouvailles forcées ne soient exactement ce dont ils ont besoin&#xa0; : l’occasion de pardonner pour l’un, de se racheter pour l’autre, et de peut-être écrire ensemble une nouvelle page de leur histoire&#xa0; ?<br />&#xa0; <br />A propos de l'autrice<br />Autrice fréquemment citée par USA Today, la Londonienne&#xa0; Sarah Morgan&#xa0; a conquis ses nombreux fans grâce à ses histoires finement tissées d’humour et d’émotion intemporelle. Elle a vendu plus de 21 millions de livres à travers le monde. Enfant, Sarah rêvait de devenir écrivain et, bien qu’elle ait pris des détours avant d’y parvenir, elle vit à présent son rêve.",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance",
+        "Romans et littérature",
+        "Fiction et littérature"
+      ],
+      "price": 6.99,
+      "averageUserRating": 4,
+      "userRatingCount": 54,
+      "country": "FRA"
+    }
+  ]
+}

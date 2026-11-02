@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "3,99 €",
+      "releaseDate": "2026-11-02T08:00:00Z",
+      "artistIds": [
+        374912739
+      ],
+      "genres": [
+        "Romance",
+        "Livres"
+      ],
+      "artistId": 374912739,
+      "artistName": "Kim Lawrence",
+      "price": 3.99,
+      "genreIds": [
+        "9003",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Autrefois rejeté par Amy, l'héritière dont il était amoureux, Leo Romano a travaillé sans relâche pour atteindre les sommets. Aujourd'hui, la situation a tourné à son avantage : devenu milliardaire, c'est lui qui détient le pouvoir, tandis que la famille d'Amy se trouve au bord du gouffre. Savoir Amy à sa merci a de quoi ravir Leo mais, il le sait, c'est en la séduisant qu'il obtiendra vengeance... !",
+      "trackCensoredName": "À la merci de Leo Romano",
+      "artistViewUrl": "https://books.apple.com/fr/artist/kim-lawrence/374912739?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/%C3%A0-la-merci-de-leo-romano/id6814433585?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/14/95/92/149592e5-1d5b-9b4a-ebd6-b0be9db7ee5b/9782280536097-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/14/95/92/149592e5-1d5b-9b4a-ebd6-b0be9db7ee5b/9782280536097-001-x.jpeg/100x100bb.jpg",
+      "trackName": "À la merci de Leo Romano",
+      "trackId": 6814433585,
+      "country": "FRA"
+    }
+  ]
+}

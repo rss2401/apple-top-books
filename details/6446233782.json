@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Gratuit",
+      "releaseDate": "2023-03-12T08:00:00Z",
+      "artistIds": [
+        1391159027
+      ],
+      "genres": [
+        "Islam",
+        "Livres",
+        "Religion et spiritualité"
+      ],
+      "artistId": 1391159027,
+      "artistName": "Malik",
+      "price": 0,
+      "genreIds": [
+        "10109",
+        "38",
+        "9018"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Dans une région située non-loin de l'actuel Yémen vivait le peuple de Ad. Les gens de ce peuple ne manquaient de rien mais adoraient des statues.\nC'est à eux qu'Allah envoya notre prophète Houd.",
+      "trackCensoredName": "Notre prophète Houd",
+      "artistViewUrl": "https://books.apple.com/fr/artist/malik/1391159027?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/notre-prophe-te-houd/id6446233782?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/e9/de/a6/e9dea67f-0404-2915-6beb-916842bd9bdb/cover.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/e9/de/a6/e9dea67f-0404-2915-6beb-916842bd9bdb/cover.png/100x100bb.jpg",
+      "trackName": "Notre prophète Houd",
+      "trackId": 6446233782,
+      "averageUserRating": 4.5,
+      "userRatingCount": 65,
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "3,99 €",
+      "trackCensoredName": "La Patience du diable",
+      "artistViewUrl": "https://books.apple.com/fr/artist/maxime-chattam/212351758?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/la-patience-du-diable/id863310152?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/a4/0a/0d/a40a0d34-1441-04e6-6870-8b715cb07c2b/9782226311115-X.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/a4/0a/0d/a40a0d34-1441-04e6-6870-8b715cb07c2b/9782226311115-X.jpg/100x100bb.jpg",
+      "artistIds": [
+        212351758
+      ],
+      "artistId": 212351758,
+      "artistName": "Maxime Chattam",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "trackId": 863310152,
+      "trackName": "La Patience du diable",
+      "releaseDate": "2014-06-02T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Le Mal peut-il contaminer ceux qui le traquent ?<br /><br />Un <i>go-fast</i> pris en flag qui transporte bien pire que de la drogue...<br /><br />Deux ados qui tirent sur les passagers d'un TGV lancé à pleine vitesse...<br /><br />Des gens ordinaires découverts morts... de terreur.<br /><br />Le Diable mène le bal, le monde est devenu fou.<br /><br />Lieutenant à la Section de Recherche de Paris, Ludivine Vancker comprend bientôt qu'un fil sanglant relie ces faits divers. Rien ne pourra l'empêcher de remonter la piste à sa source. Aux racines de la peur.<br /><br />Après <i>La Conjuration</i> <i>primitive</i>, Maxime Chattam, dans ce thriller d'une maîtrise glaçante, sème plus que jamais le doute.",
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "price": 3.99,
+      "averageUserRating": 4,
+      "userRatingCount": 294,
+      "country": "FRA"
+    }
+  ]
+}

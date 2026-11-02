@@ -1,0 +1,35 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        775189046,
+        79680968
+      ],
+      "formattedPrice": "9,99 €",
+      "artistId": 775189046,
+      "artistName": "Florence Schneider & M.C. Beaton",
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "price": 9.99,
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "releaseDate": "2026-10-28T07:00:00Z",
+      "trackId": 6794472118,
+      "trackName": "Hamish Macbeth 31 - Coeur d'artichaut !",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Lorsque Hamish croise la ravissante infirmière Gloria Dainty, c’est le coup de foudre. Gloria travaille dans la grande demeure de Mr Harrison, un vieil infirme fortuné. Le policier s’empresse d’inviter la jeune femme à dîner. Mais le soir venu, personne… Gloria lui aurait-elle posé un lapin ? <br /><br />Quatre jours plus tard, son corps est retrouvé au pied des falaises, près de Braikie. Elle a été étranglée. Quant aux suspects, ils sont au moins aussi nombreux que les prétendants de la belle… <br /><br />Hamish, aidé par son tout nouveau collègue, Charlie, un agent aussi fûté que terriblement maladroit, se lance sur la piste du coupable.",
+      "trackCensoredName": "Hamish Macbeth 31 - Coeur d'artichaut !",
+      "artistViewUrl": "https://books.apple.com/fr/artist/florence-schneider-m-c-beaton/775189046?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/hamish-macbeth-31-coeur-dartichaut/id6794472118?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/12/24/29/122429f6-5b21-ac22-44cc-c00e5b9e47f5/9782226517715.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/12/24/29/122429f6-5b21-ac22-44cc-c00e5b9e47f5/9782226517715.jpg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

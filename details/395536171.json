@@ -109,17 +109,20 @@
       "artistIds": [
         2038186
       ],
-      "price": 0,
-      "artistId": 2038186,
-      "artistName": "Jane Austen",
-      "trackId": 395536171,
-      "trackName": "Emma",
-      "releaseDate": "1815-12-22T08:00:00Z",
       "genreIds": [
         "9003",
         "38",
         "9031",
         "10042"
+      ],
+      "releaseDate": "1815-12-22T08:00:00Z",
+      "artistId": 2038186,
+      "artistName": "Jane Austen",
+      "genres": [
+        "Romance",
+        "Books",
+        "Fiction & Literature",
+        "Classics"
       ],
       "kind": "ebook",
       "currency": "USD",
@@ -130,12 +133,9 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d2/fb/ee/d2fbee5c-b4d6-4710-fb1a-51ee7ca27d52/BKS-WW-ABC-Emma-Jane_Austen.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d2/fb/ee/d2fbee5c-b4d6-4710-fb1a-51ee7ca27d52/BKS-WW-ABC-Emma-Jane_Austen.png/100x100bb.jpg",
       "formattedPrice": "Free",
-      "genres": [
-        "Romance",
-        "Books",
-        "Fiction & Literature",
-        "Classics"
-      ],
+      "trackId": 395536171,
+      "trackName": "Emma",
+      "price": 0,
       "averageUserRating": 4,
       "userRatingCount": 4098,
       "country": "USA"

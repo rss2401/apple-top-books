@@ -1,0 +1,41 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1379916879,
+        1624510349
+      ],
+      "artistId": 1379916879,
+      "artistName": "Andrea Mara & Mera Éditions",
+      "genres": [
+        "Policier et suspense",
+        "Livres",
+        "Procédures policières",
+        "Détectives féminins"
+      ],
+      "price": 5.99,
+      "releaseDate": "2025-04-15T07:00:00Z",
+      "trackId": 6742983798,
+      "trackName": "Je crois que je l'ai tuée",
+      "genreIds": [
+        "9032",
+        "38",
+        "10052",
+        "10055"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<i> <b>Lorsque Joanna emménage dans sa nouvelle maison, elle est loin d’imaginer qu’elle appartenait autrefois à la famille d’une petite fille portée disparue...</b> </i> <br /><br />Le jeu de cache-cache est terminé, mais la petite Lily Murphy demeure introuvable. Ses parents s'efforcent de rester positifs, mais ils savent que la paisible banlieue de Dublin ne sera plus jamais la même.<br />Des années plus tard, Joanna emménage dans une nouvelle maison. Cette dernière semble parfaite en tous points, jusqu'au jour où elle apprend qu'il s'agissait autrefois de la maison des Murphy et de la petite disparue. Dès lors, un sentiment d'effroi semble la suivre de pièce en pièce.<br />À mesure que Joanna dévoile les secrets de cette communauté très soudée, son propre passé refait surface. Car elle pense savoir ce qui est réellement arrivé à Lily. Et si la vérité éclatait au grand jour, elle pourrait bien la mener à sa perte...<br /><br />« Un thriller domestique de haute volée. Même les twists ont des twists. J'ai adoré, Andrea Mara est incroyable ! » - Lee Child<br /><br />« Mara sait comment transformer les pires cauchemars de tous les parents en des page-turner de haut niveau. Elle parvient à doser efficacement le suspense dans ce roman qui se lit d'une traite et qui vous tient en haleine jusqu'au dernier retournement de situation. » - Ellery Lloyd, auteur bestseller du New York Times",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1b/06/d0/1b06d028-3c82-801b-c952-59d1031d3f4c/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1b/06/d0/1b06d028-3c82-801b-c952-59d1031d3f4c/cover.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/fr/artist/andrea-mara-mera-%C3%A9ditions/1379916879?uo=4",
+      "trackCensoredName": "Je crois que je l'ai tuée",
+      "trackViewUrl": "https://books.apple.com/fr/book/je-crois-que-je-lai-tu%C3%A9e/id6742983798?uo=4",
+      "formattedPrice": "5,99 €",
+      "averageUserRating": 4.5,
+      "userRatingCount": 23,
+      "country": "FRA"
+    }
+  ]
+}

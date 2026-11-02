@@ -2,15 +2,15 @@
   "resultCount": 1,
   "results": [
     {
-      "trackCensoredName": "Frightful",
-      "artistViewUrl": "https://books.apple.com/us/artist/renee-rose/423804844?uo=4",
-      "trackViewUrl": "https://books.apple.com/us/book/frightful/id6796770627?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/05/29/c1/0529c12f-fc8a-eb03-75fc-dd1c930a62b0/2d1df401-fc3d-4c0f-b409-a31aff3c79d0_cover_image.jpg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/05/29/c1/0529c12f-fc8a-eb03-75fc-dd1c930a62b0/2d1df401-fc3d-4c0f-b409-a31aff3c79d0_cover_image.jpg/100x100bb.jpg",
-      "formattedPrice": "$5.99",
       "artistIds": [
         423804844
       ],
+      "trackCensoredName": "Frightful",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/05/29/c1/0529c12f-fc8a-eb03-75fc-dd1c930a62b0/2d1df401-fc3d-4c0f-b409-a31aff3c79d0_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/05/29/c1/0529c12f-fc8a-eb03-75fc-dd1c930a62b0/2d1df401-fc3d-4c0f-b409-a31aff3c79d0_cover_image.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/renee-rose/423804844?uo=4",
+      "formattedPrice": "$5.99",
+      "trackViewUrl": "https://books.apple.com/us/book/frightful/id6796770627?uo=4",
       "artistId": 423804844,
       "artistName": "Renee Rose",
       "genres": [
@@ -20,9 +20,9 @@
         "Holiday Romance"
       ],
       "price": 5.99,
-      "trackName": "Frightful",
-      "trackId": 6796770627,
       "releaseDate": "2026-11-01T07:00:00Z",
+      "trackId": 6796770627,
+      "trackName": "Frightful",
       "genreIds": [
         "10058",
         "38",

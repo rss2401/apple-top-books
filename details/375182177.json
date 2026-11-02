@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "5,99 €",
+      "trackCensoredName": "La source noire",
+      "artistViewUrl": "https://books.apple.com/fr/artist/patrice-van-eersel/373673627?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/la-source-noire/id375182177?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/99/7d/ed/997ded49-af3b-6e09-eaf8-f740130eb960/9782246337195-X.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/99/7d/ed/997ded49-af3b-6e09-eaf8-f740130eb960/9782246337195-X.jpg/100x100bb.jpg",
+      "artistIds": [
+        373673627
+      ],
+      "artistId": 373673627,
+      "artistName": "Patrice Van Eersel",
+      "genreIds": [
+        "9008",
+        "38"
+      ],
+      "trackId": 375182177,
+      "trackName": "La source noire",
+      "releaseDate": "2014-04-01T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Longtemps, lorsqu'un homme mourait, ses proches étaient heureux de pouvoir dire : \" Soyez tranquille, il a eu le temps de se préparer. \" Aujourd'hui, pour la première fois dans l'histoire, on se rassure : \" Consolez-vous, il ne s'est rendu compte de rien. \"<br /><br />De la mort, nous avons tout oublié, tout ce que notre culture avait érigé en sagesse. Même la science est devenue ignorante. Tellement que des savants tirent la sonnette d'alarme : il faut, disent-ils, réhabiliter l'agonie, écouter les mourants, étudier ce passage aussi capital que la naissance.<br /><br />Psychiatres, cardiologues, chirurgiens, biologistes et physiciens, dans les laboratoires les plus sophistiqués des États-Unis, de Grande-Bretagne, de France (récemment), mais encore en Inde et partout dans le monde, analysent, sondent, interrogent la mort, ou du moins ceux qui ont frôlé la mort, collectionnent leurs récits, examinent leurs témoignages, confrontent leurs expériences... Et l'on découvre que la mort cacherait une clarté à l'éblouissante beauté, pleine de vie, pourrait-on dire. La source noire. Aux portes de la mort, c'est une nouvelle approche de la vie, de la connaissance, de la mémoire...",
+      "genres": [
+        "Biographies et mémoires",
+        "Livres"
+      ],
+      "price": 5.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 9,
+      "country": "FRA"
+    }
+  ]
+}

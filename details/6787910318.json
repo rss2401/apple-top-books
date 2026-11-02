@@ -5,16 +5,18 @@
       "artistIds": [
         1734145425
       ],
-      "price": 0,
-      "artistId": 1734145425,
-      "artistName": "Alessa Steel",
-      "trackId": 6787910318,
-      "trackName": "Alek: Dark Mafia Romance",
-      "releaseDate": "2024-06-14T07:00:00Z",
       "genreIds": [
         "10061",
         "38",
         "9003"
+      ],
+      "releaseDate": "2024-06-14T07:00:00Z",
+      "artistId": 1734145425,
+      "artistName": "Alessa Steel",
+      "genres": [
+        "Romantic Suspense",
+        "Books",
+        "Romance"
       ],
       "kind": "ebook",
       "currency": "USD",
@@ -25,13 +27,11 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/36/5c/ca/365ccaaa-c49b-1e9e-4e4e-5275a47ecf10/6610001274726.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/36/5c/ca/365ccaaa-c49b-1e9e-4e4e-5275a47ecf10/6610001274726.jpg/100x100bb.jpg",
       "formattedPrice": "Free",
-      "genres": [
-        "Romantic Suspense",
-        "Books",
-        "Romance"
-      ],
+      "trackId": 6787910318,
+      "trackName": "Alek: Dark Mafia Romance",
+      "price": 0,
       "averageUserRating": 4,
-      "userRatingCount": 32,
+      "userRatingCount": 33,
       "country": "USA"
     }
   ]

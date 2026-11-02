@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "13,99 €",
+      "artistIds": [
+        464073111
+      ],
+      "trackCensoredName": "15 Entscheidungen, die dein Leben verlängern - gesund alt werden",
+      "artistViewUrl": "https://books.apple.com/de/artist/christian-heinrich/464073111?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/15-entscheidungen-die-dein-leben-verl%C3%A4ngern-gesund/id6762115407?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/72/b0/4e/72b04ecb-dbc1-da12-5e56-58b6bacae5a2/1065404624.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/72/b0/4e/72b04ecb-dbc1-da12-5e56-58b6bacae5a2/1065404624.jpg/100x100bb.jpg",
+      "artistId": 464073111,
+      "artistName": "Christian Heinrich",
+      "releaseDate": "2026-08-21T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Gesund länger leben – mit kleinen Entscheidungen, die wirklich etwas verändern</b><br /><br />Für ein langes, gesundes Leben braucht es weder extreme Programme noch radikale Umstellungen. Oft sind es einfache Schritte im Alltag, die mehr bewirken, als man denkt: eine neue Abendroutine, weniger Alkohol, mehr Bewegung oder bewusste Ernährung. Der Mediziner Dr. med. Christian Heinrich zeigt in 15 Geschichten, wie sich Gesundheit und Lebensqualität mit überschaubarem Aufwand verbessern lassen.<br /><br />Das wissenschaftlich fundierte Gesundheitsbuch verbindet Erkenntnisse aus Medizin, Psychologie und Prävention mit sofort umsetzbaren Ideen. Im Mittelpunkt stehen gesunde Gewohnheiten, Stressabbau, Achtsamkeit im Alltag, Schlaf, Fitness, Ernährung und soziale Nähe. Verständlich erklärt wird auch, wie sich Risiken für Bluthochdruck, Diabetes, Herz-Kreislauf-Erkrankungen und Übergewicht senken lassen.<br /><br />Ob Petersilie statt zu viel Salz, Gleichgewichtstraining beim Zähneputzen, eine kurze Plank, fünf Minuten Tanzen, eine Handvoll Nüsse oder ein Tag ohne Zigarette: Jede Entscheidung ist alltagstauglich und ohne Fitnessstudio machbar. Der Ratgeber zeigt, wie kleine Gewohnheiten große Wirkung entfalten, innere Balance stärken und helfen können, gesünder älter zu werden.<br /><br />Dieses Longevity-Buch eignet sich für alle, die durch eine gesunde Lebensweise Krankheiten vorbeugen sowie länger und gesünder leben möchten – ohne Leistungsdruck oder komplizierte Regeln. Ein praxisnaher Leitfaden für Einsteiger, der Gesundheitswissen einfach erklärt.<br /><br /><b>– 15 sofort umsetzbare Gesundheitsentscheidungen für den Alltag</b><br /><b>– Longevity wissenschaftlich erklärt</b> und motivierend vermittelt<br /><b>– Ernährung, Bewegung, Schlaf,</b> Stressbewältigung und Achtsamkeit<br /><b>– Vorbeugung von Bluthochdruck,</b> Diabetes und Herz-Kreislauf-Erkrankungen<br /><b>– Kleine Veränderungen für mehr Wohlbefinden,</b> Fitness und Lebensfreude",
+      "price": 13.99,
+      "genreIds": [
+        "9025",
+        "38",
+        "9033"
+      ],
+      "genres": [
+        "Gesundheit, Körper und Geist",
+        "Bücher",
+        "Nachschlagewerke"
+      ],
+      "trackId": 6762115407,
+      "trackName": "15 Entscheidungen, die dein Leben verlängern - gesund alt werden",
+      "country": "DEU"
+    }
+  ]
+}

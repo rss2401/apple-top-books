@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1869576613,
+        1737981224
+      ],
+      "formattedPrice": "9,99 €",
+      "artistId": 1869576613,
+      "artistName": "T.J. Maguire & Louise Arnaud",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance"
+      ],
+      "price": 9.99,
+      "genreIds": [
+        "10057",
+        "38",
+        "9003"
+      ],
+      "releaseDate": "2026-06-17T07:00:00Z",
+      "trackId": 6757915105,
+      "trackName": "Bratva, T1 : Bratva Bride",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Illayana Volkov a grandi dans l'univers impitoyable de la mafia à Las Vegas. Fille du Pakhan et exécutrice redoutable, elle n'a rien à envier à ses frères. Son avenir dans la Bratva semble donc tout tracé, jusqu'au jour où la Cosa nostra de New York frappe à leur porte. Menacés par un gang rival, les Italiens cherchent des alliés. Aussitôt, les deux familles scellent un pacte qui nécessite un mariage... Illayana se dévoue et se retrouve fiancée à l'irrésistible Arturo De Luca, futur Don. Mais dans une famiglia où les femmes sont tenues à l'écart des affaires et priées de rester à leur place, personne n'a l'intention d'accueillir à bras ouverts une inconnue, encore moins une Russe au tempérament explosif...<br /><br />Élevé au sein d'un clan figé dans ses traditions, Arturo n'a jamais rêvé d'une épouse docile. Pourtant, malgré la fascination qu'il éprouve pour l'indépendance d'Illayana, il ne peut réprimer son instinct protecteur.<br /><br />Entourés d'ennemis, Illayana et Arturo vont devoir apprendre à se faire confiance s'ils veulent survivre à la menace qui les guette...<br /><br />Pour public averti",
+      "trackCensoredName": "Bratva, T1 : Bratva Bride",
+      "artistViewUrl": "https://books.apple.com/fr/artist/t-j-maguire-louise-arnaud/1869576613?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/bratva-t1-bratva-bride/id6757915105?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/4b/a1/ba/4ba1bad2-c5fa-7aa1-9688-e35736f4455f/9782811230821-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/4b/a1/ba/4ba1bad2-c5fa-7aa1-9688-e35736f4455f/9782811230821-001-x.jpeg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 27,
+      "country": "FRA"
+    }
+  ]
+}

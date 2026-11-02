@@ -2,9 +2,12 @@
   "resultCount": 1,
   "results": [
     {
+      "formattedPrice": "無料",
       "artistIds": [
         785124400
       ],
+      "artistId": 785124400,
+      "artistName": "福谷たかし",
       "genres": [
         "青年",
         "ブック",
@@ -13,11 +16,9 @@
         "恋愛／ロマンス"
       ],
       "price": 0,
-      "artistId": 785124400,
-      "artistName": "福谷たかし",
+      "releaseDate": "2013-12-03T08:00:00Z",
       "trackId": 1180540212,
       "trackName": "独身アパート どくだみ荘1",
-      "releaseDate": "2013-12-03T08:00:00Z",
       "genreIds": [
         "11338",
         "38",
@@ -33,7 +34,6 @@
       "trackViewUrl": "https://books.apple.com/jp/book/%E7%8B%AC%E8%BA%AB%E3%82%A2%E3%83%91%E3%83%BC%E3%83%88-%E3%81%A9%E3%81%8F%E3%81%A0%E3%81%BF%E8%8D%981/id1180540212?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/00/1a/c4/001ac400-47d2-be62-ca66-c723a95c4276/27547_120496211_001_001_artwork_20200204195143.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/00/1a/c4/001ac400-47d2-be62-ca66-c723a95c4276/27547_120496211_001_001_artwork_20200204195143.jpg/100x100bb.jpg",
-      "formattedPrice": "無料",
       "averageUserRating": 3.5,
       "userRatingCount": 39,
       "country": "JPN"

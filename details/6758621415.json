@@ -5,16 +5,18 @@
       "artistIds": [
         175736461
       ],
-      "price": 14.99,
-      "artistId": 175736461,
-      "artistName": "Louise Penny",
-      "trackId": 6758621415,
-      "trackName": "Miss Wolcott's Ghost",
-      "releaseDate": "2026-10-20T07:00:00Z",
       "genreIds": [
         "10054",
         "38",
         "9032"
+      ],
+      "releaseDate": "2026-10-20T07:00:00Z",
+      "artistId": 175736461,
+      "artistName": "Louise Penny",
+      "genres": [
+        "Detective Novels",
+        "Books",
+        "Mysteries & Thrillers"
       ],
       "kind": "ebook",
       "currency": "USD",
@@ -25,13 +27,11 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/09/f7/39/09f7396f-ead7-a86b-1d6f-b50c1336c6e1/9781250412584.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/09/f7/39/09f7396f-ead7-a86b-1d6f-b50c1336c6e1/9781250412584.jpg/100x100bb.jpg",
       "formattedPrice": "$14.99",
-      "genres": [
-        "Detective Novels",
-        "Books",
-        "Mysteries & Thrillers"
-      ],
+      "trackId": 6758621415,
+      "trackName": "Miss Wolcott's Ghost",
+      "price": 14.99,
       "averageUserRating": 4.5,
-      "userRatingCount": 216,
+      "userRatingCount": 245,
       "country": "USA"
     }
   ]

@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        429424804
+      ],
+      "artistId": 429424804,
+      "artistName": "Laura Black",
+      "genres": [
+        "Fantasy paranormale",
+        "Livres",
+        "SF et fantasy",
+        "Fantasy",
+        "Romance",
+        "Romance paranormale"
+      ],
+      "price": 5.99,
+      "releaseDate": "2022-09-23T07:00:00Z",
+      "trackId": 6443171040,
+      "trackName": "La meute de Mervent - 1 - La revanche de l'alpha",
+      "genreIds": [
+        "11004",
+        "38",
+        "9020",
+        "10044",
+        "9003",
+        "10058"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Bit-lit - 381 pages<br /><br />Alyssa Clavel se sait condamnée à mort. Nés d’une lignée où se transmet une clé de pouvoir, elle et les siens ont été pris en chasse par un sorcier impitoyable.<br /><br />Alors que les victimes s’accumulent et que l’étau se resserre autour d’elle, un espoir renaît grâce à un précieux talisman. Un artefact qui la jette dans les griffes d’Erik Laveau, le puissant alpha de la meute de Mervent.<br /><br />Erik règne en maître sur son territoire, au cœur des forêts vendéennes. S’il mène une vie sereine en apparence, son cœur brûle d’une haine inextinguible envers ce même sorcier qui, autrefois, a massacré sa famille. Une haine qui se rallume lorsque cette inconnue surgit sur ses terres, poursuivie par l’ennemi honni. Une haine qui flamboie à l’aune du désir que lui inspire cette femme mystérieuse et fuyante.<br /> <br />Un désir de vengeance et une passion brûlante qui risquent de mettre en péril l’équilibre au sein de sa meute...",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/47/0e/f5/470ef546-2dc7-791e-094d-6d93af0a5b08/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/47/0e/f5/470ef546-2dc7-791e-094d-6d93af0a5b08/cover.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/fr/artist/laura-black/429424804?uo=4",
+      "trackCensoredName": "La meute de Mervent - 1 - La revanche de l'alpha",
+      "trackViewUrl": "https://books.apple.com/fr/book/la-meute-de-mervent-1-la-revanche-de-lalpha/id6443171040?uo=4",
+      "formattedPrice": "5,99 €",
+      "averageUserRating": 4.5,
+      "userRatingCount": 12,
+      "country": "FRA"
+    }
+  ]
+}

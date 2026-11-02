@@ -5,12 +5,6 @@
       "artistIds": [
         374912906
       ],
-      "price": 0,
-      "artistId": 374912906,
-      "artistName": "Kate Hewitt",
-      "trackId": 6449289128,
-      "trackName": "The Orphan's Island",
-      "releaseDate": "2020-11-30T08:00:00Z",
       "genreIds": [
         "10047",
         "38",
@@ -18,6 +12,17 @@
         "9003",
         "10059",
         "10041"
+      ],
+      "releaseDate": "2020-11-30T08:00:00Z",
+      "artistId": 374912906,
+      "artistName": "Kate Hewitt",
+      "genres": [
+        "Historical Fiction",
+        "Books",
+        "Fiction & Literature",
+        "Romance",
+        "Historical Romance",
+        "Religious Fiction"
       ],
       "kind": "ebook",
       "currency": "USD",
@@ -28,16 +33,11 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/8f/bd/a4/8fbda456-1835-18bd-105f-13b01b8e7427/The-Orphans-Island-Apple.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/8f/bd/a4/8fbda456-1835-18bd-105f-13b01b8e7427/The-Orphans-Island-Apple.jpg/100x100bb.jpg",
       "formattedPrice": "Free",
-      "genres": [
-        "Historical Fiction",
-        "Books",
-        "Fiction & Literature",
-        "Romance",
-        "Historical Romance",
-        "Religious Fiction"
-      ],
+      "trackId": 6449289128,
+      "trackName": "The Orphan's Island",
+      "price": 0,
       "averageUserRating": 4.5,
-      "userRatingCount": 243,
+      "userRatingCount": 246,
       "country": "USA"
     }
   ]

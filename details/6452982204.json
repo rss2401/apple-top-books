@@ -2,15 +2,15 @@
   "resultCount": 1,
   "results": [
     {
-      "trackCensoredName": "History of the World Map by Map",
-      "artistViewUrl": "https://books.apple.com/us/artist/dk/1088013460?uo=4",
-      "trackViewUrl": "https://books.apple.com/us/book/history-of-the-world-map-by-map/id6452982204?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/27/13/30/27133078-1efa-cdbc-65b2-a2a4b02a94ca/9780744091533.d.jpg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/27/13/30/27133078-1efa-cdbc-65b2-a2a4b02a94ca/9780744091533.d.jpg/100x100bb.jpg",
-      "formattedPrice": "$2.99",
       "artistIds": [
         1088013460
       ],
+      "trackCensoredName": "History of the World Map by Map",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/27/13/30/27133078-1efa-cdbc-65b2-a2a4b02a94ca/9780744091533.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/27/13/30/27133078-1efa-cdbc-65b2-a2a4b02a94ca/9780744091533.d.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/us/artist/dk/1088013460?uo=4",
+      "formattedPrice": "$2.99",
+      "trackViewUrl": "https://books.apple.com/us/book/history-of-the-world-map-by-map/id6452982204?uo=4",
       "artistId": 1088013460,
       "artistName": "DK",
       "genres": [
@@ -19,9 +19,9 @@
         "History"
       ],
       "price": 2.99,
-      "trackName": "History of the World Map by Map",
-      "trackId": 6452982204,
       "releaseDate": "2023-09-05T07:00:00Z",
+      "trackId": 6452982204,
+      "trackName": "History of the World Map by Map",
       "genreIds": [
         "10080",
         "38",

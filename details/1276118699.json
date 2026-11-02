@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "5,99 €",
+      "trackCensoredName": "Vicious",
+      "artistViewUrl": "https://books.apple.com/fr/artist/l-j-shen/1126158048?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/vicious/id1276118699?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a3/60/22/a36022de-8ae9-936f-0631-917608b54df5/9782280379007-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a3/60/22/a36022de-8ae9-936f-0631-917608b54df5/9782280379007-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        1126158048
+      ],
+      "artistId": 1126158048,
+      "artistName": "L.J. Shen",
+      "genreIds": [
+        "9003",
+        "38"
+      ],
+      "trackId": 1276118699,
+      "trackName": "Vicious",
+      "releaseDate": "2017-11-02T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Il est le pire qui pourrait lui arriver… ou le meilleur<br />&#xa0; <br />Vicious. Le nom qu’il s’est choisi parle de lui-même. C’est un homme froid, cruel… et immensément riche. Ce qui veut dire qu’il a le monde à ses pieds. Millie ne fera plus jamais l’erreur qu’elle a commise dix ans plus tôt, quand elle a cru qu’elle pouvait se mesurer à lui, répondre à ses provocations, lui rendre coup pour coup. Ils n’étaient que deux adolescents, et pourtant il a détruit sa vie, l’a forcée à l’exil, loin de sa famille et de tout ce qu’elle connaissait. Alors, le soir où il surgit dans le bar de Manhattan où elle travaille à présent, adulte, plus beau et plus… dangereux que jamais, Millie sait qu’il n’y a qu’une solution&#xa0; : fuir. Mais elle ne se fait pas d’illusions, si Vicious est venu la chercher, rien ne l’arrêtera. Une menace autant qu’une promesse…<br /><br />A propos auteur &#xa0; <br />L.J. Shen s’est imposée dès son tout premier roman comme une voix incontournable de la romance New Adult – un succès confirmé dès la parution de Vicious qui s’est immédiatement hissé en tête de tous les palmarès de vente. Quand elle n’écrit pas, L.J. Shen est une véritable badass (comprendre qu’elle aime passer du temps avec sa famille et ses amis dans sa Californie d’adoption, regarder ses séries préférées ou lire un bon livre).&#xa0;",
+      "genres": [
+        "Romance",
+        "Livres"
+      ],
+      "price": 5.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 1027,
+      "country": "FRA"
+    }
+  ]
+}

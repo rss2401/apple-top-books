@@ -2,12 +2,18 @@
   "resultCount": 1,
   "results": [
     {
+      "formattedPrice": "$14.99",
       "artistIds": [
         14907223
       ],
-      "price": 14.99,
       "artistId": 14907223,
       "artistName": "Jodi Picoult",
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Literary Fiction"
+      ],
+      "price": 14.99,
       "trackId": 6756904796,
       "trackName": "Hollow Bones",
       "releaseDate": "2026-09-15T07:00:00Z",
@@ -24,14 +30,8 @@
       "trackViewUrl": "https://books.apple.com/us/book/hollow-bones/id6756904796?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/00/58/18/00581833-06cf-e33d-98ed-4ed338184bbb/9780593726266.d.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/00/58/18/00581833-06cf-e33d-98ed-4ed338184bbb/9780593726266.d.jpg/100x100bb.jpg",
-      "formattedPrice": "$14.99",
-      "genres": [
-        "Fiction & Literature",
-        "Books",
-        "Literary Fiction"
-      ],
       "averageUserRating": 4.5,
-      "userRatingCount": 563,
+      "userRatingCount": 580,
       "country": "USA"
     }
   ]

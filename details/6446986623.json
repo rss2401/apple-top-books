@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "9,99 €",
+      "trackCensoredName": "Say You Swear",
+      "artistViewUrl": "https://books.apple.com/fr/artist/meagan-brandy/1279108406?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/say-you-swear/id6446986623?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3b/2c/9d/3b2c9d4d-c88c-71f4-acb1-c893f39b1682/9782379872815-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3b/2c/9d/3b2c9d4d-c88c-71f4-acb1-c893f39b1682/9782379872815-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        1279108406
+      ],
+      "artistId": 1279108406,
+      "artistName": "Meagan Brandy",
+      "genreIds": [
+        "10061",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "trackId": 6446986623,
+      "trackName": "Say You Swear",
+      "releaseDate": "2023-04-21T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Le roman de Meagan Brandy, auteure best seller du Wall Street Journal et USA Today.<br /><br />Pendant des années, j’ai imaginé ma vie universitaire à Avix University… mais surtout, ma vie avec lui.<br />Lui, c’est Chase, le meilleur ami de mon frère pour qui je nourris un amour profond, depuis notre toute première rencontre.<br />Et si je m’évertue (misérablement) à cacher mes sentiments pour ce sportif si convoité sur le campus, j’ai toujours pensé qu’un beau jour mes sentiments seraient partagés.<br />Ils le sont d’ailleurs, j’en suis persuadée !<br />C'est bien pourquoi il était mon avenir.<br />Jusqu’à ce qu’un jour, tout bascule.<br />Qui aurait pu croire qu’un coup de ballon sur la tête allait bouleverser mes plans ?",
+      "genres": [
+        "Thriller romantique",
+        "Livres",
+        "Romance",
+        "Romance contemporaine"
+      ],
+      "price": 9.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 607,
+      "country": "FRA"
+    }
+  ]
+}
