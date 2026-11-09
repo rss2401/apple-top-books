@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/de/6f/ea/de6fea55-dec5-e0ba-540b-cdd4c97a17f1/9782213737270-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/de/6f/ea/de6fea55-dec5-e0ba-540b-cdd4c97a17f1/9782213737270-001-x.jpeg/100x100bb.jpg",
+      "trackCensoredName": "Gouverner",
+      "artistViewUrl": "https://books.apple.com/fr/artist/jordan-bardella/1774735602?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/gouverner/id6824805761?uo=4",
+      "formattedPrice": "15,99 €",
+      "artistIds": [
+        1774735602
+      ],
+      "genres": [
+        "Politique et actualité",
+        "Livres"
+      ],
+      "artistId": 1774735602,
+      "artistName": "Jordan Bardella",
+      "price": 15.99,
+      "genreIds": [
+        "9034",
+        "38"
+      ],
+      "releaseDate": "2026-11-04T08:00:00Z",
+      "trackName": "Gouverner",
+      "trackId": 6824805761,
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Avec Gouverner, son troisième livre, Jordan Bardella présente le projet qu’il entend porter à la tête de la France à l’issue des élections de 2027.<br />À la fois journal de sa vie politique et programme de gouvernement, cet ouvrage retrace un parcours désormais tourné vers l’exercice du pouvoir.&#xa0; <br />Gouverner constitue un engagement devant les Français : leur permettre de connaître son projet, d’en mesurer la portée et de juger, demain, sa réalisation.",
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "1,99 €",
+      "trackCensoredName": "Ice Bet",
+      "artistViewUrl": "https://books.apple.com/fr/artist/s-j-sylvis/1590476666?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/ice-bet/id6523433311?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3f/9e/b0/3f9eb063-1f1c-1f5d-bb7c-b6c070f1a3c9/9782379873553-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3f/9e/b0/3f9eb063-1f1c-1f5d-bb7c-b6c070f1a3c9/9782379873553-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        1590476666
+      ],
+      "artistId": 1590476666,
+      "artistName": "S.J. Sylvis",
+      "genres": [
+        "Thriller romantique",
+        "Livres",
+        "Romance",
+        "Romance contemporaine"
+      ],
+      "price": 1.99,
+      "releaseDate": "2024-10-04T07:00:00Z",
+      "trackId": 6523433311,
+      "trackName": "Ice Bet",
+      "genreIds": [
+        "10061",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "L’auteure à succès distinguée par USA Today, SJ Sylvis, revient avec cette toute nouvelle campus hockey romance new adult&#xa0; !<br />Aasher Matthews incarne tout ce que je déteste, avec son sourire narquois et sa manière de se prendre pour le roi du monde. Pour couronner le tout, il joue au hockey. Pire, mon père est son coach… Et j’aimerais bien savoir pourquoi Aasher est si tendu. Il me suit partout, il me surveille… Je suis sûre que mon père a quelque chose à voir avec ça&#xa0; !<br />Que les choses soient claires&#xa0; : on ne touche jamais à la fille du coach. Jamais.<br />Pourtant, ça n’a pas empêché ses joueurs de lancer un pari débile sur qui réussira à me mettre dans son lit en premier. Et la réponse, je vais vous la donner, moi&#xa0; : personne&#xa0; !<br /><br />Histoire intégrale.",
+      "userRatingCount": 78,
+      "averageUserRating": 4.5,
+      "country": "FRA"
+    }
+  ]
+}

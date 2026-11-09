@@ -2,8 +2,11 @@
   "resultCount": 1,
   "results": [
     {
-      "formattedPrice": "3,99 €",
-      "releaseDate": "2026-11-02T08:00:00Z",
+      "trackCensoredName": "Les époux trahis",
+      "artistViewUrl": "https://books.apple.com/fr/artist/abby-green/338684719?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-%C3%A9poux-trahis/id6814434001?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1a/e8/da/1ae8daf7-f58c-b993-6188-285a1943930f/9782280536059-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1a/e8/da/1ae8daf7-f58c-b993-6188-285a1943930f/9782280536059-001-x.jpeg/100x100bb.jpg",
       "artistIds": [
         338684719
       ],
@@ -13,7 +16,6 @@
       ],
       "artistId": 338684719,
       "artistName": "Abby Green",
-      "price": 3.99,
       "genreIds": [
         "9003",
         "38"
@@ -21,13 +23,11 @@
       "kind": "ebook",
       "currency": "EUR",
       "description": "<b>Mariage arrangé</b><br /><br /><b><i>Un mariage sous contrat, une union de convenance : ils avaient tout prévu... sauf de tomber amoureux&#xa0;!</i></b><br /><br />Accusé d'un crime qu'il n'a pas commis, le milliardaire Leonardo Falzone n'a plus que deux idées en tête à sa sortie de prison&#xa0;: se venger et trouver une épouse respectable pour redorer son image ternie par le scandale. Or, une seule femme peut lui permettre d'atteindre ces objectifs. Et il a hâte de confronter Angelica Malgeri, sa sublime ex-maîtresse qui a commis la trahison suprême en épousant son ennemi juré...",
-      "trackCensoredName": "Les époux trahis",
-      "artistViewUrl": "https://books.apple.com/fr/artist/abby-green/338684719?uo=4",
-      "trackViewUrl": "https://books.apple.com/fr/book/les-%C3%A9poux-trahis/id6814434001?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1a/e8/da/1ae8daf7-f58c-b993-6188-285a1943930f/9782280536059-001-x.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1a/e8/da/1ae8daf7-f58c-b993-6188-285a1943930f/9782280536059-001-x.jpeg/100x100bb.jpg",
+      "formattedPrice": "3,99 €",
       "trackName": "Les époux trahis",
+      "releaseDate": "2026-11-02T08:00:00Z",
       "trackId": 6814434001,
+      "price": 3.99,
       "country": "FRA"
     }
   ]

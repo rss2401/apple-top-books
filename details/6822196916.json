@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a8/6e/6c/a86e6c17-72f3-6e3a-a516-e3eeeff29af4/9782290430712.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a8/6e/6c/a86e6c17-72f3-6e3a-a516-e3eeeff29af4/9782290430712.jpg/100x100bb.jpg",
+      "trackCensoredName": "Les Lords solitaires (Tome 11) - Worth",
+      "artistViewUrl": "https://books.apple.com/fr/artist/grace-burrowes/403746786?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-lords-solitaires-tome-11-worth/id6822196916?uo=4",
+      "formattedPrice": "5,99 €",
+      "artistIds": [
+        403746786
+      ],
+      "genres": [
+        "Romance historique",
+        "Livres",
+        "Romance",
+        "Romans et littérature"
+      ],
+      "artistId": 403746786,
+      "artistName": "Grace Burrowes",
+      "price": 5.99,
+      "genreIds": [
+        "10059",
+        "38",
+        "9003",
+        "9031"
+      ],
+      "releaseDate": "2026-11-04T08:00:00Z",
+      "trackName": "Les Lords solitaires (Tome 11) - Worth",
+      "trackId": 6822196916,
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Homme d’affaires accompli et séducteur invétéré, Worth Kettering décide de retourner dans sa demeure à la campagne pour la première fois depuis des années. Il compte sur l’efficacité redoutable de sa gouvernante, qu’il n’a jamais rencontrée – et qui doit être une vieille dame percluse de douleurs –, pour préparer son séjour. À sa grande surprise, il découvre que Jacaranda Wyeth est une jeune femme à la beauté troublante. Et elle ne tarde pas à se révéler indispensable…",
+      "country": "FRA"
+    }
+  ]
+}

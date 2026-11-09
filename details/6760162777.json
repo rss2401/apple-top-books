@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/28/60/ee/2860ee89-ff2d-d936-7366-a015f9f0fe84/9781405984720.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/28/60/ee/2860ee89-ff2d-d936-7366-a015f9f0fe84/9781405984720.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/gb/artist/nick-harkaway/341696099?uo=4",
+      "trackCensoredName": "The Taper Man",
+      "formattedPrice": "£10.99",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-taper-man/id6760162777?uo=4",
+      "artistIds": [
+        341696099
+      ],
+      "artistId": 341696099,
+      "artistName": "Nick Harkaway",
+      "genres": [
+        "Crime & Thrillers",
+        "Books",
+        "Fiction & Literature",
+        "Historical Fiction",
+        "Historical Mysteries",
+        "History"
+      ],
+      "price": 10.99,
+      "releaseDate": "2026-11-05T08:00:00Z",
+      "genreIds": [
+        "9032",
+        "38",
+        "9031",
+        "10047",
+        "10051",
+        "9015"
+      ],
+      "trackId": 6760162777,
+      "trackName": "The Taper Man",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>‘Smiley is back at the Circus in the safest of hands’ </b><b>RICHARD OSMAN</b><br /><br /><b>Nick Harkaway's bestselling take on George Smiley is back, and this time the iconic spy is on the trail of a traitor right at the top of American intelligence…</b><br /><br />It is 1965, and the Cold War has never been colder. The Circus – the secret centre of British intelligence – has one prize asset left in Moscow: a senior Red Army officer with access to the enemy’s deepest secrets. But when a British agent is shot in Helsinki, George Smiley uncovers a Soviet operation that imperils this irreplaceable source.<br /><br />The trail leads Smiley not to Berlin or Vienna, but Los Angeles – the most foreign place he has ever known. There, in the murky heart of US intelligence, a Communist sleeper agent – a ‘Taper Man’ – is poised to expose Britain’s operative in Moscow. To save him, Smiley must navigate an America riven by divisions over race, loyalty and belonging, all while his spy in Leningrad, Roy Bland, risks everything in pursuit of a Russian defector who holds the final piece of the puzzle.<br /><br /><i>The Taper Man</i>, the latest novel by <i>Sunday Times</i> bestselling author Nick Harkaway, is a gripping return to the shadow world of John le Carré. Elegant, tense and morally intricate, it is an extraordinary and timely continuation of one of literature’s greatest espionage legacies – and a landmark work of modern spy fiction.<br /><br /><b>‘Note-perfect’ </b><br /><b>MICK HERRON</b><br /><br /><b>‘Le Carre’s legacy is in good hands – Smiley is back with a vengeance!’</b><br /><b>IAN RANKIN</b>",
+      "country": "GBR"
+    }
+  ]
+}

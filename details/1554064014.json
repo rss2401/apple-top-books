@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Geliebter Barbar",
+      "artistViewUrl": "https://books.apple.com/de/artist/julie-garwood-kerstin-winter/2071889?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/geliebter-barbar/id1554064014?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/e1/7d/f8/e17df8aa-4b3b-246b-fbb6-6afcf4165f54/9783751703352.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/e1/7d/f8/e17df8aa-4b3b-246b-fbb6-6afcf4165f54/9783751703352.jpg/100x100bb.jpg",
+      "formattedPrice": "4,99 €",
+      "artistIds": [
+        2071889,
+        415258579
+      ],
+      "price": 4.99,
+      "trackId": 1554064014,
+      "trackName": "Geliebter Barbar",
+      "artistName": "Julie Garwood & Kerstin Winter",
+      "genres": [
+        "Historische Romane",
+        "Bücher",
+        "Belletristik und Literatur",
+        "Liebesromane",
+        "Historische Liebesromane"
+      ],
+      "artistId": 2071889,
+      "genreIds": [
+        "10047",
+        "38",
+        "9031",
+        "9003",
+        "10059"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Eine gefährliche Reise ins schottische Hochland und eine Welt voller Leidenschaft <br /><br />Judith Hampton reist nach Schottland, um ihrer Freundin aus Kindertagen bei der Niederkunft beizustehen - und weil sie endlich ihren eigenen Vater kennenlernen möchte. Zu ihrer Sicherheit wird Judith von Iain Maitland begleitet, dem Herrn eines mächtigen schottischen Clans. Anfangs erscheint er ihr wie ein Barbar, doch schon bald erliegt sie seiner Anziehungskraft. Und auch Iain, verblüfft über ihren anfänglichen Trotz, erfasst tiefe Zuneigung. Doch die schlimme Wahrheit über ihren Vater bedroht das junge Glück - ein dunkles Geheimnis mit verheerenden Folgen ... <br /><br />Julie Garwood ist \"eine der besten Liebesromanautorinnen der Welt. [...] Nicht nur Highland-Fans sollten dieses Buch unbedingt lesen!\" Schnee, happy-end-buecher.de <br /><br />eBooks von beHEARTBEAT - Herzklopfen garantiert.",
+      "releaseDate": "2021-08-27T07:00:00Z",
+      "averageUserRating": 4.5,
+      "userRatingCount": 24,
+      "country": "DEU"
+    }
+  ]
+}

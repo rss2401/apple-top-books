@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        388312600
+      ],
+      "genres": [
+        "Business und Finanzen",
+        "Bücher"
+      ],
+      "price": 0,
+      "artistId": 388312600,
+      "artistName": "Anton Ochsenkühn",
+      "trackId": 6747895823,
+      "trackName": "Mit Aktien und ETF gegen Inflation und Altersarmut - erfolgreiche Geldanlage ohne Risiko",
+      "releaseDate": "2025-06-27T07:00:00Z",
+      "genreIds": [
+        "9009",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "“Alles wird immer teurer“ - richtig! Die Inflation raubt uns die Kaufkraft und für das Geld auf dem Sparbuch bekommt man nur mickrige Zinsen. Wer in die Rentenkasse einzahlt wird bei Renteneintritt sein „blaues“ Wunder erleben: Es ist viel weniger Geld, als Sie geglaubt haben.<br />\nEs tut sich eine Rentenlücke auf, die gefüllt werden will, so dass Sie weiterhin Ihre Miete bezahlen können, in den Urlaub fahren können und eben den Alltag finanzieren können, so wie Sie es möchten. Langer Rede kurzer Sinn: Es wäre prima, Geld auf der hohen Kante zu haben.<br />\nWas aber soll man tun, um Geld zu vermehren und dabei kein Risiko einzugehen?<br />\nIn diesem E-Book habe ich meine Geldanlageerfahrungen von über 35 Jahren zu Papier gebracht. Aus der Praxis für die Praxis! Sie werden staunen, was möglich ist und wie einfach es geht. Dabei lernen Sie den Begriff ETF kennen. Mit diesem Produkt haben Sie einen Autopiloten zu finanziellem Wohlstand.<br />\nUnd ich stelle Ihnen eine Aktie vor - nein, nicht irgendeine - die Aktie!!<br />\nViel Freude beim Lesen wünscht&#xa0;<br />\nAnton Ochsenkühn",
+      "trackCensoredName": "Mit Aktien und ETF gegen Inflation und Altersarmut - erfolgreiche Geldanlage ohne Risiko",
+      "artistViewUrl": "https://books.apple.com/de/artist/anton-ochsenk%C3%BChn/388312600?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/mit-aktien-und-etf-gegen-inflation-und-altersarmut/id6747895823?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/70/f1/bb/70f1bba0-0546-5f07-12d0-107120fffaad/MIt_Aktien_und_ETF_gegen_Inflation_und_Altersarmut_-_Anton_Ochsenkuehn.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/70/f1/bb/70f1bba0-0546-5f07-12d0-107120fffaad/MIt_Aktien_und_ETF_gegen_Inflation_und_Altersarmut_-_Anton_Ochsenkuehn.jpg/100x100bb.jpg",
+      "formattedPrice": "Gratis",
+      "averageUserRating": 4,
+      "userRatingCount": 11,
+      "country": "DEU"
+    }
+  ]
+}

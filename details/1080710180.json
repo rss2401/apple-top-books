@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        593202904
+      ],
+      "genres": [
+        "Romantische Thriller",
+        "Bücher",
+        "Liebesromane",
+        "Krimis und Thriller",
+        "Zeitgenössische Liebesromane",
+        "New Adult-Liebesromane"
+      ],
+      "price": 0,
+      "artistId": 593202904,
+      "artistName": "Anna Zaires",
+      "trackId": 1080710180,
+      "trackName": "Capture Me — Ergreife Mich",
+      "releaseDate": "2016-03-15T07:00:00Z",
+      "genreIds": [
+        "10061",
+        "38",
+        "9003",
+        "9032",
+        "10057",
+        "11040"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Eine neue, dunkle Romanserie der <i>New York Times</i> Bestsellerautorin von <i>Twist Me – Verschleppt</i></b><br />\n<b></b><br />\n<b>Sie fürchtet ihn von dem Moment an, in dem sie ihn das erste Mal sieht.</b><br /><br />\nYulia Tzakova kennt gefährliche Männer. Sie ist mit ihnen aufgewachsen. Sie hat sie überlebt. Aber als sie Lucas Kent trifft, weiß sie, dass dieser ehemalige Soldat der gefährlichste von allen sein könnte.&#xa0;<br /><br />\nEine Nacht – das sollte alles sein. Eine Gelegenheit, um einen verpatzten Auftrag wiedergutzumachen und Informationen über Kents Boss, einen Waffenhändler, zu bekommen. Sobald das Flugzeug abstürzt, sollte alles vorbei sein.&#xa0;<br /><br />\nStattdessen fängt es gerade erst an.&#xa0;<br /><br />\n<b>Er will sie von dem Moment an, in dem er sie zum ersten Mal sieht.</b><br /><br />\nLucas Kent hatte schon immer eine Schwäche für Blondinen mit langen Beinen und Yulia Tzakova ist ein besonders schönes Exemplar. Die russische Übersetzerin mag versucht haben, seinen Boss zu verführen, aber landet stattdessen in Lucas’ Bett – und er hat definitiv vor, sie erneut dort zu haben.&#xa0;<br /><br />\nDann stürzt sein Flugzeug ab und er erfährt die Wahrheit.<br /><br />\nSie hat ihn verraten.<br /><br />\nJetzt wird sie dafür bezahlen.",
+      "trackCensoredName": "Capture Me — Ergreife Mich",
+      "artistViewUrl": "https://books.apple.com/de/artist/anna-zaires/593202904?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/capture-me-ergreife-mich/id1080710180?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/0d/70/f4/0d70f446-ec19-376f-fb06-41e244a3e63c/CaptureMe_German_Ebook_1600.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/0d/70/f4/0d70f446-ec19-376f-fb06-41e244a3e63c/CaptureMe_German_Ebook_1600.jpg/100x100bb.jpg",
+      "formattedPrice": "Gratis",
+      "averageUserRating": 4,
+      "userRatingCount": 118,
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        502055342,
+        1559242667
+      ],
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Liebesromane"
+      ],
+      "price": 0,
+      "artistId": 502055342,
+      "artistName": "Brigitte Kaindl & Brenda Leb",
+      "trackId": 6463129274,
+      "trackName": "Der Tod des Bräutigams",
+      "releaseDate": "2023-08-23T07:00:00Z",
+      "genreIds": [
+        "9032",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "1992 im Indischen Ozean. Die 22-jährige Melanie unternimmt mit ihrer jüngeren Schwester Ella eine Kreuzfahrt, auf der sie und ihr Verlobter heiraten wollen. Doch einen Tag vor der Hochzeit stürzt ihr Bräutigam über Bord. Ella wird Zeuge des Unglücks und versucht danach ihrer Schwester beizustehen. Gemeinsam mit Thomas, der beiden Frauen sehr nahesteht ... Doch Melanie versinkt in ihrer Trauer und nur der Gedanke an ihr Ungeborenes gibt ihr die nötige Kraft zum Weiterleben. 2018 in Wien. Vor Melanies Wohnungstür wird ein Nachbar niedergestochen. Als sie sich um den Schwerverletzten kümmert, weiß sie noch nicht, dass in den kommenden Stunden ihr gesamtes Weltbild aus den Fugen geraten wird. Romantischer Thriller über eine unsterbliche Liebe sowie die starke Bindung zweier Schwestern, die ein traumatisches Schicksal eint.",
+      "trackCensoredName": "Der Tod des Bräutigams",
+      "artistViewUrl": "https://books.apple.com/de/artist/brigitte-kaindl-brenda-leb/502055342?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/der-tod-des-br%C3%A4utigams/id6463129274?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9f/6b/bc/9f6bbcee-e9ff-8740-66f6-f23ea69514f5/9783757955700.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9f/6b/bc/9f6bbcee-e9ff-8740-66f6-f23ea69514f5/9783757955700.jpg/100x100bb.jpg",
+      "formattedPrice": "Gratis",
+      "country": "DEU"
+    }
+  ]
+}

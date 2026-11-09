@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/aa/36/35/aa363562-1c5f-c6b6-fba3-f7aa1b8fd74d/9781529428506.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/aa/36/35/aa363562-1c5f-c6b6-fba3-f7aa1b8fd74d/9781529428506.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/gb/artist/peter-may/4918804?uo=4",
+      "trackCensoredName": "A Winter Grave",
+      "formattedPrice": "£0.99",
+      "trackViewUrl": "https://books.apple.com/gb/book/a-winter-grave/id6442975358?uo=4",
+      "artistIds": [
+        4918804
+      ],
+      "artistId": 4918804,
+      "artistName": "Peter May",
+      "genres": [
+        "Crime & Thrillers",
+        "Books",
+        "Science & Nature",
+        "Environment",
+        "Police Procedural"
+      ],
+      "price": 0.99,
+      "releaseDate": "2023-01-19T08:00:00Z",
+      "genreIds": [
+        "9032",
+        "38",
+        "9019",
+        "11067",
+        "10052"
+      ],
+      "trackId": 6442975358,
+      "trackName": "A Winter Grave",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>A #4 <i>SUNDAY TIMES </i>BESTSELLER </b><br /><b>From the twelve-million copy bestselling author of the<i> Lewis </i>trilogy comes a chilling new mystery set in the isolated Scottish Highlands.</b><br /><br /><b>A TOMB OF ICE</b><br /><br />A young meteorologist checking a mountain top weather station in Kinlochleven discovers the body of a missing man entombed in ice.<br /><br /><b>A DYING DETECTIVE</b><br /><br />Cameron Brodie, a Glasgow detective, sets out on a hazardous journey to the isolated and ice-bound village. He has his own reasons for wanting to investigate a murder case so far from his beat.<br /><br /><b>AN AGONIZING RECKONING</b><br /><br />Brodie must face up to the ghosts of his past and to a killer determined to bury forever the chilling secret that his investigation threatens to expose.<br /><br /><b>Set against a backdrop of a frighteningly plausible near-future, </b><b><i>A WINTER GRAVE</i> is Peter May at his page-turning, passionate and provocative best.</b>",
+      "averageUserRating": 4,
+      "userRatingCount": 96,
+      "country": "GBR"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        576505686
+      ],
+      "genres": [
+        "Historische Liebesromane",
+        "Bücher",
+        "Liebesromane"
+      ],
+      "price": 0,
+      "artistId": 576505686,
+      "artistName": "Joanne Wadsworth",
+      "trackId": 6754543965,
+      "trackName": "Der Herzog, der mein Herz stahl",
+      "releaseDate": "2025-10-26T07:00:00Z",
+      "genreIds": [
+        "10059",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Der Herzog, der mein Herz stahl, ist die süße/zahme Version von Die Braut des Herzogs.\n\nMein liebster Bruder,\n\nHarry, wenn du diesen Brief erhältst, dann nur, weil ich mit einem ehrenhaften amerikanischen Handelskapitän durchgebrannt bin und bald weit weg von England zu seinem Zuhause in Amerika segeln werde. Diese Entscheidung fällt mir nicht leicht. Ich habe mein Bestes versucht, deinen guten Freund, den Herzog von Ashten, davon zu überzeugen, wieder zu leben und sich aus seinem selbst auferlegten Exil zu befreien, aber dabei wurde ich stattdessen an den Tag erinnert, an dem er zum ersten Mal mein Herz gestohlen hat. Acht Jahre alt war ich damals, sechs Jahre jünger als ihr beide. Ich liebte es, euch beide zum Fluss zu jagen, auf Bäume zu klettern und euch beim Angeln zuzusehen. Das war, als ich mich zum ersten Mal in Ashten verliebte, aber leider wird diese Liebe nicht erwidert, obwohl ich mir das wünschte.\n\nUnsere liebe Schwester schickt diesen Brief in meinem Namen an dich, da mein Koffer nun gepackt ist und ich im Begriff bin, unter Mamas Adleraugen zu entkommen und nach Gretna Green zu fliehen. Ein Abenteuer erwartet mich, hoffentlich eines ohne einen grübelnden Herzog und einen Kampf der Willensstärken.\n\nBitte bleib während dieses schrecklichen Krieges unversehrt. Ich vermisse dich schrecklich.\n\nDeine immer liebende Schwester, Ellie.\n\nJedes Buch dieser Reihe ist in eigenständig. Sie können sie in beliebiger Reihenfolge lesen.\nSÜßE REGENCY GESCHICHTEN\nDer Herzog, der mein Herz stahl, Buch 1\nDer Graf, den ich verehre, Buch 2\nLieben in Kriegszeiten, Buch 3\nMein Geheimnis und der Graf, Buch 4\nDer Prinz, der mich gefangen nahm, Buch 5\nHüte dich vor dem Piratenprinzen, Buch 6\nMein berüchtigter Korsar, Buch 7\nMuss Piraten lieben, Buch 8",
+      "trackCensoredName": "Der Herzog, der mein Herz stahl",
+      "artistViewUrl": "https://books.apple.com/de/artist/joanne-wadsworth/576505686?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/der-herzog-der-mein-herz-stahl/id6754543965?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/48/0b/4b/480b4bce-c281-6114-7008-9affa2172410/9ecc0d5b-8699-4074-a836-69df7f212ae0_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/48/0b/4b/480b4bce-c281-6114-7008-9affa2172410/9ecc0d5b-8699-4074-a836-69df7f212ae0_cover_image.jpg/100x100bb.jpg",
+      "formattedPrice": "Gratis",
+      "country": "DEU"
+    }
+  ]
+}

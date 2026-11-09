@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "12,99 €",
+      "artistIds": [
+        1790784847
+      ],
+      "artistId": 1790784847,
+      "artistName": "SenLinYu",
+      "genres": [
+        "Fantasy",
+        "Livres",
+        "SF et fantasy",
+        "Romance",
+        "Romance contemporaine"
+      ],
+      "price": 12.99,
+      "trackId": 6741068480,
+      "trackName": "Alchemised (Édition française)",
+      "genreIds": [
+        "10044",
+        "38",
+        "9020",
+        "9003",
+        "10057"
+      ],
+      "releaseDate": "2025-09-23T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "« La guerre est finie. Que croyez-vous protéger dans votre cerveau ? Holdfast est mort. La Flamme éternelle s'est éteinte.&#xa0; Il ne vous reste plus personne à sauver... »<br />Helena Marino était une alchimiste prometteuse. Aujourd'hui, elle n'est plus qu'une prisonnière, captive de la guerre qui a ravagé Paladia et de sa propre mémoire défaillante. Ses amis et alliés de la résistance ont été massacrés, ses pouvoirs neutralisés, et le monde qu'elle connaissait n'est plus qu'un champ de ruines.<br />Dans l'après-guerre, Paladia est tombée sous le contrôle de guildes corrompues et de nécromanciens dépravés, dont les créatures mortes-vivantes ont assuré le triomphe. Helena est désormais entre leurs mains.<br />Officiellement, elle n'était qu'une guérisseuse sans importance. Pourtant, les mois qui ont précédé sa capture se sont effacés de sa mémoire, et cette zone d'ombre intrigue. Est-elle vraiment aussi insignifiante qu'on le prétend, ou détient-elle, sans le savoir, la clé du dernier espoir de la résistance?<br />Pour découvrir la vérité, elle est confiée au Haut Préfet, l'un des nécromanciens les plus redoutés du nouveau régime. Cloîtrée dans son domaine, Helena doit se battre pour préserver les bribes de son identité et raviver la mémoire de celle qu'elle était. Mais son geôlier, comme le lieu qui l'entoure, dissimule des secrets bien plus sombres encore... que Helena devra percer, quel qu'en soit le prix.",
+      "trackCensoredName": "Alchemised (Édition française)",
+      "artistViewUrl": "https://books.apple.com/fr/artist/senlinyu/1790784847?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/alchemised-%C3%A9dition-fran%C3%A7aise/id6741068480?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/02/6e/b7/026eb724-4296-8877-8bfc-69d5b57ae783/9782017307112-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/02/6e/b7/026eb724-4296-8877-8bfc-69d5b57ae783/9782017307112-001-x.jpeg/100x100bb.jpg",
+      "averageUserRating": 5,
+      "userRatingCount": 74,
+      "country": "FRA"
+    }
+  ]
+}

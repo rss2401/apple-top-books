@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Love of my Next Life",
+      "artistViewUrl": "https://books.apple.com/fr/artist/brit-benson/1566881831?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/the-love-of-my-next-life/id6742885773?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/d2/a1/fd/d2a1fd97-e5df-e891-24cd-66227c324502/9782379873812-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/d2/a1/fd/d2a1fd97-e5df-e891-24cd-66227c324502/9782379873812-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        1566881831
+      ],
+      "genres": [
+        "Thriller romantique",
+        "Livres",
+        "Romance",
+        "Romance contemporaine"
+      ],
+      "artistId": 1566881831,
+      "artistName": "Brit Benson",
+      "genreIds": [
+        "10061",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "J’ai apaisé ses démons. Il a créé les miens.<br />Lennon Washington a toujours suivi les règles. Fille modèle, étudiante brillante, amie loyale. Elle pensait avoir tout sous contrôle et tout prévu. Tout, sauf lui.<br />Macon Davis. Le frère de sa meilleure amie. Son tourmenteur. La personne qu’elle détestait le plus… Jusqu’à ce qu’elle le voie réellement. Et quand ce moment arrive, c’est à la fois la meilleure et la pire chose qui lui soit arrivée. Il est tout ce qu’elle devrait fuir&#xa0; : dangereux, brisé, irrésistible.<br />Passion. Colère. Amour. Douleur. Leur histoire est une chute libre sans filet, un brasier incandescent impossible à contenir.<br />L’amour peut-il guérir les blessures du passé, ou est-il destiné à consumer ceux qui s’y abandonnent&#xa0; ?<br /><br />Histoire intégrale.",
+      "formattedPrice": "1,99 €",
+      "trackName": "The Love of my Next Life",
+      "releaseDate": "2025-04-22T07:00:00Z",
+      "trackId": 6742885773,
+      "price": 1.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 56,
+      "country": "FRA"
+    }
+  ]
+}

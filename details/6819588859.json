@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Gratuit",
+      "artistIds": [
+        1758423300
+      ],
+      "artistId": 1758423300,
+      "artistName": "Daisy Bloom",
+      "trackId": 6819588859,
+      "trackName": "Beautiful Sin: Mafia et Dark Romance",
+      "genreIds": [
+        "10061",
+        "38",
+        "9003"
+      ],
+      "releaseDate": "2026-10-03T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>EVE</b><br /><br />Six semaines avant que je ne donne ma vie à Dieu, un mort s'en empare.<br /><br />Il m'attend au sommet du clocher à l'aube du mercredi des Cendres. Il marque mon front de cendres et m'appelle par un nom que personne n'a prononcé depuis dix ans.<br /><br />Il est venu chercher le sang de mon père. Je lui offre le mien.<br /><br /><b>Quarante jours comme son épouse. C'est le prix.</b><br /><br />Je suis novice. Je n'ai jamais été embrassée. Je n'ai jamais été touchée. J'ai passé ma vie entière à genoux.<br /><br />Il me veut à genoux, lui aussi. Mais pas pour prier.<br /><br /><b>Et le pire des péchés, c'est à quel point je meurs d'envie de le laisser faire.</b><br /><br /><b>DAMIANO</b><br /><br />Il y a dix ans, les hommes de son père sont entrés dans la maison de ma mère et m'ont laissé pour mort.<br /><br />Cette ville m'a enterré. Je l'ai laissée faire.<br /><br />Maintenant, je suis de retour avec dix noms encrés sur mes côtes et plus qu'un seul à rayer. Sa fille est la seule chose qu'il lui reste à perdre, alors je la prends.<br /><br />Je lui passe la bague au doigt devant la ville entière. Je lui apprendrai chaque péché qu'elle n'a jamais commis, et je la ferai supplier pour chacun d'eux.<br /><br /><b>Elle est mon arme. Mon épouse. Mes quarante jours de vengeance.</b><br /><br />Je n'étais jamais censé la désirer.<br /><br /><b>Je suis un homme mort, et elle est le plus beau péché que je commettrai jamais.</b><br /><br /><i>Voici le premier tome de la série The Altar of Sin. Ordre de lecture :</i><br /><br /><i>Beautiful Sin.</i><br /><br /><i>Wicked Sin.</i><br /><br /><i>Bloody Sin.</i>",
+      "trackCensoredName": "Beautiful Sin: Mafia et Dark Romance",
+      "artistViewUrl": "https://books.apple.com/fr/artist/daisy-bloom/1758423300?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/beautiful-sin-mafia-et-dark-romance/id6819588859?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/aa/7b/e4/aa7be461-446b-dc81-2be5-31ca2729b607/6610001431914.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/aa/7b/e4/aa7be461-446b-dc81-2be5-31ca2729b607/6610001431914.jpg/100x100bb.jpg",
+      "price": 0,
+      "genres": [
+        "Thriller romantique",
+        "Livres",
+        "Romance"
+      ],
+      "country": "FRA"
+    }
+  ]
+}

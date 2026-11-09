@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        588128978
+      ],
+      "artistId": 588128978,
+      "artistName": "Roxane Dambre",
+      "genres": [
+        "Contemporain",
+        "Livres",
+        "SF et fantasy",
+        "Fantasy"
+      ],
+      "trackId": 6831374052,
+      "trackName": "Le Calendrier de l'Avent des Scorpi",
+      "genreIds": [
+        "11001",
+        "38",
+        "9020",
+        "10044"
+      ],
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>D'ordinaire, ils sont tueurs à gages…</b><br /><br />Mais en ce premier décembre, à la stupeur générale, Lazare Lesath a accepté un contrat peu ordinaire qui va impliquer tous les Scorpi&#xa0;!<br /><br />La cible&#xa0;? Un géant des glaces qui a décidé que sa vocation était de jouer le Père Noël sur le marché de Noël voisin.<br /><br />La mission&#xa0;? Le protéger de ses congénères, des brutes sanguinaires cannibales déterminées à lui faire la peau… et à dévorer tous les enfants au passage.<br /><br />Le hic&#xa0;? Des artefacts magiques aux effets hautement fâcheux se mettent à fleurir un peu partout et il faudra toute l'aide des habitants du manoir pour les neutraliser…<br /><br />Entre cette mission qui pourrait se révéler plus délicate que prévu, la préparation des cadeaux qui bat son plein et les secrets qui font vaciller des familles entières,&#xa0;Noël ne va pas être de tout repos chez les Scorpi…<br /><br /><b>Ce Calendrier de l'Avent est un roman en 24&#xa0;chapitres.</b><br /><br />Mode d'emploi&#xa0;1&#xa0;: savourer un chapitre par jour, du 1er au 24&#xa0;décembre, pour patienter jusqu'à Noël en compagnie des Scorpi&#xa0;!<br /><br />Mode d'emploi&#xa0;2&#xa0;: tout dévorer d'un coup… et relire un chapitre par jour pour profiter au maximum du manoir et de ses occupants&#xa0;!<br /><br />Chaque chapitre est raconté du point de vue d'un des personnages de l'univers Scorpi. Mahaut et Charlotte, bien sûr, mais aussi Élias, Adam, Séléné, Lazare… Et même Nicolette, Alfred, Clématite et bien d'autres encore&#xa0;!<br /><br /><i>À noter :</i><br /><br /><i>Ce Calendrier de l'Avent reprend les personnages des deux séries \"Lignées de l'ombre\" et \"Scorpi\". Pour en profiter au maximum, il est recommandé d'avoir lu ces deux séries au préalable ! ;)</i>",
+      "trackCensoredName": "Le Calendrier de l'Avent des Scorpi",
+      "artistViewUrl": "https://books.apple.com/fr/artist/roxane-dambre/588128978?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/le-calendrier-de-lavent-des-scorpi/id6831374052?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f9/56/c9/f956c9f4-cc2e-a0a2-bb4a-241f63704fc3/0004495934.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f9/56/c9/f956c9f4-cc2e-a0a2-bb4a-241f63704fc3/0004495934.jpg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

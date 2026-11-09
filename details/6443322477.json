@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "2,49 €",
+      "artistIds": [
+        556706819
+      ],
+      "artistId": 556706819,
+      "artistName": "Michel Lacombe",
+      "genres": [
+        "Fiction et littérature",
+        "Livres",
+        "Romans et littérature"
+      ],
+      "price": 2.49,
+      "trackId": 6443322477,
+      "trackName": "Des dentelles de charbon",
+      "genreIds": [
+        "10049",
+        "38",
+        "9031"
+      ],
+      "releaseDate": "2022-09-15T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Après une catastrophe minière qui a vu périr son père et deux de ses frères, Marie décide de fuir les corons pour chercher un emploi à Lille. Accueillie par Justin, un vieil homme au grand cœur, elle trouve une place dans une filature où, au fil des années, elle se montre une excellente ouvrière. Jusqu’au jour où, refusant de céder aux avances d’un contremaître, elle se voit contrainte de partir.<br /><br />Alors qu’elle refuse de baisser les bras, le hasard met sur son chemin Albert Malerve, un industriel du textile. Ce dernier ouvre une usine de dentelle mécanique à Caudry.<br /><br />Enfin une lueur d’espoir pour Marie ?",
+      "trackCensoredName": "Des dentelles de charbon",
+      "artistViewUrl": "https://books.apple.com/fr/artist/michel-lacombe/556706819?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/des-dentelles-de-charbon/id6443322477?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6f/74/1f/6f741fb4-6cb7-ec30-b94b-e6867c21d414/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6f/74/1f/6f741fb4-6cb7-ec30-b94b-e6867c21d414/cover.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 10,
+      "country": "FRA"
+    }
+  ]
+}

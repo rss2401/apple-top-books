@@ -2,12 +2,15 @@
   "resultCount": 1,
   "results": [
     {
+      "trackCensoredName": "The Great Gatsby",
+      "artistViewUrl": "https://books.apple.com/de/artist/f-scott-fitzgerald/2037135?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/the-great-gatsby/id1611007841?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/72/19/02/721902ae-5411-c869-4c03-87297c7d5b14/The_Great_Gatsby_Cover_1925_Retouched.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/72/19/02/721902ae-5411-c869-4c03-87297c7d5b14/The_Great_Gatsby_Cover_1925_Retouched.jpg/100x100bb.jpg",
+      "formattedPrice": "Gratis",
       "artistIds": [
         2037135
       ],
-      "formattedPrice": "Gratis",
-      "artistId": 2037135,
-      "artistName": "F. Scott Fitzgerald",
       "genres": [
         "Klassiker",
         "Bücher",
@@ -21,7 +24,8 @@
         "New Adult-Liebesromane",
         "Historische Liebesromane"
       ],
-      "price": 0,
+      "artistId": 2037135,
+      "artistName": "F. Scott Fitzgerald",
       "genreIds": [
         "10042",
         "38",
@@ -36,18 +40,14 @@
         "10059"
       ],
       "releaseDate": "2024-02-03T08:00:00Z",
-      "trackName": "The Great Gatsby",
-      "trackId": 1611007841,
       "kind": "ebook",
       "currency": "EUR",
       "description": "<i>The Great Gatsby</i> is a 1925 novel by American writer F. Scott Fitzgerald. Set in the Jazz Age on Long Island, the novel depicts narrator Nick Carraway's interactions with mysterious millionaire Jay Gatsby and Gatsby's obsession to reunite with his former lover, Daisy Buchanan.",
-      "trackViewUrl": "https://books.apple.com/de/book/the-great-gatsby/id1611007841?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/72/19/02/721902ae-5411-c869-4c03-87297c7d5b14/The_Great_Gatsby_Cover_1925_Retouched.jpg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/72/19/02/721902ae-5411-c869-4c03-87297c7d5b14/The_Great_Gatsby_Cover_1925_Retouched.jpg/100x100bb.jpg",
-      "trackCensoredName": "The Great Gatsby",
-      "artistViewUrl": "https://books.apple.com/de/artist/f-scott-fitzgerald/2037135?uo=4",
+      "trackId": 1611007841,
+      "trackName": "The Great Gatsby",
+      "price": 0,
       "averageUserRating": 4,
-      "userRatingCount": 8,
+      "userRatingCount": 9,
       "country": "DEU"
     }
   ]

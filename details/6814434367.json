@@ -2,8 +2,11 @@
   "resultCount": 1,
   "results": [
     {
-      "formattedPrice": "3,99 €",
-      "releaseDate": "2026-11-02T08:00:00Z",
+      "trackCensoredName": "Un sulfureux ultimatum",
+      "artistViewUrl": "https://books.apple.com/fr/artist/jackie-ashenden/576883863?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/un-sulfureux-ultimatum/id6814434367?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ca/d8/95/cad89507-4599-9c29-d719-2457507abd49/9782280536103-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ca/d8/95/cad89507-4599-9c29-d719-2457507abd49/9782280536103-001-x.jpeg/100x100bb.jpg",
       "artistIds": [
         576883863
       ],
@@ -13,7 +16,6 @@
       ],
       "artistId": 576883863,
       "artistName": "Jackie Ashenden",
-      "price": 3.99,
       "genreIds": [
         "9003",
         "38"
@@ -21,13 +23,11 @@
       "kind": "ebook",
       "currency": "EUR",
       "description": "<b>Série « Captive ou conquise&#xa0;» - Tome 1/2<i></i></b><br /><br /><b><i>La passion est la seule chose qu'ils ne peuvent contrôler...</i></b><br /><br />Ulysses Zakynthos : mon nom fascine autant qu'il impressionne. Or, si je peux me targuer d'obtenir tout ce que je désire, je me heurte aujourd'hui à un défi inattendu. La belle Katla, directrice financière de Tanaka Solar, me fascine. Derrière son caractère glacial se cache une tornade, j'en suis sûr. Et il me tarde de la séduire pour en avoir la preuve. Parce qu'elle me résiste encore et encore, j'ai profité de la fête de Noël qui nous réunissait pour lui poser un ultimatum : Katla passera six mois avec moi ou je prendrai le contrôle de son entreprise. Sans pitié...",
-      "trackCensoredName": "Un sulfureux ultimatum",
-      "artistViewUrl": "https://books.apple.com/fr/artist/jackie-ashenden/576883863?uo=4",
-      "trackViewUrl": "https://books.apple.com/fr/book/un-sulfureux-ultimatum/id6814434367?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ca/d8/95/cad89507-4599-9c29-d719-2457507abd49/9782280536103-001-x.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ca/d8/95/cad89507-4599-9c29-d719-2457507abd49/9782280536103-001-x.jpeg/100x100bb.jpg",
+      "formattedPrice": "3,99 €",
       "trackName": "Un sulfureux ultimatum",
+      "releaseDate": "2026-11-02T08:00:00Z",
       "trackId": 6814434367,
+      "price": 3.99,
       "country": "FRA"
     }
   ]

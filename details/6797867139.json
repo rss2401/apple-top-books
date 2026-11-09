@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Lustiges Taschenbuch Spezial Band 133",
+      "artistViewUrl": "https://books.apple.com/de/artist/disney/295712633?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/lustiges-taschenbuch-spezial-band-133/id6797867139?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/83/6c/77/836c77fa-af75-b4e7-3b62-6dfe4e34e335/1066961309.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/83/6c/77/836c77fa-af75-b4e7-3b62-6dfe4e34e335/1066961309.jpg/100x100bb.jpg",
+      "formattedPrice": "8,99 €",
+      "artistIds": [
+        295712633
+      ],
+      "genres": [
+        "Comics und Graphic Novels",
+        "Bücher"
+      ],
+      "artistId": 295712633,
+      "artistName": "Disney",
+      "genreIds": [
+        "9026",
+        "38"
+      ],
+      "trackId": 6797867139,
+      "trackName": "Lustiges Taschenbuch Spezial Band 133",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "LTB Spezial<br /><br />Dieser Titel wird im sog. Fixed-Layout-Format angeboten und ist daher nur auf Geräten und Leseprogrammen nutzbar, die die Darstellung von Fixed-Layout-eBooks im epub- oder mobi/KF8-Format unterstützen. Wir empfehlen in jedem Fall die Darstellung auf Tablets und anderen Geräten mit Farbbildschirm.",
+      "releaseDate": "2026-11-03T08:00:00Z",
+      "price": 8.99,
+      "country": "DEU"
+    }
+  ]
+}

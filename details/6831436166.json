@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "La Nouvelle Armée des ombres",
+      "artistViewUrl": "https://books.apple.com/fr/artist/antoine-izambard-pierre-gastineau-franck-renaud/1480389236?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/la-nouvelle-arm%C3%A9e-des-ombres/id6831436166?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/0a/3d/a9/0a3da99f-8952-4981-6bee-4ce13d535369/9782226517807.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/0a/3d/a9/0a3da99f-8952-4981-6bee-4ce13d535369/9782226517807.jpg/100x100bb.jpg",
+      "artistIds": [
+        1480389236,
+        1297196851,
+        1603827908
+      ],
+      "genres": [
+        "Science politique",
+        "Livres",
+        "Politique et actualité"
+      ],
+      "artistId": 1480389236,
+      "artistName": "Antoine Izambard, Pierre Gastineau & Franck Renaud",
+      "genreIds": [
+        "11264",
+        "38",
+        "9034"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Ils travaillent dans le secret. Leur mission : être prêt à agir si, demain, la France était confrontée à une crise majeure.</b> Invasion étrangère, paralysie des réseaux électriques, insurrections, violences de masse, manipulations de l’information, cyberattaques… Mais aussi une hypothèse, toujours plus sensible à l’approche de l’élection présidentielle de 2027 : celle d’une République mise à mal par un pouvoir décidé à en bouleverser les institutions. <br /><br /><b>Pendant des mois, Pierre Gastineau, Antoine Izambard et Franck Renaud ont enquêté sur ces « gladiateurs »,</b> des hommes et des femmes qui, au sein de la DGSE, de l’armée, des forces de l’ordre et de la haute administration, se préparent à de tels scénarios. <br /><br /><b>À partir de nombreux témoignages et de documents confidentiels,</b> leur investigation nous plonge dans la zone la plus secrète de l’État français, au sein de cette nouvelle armée des ombres qui a juré de défendre la République envers et contre tout.",
+      "trackName": "La Nouvelle Armée des ombres",
+      "releaseDate": "2027-01-06T08:00:00Z",
+      "trackId": 6831436166,
+      "country": "FRA"
+    }
+  ]
+}

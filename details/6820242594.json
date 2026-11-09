@@ -2,36 +2,36 @@
   "resultCount": 1,
   "results": [
     {
+      "trackCensoredName": "The Wildest Secret",
+      "artistViewUrl": "https://books.apple.com/fr/artist/tessa-wrenvale/6818814519?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/the-wildest-secret/id6820242594?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/0e/61/2b/0e612b14-cabf-115a-d0de-a83096493f65/0004449493.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/0e/61/2b/0e612b14-cabf-115a-d0de-a83096493f65/0004449493.jpg/100x100bb.jpg",
       "artistIds": [
         6818814519
       ],
-      "formattedPrice": "8,99 €",
-      "artistId": 6818814519,
-      "artistName": "Tessa Wrenvale",
       "genres": [
         "Romance",
         "Livres",
         "Romance contemporaine",
         "Romance jeunes adultes"
       ],
-      "price": 8.99,
+      "artistId": 6818814519,
+      "artistName": "Tessa Wrenvale",
       "genreIds": [
         "9003",
         "38",
         "10057",
         "11040"
       ],
-      "releaseDate": "2026-10-03T07:00:00Z",
-      "trackId": 6820242594,
-      "trackName": "The Wildest Secret",
       "kind": "ebook",
       "currency": "EUR",
       "description": "<b>Leur premier baiser était une erreur. Le suivant sera beaucoup plus difficile à expliquer.</b><br /><br />Anna St. George a un objectif : entrer en médecine à Stanford. Entre les cours, les révisions et une déception amoureuse qu'elle préférerait oublier, elle n'a aucune raison de s'intéresser à Travis Maxton. Le gardien de hockey de Hollis University est aussi renfermé qu'exaspérant. Et depuis l'adolescence, ils ne savent se parler qu'en se provoquant.<br /><br />Travis, lui, tient à sa tranquillité. Sur la glace comme dans sa vie, il préfère garder le contrôle. Anna et ses répliques mordantes le lui font perdre à chaque rencontre. Elle est surtout la sœur jumelle de Nick, son meilleur ami et coéquipier. Une raison suffisante pour garder ses distances.<br /><br />Jusqu'à ce qu'un baiser échangé dans le noir bouleverse leurs certitudes. Anna croyait embrasser un autre homme. Travis aurait dû arrêter de penser à elle dès le lendemain. Ils décident d'oublier. Ils échouent.<br /><br />Derrière les disputes, le désir s'installe. Les rendez-vous se multiplient, les confidences aussi. Leur relation doit rester secrète, surtout pour Nick. Mais Anna découvre un homme attentionné derrière la mauvaise humeur de Travis. Et lui commence à lui confier ce qu'il cache même à ses proches.<br /><br />Avec la médecine pour elle et le hockey professionnel pour lui, leur avenir semble déjà compliqué. À mesure que les sentiments grandissent, une question devient impossible à esquiver : combien de temps pourront-ils cacher une histoire qu'ils n'ont plus envie de voir finir ?<br /><br /><i>The Wildest Secret est le deuxième tome de Hollis Rebels, une saga de romances universitaires où chaque livre suit un couple différent. Une romance torride entre ennemis qui succombent, amour secret et meilleur ami du frère, avec une fin heureuse.</i>",
-      "trackCensoredName": "The Wildest Secret",
-      "artistViewUrl": "https://books.apple.com/fr/artist/tessa-wrenvale/6818814519?uo=4",
-      "trackViewUrl": "https://books.apple.com/fr/book/the-wildest-secret/id6820242594?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/0e/61/2b/0e612b14-cabf-115a-d0de-a83096493f65/0004449493.jpg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/0e/61/2b/0e612b14-cabf-115a-d0de-a83096493f65/0004449493.jpg/100x100bb.jpg",
+      "formattedPrice": "8,99 €",
+      "trackName": "The Wildest Secret",
+      "releaseDate": "2026-10-03T07:00:00Z",
+      "trackId": 6820242594,
+      "price": 8.99,
       "country": "FRA"
     }
   ]

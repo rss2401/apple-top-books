@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        576505686
+      ],
+      "genres": [
+        "Historische Liebesromane",
+        "Bücher",
+        "Liebesromane",
+        "Paranormale Liebesromane"
+      ],
+      "price": 0,
+      "artistId": 576505686,
+      "artistName": "Joanne Wadsworth",
+      "trackId": 6751764866,
+      "trackName": "Das Verlangen des Highlanders",
+      "releaseDate": "2025-08-31T04:44:38Z",
+      "genreIds": [
+        "10059",
+        "38",
+        "9003",
+        "10058"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "New York Times Bestsellerautorin Joanne Wadsworth präsentiert eine weitere verführerische Highlander-Zeitreise-Serie, die Sie nicht verpassen sollten. Leser sind begeistert! \r\n\r\nEs kann nur einen geben...für sie beide.\r\n\r\nIm zwölften Jahrhundert erhielt ein Mann namens Gilleoin die Fähigkeit, sich in einen Bären zu verwandeln. Sein Clan wurde Matheson genannt, und als er sich mit einer Frau verband, die Feenblut in sich trug, schufen sie eine Linie, die in Geheimnis gehüllt war. Doch weit in der Zukunft würden immer noch Gerüchte kursieren...\r\n\r\nFünf lange Jahre ist Isla Matheson vor dem Mann geflohen, den ihr Feen-Vorfahre als den ihren prophezeit hatte, doch nun ist ihre Zeit der Flucht vorbei. Ihr Gestaltwandler-Gefährte kommt ihr immer näher, und als er sie gefangen nimmt und zu seinem Clan bringt, kann sie weder sich selbst noch ihn länger verleugnen. Sie wählt die vollständige Vereinigung mit ihm, und setzt damit eine Prophezeiung aus dem zwölften Jahrhundert in Gang, die sie durch die Zeit zurückschleudert, in die Anfänge ihres Clans.\r\n\r\nDer Hochland-Krieger und Gestaltwandler Iain Matheson ist dem Zauber seiner Gefährtin verfallen. Sie ist die eine Frau, für deren Schutz er sterben würde, und als sich ein Portal öffnet und sie ihm entreißt, springt er ihr nach. Er wird niemals zulassen, dass sie ihm entkommt, nicht einmal, als er in eine der größten Fehden jener Zeit hineingezogen wird.\r\n\r\nNun haben sie eine Mission: ihre zukünftige Linie vor dem Aussterben zu bewahren und ihrem Volk Hoffnung zu geben, sowohl in der Zukunft als auch in der Vergangenheit.\r\n\r\nJedes Buch dieser Reihe ist in eigenständig. Sie können sie in beliebiger Reihenfolge lesen.\r\nDIE MATHESON BRÜDER SERIE\r\nDas Verlangen des Highlanders, Buch 1\r\nDie Leidenschaft des Highlanders, Buch 2\r\nDie Verführung des Highlanders, Buch 3\r\nDer Kuss des Highlanders, Buch 4\r\nDas Herz des Highlanders, Buch 5\r\nDas Schwert des Highlanders, Buch 6\r\nDie Braut des Highlanders, Buch 7\r\nDie Liebkosung des Highlanders, Buch 8\r\nDie Berührung des Highlanders, Buch 9\r\nDer Gestaltwandler des Highlanders, Buch 10\r\nDer Anspruch des Highlanders, Buch 11\r\nDer Mut des Highlanders, Buch 12\r\nDie Meerjungfrau des Highlanders, Buch 13",
+      "trackCensoredName": "Das Verlangen des Highlanders",
+      "artistViewUrl": "https://books.apple.com/de/artist/joanne-wadsworth/576505686?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/das-verlangen-des-highlanders/id6751764866?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/5f/c7/d9/5fc7d946-a891-fe38-e981-6834bf79bbbf/9326a590-c294-4fe4-a227-a9059faee5d1_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/5f/c7/d9/5fc7d946-a891-fe38-e981-6834bf79bbbf/9326a590-c294-4fe4-a227-a9059faee5d1_cover_image.jpg/100x100bb.jpg",
+      "formattedPrice": "Gratis",
+      "averageUserRating": 4,
+      "userRatingCount": 5,
+      "country": "DEU"
+    }
+  ]
+}

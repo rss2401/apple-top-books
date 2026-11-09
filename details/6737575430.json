@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Der Gourmet",
+      "artistViewUrl": "https://books.apple.com/de/artist/m-w-craven/1317377906?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/der-gourmet/id6737575430?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fc/d1/13/fcd11388-4aa3-b363-4093-affe7830a262/1050810165.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fc/d1/13/fcd11388-4aa3-b363-4093-affe7830a262/1050810165.jpg/100x100bb.jpg",
+      "formattedPrice": "9,99 €",
+      "artistIds": [
+        1317377906
+      ],
+      "genres": [
+        "Polizeiromane",
+        "Bücher",
+        "Krimis und Thriller",
+        "Belletristik und Literatur"
+      ],
+      "artistId": 1317377906,
+      "artistName": "M W Craven",
+      "genreIds": [
+        "10052",
+        "38",
+        "9032",
+        "9031"
+      ],
+      "trackId": 6737575430,
+      "trackName": "Der Gourmet",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "DNA kann man nicht fälschen – oder?<br /><br /><b>Clever, voller schwarzem Humor und mit einer Spannung, die süchtig macht:</b> Im <b>2. Krimi der</b> <b>gefeierten und preisgekrönten Reihe aus Großbritannien</b> von M. W. Craven wartet ein weiterer unmöglicher Fall auf DS Washington Poe und Fallanalystin Tilly Bradshaw.<br /><br />Seit sechs Jahren sitzt der charismatische Sterne-Koch Jared Keaton im Gefängnis wegen Mordes an seiner eigenen Tochter. Zwar wurde die Leiche von Elizabeth nie gefunden, doch die hartnäckigen Ermittlungen von DS Washington Poe hatten schließlich zu Keatons Verhaftung und Verurteilung geführt.<br /><br />Als jetzt in einem Polizeirevier in Cumbria eine junge Frau auftaucht, die behauptet, Elizabeth Keaton zu sein, steht Poes Welt plötzlich auf dem Kopf. Denn eine DNA-Analyse scheint zweifelsfrei zu beweisen, dass die Frau die Wahrheit sagt. Mithilfe der einzigen Person, der er trauen kann – der brillanten, aber sozial unbeholfenen Analytikerin Tilly Bradshaw – sucht Poe nach Antworten: Wie kann jemand gleichzeitig tot und am Leben sein?<br /><br /><b>Die britischen Kult-Krimis um DS Washington Poe erobern Deutschland:</b><br /><br />»Eine absolute Entdeckung!« <i>eat.Read.sleep (NDR)</i> über den Krimi <i>Der Botaniker</i><br /><br />»Sie werden Autor M. W. Craven lieben. ›Der Botaniker‹ ist ein genialer Roman.« <i>krimi-couch</i><br /><br />»Als Leser merkt man sehr schnell, dass man mit der Poe-Reihe etwas ganz Besonderes in Händen hält.« <i>n-tv.de</i><br /><br />Alle Bände der <b>Krimi-Serie aus England</b> lassen sich unabhängig voneinander lesen und folgende Bände sind bereits auf Deutsch erschienen:<br />Der Zögling (Band 1)Der Gourmet (Band 2)Der Kurator (Band 3)Der Botaniker (Band 5)",
+      "releaseDate": "2025-01-01T08:00:00Z",
+      "price": 9.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 210,
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Gratuit",
+      "artistIds": [
+        1631989833
+      ],
+      "artistId": 1631989833,
+      "artistName": "Adella Jane Broochmitt",
+      "trackId": 6443033280,
+      "trackName": "Les sorcières de Blackstone",
+      "genreIds": [
+        "9031",
+        "38",
+        "9020",
+        "10044"
+      ],
+      "releaseDate": "2022-06-28T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Willow Lewis, dix-sept ans, ne rêve que d'une chose : que les évènements étranges et incontrôlables dont on l'accuse cessent.<br /><br />Le jour où elle emménage à Blackstone dans l'État du Massachusetts, son quotidien morne bascule. Will est une sorcière, la dernière dotée du don de voyance. Accueillie par le clan de Blackstone, elle fait ses débuts dans ce monde surnaturel, épaulée par Hellawes Godwinson l'érudite et Calliopée Van Ersherg l'enchanteresse.<br /><br />Mais alors qu'elle vient en aide à Charles Banker, un ancien traqueur, pour retrouver un Ombre sanguinaire, son don de voyance reste inaccessible.<br /><br />Will est-elle vraiment douée de pouvoirs ? Ou la réalité est-elle plus terrible encore ?",
+      "trackCensoredName": "Les sorcières de Blackstone",
+      "artistViewUrl": "https://books.apple.com/fr/artist/adella-jane-broochmitt/1631989833?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-sorci%C3%A8res-de-blackstone/id6443033280?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/51/74/51/51745126-1efe-a559-d3d2-ab29e22c9e4b/0000870512.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/51/74/51/51745126-1efe-a559-d3d2-ab29e22c9e4b/0000870512.jpg/100x100bb.jpg",
+      "price": 0,
+      "genres": [
+        "Romans et littérature",
+        "Livres",
+        "SF et fantasy",
+        "Fantasy"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 37,
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Twisted Lies",
+      "artistViewUrl": "https://books.apple.com/de/artist/ana-huang-maike-hallmann/1001710589?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/twisted-lies/id6446117574?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e2/32/4a/e2324ad6-bc7d-e166-161d-9eca9348e8de/9783736320482.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e2/32/4a/e2324ad6-bc7d-e166-161d-9eca9348e8de/9783736320482.jpg/100x100bb.jpg",
+      "formattedPrice": "9,99 €",
+      "artistIds": [
+        1001710589,
+        471325665
+      ],
+      "genres": [
+        "New Adult-Liebesromane",
+        "Bücher",
+        "Liebesromane",
+        "Belletristik und Literatur",
+        "Zeitgenössische Liebesromane"
+      ],
+      "artistId": 1001710589,
+      "artistName": "Ana Huang & Maike Hallmann",
+      "genreIds": [
+        "11040",
+        "38",
+        "9003",
+        "9031",
+        "10057"
+      ],
+      "trackId": 6446117574,
+      "trackName": "Twisted Lies",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Sie ist eine Versuchung, sein größtes Begehren. Das einzige Rätsel, das er nicht lösen kann<br /><br />Stella Alonso ist trotz ihrer Bekanntheit in den sozialen Medien eine schüchterne, introvertierte junge Frau. Neben ihren zwei Jobs hat sie weder die Zeit noch die Kapazitäten für die Liebe oder eine Beziehung. Doch eine Bedrohung aus ihrer Vergangenheit treibt sie direkt in die Arme - und das Penthouse - von Christian Harper, der seit ihrer ersten Begegnung von Stella fasziniert ist. Unter den perfekt sitzenden Anzügen verbirgt der CEO von Harper Security seine dunkelsten Seiten, aber Stella ist die eine Schwäche, die er sich erlaubt. Allerdings könnten die Geheimnisse, die er ihr verschweigt, alles zwischen ihnen zerstören ...<br /><br />»Eine Fake-Relationship-Romance voller Chemie -mit einem unwiderstehlichen und gefährlichen Helden, der nur eine Schwäche hat: sie!« THE ESCAPIST BOOK BLOG<br /><br />Abschlussband der heißen und romantischen TWISTED-Reihe von SPIEGEL-Bestseller-Autorin Ana Huang",
+      "releaseDate": "2023-08-25T07:00:00Z",
+      "price": 9.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 153,
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        41426283
+      ],
+      "genres": [
+        "Theater",
+        "Bücher",
+        "Kultur und Unterhaltung",
+        "Belletristik und Literatur",
+        "Klassiker"
+      ],
+      "price": 0,
+      "artistId": 41426283,
+      "artistName": "E. T. A. Hoffmann",
+      "trackId": 1153878986,
+      "trackName": "Der goldne Topf",
+      "releaseDate": "1600-01-01T08:00:00Z",
+      "genreIds": [
+        "10036",
+        "38",
+        "9007",
+        "9031",
+        "10042"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "E.T.A. Hoffmanns \"Der goldene Topf\" (1814) erzählt vom Studenten Anselmus, der sich zwischen Fantasie und Realität hin- und herschwankend gegen eine Vernunftehe mit einer Beamtentochter entscheidet – und stattdessen durch die (imaginierte) Liebe zur Schlangenfrau Serpentina sein wahres Schicksal findet.<br /><br />Die Novelle war und ist mannigfaltige Inspirationsquelle für Autoren, Maler und Musiker geworden.<br /><br />Null Papier Verlag",
+      "trackCensoredName": "Der goldne Topf",
+      "artistViewUrl": "https://books.apple.com/de/artist/e-t-a-hoffmann/41426283?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/der-goldne-topf/id1153878986?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/92/dd/8b/92dd8b36-8b12-2311-b6d1-dea1966e20f9/1016350983.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/92/dd/8b/92dd8b36-8b12-2311-b6d1-dea1966e20f9/1016350983.jpg/100x100bb.jpg",
+      "formattedPrice": "Gratis",
+      "averageUserRating": 4,
+      "userRatingCount": 23,
+      "country": "DEU"
+    }
+  ]
+}

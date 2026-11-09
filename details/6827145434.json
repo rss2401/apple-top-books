@@ -2,12 +2,16 @@
   "resultCount": 1,
   "results": [
     {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0a/0e/d5/0a0ed5a7-288e-f8e6-6876-0a9dd0d60a91/BT000151517800900901900203.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0a/0e/d5/0a0ed5a7-288e-f8e6-6876-0a9dd0d60a91/BT000151517800900901900203.jpg/100x100bb.jpg",
       "artistIds": [
         648908134,
         1483741839
       ],
-      "artistId": 648908134,
-      "artistName": "石塚真一 & NUMBER8",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E7%9F%B3%E5%A1%9A%E7%9C%9F%E4%B8%80-number8/648908134?uo=4",
+      "trackCensoredName": "BLUE GIANT MOMENTUM(9)",
+      "trackViewUrl": "https://books.apple.com/jp/book/blue-giant-momentum-9/id6827145434?uo=4",
+      "formattedPrice": "¥1,000",
       "genres": [
         "ヒューマンドラマ",
         "ブック",
@@ -16,9 +20,11 @@
         "青年"
       ],
       "price": 1000,
+      "artistId": 648908134,
+      "artistName": "石塚真一 & NUMBER8",
+      "releaseDate": "2026-10-30T07:00:00Z",
       "trackId": 6827145434,
       "trackName": "BLUE GIANT MOMENTUM(9)",
-      "releaseDate": "2026-10-30T07:00:00Z",
       "genreIds": [
         "11052",
         "38",
@@ -29,14 +35,8 @@
       "kind": "ebook",
       "currency": "JPY",
       "description": "盗まれた大の愛器の行方は!?<br /><br />盗まれた大の愛器をめぐり<br />メンバーのみならず、人々が動き始める!!<br />少ない集客から始まったツアーは<br />フィラデルフィアでの最終日、<br />大きなうねりとなって…!?",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0a/0e/d5/0a0ed5a7-288e-f8e6-6876-0a9dd0d60a91/BT000151517800900901900203.jpg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0a/0e/d5/0a0ed5a7-288e-f8e6-6876-0a9dd0d60a91/BT000151517800900901900203.jpg/100x100bb.jpg",
-      "artistViewUrl": "https://books.apple.com/jp/artist/%E7%9F%B3%E5%A1%9A%E7%9C%9F%E4%B8%80-number8/648908134?uo=4",
-      "trackCensoredName": "BLUE GIANT MOMENTUM(9)",
-      "formattedPrice": "¥1,000",
-      "trackViewUrl": "https://books.apple.com/jp/book/blue-giant-momentum-9/id6827145434?uo=4",
-      "userRatingCount": 28,
       "averageUserRating": 5,
+      "userRatingCount": 65,
       "country": "JPN"
     }
   ]

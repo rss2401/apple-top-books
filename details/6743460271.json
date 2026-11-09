@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Les Meilleurs sont sous terre - Prix du roman de la Gendarmerie nationale 2025",
+      "artistViewUrl": "https://books.apple.com/fr/artist/nils-barrellon/961211914?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-meilleurs-sont-sous-terre-prix-du-roman-de-la/id6743460271?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/06/a0/a1/06a0a158-7c3c-55b7-fe91-6674fcf8f15a/9782259322171.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/06/a0/a1/06a0a158-7c3c-55b7-fe91-6674fcf8f15a/9782259322171.jpg/100x100bb.jpg",
+      "artistIds": [
+        961211914
+      ],
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "artistId": 961211914,
+      "artistName": "Nils Barrellon",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Le lauréat de la 5e édition du Prix du roman de la gendarmerie nationale sera dévoilé par le jury, le 20 mars 2025.<br /><br />Créé en 2020 par la gendarmerie nationale et les éditions Plon, ce prix récompense un roman mettant en scène la gendarmerie.<br />Le jury, présidé par le directeur général de la gendarmerie nationale, réunit journalistes et écrivains, tels que Maxime Chattam, Caroline Roux, Maître Julia Minkowski, Christian Authier, Yves Thréard, Anne Hommel, Eric Delbecque, mais aussi des gendarmes – hauts gradés ou non.<br />Aussi exigeant que passionné, ce jury couronne chaque année un polar de qualité.",
+      "formattedPrice": "4,99 €",
+      "trackName": "Les Meilleurs sont sous terre - Prix du roman de la Gendarmerie nationale 2025",
+      "releaseDate": "2025-03-20T07:00:00Z",
+      "trackId": 6743460271,
+      "price": 4.99,
+      "country": "FRA"
+    }
+  ]
+}

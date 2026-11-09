@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "3,99 €",
+      "artistIds": [
+        1552708901,
+        1351621734
+      ],
+      "artistId": 1552708901,
+      "artistName": "Céline Badaroux & Krista Street",
+      "genres": [
+        "Fantasy",
+        "Livres",
+        "SF et fantasy"
+      ],
+      "price": 3.99,
+      "trackId": 6759938643,
+      "trackName": "La Cour de l’Hiver",
+      "genreIds": [
+        "10044",
+        "38",
+        "9020"
+      ],
+      "releaseDate": "2025-07-09T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Être défectueuse fait de moi une cible. Je n’ai pas d’ailes. Pas de magie. Je suis faible.</b><br /><br />Aux yeux de mon peuple, je ne suis rien. Pas quand la force est nécessaire pour survivre à la neige et à la glace éternelles qui recouvrent notre continent nordique et le plongent dans un hiver sans fin. Malgré tout, j’ai persévéré. La vie que je mène en compagnie de ma sœur est simple, mais pleine de sens... jusqu’à ce que le détestable prince héritier de la Cour d’Hiver fasse irruption dans notre village.<br /><br />Les immenses ailes noires du prince Norivun et sa magie puissante me troublent et me coupent le souffle. Il est aussi beau que brutal et, quand il décide de m’emporter pour m’enfermer dans son château, je suis persuadée que je serai morte avant l’aube. Mais il n’en est rien.<br /><br />Et quand le prince pose sur moi un regard avide, je comprends la véritable raison de mon enlèvement. Je me retrouve devant un choix impossible : joindre mes forces à celles du prince qui m’a tout pris, ou assister au début d’une guerre dévastatrice pour notre royaume.<br /><br />---<br />« Cette série m'a captivé dès le début, avec une intrigue riche en rebondissements et des personnages bien développés. » - <b>The Caffeinated Bookwyrm</b>",
+      "trackCensoredName": "La Cour de l’Hiver",
+      "artistViewUrl": "https://books.apple.com/fr/artist/c%C3%A9line-badaroux-krista-street/1552708901?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/la-cour-de-lhiver/id6759938643?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a6/d2/63/a6d263f4-62fd-386c-cfb8-2f61776ec9c7/9791038139428.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a6/d2/63/a6d263f4-62fd-386c-cfb8-2f61776ec9c7/9791038139428.jpg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

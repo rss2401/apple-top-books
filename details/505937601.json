@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Gratuit",
+      "artistIds": [
+        64434751
+      ],
+      "artistId": 64434751,
+      "artistName": "Guy de Maupassant",
+      "trackId": 505937601,
+      "trackName": "Pierre et Jean",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "releaseDate": "1888-01-01T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "M. Roland, ancien bijoutier parisien, déménage avec toute sa famille au Havre par amour partagé de la mer. Après leurs études à Paris, les deux fils de M. et Mme Roland, Pierre, l’aîné, médecin, et Jean, avocat, décident de s’installer dans la nouvelle résidence familiale.",
+      "trackCensoredName": "Pierre et Jean",
+      "artistViewUrl": "https://books.apple.com/fr/artist/guy-de-maupassant/64434751?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/pierre-et-jean/id505937601?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/b2/37/a0/b237a095-ac9d-3d8e-6d3f-9bafef6b5788/coverArt.391d72.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/b2/37/a0/b237a095-ac9d-3d8e-6d3f-9bafef6b5788/coverArt.391d72.jpg/100x100bb.jpg",
+      "price": 0,
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "averageUserRating": 4,
+      "userRatingCount": 249,
+      "country": "FRA"
+    }
+  ]
+}

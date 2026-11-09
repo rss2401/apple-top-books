@@ -2,12 +2,14 @@
   "resultCount": 1,
   "results": [
     {
+      "trackCensoredName": "Déteste Moi pour Noël",
+      "artistViewUrl": "https://books.apple.com/fr/artist/jess-elb%C3%A9/1706994334?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/d%C3%A9teste-moi-pour-no%C3%ABl/id6466167460?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/92/b2/1c/92b21c98-98ab-5174-9438-e19bbe91d2de/9782379872990-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/92/b2/1c/92b21c98-98ab-5174-9438-e19bbe91d2de/9782379872990-001-x.jpeg/100x100bb.jpg",
       "artistIds": [
         1706994334
       ],
-      "formattedPrice": "1,99 €",
-      "artistId": 1706994334,
-      "artistName": "Jess Elbé",
       "genres": [
         "Thriller romantique",
         "Livres",
@@ -15,7 +17,8 @@
         "Romans et littérature",
         "Romance contemporaine"
       ],
-      "price": 1.99,
+      "artistId": 1706994334,
+      "artistName": "Jess Elbé",
       "genreIds": [
         "10061",
         "38",
@@ -23,19 +26,16 @@
         "9031",
         "10057"
       ],
-      "releaseDate": "2026-10-15T07:00:00Z",
-      "trackId": 6466167460,
-      "trackName": "Déteste Moi pour Noël",
       "kind": "ebook",
       "currency": "EUR",
       "description": "Romain et Olivia se détestent cordialement.<br />Il est le fils du compagnon de sa mère, de dix ans son aîné. Elle est la petite jeune qui passe son temps à se plaindre de sa mère, à se rebeller. Il la juge immature, elle le trouve insupportable, et pourtant ils vont devoir cohabiter tous les deux pour le bien de Louise, la fille de Romain.<br />Il est pilote de chasse, elle ne sait pas quoi faire de sa vie. Il est père de famille, elle est jeune et provocante. Autant de différences qui, sur le papier, les rendent incompatibles.<br />Et pourtant, il y a ce petit quelque chose entre eux qu’ils se refusent à voir et surtout à exploiter. Après tout, qu’importe qu’ils n’aient pas grandi ensemble ou qu’ils se voient rarement, ils sont presque de la même famille, non ?<br />Sous le prétexte des fêtes de fin d’année, la vie et ses tracas vont les rapprocher... Mais jusqu’à quel point ?",
-      "trackCensoredName": "Déteste Moi pour Noël",
-      "artistViewUrl": "https://books.apple.com/fr/artist/jess-elb%C3%A9/1706994334?uo=4",
-      "trackViewUrl": "https://books.apple.com/fr/book/d%C3%A9teste-moi-pour-no%C3%ABl/id6466167460?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/92/b2/1c/92b21c98-98ab-5174-9438-e19bbe91d2de/9782379872990-001-x.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/92/b2/1c/92b21c98-98ab-5174-9438-e19bbe91d2de/9782379872990-001-x.jpeg/100x100bb.jpg",
+      "formattedPrice": "1,99 €",
+      "trackName": "Déteste Moi pour Noël",
+      "releaseDate": "2026-10-15T07:00:00Z",
+      "trackId": 6466167460,
+      "price": 1.99,
       "averageUserRating": 4.5,
-      "userRatingCount": 75,
+      "userRatingCount": 76,
       "country": "FRA"
     }
   ]

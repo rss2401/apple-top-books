@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Weak Side",
+      "artistViewUrl": "https://books.apple.com/fr/artist/s-j-sylvis/1590476666?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/weak-side/id6503287871?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/0d/49/d0/0d49d01b-ffc7-c959-25f1-4cdd41d39e24/9782379873478-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/0d/49/d0/0d49d01b-ffc7-c959-25f1-4cdd41d39e24/9782379873478-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        1590476666
+      ],
+      "genres": [
+        "Thriller romantique",
+        "Livres",
+        "Romance",
+        "Romance contemporaine"
+      ],
+      "artistId": 1590476666,
+      "artistName": "S.J. Sylvis",
+      "genreIds": [
+        "10061",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "L’auteure à succès distinguée par USA Today, SJ Sylvis, arrive en France avec cette campus hockey romance new adult !<br />Impossible d’ignorer Theo Brooks. Avec son sourire en coin, ses abdos en béton et son statut de star du hockey, il est aussi le plus arrogant des sportifs du campus. Et malheureusement pour moi, quand l’administration confond mon prénom et mon nom de famille, il devient mon nouveau colocataire et je sais que ça va mal tourner… surtout avec Theo, qui n’est pas du genre «&#xa0; arrangeant&#xa0; »&#xa0; ! Enfin, jusqu’à ce qu’il ait besoin de moi.<br />Il me propose un arrangement surprenant&#xa0; : devenir sa fausse petite amie pour échapper aux attaques incessantes des groupies qui le distraient de son objectif ultime&#xa0; : signer avec la meilleure équipe de la NHL.<br />Je serais bien folle d’accepter, surtout avec sa main autour de ma taille qui provoque en moi des sensations insoupçonnées... car tout cela est pour de faux, pas vrai&#xa0; ?",
+      "formattedPrice": "1,99 €",
+      "trackName": "Weak Side",
+      "releaseDate": "2024-07-09T07:00:00Z",
+      "trackId": 6503287871,
+      "price": 1.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 215,
+      "country": "FRA"
+    }
+  ]
+}

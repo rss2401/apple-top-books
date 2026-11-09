@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Les survivants (Tome 10) - Une adversaire à sa mesure",
+      "artistViewUrl": "https://books.apple.com/fr/artist/shana-galen/364510349?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-survivants-tome-10-une-adversaire-%C3%A0-sa-mesure/id6822196160?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ef/98/85/ef98857e-e7c8-f5b9-4387-caad2143889b/9782290429464.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ef/98/85/ef98857e-e7c8-f5b9-4387-caad2143889b/9782290429464.jpg/100x100bb.jpg",
+      "artistIds": [
+        364510349
+      ],
+      "genres": [
+        "Romance historique",
+        "Livres",
+        "Romance",
+        "Romans et littérature"
+      ],
+      "artistId": 364510349,
+      "artistName": "Shana Galen",
+      "genreIds": [
+        "10059",
+        "38",
+        "9003",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Fils déshérité d’un duc, Rowden Payne gagne sa vie dans le monde impitoyable de la boxe. Un soir, alors qu’il s’apprête à mettre K-O son plus grand rival, il est hypnotisé par des yeux noisette dans la foule et se retrouve à terre. Cette jeune femme envoûtante, Modesty Brown, est la fille d’un pasteur. Pour retrouver son père, qui a mystérieusement disparu, elle a besoin de l’aide de Rowden. Celui-ci peine à lui pardonner sa défaite lors de ce combat crucial, mais il ignore qu’il a en face de lui une adversaire plus redoutable encore…",
+      "formattedPrice": "5,99 €",
+      "trackName": "Les survivants (Tome 10) - Une adversaire à sa mesure",
+      "releaseDate": "2026-11-04T08:00:00Z",
+      "trackId": 6822196160,
+      "price": 5.99,
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "1,99 €",
+      "artistIds": [
+        1590476666
+      ],
+      "artistId": 1590476666,
+      "artistName": "S.J. Sylvis",
+      "genres": [
+        "Thriller romantique",
+        "Livres",
+        "Romance",
+        "Romance contemporaine"
+      ],
+      "price": 1.99,
+      "trackId": 6733238233,
+      "trackName": "Puck Block",
+      "genreIds": [
+        "10061",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "releaseDate": "2025-02-06T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "L’auteure à succès distinguée par USA Today, SJ Sylvis, revient avec cette toute nouvelle campus hockey romance new adult&#xa0; !<br />Ford Collins, meilleur ami de mon frère et défenseur vedette de l’équipe de hockey de Bexley U, ne se contente pas de bloquer les palets. Sous l’influence de mon frère, il a saboté chacun de mes rendez-vous. Sur le campus, tout le monde sait que je suis intouchable. Un simple regard leur suffit pour que les prétendants abandonnent.<br />Mais les choses vont changer. Je suis prête à reprendre le contrôle de ma vie.<br />La plupart du temps, Ford agit comme s’il ne prenait rien au sérieux, toujours à faire rire les autres, mais il est bien plus malin que la plupart des mecs de son âge, et derrière son air désinvolte, il déteste décevoir les gens. Et c’est cette corde sensible que je vais utiliser. Il ne le sait pas encore, mais après tout ce temps à ruiner mes chances de trouver quelqu’un, il va maintenant m’aider à sortir avec qui je veux. Il me doit bien ça, après tout.<br />Le problème&#xa0; ? Ce petit jeu entre nous commence à révéler des choses qu’aucun de nous n’était prêt à affronter. Parce qu’entre Ford et moi, les frontières n’ont jamais été aussi floues.<br />Histoire intégrale.",
+      "trackCensoredName": "Puck Block",
+      "artistViewUrl": "https://books.apple.com/fr/artist/s-j-sylvis/1590476666?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/puck-block/id6733238233?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/13/1a/8e/131a8e9e-21e1-4969-8970-73288f409953/9782379873638-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/13/1a/8e/131a8e9e-21e1-4969-8970-73288f409953/9782379873638-001-x.jpeg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 46,
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "19,99 €",
+      "artistIds": [
+        1117614399
+      ],
+      "trackCensoredName": "Wie ich so glücklich wurde",
+      "artistViewUrl": "https://books.apple.com/de/artist/nele-pollatschek/1117614399?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/wie-ich-so-gl%C3%BCcklich-wurde/id6761787613?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/eb/2c/38/eb2c38c9-38fa-be8a-4786-733d916720f6/1065010991.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/eb/2c/38/eb2c38c9-38fa-be8a-4786-733d916720f6/1065010991.jpg/100x100bb.jpg",
+      "trackId": 6761787613,
+      "trackName": "Wie ich so glücklich wurde",
+      "genres": [
+        "Essays",
+        "Bücher",
+        "Belletristik und Literatur",
+        "Gesundheit, Körper und Geist",
+        "Selbstverwirklichung"
+      ],
+      "releaseDate": "2026-11-05T08:00:00Z",
+      "genreIds": [
+        "11044",
+        "38",
+        "9031",
+        "9025",
+        "10119"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Ein Buch, das glücklich macht, für alle, die sowas nie lesen würden.</b><br /><br />Nele Pollatschek ist wirklich nicht als Frohnatur geboren. Ihre Gene sind alle hochneurotisch und Resilienz ist ihr ein Fremdwort. Trotzdem muss sie eines Tages überrascht feststellen, dass sie glücklich ist. In Begegnungen mit Wissenschaftlern und Psychoanalytikern, mit Profifußballern, Selbstoptimierern, Sokratikern und Hinduisten geht sie der Frage nach: Wie konnte es so weit kommen? Pollatschek erzählt von schlimmen Gedanken, die einem egal sein können, davon, warum Trigger-Warnungen Quatsch sind und Traumata besser als ihr Ruf, sie erzählt von Statistik und Konformismus, von Körpern und Seelen und dem Sehnen nach Gott. Vor allem erzählt sie, wie man glücklich wird, auch wenn man echt nicht dafür gemacht ist. Pollatschek nimmt uns mit auf eine wilde, kluge, evidenzbasiert komische Reise mit einem garantiert glücklichen Ende.&#xa0;",
+      "price": 19.99,
+      "artistId": 1117614399,
+      "artistName": "Nele Pollatschek",
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1a/81/3a/1a813a21-6343-5528-8747-80245ccf71c5/9782232149627.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1a/81/3a/1a813a21-6343-5528-8747-80245ccf71c5/9782232149627.jpg/100x100bb.jpg",
+      "trackCensoredName": "Warszawa",
+      "artistViewUrl": "https://books.apple.com/fr/artist/sophie-marceau/1082051087?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/warszawa/id6814681615?uo=4",
+      "formattedPrice": "14,99 €",
+      "artistIds": [
+        1082051087
+      ],
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "artistId": 1082051087,
+      "artistName": "Sophie Marceau",
+      "price": 14.99,
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "releaseDate": "2026-10-29T07:00:00Z",
+      "trackName": "Warszawa",
+      "trackId": 6814681615,
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Sophie Marceau est de retour en librairie avec<i>Warszawa</i>, un récit autobiographique, comme une longue lettre à l'homme de sa vie, aujourd'hui disparu.</b><br /><br />\" Je sortis de ta vie, pensant que je n'y survivrais pas, que sans ta lumière je perdrais la vue à tout jamais et la beauté des invisibles avec. Il me fallut certainement beaucoup de courage, ce jour-là, pour me guider hors de ton antre. Je m'étonne même d'en être sortie. Y suis-je parvenue ?<br /><br /><b>J'étais ce que tu avais fait de moi. Je copiais ton écriture et répétais tes mots. Je portais uniquement les bijoux que tu m'offrais et n'en désirais pas d'autre. Je mettais toujours le même parfum, celui que tu m'avais choisi. Je m'emboîtais. Je prenais ta forme. Je m'ajustais. Je ne comblais pas les espaces manquants, il n'y en avait pas. Je me juxtaposais sur toi comme un drap lâche. Je ne craignais pas de tomber, j'étais trop légère pour ça, trop immatérielle. \"</b><br /><br />En 2023, Sophie Marceau publiait un recueil de nouvelles et de poèmes,<i>La Souterraine</i>, dans lequel on pouvait deviner, derrière la fiction, des aspects de sa vie personnelle et professionnelle.<i>Warszawa</i>est, à l'inverse, un récit autobiographique qui emprunte à l'écriture romanesque et poétique. Dans une longue adresse, elle y interpelle celui avec qui elle a partagé dix-sept ans de sa vie et interroge leur amour.",
+      "country": "FRA"
+    }
+  ]
+}

@@ -5,7 +5,7 @@
       "artistIds": [
         1579306318
       ],
-      "formattedPrice": "$15.99",
+      "formattedPrice": "$2.99",
       "artistId": 1579306318,
       "artistName": "Shelby Van Pelt",
       "genres": [
@@ -15,12 +15,26 @@
         "Family Fiction & Literature",
         "Sci-Fi & Fantasy",
         "Fantasy",
-        "Lifestyle & Home",
-        "Pets",
         "Mysteries & Thrillers",
-        "Cozy Mysteries"
+        "Cozy Mysteries",
+        "Lifestyle & Home",
+        "Pets"
       ],
-      "price": 15.99,
+      "price": 2.99,
+      "genreIds": [
+        "10049",
+        "38",
+        "9031",
+        "11050",
+        "9020",
+        "10044",
+        "9032",
+        "11259",
+        "9024",
+        "10090"
+      ],
+      "trackId": 1579306317,
+      "trackName": "Remarkably Bright Creatures",
       "releaseDate": "2022-05-03T07:00:00Z",
       "kind": "ebook",
       "currency": "USD",
@@ -30,22 +44,8 @@
       "trackViewUrl": "https://books.apple.com/us/book/remarkably-bright-creatures/id1579306317?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/05/19/8c/05198c51-3e7e-bdf2-aef4-f7f3462fc9c2/9780063204171.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/05/19/8c/05198c51-3e7e-bdf2-aef4-f7f3462fc9c2/9780063204171.jpg/100x100bb.jpg",
-      "trackId": 1579306317,
-      "trackName": "Remarkably Bright Creatures",
-      "genreIds": [
-        "10049",
-        "38",
-        "9031",
-        "11050",
-        "9020",
-        "10044",
-        "9024",
-        "10090",
-        "9032",
-        "11259"
-      ],
       "averageUserRating": 4.5,
-      "userRatingCount": 7005,
+      "userRatingCount": 7023,
       "country": "USA"
     }
   ]

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Les feux du désir",
+      "artistViewUrl": "https://books.apple.com/fr/artist/johanna-lindsey/282362276?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-feux-du-d%C3%A9sir/id1481531711?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/36/52/0d/36520d2b-4363-06db-a35d-f5a0cc500d5d/9782290224779.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/36/52/0d/36520d2b-4363-06db-a35d-f5a0cc500d5d/9782290224779.jpg/100x100bb.jpg",
+      "artistIds": [
+        282362276
+      ],
+      "genres": [
+        "Romance historique",
+        "Livres",
+        "Romance"
+      ],
+      "artistId": 282362276,
+      "artistName": "Johanna Lindsey",
+      "genreIds": [
+        "10059",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Un simple regard et le prince Dimitri sent son désir s’éveiller. Cette servante anglaise, il en fera sa maîtresse&#xa0;! Un peu plus tard, Katherine est enlevée dans les rues de Londres pour être livrée au bon plaisir du prince. Elle se révolte, ivre de rage : comment ce barbare ose-t-il porter la main sur elle, lady Katherine St. John&#xa0;? Elle a beau protester, argumenter, se débattre, rien n’y fait. Il l’entraîne, sur les mers déchaînées, vers l’inconnu, vers la splendeur des palais aux toits d’or de Saint-Pétersbourg où elle sera retenue prisonnière. Prisonnière d’une passion désormais incontrôlable…",
+      "formattedPrice": "5,99 €",
+      "trackName": "Les feux du désir",
+      "releaseDate": "2019-10-02T07:00:00Z",
+      "trackId": 1481531711,
+      "price": 5.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 102,
+      "country": "FRA"
+    }
+  ]
+}

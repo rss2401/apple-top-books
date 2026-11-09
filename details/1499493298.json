@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "10,99 €",
+      "trackCensoredName": "Tout le bleu du ciel",
+      "artistViewUrl": "https://books.apple.com/fr/artist/m%C3%A9lissa-da-costa/1040669086?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/tout-le-bleu-du-ciel/id1499493298?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/35/1f/14/351f1468-3ca4-12e3-75d2-aec2b9747042/9782253102472-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/35/1f/14/351f1468-3ca4-12e3-75d2-aec2b9747042/9782253102472-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        1040669086
+      ],
+      "artistId": 1040669086,
+      "artistName": "Mélissa Da Costa",
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "price": 10.99,
+      "releaseDate": "2020-02-12T08:00:00Z",
+      "trackId": 1499493298,
+      "trackName": "Tout le bleu du ciel",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Petitesannonces.fr : Jeune homme de 26 ans, condamné à une espérance de vie de deux ans par un Alzheimer précoce, souhaite prendre le large pour un ultime voyage. Recherche compagnon(ne) pour partager avec moi ce dernier périple.<br />Émile a décidé de fuir l’hôpital, la compassion de sa famille et de ses amis. À son propre étonnement, il reçoit une réponse à cette annonce. Trois jours plus tard, devant le camping-car acheté secrètement, il retrouve Joanne, une jeune femme coiffée d’un grand chapeau noir qui a pour seul bagage un sac à dos, et qui ne donne aucune explication sur sa présence.<br />Ainsi commence un voyage stupéfiant de beauté. À chaque détour de ce périple naissent, à travers la rencontre avec les autres et la découverte de soi, la joie, la peur, l’amitié, l’amour qui peu à peu percent la carapace de douleurs d’Émile.<br /><br />Un livre aux dialogues impeccables et aux personnages touchants d’humanité. Psychologies magazine.<br /><br />Bouleversant. Version femina.",
+      "userRatingCount": 1239,
+      "averageUserRating": 4.5,
+      "country": "FRA"
+    }
+  ]
+}

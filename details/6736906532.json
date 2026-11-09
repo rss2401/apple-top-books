@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "11,99 €",
+      "artistIds": [
+        1773772337
+      ],
+      "artistId": 1773772337,
+      "artistName": "Sandrine Dias",
+      "genres": [
+        "Religion et spiritualité",
+        "Livres",
+        "Santé et bien-être",
+        "Spiritualité"
+      ],
+      "price": 11.99,
+      "trackId": 6736906532,
+      "trackName": "Au-delà des signes - Comprendre et interpréter le monde de l'invisible",
+      "genreIds": [
+        "9018",
+        "38",
+        "9025",
+        "10004"
+      ],
+      "releaseDate": "2024-10-31T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Découvrez un monde où les frontières entre le visible et l'invisible s'estompent et où les signes et les synchronicités se révèlent au quotidien.<br />\n<i>\" La mort n'est que le passage d'une vie à une autre. \"</i>\n<br />Baruch Spinoza, philosophe<br /><br />D'une simple heure miroir à une série de coïncidences trop improbables pour être vraies, les messages de l'au-delà prennent de multiples formes. Dans ce livre inspirant, Sandrine Médium vous enseigne comment déceler et décrypter les messages envoyés par vos êtres chers, à travers le prisme de sa médiumnité.<br />Au fil des pages, vous découvrirez comment être à l'écoute de tous ces signes et synchronicités qui se présentent à vous au quotidien. Vous serez invité à remettre en question vos croyances et vos perceptions, à explorer les profondeurs de l'inconnu et à embrasser une réalité bien plus complexe et fascinante que ce que vos sens ont coutume de vous révéler.<br />Puissiez-vous vous émerveiller devant les prodiges de l'invisible, trouver du réconfort à l'idée que vos êtres chers veillent sur vous, d'une façon ou d'une autre, et peut-être, ouvrir votre esprit à une compréhension plus profonde de la vie elle-même, jusqu'à envisager la possibilité que l'âme est tout simplement immuable, intemporelle et éternelle...",
+      "trackCensoredName": "Au-delà des signes - Comprendre et interpréter le monde de l'invisible",
+      "artistViewUrl": "https://books.apple.com/fr/artist/sandrine-dias/1773772337?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/au-del%C3%A0-des-signes-comprendre-et-interpr%C3%A9ter-le-monde/id6736906532?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/26/89/f4/2689f4a2-6703-7e37-ddfc-b6a41a7fb9c9/9782361889043.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/26/89/f4/2689f4a2-6703-7e37-ddfc-b6a41a7fb9c9/9782361889043.jpg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Le RN contre les Français",
+      "artistViewUrl": "https://books.apple.com/fr/artist/bon-pote/6813077121?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/le-rn-contre-les-fran%C3%A7ais/id6813077119?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3e/73/47/3e734703-88e3-d83c-b6df-b46eea261044/9782228942959.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3e/73/47/3e734703-88e3-d83c-b6df-b46eea261044/9782228942959.jpg/100x100bb.jpg",
+      "artistIds": [
+        6813077121
+      ],
+      "genres": [
+        "Sciences sociales",
+        "Livres",
+        "Essais et sciences humaines",
+        "Politique et actualité"
+      ],
+      "artistId": 6813077121,
+      "artistName": "Bon Pote",
+      "genreIds": [
+        "10120",
+        "38",
+        "9002",
+        "9034"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Le Rassemblement national se présente comme l’allié du peuple français et se prétend en rupture avec les politiques gouvernementales. Qu’en est-il concrètement de ses votes à l’Assemblée nationale, depuis que ses députés y sont entrés en nombre en 2022 ? <br /> Vous trouverez dans ces pages des faits indiscutables pour démasquer les mensonges du « premier parti de France ». <br /><br /> Bon Pote est un média spécialisé sur les questions d'écologie, de numérique et de démocratie. Ce livre a été écrit par Sophie Kloetzli, Awenig Marié et Thibaut Schepman, sous la direction de Thomas Wagner. Les infographies ont été réalisées par Valentine Michel.",
+      "formattedPrice": "3,99 €",
+      "trackName": "Le RN contre les Français",
+      "releaseDate": "2026-10-07T07:00:00Z",
+      "trackId": 6813077119,
+      "price": 3.99,
+      "country": "FRA"
+    }
+  ]
+}

@@ -10,6 +10,7 @@
       "artistIds": [
         1653741810
       ],
+      "price": 19.99,
       "artistId": 1653741810,
       "artistName": "Caroline Wahl",
       "genres": [
@@ -17,8 +18,11 @@
         "Bücher",
         "Literarische Belletristik"
       ],
-      "price": 19.99,
       "releaseDate": "2026-08-28T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Alles hinter sich lassen. Mit dem Auto Richtung Süden. Caroline Wahls neuer Roman erzählt von einem Drang nach Freiheit, der keine Grenzen kennt.</b><br /><br />Der Selbstfindungstrip nach Bali? Samara hat niemanden gefunden. Die hippe Agentur in Berlin-Mitte? So öde wie irgendein anderer Job.<br /><br />Samara weiß, was sie alles nicht mehr will. Aber was sie will, das weiß Samara nicht, und sie weiß noch nicht einmal, ob das schlecht ist. Jetzt hat sie knallorange gefärbte Haare, einen schönen alten Wagen und an jedem Ort, an dem sie ankommt, einen neuen Namen. Und aufwärts soll es gehen, also richtig nach oben, nach St. Moritz in den Schweizer Hochalpen. Da kommt ein schöner Mann her, den Samara mal kennengelernt hat. Überhaupt gibt es viele schöne und reiche Menschen in St. Moritz, sehr reiche Menschen – mittendrin Samara, die jetzt nicht mehr Samara heißt. Und keine Hochstaplerin ist, sondern erfolgreiche Künstlerin.<br /><br /><b>Aber je besser es läuft für die Frau mit den vielen Identitäten, desto deutlicher merkt Samara, dass ihr noch mehr fehlt als schrankenlose Freiheit ...</b>",
+      "formattedPrice": "19,99 €",
       "genreIds": [
         "9031",
         "38",
@@ -26,12 +30,8 @@
       ],
       "trackId": 6760700525,
       "trackName": "1999 Meter über dem Meer",
-      "kind": "ebook",
-      "currency": "EUR",
-      "description": "<b>Alles hinter sich lassen. Mit dem Auto Richtung Süden. Caroline Wahls neuer Roman erzählt von einem Drang nach Freiheit, der keine Grenzen kennt.</b><br /><br />Der Selbstfindungstrip nach Bali? Samara hat niemanden gefunden. Die hippe Agentur in Berlin-Mitte? So öde wie irgendein anderer Job.<br /><br />Samara weiß, was sie alles nicht mehr will. Aber was sie will, das weiß Samara nicht, und sie weiß noch nicht einmal, ob das schlecht ist. Jetzt hat sie knallorange gefärbte Haare, einen schönen alten Wagen und an jedem Ort, an dem sie ankommt, einen neuen Namen. Und aufwärts soll es gehen, also richtig nach oben, nach St. Moritz in den Schweizer Hochalpen. Da kommt ein schöner Mann her, den Samara mal kennengelernt hat. Überhaupt gibt es viele schöne und reiche Menschen in St. Moritz, sehr reiche Menschen – mittendrin Samara, die jetzt nicht mehr Samara heißt. Und keine Hochstaplerin ist, sondern erfolgreiche Künstlerin.<br /><br /><b>Aber je besser es läuft für die Frau mit den vielen Identitäten, desto deutlicher merkt Samara, dass ihr noch mehr fehlt als schrankenlose Freiheit ...</b>",
-      "formattedPrice": "19,99 €",
       "averageUserRating": 4,
-      "userRatingCount": 27,
+      "userRatingCount": 28,
       "country": "DEU"
     }
   ]

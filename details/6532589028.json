@@ -48,12 +48,24 @@
       "userRatingCount": 32
     },
     {
+      "formattedPrice": "Gratis",
       "artistIds": [
         2632114
       ],
-      "formattedPrice": "Gratis",
-      "artistId": 2632114,
       "artistName": "George Orwell",
+      "genres": [
+        "Klassiker",
+        "Bücher",
+        "Belletristik und Literatur",
+        "Jugend",
+        "Belletristik für Jugendliche",
+        "Tiergeschichten für Jugendliche",
+        "Historische Romane",
+        "Klassiker für Jugendliche",
+        "Literarische Belletristik",
+        "Dystopische Romane für Jugendliche"
+      ],
+      "price": 0,
       "releaseDate": "2020-02-02T08:00:00Z",
       "trackId": 6532589028,
       "trackName": "Animal Farm",
@@ -77,21 +89,9 @@
       "trackViewUrl": "https://books.apple.com/de/book/animal-farm/id6532589028?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b8/4a/6e/b84a6e29-5a22-fb9e-3bc7-3e9694e3b249/9781998382330.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b8/4a/6e/b84a6e29-5a22-fb9e-3bc7-3e9694e3b249/9781998382330.jpg/100x100bb.jpg",
-      "price": 0,
-      "genres": [
-        "Klassiker",
-        "Bücher",
-        "Belletristik und Literatur",
-        "Jugend",
-        "Belletristik für Jugendliche",
-        "Tiergeschichten für Jugendliche",
-        "Historische Romane",
-        "Klassiker für Jugendliche",
-        "Literarische Belletristik",
-        "Dystopische Romane für Jugendliche"
-      ],
+      "artistId": 2632114,
       "averageUserRating": 4.5,
-      "userRatingCount": 42,
+      "userRatingCount": 45,
       "country": "DEU"
     }
   ]

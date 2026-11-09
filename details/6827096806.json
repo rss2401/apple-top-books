@@ -1,0 +1,45 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1166810810,
+        982892814
+      ],
+      "artistId": 1166810810,
+      "artistName": "四葉夕卜 & 小川亮",
+      "genres": [
+        "異世界",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "青年",
+        "歴史"
+      ],
+      "price": 800,
+      "releaseDate": "2026-11-06T08:00:00Z",
+      "trackId": 6827096806,
+      "trackName": "パリピ孔明(27)",
+      "genreIds": [
+        "11345",
+        "38",
+        "9026",
+        "10016",
+        "11338",
+        "50000079"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "英子、敗北す。敵となる輝の力を見定めるべく、英子が向かったのは輝のライブ。すると突然、輝より観客の前で『キズナ』のデュエットを迫られた! 英子は引き受けるが、圧倒的な輝のカリスマ性に呑まれ‥‥。自分には何が足りないのか。その答えを探るべく、英子は自分の父に逢うことを決意して、アメリカへと向かう! しかし、着いて早々に孔明と英子は拉致られてしまい‥‥。",
+      "trackCensoredName": "パリピ孔明(27)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E5%9B%9B%E8%91%89%E5%A4%95%E5%8D%9C-%E5%B0%8F%E5%B7%9D%E4%BA%AE/1166810810?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%91%E3%83%AA%E3%83%94%E5%AD%94%E6%98%8E-27/id6827096806?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/eb/fd/a9/ebfda94d-6622-fce7-016a-c1eaf5d6866e/BT000074273802702701900206.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/eb/fd/a9/ebfda94d-6622-fce7-016a-c1eaf5d6866e/BT000074273802702701900206.jpg/100x100bb.jpg",
+      "formattedPrice": "¥800",
+      "averageUserRating": 4.5,
+      "userRatingCount": 7,
+      "country": "JPN"
+    }
+  ]
+}

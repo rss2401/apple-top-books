@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "15,99 €",
+      "artistIds": [
+        726456
+      ],
+      "artistId": 726456,
+      "artistName": "Tom Clancy",
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "price": 15.99,
+      "trackId": 6819919602,
+      "trackName": "Frontière de feu",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "releaseDate": "2026-11-05T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>\" Un climax explosif ! \"<i>Publishers Weekly</i></b><br /><br /><b>LA LIGNE ROUGE EST FRANCHIE.<br />LA RIPOSTE SERA TOTALE.</b><br /><br />Au large du Venezuela, l'attaque d'un navire des gardes côtes américains met le feu aux poudres. En jeu : le contrôle de la plus grande réserve de pétrole offshore jamais découverte.<br />Pris au cœur de cette guerre de l'or noir, Jack Ryan Jr, homme d'affaires et fils du célèbre président des États-Unis, pensait en avoir fini avec les missions clandestines. Mais lorsque les intérêts de la nation sont menacés, il n'a plus le choix, il doit reprendre du service. Face à lui, des adversaires prêts à tout : les mercenaires du groupe Wagner, soutenus par Moscou et les narcoterroristes vénézuéliens. Si le pétrole tombe entre de mauvaises mains, le monde entier en paiera le prix.",
+      "trackCensoredName": "Frontière de feu",
+      "artistViewUrl": "https://books.apple.com/fr/artist/tom-clancy/726456?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/fronti%C3%A8re-de-feu/id6819919602?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f9/25/37/f9253739-6836-c724-c6c1-8c55cdc3a4ec/9782749967356.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f9/25/37/f9253739-6836-c724-c6c1-8c55cdc3a4ec/9782749967356.jpg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

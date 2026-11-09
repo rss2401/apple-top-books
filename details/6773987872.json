@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "15,99 €",
+      "artistIds": [
+        1395496089
+      ],
+      "artistId": 1395496089,
+      "artistName": "Steve Berry",
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "price": 15.99,
+      "trackId": 6773987872,
+      "trackName": "La Bible du Diable - une enquête de Cotton Malone, par Steve Berry le maître du thriller historique - nouveauté 2026",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "releaseDate": "2026-11-05T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Avec plus de vingt millions d'exemplaires vendus à travers le monde, le retour du grand maître du thriller historique.</b><br /><br /><b>1295.</b>Dans le monastère bénédictin de Podla&amp;#382;ice, en Bohême, un moine entreprend la rédaction d'un ouvrage hors norme : un codex censé rassembler tout le savoir de son époque. Connu sous le nom de<i>Codex Gigas</i>, ou<i>Bible du Diable</i>en raison d'une étrange enluminure, l'ouvrage est d'abord cédé aux cisterciens avant d'entrer dans les collections du Saint-Empire, puis de disparaître durant la guerre de Trente Ans. Il réapparaît des années plus tard en Suède.<br /><br />De nos jours, à Stockholm, Cotton Malone est appelé en mission officieuse auprès du souverain suédois. Une société secrète menace de s'emparer de la<i>Bible du Diable</i>. C'est le début d'une course contre la montre pour Cotton, qui doit percer les mystères du<i>Codex</i>et de ceux qui le convoitent. Bientôt, il est confronté à un événement majeur qui bouleversera à jamais son existence.<br /><br />Steve Berry mêle ici comme jamais les énigmes historiques et l'actualité la plus brûlante pour nous livrer un roman exceptionnel qui ensorcelle littéralement le lecteur et le captive de la première à la dernière ligne.",
+      "trackCensoredName": "La Bible du Diable - une enquête de Cotton Malone, par Steve Berry le maître du thriller historique - nouveauté 2026",
+      "artistViewUrl": "https://books.apple.com/fr/artist/steve-berry/1395496089?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/la-bible-du-diable-une-enqu%C3%AAte-de-cotton-malone-par/id6773987872?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ca/d5/4c/cad54ca5-95a6-b41e-db46-118f5a76564c/9782749186559.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ca/d5/4c/cad54ca5-95a6-b41e-db46-118f5a76564c/9782749186559.jpg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

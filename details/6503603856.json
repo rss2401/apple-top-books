@@ -50,11 +50,9 @@
       "userRatingCount": 71
     },
     {
-      "formattedPrice": "Gratis",
       "artistIds": [
         2632114
       ],
-      "price": 0,
       "artistId": 2632114,
       "artistName": "George Orwell",
       "genres": [
@@ -70,9 +68,7 @@
         "High-Tech Science-Fiction",
         "Klassiker für Jugendliche"
       ],
-      "releaseDate": "2024-01-01T08:00:00Z",
-      "trackName": "1984",
-      "trackId": 6503603856,
+      "price": 0,
       "genreIds": [
         "10042",
         "38",
@@ -86,9 +82,13 @@
         "11007",
         "11180"
       ],
+      "releaseDate": "2024-01-01T08:00:00Z",
+      "trackId": 6503603856,
+      "trackName": "1984",
       "kind": "ebook",
       "currency": "EUR",
       "description": "<b>BIG BROTHER IS WATCHING YOU</b>\n\nNewspeak, Doublethink, Big Brother, the Thought Police - the language of 1984 has passed into the English language as a symbol of the horrors of totalitarianism. George Orwell's story of Winston Smith's fight against the all-pervading Party has become a classic, not the least because of its intellectual coherence. First published in 1949, it retains as much relevance today as it had then.",
+      "formattedPrice": "Gratis",
       "trackCensoredName": "1984",
       "artistViewUrl": "https://books.apple.com/de/artist/george-orwell/2632114?uo=4",
       "trackViewUrl": "https://books.apple.com/de/book/1984/id6503603856?uo=4",

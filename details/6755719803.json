@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Les Belles Promesses",
+      "artistViewUrl": "https://books.apple.com/fr/artist/pierre-lemaitre/373392577?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-belles-promesses/id6755719803?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/09/13/a2/0913a210-d55c-7e63-5866-90672127ac0e/9782702191965-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/09/13/a2/0913a210-d55c-7e63-5866-90672127ac0e/9782702191965-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        373392577
+      ],
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "artistId": 373392577,
+      "artistName": "Pierre Lemaitre",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Tout commence par un incendie, un bébé… et un sanglier.<br />Paris est transformé par des travaux titanesques, le cœur d’un homme est écartelé, le monde rural menacé, des femmes sortent de l’oubli, et les membres de la famille Pelletier, toujours plus proches de nous, marchent inexorablement vers leur destin. Au terme d’un effroyable dilemme moral, ce sera l’effondrement ou l’apothéose.<br />&#xa0; <br />Par bonheur, le chat Joseph veille encore.&#xa0; <br />Passionnant, déchirant, enthousiasmant.<br />Un grand roman de Pierre Lemaitre.<br />&#xa0; Les romans de Pierre Lemaitre ont été récompensés par de nombreux prix littéraires nationaux et internationaux. Après l’immense succès du Grand Monde, du Silence et la Colère, et d’Un avenir radieux, il clôt avec Les Belles Promesses sa plongée mouvementée et jubilatoire dans les Trente Glorieuses.",
+      "formattedPrice": "16,99 €",
+      "trackName": "Les Belles Promesses",
+      "releaseDate": "2026-01-06T08:00:00Z",
+      "trackId": 6755719803,
+      "price": 16.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 196,
+      "country": "FRA"
+    }
+  ]
+}
