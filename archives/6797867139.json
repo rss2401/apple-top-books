@@ -1,0 +1,31 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 52,
+      "artistName": "Disney",
+      "id": "6797867139",
+      "name": "Lustiges Taschenbuch Spezial Band 133",
+      "releaseDate": "2026-11-03",
+      "kind": "books",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/83/6c/77/836c77fa-af75-b4e7-3b62-6dfe4e34e335/1066961309.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "9026",
+          "name": "Comics und Graphic Novels",
+          "url": "https://itunes.apple.com/de/genre/id9026"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/lustiges-taschenbuch-spezial-band-133/id6797867139"
+    }
+  ]
+}

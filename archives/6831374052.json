@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 83,
+      "artistName": "Roxane Dambre",
+      "id": "6831374052",
+      "name": "Le Calendrier de l'Avent des Scorpi",
+      "releaseDate": "2026-11-20",
+      "kind": "books",
+      "artistId": "588128978",
+      "artistUrl": "https://books.apple.com/fr/author/roxane-dambre/id588128978",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f9/56/c9/f956c9f4-cc2e-a0a2-bb4a-241f63704fc3/0004495934.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "11001",
+          "name": "Contemporain",
+          "url": "https://itunes.apple.com/fr/genre/id11001"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9020",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id9020"
+        },
+        {
+          "genreId": "10044",
+          "name": "Fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id10044"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/le-calendrier-de-lavent-des-scorpi/id6831374052"
+    }
+  ]
+}

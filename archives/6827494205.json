@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 4,
+      "artistName": "Samer Zakharia",
+      "id": "6827494205",
+      "name": "Tous voyants ! - 20 clés pour développer son intuition et prendre les bonnes décisions",
+      "releaseDate": "2026-10-29",
+      "kind": "books",
+      "artistId": "1896684718",
+      "artistUrl": "https://books.apple.com/fr/author/samer-zakharia/id1896684718",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a4/3d/61/a43d61e3-0c63-efce-acf9-37a01a27b41c/9791037517289.jpg/100x137bb.png",
+      "genres": [
+        {
+          "genreId": "9018",
+          "name": "Religion et spiritualité",
+          "url": "https://itunes.apple.com/fr/genre/id9018"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/tous-voyants-20-cl%C3%A9s-pour-d%C3%A9velopper-son-intuition/id6827494205"
+    }
+  ]
+}

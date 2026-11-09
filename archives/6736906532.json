@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 76,
+      "artistName": "Sandrine Dias",
+      "id": "6736906532",
+      "name": "Au-delà des signes - Comprendre et interpréter le monde de l'invisible",
+      "releaseDate": "2024-10-31",
+      "kind": "books",
+      "artistId": "1773772337",
+      "artistUrl": "https://books.apple.com/fr/author/sandrine-dias/id1773772337",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/26/89/f4/2689f4a2-6703-7e37-ddfc-b6a41a7fb9c9/9782361889043.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9018",
+          "name": "Religion et spiritualité",
+          "url": "https://itunes.apple.com/fr/genre/id9018"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9025",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id9025"
+        },
+        {
+          "genreId": "10004",
+          "name": "Spiritualité",
+          "url": "https://itunes.apple.com/fr/genre/id10004"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/au-del%C3%A0-des-signes-comprendre-et-interpr%C3%A9ter-le-monde/id6736906532"
+    }
+  ]
+}

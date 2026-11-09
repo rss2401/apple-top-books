@@ -2,11 +2,11 @@
   "resultCount": 1,
   "results": [
     {
-      "month": "202610",
+      "month": "202611",
       "country": "de",
       "mediaType": "books",
       "feed": "top-paid",
-      "rank": 88,
+      "rank": 92,
       "artistName": "Dana Vowinckel",
       "id": "6761205490",
       "name": "Anton und Alma",
@@ -35,16 +35,6 @@
           "genreId": "9003",
           "name": "Liebesromane",
           "url": "https://itunes.apple.com/de/genre/id9003"
-        },
-        {
-          "genreId": "9002",
-          "name": "Sachbücher",
-          "url": "https://itunes.apple.com/de/genre/id9002"
-        },
-        {
-          "genreId": "10038",
-          "name": "Familie und Beziehungen",
-          "url": "https://itunes.apple.com/de/genre/id10038"
         },
         {
           "genreId": "10057",

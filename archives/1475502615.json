@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 94,
+      "artistName": "Alexander McCall Smith",
+      "id": "1475502615",
+      "name": "The Peppermint Tea Chronicles",
+      "releaseDate": "2019-08-15",
+      "kind": "books",
+      "artistId": "3811067",
+      "artistUrl": "https://books.apple.com/gb/author/alexander-mccall-smith/id3811067",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/bd/bb/a1/bdbba1bd-a866-31e1-eee5-772b829e2806/9780349144252.jpg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "11050",
+          "name": "Family Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id11050"
+        },
+        {
+          "genreId": "10049",
+          "name": "Literary Fiction",
+          "url": "https://itunes.apple.com/gb/genre/id10049"
+        },
+        {
+          "genreId": "10042",
+          "name": "Classics",
+          "url": "https://itunes.apple.com/gb/genre/id10042"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/the-peppermint-tea-chronicles/id1475502615"
+    }
+  ]
+}

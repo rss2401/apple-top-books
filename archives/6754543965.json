@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 90,
+      "artistName": "Joanne Wadsworth",
+      "id": "6754543965",
+      "name": "Der Herzog, der mein Herz stahl",
+      "releaseDate": "2025-10-26",
+      "kind": "books",
+      "artistId": "576505686",
+      "artistUrl": "https://books.apple.com/de/author/joanne-wadsworth/id576505686",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/48/0b/4b/480b4bce-c281-6114-7008-9affa2172410/9ecc0d5b-8699-4074-a836-69df7f212ae0_cover_image.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10059",
+          "name": "Historische Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10059"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/der-herzog-der-mein-herz-stahl/id6754543965"
+    }
+  ]
+}

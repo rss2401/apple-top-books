@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 92,
+      "artistName": "Anton Ochsenkühn",
+      "id": "6747895823",
+      "name": "Mit Aktien und ETF gegen Inflation und Altersarmut - erfolgreiche Geldanlage ohne Risiko",
+      "releaseDate": "2025-06-27",
+      "kind": "books",
+      "artistId": "388312600",
+      "artistUrl": "https://books.apple.com/de/author/anton-ochsenk%C3%BChn/id388312600",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/70/f1/bb/70f1bba0-0546-5f07-12d0-107120fffaad/MIt_Aktien_und_ETF_gegen_Inflation_und_Altersarmut_-_Anton_Ochsenkuehn.jpg/100x147bb.png",
+      "genres": [
+        {
+          "genreId": "9009",
+          "name": "Business und Finanzen",
+          "url": "https://itunes.apple.com/de/genre/id9009"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/mit-aktien-und-etf-gegen-inflation-und-altersarmut/id6747895823"
+    }
+  ]
+}

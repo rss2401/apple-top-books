@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 59,
+      "artistName": "Bon Pote",
+      "id": "6813077119",
+      "name": "Le RN contre les Français",
+      "releaseDate": "2026-10-07",
+      "kind": "books",
+      "artistId": "6813077121",
+      "artistUrl": "https://books.apple.com/fr/author/bon-pote/id6813077121",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3e/73/47/3e734703-88e3-d83c-b6df-b46eea261044/9782228942959.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "10120",
+          "name": "Sciences sociales",
+          "url": "https://itunes.apple.com/fr/genre/id10120"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9002",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id9002"
+        },
+        {
+          "genreId": "9034",
+          "name": "Politique et actualité",
+          "url": "https://itunes.apple.com/fr/genre/id9034"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/le-rn-contre-les-fran%C3%A7ais/id6813077119"
+    }
+  ]
+}

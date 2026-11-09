@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 38,
+      "artistName": "Brit Benson",
+      "id": "6742885773",
+      "name": "The Love of my Next Life",
+      "releaseDate": "2025-04-22",
+      "kind": "books",
+      "artistId": "1566881831",
+      "artistUrl": "https://books.apple.com/fr/author/brit-benson/id1566881831",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/d2/a1/fd/d2a1fd97-e5df-e891-24cd-66227c324502/9782379873812-001-x.jpeg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10061",
+          "name": "Thriller romantique",
+          "url": "https://itunes.apple.com/fr/genre/id10061"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        },
+        {
+          "genreId": "10057",
+          "name": "Romance contemporaine",
+          "url": "https://itunes.apple.com/fr/genre/id10057"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/the-love-of-my-next-life/id6742885773"
+    }
+  ]
+}

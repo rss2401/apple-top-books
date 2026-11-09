@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 71,
+      "artistName": "M W Craven",
+      "id": "6737575430",
+      "name": "Der Gourmet",
+      "releaseDate": "2025-01-01",
+      "kind": "books",
+      "artistId": "1317377906",
+      "artistUrl": "https://books.apple.com/de/author/m-w-craven/id1317377906",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fc/d1/13/fcd11388-4aa3-b363-4093-affe7830a262/1050810165.jpg/100x156bb.png",
+      "genres": [
+        {
+          "genreId": "10052",
+          "name": "Polizeiromane",
+          "url": "https://itunes.apple.com/de/genre/id10052"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/der-gourmet/id6737575430"
+    }
+  ]
+}

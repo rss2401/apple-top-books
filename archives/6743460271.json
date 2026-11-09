@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 53,
+      "artistName": "Nils Barrellon",
+      "id": "6743460271",
+      "name": "Les Meilleurs sont sous terre - Prix du roman de la Gendarmerie nationale 2025",
+      "releaseDate": "2025-03-20",
+      "kind": "books",
+      "artistId": "961211914",
+      "artistUrl": "https://books.apple.com/fr/author/nils-barrellon/id961211914",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/06/a0/a1/06a0a158-7c3c-55b7-fe91-6674fcf8f15a/9782259322171.jpg/100x152bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/les-meilleurs-sont-sous-terre-prix-du-roman-de-la/id6743460271"
+    }
+  ]
+}

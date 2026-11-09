@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 100,
+      "artistName": "Mélissa Da Costa",
+      "id": "1499493298",
+      "name": "Tout le bleu du ciel",
+      "releaseDate": "2020-02-12",
+      "kind": "books",
+      "artistId": "1040669086",
+      "artistUrl": "https://books.apple.com/fr/author/m%C3%A9lissa-da-costa/id1040669086",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/35/1f/14/351f1468-3ca4-12e3-75d2-aec2b9747042/9782253102472-001-x.jpeg/100x162bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/tout-le-bleu-du-ciel/id1499493298"
+    }
+  ]
+}

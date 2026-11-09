@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 89,
+      "artistName": "Nick Harkaway",
+      "id": "6760162777",
+      "name": "The Taper Man",
+      "releaseDate": "2026-11-05",
+      "kind": "books",
+      "artistId": "341696099",
+      "artistUrl": "https://books.apple.com/gb/author/nick-harkaway/id341696099",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/28/60/ee/2860ee89-ff2d-d936-7366-a015f9f0fe84/9781405984720.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Crime & Thrillers",
+          "url": "https://itunes.apple.com/gb/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id9031"
+        },
+        {
+          "genreId": "10047",
+          "name": "Historical Fiction",
+          "url": "https://itunes.apple.com/gb/genre/id10047"
+        },
+        {
+          "genreId": "10051",
+          "name": "Historical Mysteries",
+          "url": "https://itunes.apple.com/gb/genre/id10051"
+        },
+        {
+          "genreId": "9015",
+          "name": "History",
+          "url": "https://itunes.apple.com/gb/genre/id9015"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/the-taper-man/id6760162777"
+    }
+  ]
+}

@@ -2,11 +2,11 @@
   "resultCount": 1,
   "results": [
     {
-      "month": "202610",
+      "month": "202611",
       "country": "de",
       "mediaType": "books",
       "feed": "top-paid",
-      "rank": 45,
+      "rank": 97,
       "artistName": "Bonnie Garmus",
       "id": "6779218744",
       "name": "Peck & Peck",
@@ -14,7 +14,7 @@
       "kind": "books",
       "artistId": "1575309668",
       "artistUrl": "https://books.apple.com/de/author/bonnie-garmus/id1575309668",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/45/09/94/450994dd-f129-889e-2ae9-5d3d890e707e/9783492614009.jpg/100x159bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/72/50/fc/7250fc26-3868-7f23-f390-0c83ec26f0a6/9783492614009.jpg/100x159bb.png",
       "genres": [
         {
           "genreId": "10049",

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 97,
+      "artistName": "Céline Badaroux & Krista Street",
+      "id": "6759938643",
+      "name": "La Cour de l’Hiver",
+      "releaseDate": "2025-07-09",
+      "kind": "books",
+      "artistId": "1552708901",
+      "artistUrl": "https://books.apple.com/fr/author/c%C3%A9line-badaroux/id1552708901",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a6/d2/63/a6d263f4-62fd-386c-cfb8-2f61776ec9c7/9791038139428.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "10044",
+          "name": "Fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id10044"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9020",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id9020"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/la-cour-de-lhiver/id6759938643"
+    }
+  ]
+}

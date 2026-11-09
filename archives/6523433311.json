@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 99,
+      "artistName": "S.J. Sylvis",
+      "id": "6523433311",
+      "name": "Ice Bet",
+      "releaseDate": "2024-10-04",
+      "kind": "books",
+      "artistId": "1590476666",
+      "artistUrl": "https://books.apple.com/fr/author/s-j-sylvis/id1590476666",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3f/9e/b0/3f9eb063-1f1c-1f5d-bb7c-b6c070f1a3c9/9782379873553-001-x.jpeg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10061",
+          "name": "Thriller romantique",
+          "url": "https://itunes.apple.com/fr/genre/id10061"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        },
+        {
+          "genreId": "10057",
+          "name": "Romance contemporaine",
+          "url": "https://itunes.apple.com/fr/genre/id10057"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/ice-bet/id6523433311"
+    }
+  ]
+}

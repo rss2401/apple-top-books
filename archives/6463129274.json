@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 81,
+      "artistName": "Brigitte Kaindl & Brenda Leb",
+      "id": "6463129274",
+      "name": "Der Tod des Bräutigams",
+      "releaseDate": "2023-08-23",
+      "kind": "books",
+      "artistId": "502055342",
+      "artistUrl": "https://books.apple.com/de/author/brigitte-kaindl/id502055342",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9f/6b/bc/9f6bbcee-e9ff-8740-66f6-f23ea69514f5/9783757955700.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/der-tod-des-br%C3%A4utigams/id6463129274"
+    }
+  ]
+}

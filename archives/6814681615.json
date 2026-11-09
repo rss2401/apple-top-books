@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 20,
+      "artistName": "Sophie Marceau",
+      "id": "6814681615",
+      "name": "Warszawa",
+      "releaseDate": "2026-10-29",
+      "kind": "books",
+      "artistId": "1082051087",
+      "artistUrl": "https://books.apple.com/fr/author/sophie-marceau/id1082051087",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1a/81/3a/1a813a21-6343-5528-8747-80245ccf71c5/9782232149627.jpg/100x134bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/warszawa/id6814681615"
+    }
+  ]
+}

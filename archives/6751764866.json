@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 88,
+      "artistName": "Joanne Wadsworth",
+      "id": "6751764866",
+      "name": "Das Verlangen des Highlanders",
+      "releaseDate": "2025-08-31",
+      "kind": "books",
+      "artistId": "576505686",
+      "artistUrl": "https://books.apple.com/de/author/joanne-wadsworth/id576505686",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/5f/c7/d9/5fc7d946-a891-fe38-e981-6834bf79bbbf/9326a590-c294-4fe4-a227-a9059faee5d1_cover_image.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10059",
+          "name": "Historische Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10059"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "10058",
+          "name": "Paranormale Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10058"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/das-verlangen-des-highlanders/id6751764866"
+    }
+  ]
+}
