@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        268990178
+      ],
+      "formattedPrice": "£4.99",
+      "genres": [
+        "Crime & Thrillers",
+        "Books",
+        "Hard-Boiled Mysteries",
+        "Women Sleuths",
+        "Police Procedural"
+      ],
+      "price": 4.99,
+      "genreIds": [
+        "9032",
+        "38",
+        "10050",
+        "10055",
+        "10052"
+      ],
+      "trackId": 6745140672,
+      "trackName": "Evil in the Family",
+      "releaseDate": "2026-03-31T07:00:00Z",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "‘Will keep you up at night… I can’t get enough’ ★★★★★<br /><br />‘Wow. Michael Wood has done it again… I definitely felt my heart rate increase’ ★★★★★<br /><br />***<br /><br />A FAMILY SLAIN <br /><br />When Detective Inspector Foley is called out to a crime scene, nothing could have prepared him for the level of brutality inflicted on the victims. And with terrifying similarities to another recent murder case, he fears there might be a serial killer running loose in London.<br /><br />A PATTERN OF MURDER<br /><br />With no suspects and no DNA at the crime scenes, Foley enlists the help of Forensic Psychologist Dr Olivia Winter to catch the killer before they strike again.<br /><br />AN UNSTOPPABLE KILLER<br /><br />As the killings become more frequent Olivia and Foley must focus on what could drive the killer to murder entire families. With his job and reputation on the line, is Foley risking everything by putting his trust in Olivia, a woman whose own past echoes an eerie similarity to the investigation?<br /><br />The Dr Olivia Winter series:<br />The Mind of a MurdererThe Devil’s Code<br />See what readers are saying about Evil in the Family:<br /><br />‘Thrilling… a cracking main character' Trevor Wood<br /><br />'Dark and devious... A sinister story that'll drag you in deep, and tease you all the way to the final twist' Robert Rutherford<br /><br />‘Michael Wood is the master of the dark, psychological thriller’ ★★★★★<br /><br />‘Devoured it in one sitting’ ★★★★★<br /><br />‘A master of the thriller genre. Loving this series’ ★★★★★<br /><br />‘I fell for the red herrings… Michael Wood has an incredible ability to create immense empathy for a character’ ★★★★★<br /><br />‘Masterful use of misdirection’ ★★★★★<br /><br />‘I really enjoyed this one… I followed the red herrings completely… wow just wow’ ★★★★★<br /><br />‘Brilliant’ ★★★★★<br /><br />‘Insanely good!’ ★★★★★<br /><br />‘I loved it’ ★★★★★<br /><br />'It's beautiful, dark but gripping and a real page turner’ ★★★★★<br /><br />'Clever, heartbreaking and – in parts – very gruesome!’ ★★★★★<br /><br />'The pace is relentless, fuelled by unexpected twists and dark revelations’ ★★★★★<br /><br />'An extremely chilling read with a twist that will blow your socks off!’ ★★★★★<br /><br />'As you are reading it, you think you have it solved but you couldn’t be more wrong’ ★★★★★<br /><br />'Once again, Michael Wood, the master of horror and suspense, has written a book that put me through the wringer with its taut, horrifying, dark and devious storyline’ ★★★★★<br /><br />‘Superbly suspenseful, I could not put this one down’ ★★★★★<br /><br />‘In my own opinion the best yet in the series’ ★★★★★<br /><br />‘Hauntingly powerful’ ★★★★★<br /><br />‘Impossible to put down’ ★★★★★<br /><br />About the author<br /><br />Michael Wood is a CWA shortlisted author of more than twenty crime fiction novels including the bestselling DCI Matilda Darke series, the Dr Olivia Winter psychological thriller series, and several standalone novels. Born and raised in Sheffield, Michael now lives in Newcastle where he writes full time.",
+      "trackCensoredName": "Evil in the Family",
+      "artistViewUrl": "https://books.apple.com/gb/artist/michael-wood/268990178?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/evil-in-the-family/id6745140672?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f1/10/ee/f110eef2-d677-3571-a2f1-8ca2ddb44b7b/9780008618896.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f1/10/ee/f110eef2-d677-3571-a2f1-8ca2ddb44b7b/9780008618896.jpg/100x100bb.jpg",
+      "artistId": 268990178,
+      "artistName": "Michael Wood",
+      "userRatingCount": 75,
+      "averageUserRating": 4.5,
+      "country": "GBR"
+    }
+  ]
+}

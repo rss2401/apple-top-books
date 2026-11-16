@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        373295913
+      ],
+      "trackCensoredName": "« Deux messieurs de la police sont venus ce matin… »",
+      "artistViewUrl": "https://books.apple.com/fr/artist/guillaume-debr%C3%A9/373295913?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/deux-messieurs-de-la-police-sont-venus-ce-matin/id6820918205?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/41/2e/c9/412ec9dd-ee7e-0291-623c-e12e2bf9cbcf/9782080178503.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/41/2e/c9/412ec9dd-ee7e-0291-623c-e12e2bf9cbcf/9782080178503.jpg/100x100bb.jpg",
+      "artistId": 373295913,
+      "artistName": "Guillaume Debré",
+      "price": 14.99,
+      "releaseDate": "2026-10-28T07:00:00Z",
+      "genreIds": [
+        "10049",
+        "38",
+        "9031",
+        "9015",
+        "9008",
+        "11036"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "«&#xa0;L’adresse m’était familière. Enfants, quand nous passions devant, mon père pointait du doigt la façade&#xa0;: “C’est ici qu’ils sont venus chercher votre arrière-grand-père.” Ses mots étaient toujours suivis d’un silence.&#xa0;» <br />Le 20 septembre 1943, la Gestapo vient arrêter Robert Debré, pédiatre de renom et fils de rabbin. <br />S’appuyant sur le journal que son arrière-grand-père a tenu dans le plus grand secret sous l’Occupation, Guillaume Debré retrace l’itinéraire de cet homme remarquable, juif et résistant. <br />Ses mots résonnent aujourd’hui comme une obligation&#xa0;: «&#xa0;Ne rien oublier.&#xa0;»",
+      "formattedPrice": "14,99 €",
+      "trackId": 6820918205,
+      "trackName": "« Deux messieurs de la police sont venus ce matin… »",
+      "genres": [
+        "Fiction et littérature",
+        "Livres",
+        "Romans et littérature",
+        "Histoire",
+        "Biographies et mémoires",
+        "Biographies et mémoires religieux"
+      ],
+      "country": "FRA"
+    }
+  ]
+}

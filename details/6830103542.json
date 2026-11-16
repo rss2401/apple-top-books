@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "¥770",
+      "trackCensoredName": "元教え子の二ノ瀬さん 1巻",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E3%81%8F%E3%82%8D%E3%81%9F%E3%81%BE/1281828335?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E5%85%83%E6%95%99%E3%81%88%E5%AD%90%E3%81%AE%E4%BA%8C%E3%83%8E%E7%80%AC%E3%81%95%E3%82%93-1%E5%B7%BB/id6830103542?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/4f/ed/37/4fed37ff-f2c1-0c3d-d98b-26c993753bf9/BT000247418200100101900209.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/4f/ed/37/4fed37ff-f2c1-0c3d-d98b-26c993753bf9/BT000247418200100101900209.jpg/100x100bb.jpg",
+      "artistId": 1281828335,
+      "artistName": "くろたま",
+      "genres": [
+        "ラブコメディ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "青年"
+      ],
+      "price": 770,
+      "artistIds": [
+        1281828335
+      ],
+      "genreIds": [
+        "50000085",
+        "38",
+        "9026",
+        "10016",
+        "11338"
+      ],
+      "releaseDate": "2026-11-13T08:00:00Z",
+      "trackId": 6830103542,
+      "trackName": "元教え子の二ノ瀬さん 1巻",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "「先生!結婚しよ!!」かつて中学教師だったサラリーマン・赤角は、10年ぶりに出会った元教え子の二ノ瀬さんに求婚される。恩人である先生と結婚するためだけに生きてきたという二ノ瀬さん。困惑する赤角は、自分への依存状態を解いて彼女自身で幸せになれるように再教育しようとするが!? 求婚から始まる純愛ラブコメ開幕!! (※本電子書籍は『元教え子の二ノ瀬さん【単話版】』1～7を収録しております。重複購入にご注意ください。)",
+      "country": "JPN"
+    }
+  ]
+}

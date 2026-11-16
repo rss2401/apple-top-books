@@ -6,10 +6,13 @@
       "artistIds": [
         286592678
       ],
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
       "artistId": 286592678,
       "artistName": "Marc Levy",
-      "trackId": 6805213206,
-      "trackName": "Les Evadées - Partie 2",
+      "price": 14.99,
       "genreIds": [
         "9031",
         "38"
@@ -23,13 +26,10 @@
       "trackViewUrl": "https://books.apple.com/fr/book/les-evad%C3%A9es-partie-2/id6805213206?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/10/f4/4d/10f44dc2-3682-d5bc-f3b9-44356c30a233/9782361324940.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/10/f4/4d/10f44dc2-3682-d5bc-f3b9-44356c30a233/9782361324940.jpg/100x100bb.jpg",
-      "price": 14.99,
-      "genres": [
-        "Romans et littérature",
-        "Livres"
-      ],
-      "averageUserRating": 4.5,
-      "userRatingCount": 13,
+      "trackName": "Les Evadées - Partie 2",
+      "trackId": 6805213206,
+      "averageUserRating": 4,
+      "userRatingCount": 18,
       "country": "FRA"
     }
   ]

@@ -10,13 +10,11 @@
       "artistIds": [
         504177219
       ],
-      "genres": [
-        "Historical Romance",
-        "Books",
-        "Romance"
-      ],
+      "formattedPrice": "Free",
+      "price": 0,
       "artistId": 504177219,
       "artistName": "Tamara Gill",
+      "releaseDate": "2025-03-29T07:00:00Z",
       "trackId": 6743963270,
       "trackName": "A Wager with a Duke",
       "genreIds": [
@@ -24,14 +22,16 @@
         "38",
         "9003"
       ],
-      "releaseDate": "2025-03-29T07:00:00Z",
       "kind": "ebook",
       "currency": "USD",
       "description": "<b>Nothing is more reckless—and potentially ruinous—than a wager on true love…&#xa0;</b><br /><br />Miss Sophie York is more than ready to enjoy a London Season sponsored by her cousin. What better way to overcome her painful past than to secure a happy future for herself? And if she's lucky, perhaps that future will include her handsome new friend…<br /><br />Finding a bride should be easy for Henry James, Duke of Holland. But rumors of his romantic…prowess are highly exaggerated. So, he's at a loss when it comes to wooing the lovely Sophie. Especially when she finds out the only reason he approached her in the first place was because of a ridiculous bet…<br /><br />Discovering his secret could be devastating to their love. But then again, so could hersecret. Anyone care to wager on their odds of overcoming it all and making it to happily ever after?",
-      "formattedPrice": "Free",
-      "price": 0,
+      "genres": [
+        "Historical Romance",
+        "Books",
+        "Romance"
+      ],
       "averageUserRating": 4,
-      "userRatingCount": 164,
+      "userRatingCount": 171,
       "country": "USA"
     }
   ]

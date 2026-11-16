@@ -38,7 +38,6 @@
       "userRatingCount": 2191
     },
     {
-      "formattedPrice": "£8.49",
       "artistIds": [
         535404063
       ],
@@ -70,8 +69,9 @@
       "trackViewUrl": "https://books.apple.com/gb/book/a-court-of-wings-and-ruin/id1487235488?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/04/49/85/04498533-08f4-774d-34c5-27c33cfe2d43/1030057275.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/04/49/85/04498533-08f4-774d-34c5-27c33cfe2d43/1030057275.jpg/100x100bb.jpg",
+      "formattedPrice": "£8.49",
       "averageUserRating": 4.5,
-      "userRatingCount": 2271,
+      "userRatingCount": 2278,
       "country": "GBR"
     }
   ]

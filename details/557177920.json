@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        4918804
+      ],
+      "trackCensoredName": "Le braconnier du lac perdu",
+      "artistViewUrl": "https://books.apple.com/fr/artist/peter-may/4918804?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/le-braconnier-du-lac-perdu/id557177920?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/a9/30/f5/a930f5ef-6f68-d291-4b71-167f32e18cd2/9782812604485.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/a9/30/f5/a930f5ef-6f68-d291-4b71-167f32e18cd2/9782812604485.jpg/100x100bb.jpg",
+      "artistId": 4918804,
+      "artistName": "Peter May",
+      "price": 8.99,
+      "releaseDate": "2012-09-26T07:00:00Z",
+      "genreIds": [
+        "9032",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Whistler était le plus brillant des amis de Fin. Le plus loyal. Par deux fois, il lui a sauvé la vie. Promis au plus bel avenir, il a pourtant refusé de quitter l’île où il vit aujourd’hui comme un vagabond. Sauvage. Asocial. Privé de la garde de sa fille unique. Or voici que Fin doit prendre en chasse les braconniers qui pillent les eaux sauvages de Lewis. Et Whistler est, d’entre tous, le plus redoutable des braconniers.",
+      "formattedPrice": "8,99 €",
+      "trackId": 557177920,
+      "trackName": "Le braconnier du lac perdu",
+      "genres": [
+        "Policier et suspense",
+        "Livres",
+        "Romans et littérature"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 94,
+      "country": "FRA"
+    }
+  ]
+}

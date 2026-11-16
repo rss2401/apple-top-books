@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "11,99 €",
+      "artistIds": [
+        401210503
+      ],
+      "price": 11.99,
+      "artistId": 401210503,
+      "artistName": "Lucinda Riley",
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher",
+        "Liebesromane",
+        "Historische Liebesromane",
+        "Zeitgenössische Liebesromane"
+      ],
+      "genreIds": [
+        "9031",
+        "38",
+        "9003",
+        "10059",
+        "10057"
+      ],
+      "trackId": 1120573810,
+      "trackName": "Die Schattenschwester",
+      "releaseDate": "2016-11-14T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Die große Saga von Bestsellerautorin Lucinda Riley.</b><br /><br />Star d'Aplièse ist eine sensible junge Frau, der es nie gelang, aus dem Schatten ihrer Schwester CeCe herauszutreten. Als ihr geliebter Vater Pa Salt stirbt, steht Star plötzlich an einem Wendepunkt. Wie alle Mädchen der Familie ist auch sie ein Adoptivkind mit unbekannter Herkunft, doch der Abschiedsbrief ihres Vaters enthält einen Anhaltspunkt: die Adresse einer Londoner Buchhandlung sowie den Hinweis, dort nach einer gewissen Flora MacNichol zu fragen. Star folgt diesen Spuren, die sie auf ein wunderbares Anwesen in Kent und in die Rosengärten des Lake District im vergangenen Jahrhundert führen. Ganz langsam beginnt sie, ihr eigenes Leben zu entdecken – und ihr Herz zu öffnen für das Wagnis, das man Liebe nennt ... <br /><b>Der dritte Band aus der Bestseller-Serie um die sieben Schwestern.</b>",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/4f/65/01/4f650187-f8e2-4f86-1276-99f84743e8d3/9783641183752.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/4f/65/01/4f650187-f8e2-4f86-1276-99f84743e8d3/9783641183752.jpg/100x100bb.jpg",
+      "trackCensoredName": "Die Schattenschwester",
+      "artistViewUrl": "https://books.apple.com/de/artist/lucinda-riley/401210503?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/die-schattenschwester/id1120573810?uo=4",
+      "averageUserRating": 4.5,
+      "userRatingCount": 322,
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Educating Elizabeth",
+      "artistViewUrl": "https://books.apple.com/gb/artist/kate-pearce/380577570?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/educating-elizabeth/id930302732?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/99/55/ed/9955ed68-e220-2a1c-c850-2b21fdd337f4/0000063897.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/99/55/ed/9955ed68-e220-2a1c-c850-2b21fdd337f4/0000063897.jpg/100x100bb.jpg",
+      "formattedPrice": "Free",
+      "artistIds": [
+        380577570
+      ],
+      "genres": [
+        "Historical Romance",
+        "Books",
+        "Romance"
+      ],
+      "artistId": 380577570,
+      "artistName": "Kate Pearce",
+      "price": 0,
+      "trackId": 930302732,
+      "trackName": "Educating Elizabeth",
+      "genreIds": [
+        "10059",
+        "38",
+        "9003"
+      ],
+      "releaseDate": "2011-12-25T08:00:00Z",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<i>A steamy Regency romance of spies, scandal and seduction.</i><br /><br />London, 1814. Miss Elizabeth Waterstone has learned to survive her scheming stepfather's demands. But when he hands her over to the notorious Duke of Diable Delamere to settle three thousand guineas in losses, the duke assumes she's a woman of experience. He soon learns his mistake, painfully, from a woman with an excellent throwing arm.<br /><br />Elizabeth wants to secure her independence from her stepfather by becoming a courtesan. Who better to teach her than London's most infamous rake?<br />Gervase agrees to her outrageous bargain, but he has his own reasons. He suspects her stepfather is entangled with French revolutionaries in a plot against the Crown, and Elizabeth is his way in. There's just one problem. She's far too clever to deceive, and his lessons are proving dangerously distracting.<br /><br />Now, to thwart a traitor and save the Prince Regent, they'll have to trust each other and, accidentally and inevitably, fall in love.<br /><br />Book 1 in the Diable Delamere series from USA Today and New York Times bestselling author Kate Pearce.",
+      "averageUserRating": 4.5,
+      "userRatingCount": 133,
+      "country": "GBR"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Three Seconds to Rush",
+      "artistViewUrl": "https://books.apple.com/gb/artist/danielle-stewart/637931637?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/three-seconds-to-rush/id1153454594?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3c/8c/f1/3c8cf126-e197-577a-907e-3755aa9a2151/1c53044a-6b17-48f0-9eb8-0ecbe9a451bb_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3c/8c/f1/3c8cf126-e197-577a-907e-3755aa9a2151/1c53044a-6b17-48f0-9eb8-0ecbe9a451bb_cover_image.jpg/100x100bb.jpg",
+      "formattedPrice": "Free",
+      "artistIds": [
+        637931637
+      ],
+      "genres": [
+        "Crime & Thrillers",
+        "Books",
+        "Romance",
+        "Romantic Suspense",
+        "Women Sleuths"
+      ],
+      "artistId": 637931637,
+      "artistName": "Danielle Stewart",
+      "price": 0,
+      "trackId": 1153454594,
+      "trackName": "Three Seconds to Rush",
+      "genreIds": [
+        "9032",
+        "38",
+        "9003",
+        "10061",
+        "10055"
+      ],
+      "releaseDate": "2016-09-11T07:00:00Z",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "Tara Shiloh knows she’s not a drug addict. She’s&#xa0;positive she’s a good mother and hard worker. So why is she in an&#xa0;alley with a needle in her arm? Waking up in the hospital without her son is&#xa0;terrifying. Being told she can’t have him back&#xa0;nearly&#xa0;crushes her.&#xa0;With her memory spotty and the circumstances incriminating, Tara must fight to learn the truth and wrestle with the idea that maybe her son is better off without her.&#xa0;<br /><br />\nReid Holliston defends&#xa0;guilty people for a living and it's slowly killing him. He’s&#xa0;certain there is no such thing as a truly blameless client anymore. When his phone&#xa0;rings with a voice from his childhood his jaded views make him certain Tara is just one more criminal&#xa0;claiming innocence. But even his skepticism isn’t enough to keep him away.&#xa0;<br /><br />\nBest friends from a lifetime ago, the two must find a way to trust each&#xa0;other again in spite of how the years apart have changed them. Can a&#xa0;promise made in childhood be enough to save them both?",
+      "averageUserRating": 4,
+      "userRatingCount": 192,
+      "country": "GBR"
+    }
+  ]
+}

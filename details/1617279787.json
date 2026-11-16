@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "9,99 €",
+      "artistIds": [
+        1000855500
+      ],
+      "price": 9.99,
+      "artistId": 1000855500,
+      "artistName": "Sophie Cousens",
+      "genres": [
+        "Liebesromane",
+        "Bücher",
+        "Zeitgenössische Liebesromane",
+        "Belletristik und Literatur"
+      ],
+      "genreIds": [
+        "9003",
+        "38",
+        "10057",
+        "9031"
+      ],
+      "trackId": 1617279787,
+      "trackName": "Alles beginnt mit dir und mir",
+      "releaseDate": "2023-02-01T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Zwei Menschen. Ein vertauschter Koffer. Und die schönste Liebesgeschichte des Jahres!</b><br /><br />Laura ist eine hoffnungslose Romantikerin. Als Redakteurin bei einem Lifestyle-Magazin schreibt sie eine Kolumne über die schönsten Kennenlerngeschichten – und glaubt fest daran, dass auch sie und ihr Traummann eines Tages auf ganz besondere Weise zueinander finden werden. Bei einer Reise auf die malerische Kanalinsel Jersey erwischt sie am Gepäckband aus Versehen den falschen Koffer. Und als sie ihren Irrtum im Hotelzimmer bemerkt, stellt sie fest: Dieser Koffer muss ihrem Seelenverwandten gehören! Denn er enthält nicht nur einen grob gestrickten Seemannspulli und ein wunderbar duftendes Parfum, sondern auch Klaviernoten ihrer Lieblingsband und eine zerlesene Ausgabe ihres Lieblingsbuchs. Wenn Laura eine Sache aus ihrem Job gelernt hat, dann ist es, dass man sich gegen das Schicksal nicht wehren kann. Sie macht sich auf, den geheimnisvollen Unbekannten zu finden – und mit ihm ihr großes Happy End. Doch was, wenn das Schicksal ganz andere Pläne für sie hat?<br />\"Sophie Cousens zu lesen ist als träte eine neue beste Freundin in dein Leben. Sie bringt dich zum Lachen, sie bringt dich auch mal zum Weinen, du hast das Gefühl du hast sie schon immer heiß geliebt, und du willst sie niemals mehr gehen lassen.\" Clare Pooley, Autorin von \"Montags bei Monica\"",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/b9/12/1b/b9121bf2-ae45-2f51-6d70-87056c6dfacd/9783641294540.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/b9/12/1b/b9121bf2-ae45-2f51-6d70-87056c6dfacd/9783641294540.jpg/100x100bb.jpg",
+      "trackCensoredName": "Alles beginnt mit dir und mir",
+      "artistViewUrl": "https://books.apple.com/de/artist/sophie-cousens/1000855500?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/alles-beginnt-mit-dir-und-mir/id1617279787?uo=4",
+      "averageUserRating": 4.5,
+      "userRatingCount": 16,
+      "country": "DEU"
+    }
+  ]
+}

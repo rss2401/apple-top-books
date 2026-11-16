@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        257414690,
+        1152689077
+      ],
+      "trackCensoredName": "La famille Han",
+      "artistViewUrl": "https://books.apple.com/fr/artist/min-jin-lee-laura-bourgeois/257414690?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/la-famille-han/id6445623116?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/4a/0c/0e/4a0c0eff-1af1-7ee2-7458-db3a79b81bac/9782368128770.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/4a/0c/0e/4a0c0eff-1af1-7ee2-7458-db3a79b81bac/9782368128770.jpg/100x100bb.jpg",
+      "artistId": 257414690,
+      "artistName": "Min Jin Lee & Laura Bourgeois",
+      "price": 2.99,
+      "releaseDate": "2024-02-14T08:00:00Z",
+      "genreIds": [
+        "10049",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Fille aînée d’immigrés coréens, Casey Han a été élevée dans le Queens dans le respect des traditions et des valeurs de ses parents. Ils ont travaillé dur toute leur vie pour assurer à leurs enfants un bel avenir, mais à vingt-deux ans, Casey, tout juste diplômée de Princeton, n’a aucune véritable ambition professionnelle et ne rêve que d’une chose : faire partie de la haute société new-yorkaise. <br />Au grand désespoir de son père, elle refuse son admission en droit à Columbia et se retrouve sans travail ni argent à Manhattan. Casey est prête à tous les sacrifices pour pénétrer dans ce monde étincelant de privilèges, de pouvoir et de richesse, mais à quel prix ?<br /><br />S’inspirant des grands romans victoriens, Min Jin Lee offre le portrait saisissant d’une jeune femme cherchant à s’affranchir de sa communauté, miroir d’une génération tiraillée entre le désir d’intégration et le poids des traditions.<br /><br /><b>« UN PREMIER ROMAN AMBITIEUX ET REMARQUABLE. » - The New York Times</b><br /><br />Née à Séoul, <b>Min Jin Lee</b> a immigré aux États-Unis avec sa famille à l’âge de sept ans. Elle publie en 2007 son premier roman <b>La Famille Han</b> qui rencontre un grand succès aux États- Unis. <b>Pachinko</b>, son deuxième roman, finaliste du <b>National Book Award en 2017</b>, s’est immédiatement hissé au rang de best-seller international et est resté plus d’un an en<b> tête des ventes du New York Times</b>. Il a été traduit dans 30 langues et adapté en série télévisée.",
+      "formattedPrice": "2,99 €",
+      "trackId": 6445623116,
+      "trackName": "La famille Han",
+      "genres": [
+        "Fiction et littérature",
+        "Livres",
+        "Romans et littérature"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 7,
+      "country": "FRA"
+    }
+  ]
+}

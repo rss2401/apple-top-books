@@ -41,12 +41,6 @@
       "artistIds": [
         631759090
       ],
-      "formattedPrice": "Free",
-      "artistId": 631759090,
-      "artistName": "Matthew Ryan",
-      "price": 0,
-      "trackId": 918670390,
-      "trackName": "Let's Taco Bout It",
       "releaseDate": "2014-10-01T07:00:00Z",
       "kind": "ebook",
       "currency": "USD",
@@ -56,6 +50,10 @@
       "trackViewUrl": "https://books.apple.com/us/book/lets-taco-bout-it/id918670390?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/47/47/16/47471621-cfc1-13a9-f0d5-b403e4981d13/cover.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/47/47/16/47471621-cfc1-13a9-f0d5-b403e4981d13/cover.jpg/100x100bb.jpg",
+      "formattedPrice": "Free",
+      "price": 0,
+      "trackId": 918670390,
+      "trackName": "Let's Taco Bout It",
       "genreIds": [
         "11112",
         "38",
@@ -70,8 +68,10 @@
         "Learning to Read for Kids",
         "Early Reading for Kids"
       ],
+      "artistId": 631759090,
+      "artistName": "Matthew Ryan",
       "averageUserRating": 4.5,
-      "userRatingCount": 16167,
+      "userRatingCount": 16204,
       "country": "USA"
     },
     {

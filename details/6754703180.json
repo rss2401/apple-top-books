@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "18,99 €",
+      "artistIds": [
+        1113843994
+      ],
+      "price": 18.99,
+      "artistId": 1113843994,
+      "artistName": "Ferdinand Dudenhöffer",
+      "genres": [
+        "Branchen und Berufe",
+        "Bücher",
+        "Business und Finanzen"
+      ],
+      "genreIds": [
+        "10005",
+        "38",
+        "9009"
+      ],
+      "trackId": 6754703180,
+      "trackName": "Die neue Auto-Supermacht",
+      "releaseDate": "2026-11-15T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Smarter, günstiger, schneller? Automarken wie BYD und Xiaomi sowie Tech-Giganten wie Baidu setzen mit Innovationen im Bereich Elektromobilität, Batterietechnologie und autonomes Fahren neue Maßstäbe. Kann Deutschland da noch mithalten? Können wir im globalen Wettbewerb des 21. Jahrhunderts noch bestehen?<br />Der Autoexperte und »PS-Professor« Dr. Ferdinand Dudenhöffer erklärt, was die deutschen Autobauer – aber auch die Politik – jetzt tun müssen, um den Anschluss nicht zu verlieren. Anhand prägender Erlebnisse, fundierter Analysen und vieler Beispiele aus der Praxis beleuchtet er die politischen, gesellschaftlichen und wirtschaftlichen Faktoren hinter dem Aufstieg Chinas zur Auto-Supermacht und diskutiert, was Volkswagen, BMW, Mercedes und Co. von »China Speed« lernen können. Dieses Buch ist ein Weckruf für eine Branche, die unser Land prägt wie keine andere und großen Herausforderungen gegenübersteht.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/52/53/7b/52537bcc-e2c0-3c3a-88d6-0fdaf1e81d61/1062667827.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/52/53/7b/52537bcc-e2c0-3c3a-88d6-0fdaf1e81d61/1062667827.jpg/100x100bb.jpg",
+      "trackCensoredName": "Die neue Auto-Supermacht",
+      "artistViewUrl": "https://books.apple.com/de/artist/ferdinand-dudenh%C3%B6ffer/1113843994?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/die-neue-auto-supermacht/id6754703180?uo=4",
+      "country": "DEU"
+    }
+  ]
+}

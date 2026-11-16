@@ -1,0 +1,61 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "9,99 €",
+      "artistIds": [
+        79595314,
+        520416259
+      ],
+      "trackCensoredName": "Harry Potter et le Prisonnier d'Azkaban (Enhanced Edition)",
+      "artistViewUrl": "https://books.apple.com/fr/artist/j-k-rowling-jean-fran%C3%A7ois-m%C3%A9nard/79595314?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/harry-potter-et-le-prisonnier-dazkaban-enhanced-edition/id1037198833?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9d/6f/11/9d6f119e-e4bf-5448-2270-2acdda9e9b5a/9781781106006.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9d/6f/11/9d6f119e-e4bf-5448-2270-2acdda9e9b5a/9781781106006.jpg/100x100bb.jpg",
+      "artistId": 79595314,
+      "artistName": "J.K. Rowling & Jean-François Ménard",
+      "genres": [
+        "Action et aventure pour enfants",
+        "Livres",
+        "Enfants",
+        "Fiction pour enfants",
+        "Romans et littérature",
+        "Action et aventure",
+        "Jeunes adultes",
+        "Fiction pour jeunes adultes",
+        "Action et aventure pour jeunes adultes",
+        "Fantasy pour jeunes adultes",
+        "Fantasy pour enfants",
+        "SF et fantasy",
+        "Fantasy",
+        "Contemporain"
+      ],
+      "price": 9.99,
+      "releaseDate": "2015-11-20T08:00:00Z",
+      "genreIds": [
+        "11113",
+        "38",
+        "11086",
+        "11112",
+        "9031",
+        "10039",
+        "11165",
+        "11177",
+        "11178",
+        "11185",
+        "11119",
+        "9020",
+        "10044",
+        "11001"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Sirius Black, le dangereux criminel qui s’est échappé de la forteresse d’Azkaban, recherche Harry Potter. C’est donc sous bonne garde que l’apprenti sorcier fait sa troisième rentrée. Au programme : des cours de divination, la fabrication d’une potion de Ratatinage, le dressage des hippogriffes… Mais Harry est-il vraiment à l’abri du danger qui le menace? Le troisième tome des aventures de Harry Potter vous emportera dans un tourbillon de surprises et d’émotions. Frissons et humour garantis!",
+      "trackId": 1037198833,
+      "trackName": "Harry Potter et le Prisonnier d'Azkaban (Enhanced Edition)",
+      "averageUserRating": 4.5,
+      "userRatingCount": 355,
+      "country": "FRA"
+    }
+  ]
+}

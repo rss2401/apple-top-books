@@ -50,10 +50,21 @@
       "artistIds": [
         1485710416
       ],
+      "artistId": 1485710416,
       "artistName": "Ivy Andrews",
-      "releaseDate": "2021-02-01T08:00:00Z",
-      "trackId": 1549457007,
+      "genres": [
+        "Liebesromane",
+        "Bücher",
+        "Zeitgenössische Liebesromane",
+        "Erotische Romane",
+        "Belletristik und Literatur",
+        "Kurzgeschichten",
+        "Erotik"
+      ],
+      "price": 0,
       "trackName": "A single day",
+      "trackId": 1549457007,
+      "releaseDate": "2021-02-01T08:00:00Z",
       "genreIds": [
         "9003",
         "38",
@@ -67,17 +78,6 @@
       "currency": "EUR",
       "description": "<b>Ein einziger Tag kann dein Leben für immer verändern – sichere dir jetzt das kostenlose Bonuskapitel zur \"L.O.V.E.\"-Reihe von Ivy Andrews!</b><br /><br />Für Val und Parker sollen endlich die Hochzeitsglocken läuten, doch die Feier droht zu platzen – und dann verschwindet auch noch das Brautkleid! Wie gut, dass Val mit Libby, Oxy und Ella nicht nur drei Freundinnen fürs Leben gefunden hat, sondern auch drei clevere Designerinnen. Gemeinsam machen sich die vier Frauen der L.O.V.E.-WG daran, den großen Tag zu retten.<br />Dieses E-Book ist eine kostenlose Kurzgeschichte zur \"L.O.V.E.\"-Reihe von Ivy Andrews.<br /><br /><b>Die L.O.V.E.-Reihe bei Blanvalet:</b><br />Band 1: A single night (Libby &amp; Jasper)<br />Band 2: A single word (Oxy &amp; Henri)<br />Band 3: A single touch (Val &amp; Parker)<br />Band 4: A single kiss (Ella &amp; Callum)<br />Bonuskapitel: A single day<br /><br />Alle Bände können auch unabhängig voneinander gelesen werden.<br /><br />Die Autorin schreibt auch unter den Pseudonymen Ava Innings und Violet Truelove.",
       "formattedPrice": "Gratis",
-      "price": 0,
-      "genres": [
-        "Liebesromane",
-        "Bücher",
-        "Zeitgenössische Liebesromane",
-        "Erotische Romane",
-        "Belletristik und Literatur",
-        "Kurzgeschichten",
-        "Erotik"
-      ],
-      "artistId": 1485710416,
       "averageUserRating": 3.5,
       "userRatingCount": 272,
       "country": "DEU"

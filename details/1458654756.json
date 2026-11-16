@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Gratuit",
+      "artistIds": [
+        405307759
+      ],
+      "price": 0,
+      "artistId": 405307759,
+      "artistName": "Apple Inc.",
+      "genres": [
+        "Ordinateurs",
+        "Livres",
+        "Informatique et Internet"
+      ],
+      "releaseDate": "2023-07-07T07:00:00Z",
+      "genreIds": [
+        "10017",
+        "38",
+        "9027"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Ce guide élaboré par Apple comprend tout ce que vous devez savoir sur Pages pour Mac. Il vous permet de créer de magnifiques documents et de fantastiques livres interactifs avec des photos, des galeries, des graphiques, des figures personnalisées et bien plus encore. Remarque : ce guide nʼest plus mis à jour dans lʼapp Livres dʼApple. Pour obtenir le dernier guide, consultez lʼadresse suivante : support.apple.com/pages.",
+      "trackCensoredName": "Guide d’utilisation de Pages pour Mac",
+      "artistViewUrl": "https://books.apple.com/fr/artist/apple-inc/405307759?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/guide-dutilisation-de-pages-pour-mac/id1458654756?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/24/67/ec/2467ec8e-499e-1ff3-be53-47f85f9b417d/ePubCover_Pages_Mac.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/24/67/ec/2467ec8e-499e-1ff3-be53-47f85f9b417d/ePubCover_Pages_Mac.png/100x100bb.jpg",
+      "trackId": 1458654756,
+      "trackName": "Guide d’utilisation de Pages pour Mac",
+      "averageUserRating": 4,
+      "userRatingCount": 19,
+      "country": "FRA"
+    }
+  ]
+}

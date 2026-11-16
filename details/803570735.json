@@ -48,8 +48,6 @@
       "artistIds": [
         506812611
       ],
-      "artistId": 506812611,
-      "artistName": "Marc Dannam",
       "genres": [
         "Santé et bien-être",
         "Livres",
@@ -58,10 +56,11 @@
         "Famille et relations",
         "Romance"
       ],
-      "price": 0,
-      "releaseDate": "2014-01-30T08:00:00Z",
+      "artistId": 506812611,
+      "artistName": "Marc Dannam",
       "trackId": 803570735,
       "trackName": "69 gages érotiques pour pimenter votre vie sexuelle",
+      "releaseDate": "2014-01-30T08:00:00Z",
       "genreIds": [
         "9025",
         "38",
@@ -74,6 +73,7 @@
       "currency": "EUR",
       "description": "<b>Tu as perdu. Voici ton gage !</b>\n<br />Un gage est une punition. Mais un gage érotique est une punition particulière, émouvante, délicieuse, voire jouissive, autant pour celui des deux partenaires qui l'impose et en bénéficie que pour celui ou celle qui doit s'y livrer.<br />Organisés par niveau (de plus en plus hard...), par sexe, avec des gadgets, déguisés, à l'extérieur ou chez soi, les 69 gages contenus dans ce livre vont vous permettre d'apporter un peu de \" piment \" à vos jeux érotiques.",
       "formattedPrice": "Gratuit",
+      "price": 0,
       "averageUserRating": 3,
       "userRatingCount": 591,
       "country": "FRA"

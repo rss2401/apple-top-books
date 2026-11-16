@@ -42,17 +42,12 @@
         464218827
       ],
       "formattedPrice": "$4.99",
+      "price": 4.99,
       "artistId": 464218827,
       "artistName": "Witness Lee",
-      "genres": [
-        "Bible Studies",
-        "Books",
-        "Religion & Spirituality"
-      ],
-      "price": 4.99,
+      "releaseDate": "2026-09-17T07:00:00Z",
       "trackId": 6813300483,
       "trackName": "The Believers (1)",
-      "releaseDate": "2026-09-17T07:00:00Z",
       "genreIds": [
         "10105",
         "38",
@@ -61,6 +56,13 @@
       "kind": "ebook",
       "currency": "USD",
       "description": "This book is intended as an aid to believers in developing a daily time of morning revival with the Lord in His word. At the same time, it provides a limited review of the semiannual training held June 29—July 4, 2026, in Anaheim, California, on “The Believers (1).” Through intimate contact with the Lord in His word, the believers can be constituted with life and truth and thereby equipped to prophesy in the meetings of the church unto the building up of the Body of Christ.",
+      "genres": [
+        "Bible Studies",
+        "Books",
+        "Religion & Spirituality"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 13,
       "country": "USA"
     }
   ]

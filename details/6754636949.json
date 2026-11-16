@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "9,99 €",
+      "artistIds": [
+        1721333564
+      ],
+      "trackCensoredName": "Toxic - Tome 01",
+      "artistViewUrl": "https://books.apple.com/fr/artist/joyce-kitten/1721333564?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/toxic-tome-01/id6754636949?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6b/32/e4/6b32e41e-5378-245b-d088-18f3c58d9baf/9791042905989-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/6b/32/e4/6b32e41e-5378-245b-d088-18f3c58d9baf/9791042905989-001-x.jpeg/100x100bb.jpg",
+      "artistId": 1721333564,
+      "artistName": "Joyce Kitten",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance"
+      ],
+      "price": 9.99,
+      "releaseDate": "2026-01-07T08:00:00Z",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Toxic, la duologie de dark romance phénomène qui bouscule les codes et flirte avec les limites de la morale. Ce roman est&#xa0;destiné à un public adulte et averti.</b><br /><br /><i>Êtes-vous prêts à découvrir l’histoire funeste de ma vie&#xa0;? J<b>e ne peux que vous mettre en garde, car si c’était à refaire, je ferais un choix différent. Maintenant, c’est à vous de faire le vôtre.</b></i><br /><br />Helena n’aurait jamais dû pousser la porte de l’antre des&#xa0;<i>Bloody Murders</i>, mafieux connus pour leur cruauté extrême, ni faire confiance à sa seule amie. Cependant, la jeune femme comprend qu’il est trop tard pour avoir des remords lorsqu’elle croise le chemin de Nass Hall, le chef de gang.<br /><br />Ce dernier aussi impitoyable que magnétique, n’a qu’un seul objectif depuis toujours&#xa0;: <b>le pouvoir absolu.</b>&#xa0;Même s’il règne déjà sur Memphis, il se pourrait bien que Helena soit la pièce qui lui manquait pour devenir le maître incontesté de toute la côte Est.<br /><br />Dans ce monde où la violence est une&#xa0;langue&#xa0;et le désir un poison, <b>Helena devra&#xa0;choisir</b>&#xa0;<b>:</b> fuir ce qu’elle devient… ou se laisser consumer&#xa0;par ses sentiments toxiques. Quitte à vendre son âme au diable pour survivre.<br /><br /><b>Certaines décisions marquent à jamais. Et certains hommes ne laissent personne leur échapper.</b>",
+      "trackId": 6754636949,
+      "trackName": "Toxic - Tome 01",
+      "averageUserRating": 4.5,
+      "userRatingCount": 57,
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "¥720",
+      "trackCensoredName": "私がモテないのはどう考えてもお前らが悪い! 29巻",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E8%B0%B7%E5%B7%9D%E3%83%8B%E3%82%B3/712770020?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E7%A7%81%E3%81%8C%E3%83%A2%E3%83%86%E3%81%AA%E3%81%84%E3%81%AE%E3%81%AF%E3%81%A9%E3%81%86%E8%80%83%E3%81%88%E3%81%A6%E3%82%82%E3%81%8A%E5%89%8D%E3%82%89%E3%81%8C%E6%82%AA%E3%81%84-29%E5%B7%BB/id6817677431?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/08/38/6a/08386a0c-15b8-5f85-aefd-ec21046e17de/BT000019183102902901900209.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/08/38/6a/08386a0c-15b8-5f85-aefd-ec21046e17de/BT000019183102902901900209.jpg/100x100bb.jpg",
+      "artistId": 712770020,
+      "artistName": "谷川ニコ",
+      "genres": [
+        "ギャグ／コメディ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "メディア化",
+        "ヒューマンドラマ",
+        "少年"
+      ],
+      "price": 720,
+      "artistIds": [
+        712770020
+      ],
+      "genreIds": [
+        "50000072",
+        "38",
+        "9026",
+        "10016",
+        "11347",
+        "11052",
+        "11337"
+      ],
+      "releaseDate": "2026-11-12T08:00:00Z",
+      "trackId": 6817677431,
+      "trackName": "私がモテないのはどう考えてもお前らが悪い! 29巻",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "【大混乱の文化祭!打ち上げは少しエモく…なる??】<br />監督兼、文化祭実行委員会の智子の乾杯の音頭で文化祭の打ち上げが始まる。にぎやかな雰囲気の中、エモいことを言いたい人が数名…。波乱が起こった文化祭の面々のその後とは!?<br />(C)2026 Nico Tanigawa",
+      "country": "JPN"
+    }
+  ]
+}

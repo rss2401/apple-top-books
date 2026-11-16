@@ -39,16 +39,15 @@
       "artistIds": [
         78904019
       ],
-      "artistId": 78904019,
-      "artistName": "Jean de La Fontaine",
       "genres": [
         "Romans et littérature",
         "Livres"
       ],
-      "price": 0,
-      "releaseDate": "1695-01-01T07:00:00Z",
+      "artistId": 78904019,
+      "artistName": "Jean de La Fontaine",
       "trackId": 511011760,
       "trackName": "Fables de La Fontaine",
+      "releaseDate": "1695-01-01T07:00:00Z",
       "genreIds": [
         "9031",
         "38"
@@ -56,8 +55,9 @@
       "kind": "ebook",
       "currency": "EUR",
       "formattedPrice": "Gratuit",
+      "price": 0,
       "averageUserRating": 3.5,
-      "userRatingCount": 536,
+      "userRatingCount": 537,
       "country": "FRA"
     }
   ]

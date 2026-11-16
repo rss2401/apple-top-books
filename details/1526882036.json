@@ -42,17 +42,16 @@
       "artistIds": [
         17268605
       ],
-      "artistId": 17268605,
-      "artistName": "Franz Kafka",
       "genres": [
         "Classiques",
         "Livres",
         "Romans et littérature"
       ],
-      "price": 0,
-      "releaseDate": "1915-12-31T08:00:00Z",
+      "artistId": 17268605,
+      "artistName": "Franz Kafka",
       "trackId": 1526882036,
       "trackName": "La métamorphose",
+      "releaseDate": "1915-12-31T08:00:00Z",
       "genreIds": [
         "10042",
         "38",
@@ -62,8 +61,9 @@
       "currency": "EUR",
       "description": "Grégor, un voyageur de commerce sans histoire, se réveille un matin métamorphosé en une sorte de scarabée. Voilà&#xa0; l’étrange point de départ du chef-d’œuvre de Franz Kafka. Un roman passionnant, remuant, drôle parfois, cruel souvent. Et surtout, criant de vérité. Entre thriller et fable sociale, un œuvre d’une incroyable modernité.",
       "formattedPrice": "Gratuit",
+      "price": 0,
       "averageUserRating": 4,
-      "userRatingCount": 789,
+      "userRatingCount": 792,
       "country": "FRA"
     }
   ]

@@ -6,10 +6,13 @@
       "artistIds": [
         595101005
       ],
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
       "artistId": 595101005,
       "artistName": "Agnès Martin-Lugand",
-      "trackId": 6789377911,
-      "trackName": "Retour à Folegandros - Le nouveau roman d'Agnès Martin-Lugand 2026",
+      "price": 13.99,
       "genreIds": [
         "9031",
         "38"
@@ -23,13 +26,10 @@
       "trackViewUrl": "https://books.apple.com/fr/book/retour-%C3%A0-folegandros-le-nouveau-roman-dagn%C3%A8s-martin/id6789377911?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ad/fb/4c/adfb4ced-d5f0-f766-ca8c-06d3dd62b025/9782749966137.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ad/fb/4c/adfb4ced-d5f0-f766-ca8c-06d3dd62b025/9782749966137.jpg/100x100bb.jpg",
-      "price": 13.99,
-      "genres": [
-        "Romans et littérature",
-        "Livres"
-      ],
+      "trackName": "Retour à Folegandros - Le nouveau roman d'Agnès Martin-Lugand 2026",
+      "trackId": 6789377911,
       "averageUserRating": 4.5,
-      "userRatingCount": 74,
+      "userRatingCount": 83,
       "country": "FRA"
     }
   ]

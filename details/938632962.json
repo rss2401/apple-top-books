@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "5,99 €",
+      "artistIds": [
+        803460786
+      ],
+      "price": 5.99,
+      "artistId": 803460786,
+      "artistName": "K. Bromberg",
+      "genres": [
+        "Zeitgenössische Liebesromane",
+        "Bücher",
+        "Liebesromane",
+        "Belletristik und Literatur"
+      ],
+      "genreIds": [
+        "10057",
+        "38",
+        "9003",
+        "9031"
+      ],
+      "trackId": 938632962,
+      "trackName": "Driven. Verführt",
+      "releaseDate": "2015-01-12T08:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Rennautos und Geschwindigkeit sind seine Leidenschaft … und auch in Sachen Frauen gibt Colton Vollgas</b><br /><br />Als Rylee bei einer Wohltätigkeitsveranstaltung Leute um Spenden für einen guten Zweck bittet, platzt auf einmal der blendend aussehende, aber seltsam gefühlskalte Colton Donovan in ihr Leben. Er ist ein waschechter Playboy, draufgängerischer Rennfahrer und hat Familie in Hollywood – kein Wunder, dass die Frauen ihm reihenweise zu Füßen liegen. Doch Colton hat ab diesem Tag nur noch Augen für Rylee. Er will sie erobern, und bald beginnt er ein gefährliches Spiel der Verführung mit ihr.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication3/v4/e1/9c/90/e19c90bb-955a-fca0-992d-3f36b4375a33/9783641149048.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication3/v4/e1/9c/90/e19c90bb-955a-fca0-992d-3f36b4375a33/9783641149048.jpg/100x100bb.jpg",
+      "trackCensoredName": "Driven. Verführt",
+      "artistViewUrl": "https://books.apple.com/de/artist/k-bromberg/803460786?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/driven-verf%C3%BChrt/id938632962?uo=4",
+      "averageUserRating": 4.5,
+      "userRatingCount": 175,
+      "country": "DEU"
+    }
+  ]
+}

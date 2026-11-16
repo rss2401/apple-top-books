@@ -10,13 +10,11 @@
       "artistIds": [
         2023891
       ],
-      "genres": [
-        "Mysteries & Thrillers",
-        "Books",
-        "Fiction & Literature"
-      ],
+      "formattedPrice": "$0.99",
+      "price": 0.99,
       "artistId": 2023891,
       "artistName": "John Grisham",
+      "releaseDate": "2026-09-08T07:00:00Z",
       "trackId": 6798492628,
       "trackName": "The Law Student",
       "genreIds": [
@@ -24,14 +22,16 @@
         "38",
         "9031"
       ],
-      "releaseDate": "2026-09-08T07:00:00Z",
       "kind": "ebook",
       "currency": "USD",
       "description": "<b>In this original prequel to his upcoming thriller, <i>The French Illusion,</i> #1 <i>New York Times </i>bestselling author John Grisham introduces his next unforgettable hero in a moving story of family, ambition, and the pursuit of justice.</b><br /><br />As a college football player in small-town North Carolina, Stuart Nash has always followed the path others expected him to take. But one life-changing decision—and one family’s heartbreaking struggle for justice—sets him on the road to law school and the legal career that will shape his future. A compelling origin story, this e-short marks the beginning of the journey that leads to <i>The French Illusion</i>.",
-      "formattedPrice": "$0.99",
-      "price": 0.99,
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books",
+        "Fiction & Literature"
+      ],
       "averageUserRating": 4,
-      "userRatingCount": 636,
+      "userRatingCount": 660,
       "country": "USA"
     }
   ]

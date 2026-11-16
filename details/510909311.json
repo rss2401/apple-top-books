@@ -42,16 +42,15 @@
         2764906,
         366193336
       ],
-      "artistId": 2764906,
-      "artistName": "Charlotte Brontë & Lesbazeilles Souvestre",
       "genres": [
         "Romans et littérature",
         "Livres"
       ],
-      "price": 0,
-      "releaseDate": "1855-03-31T08:00:00Z",
+      "artistId": 2764906,
+      "artistName": "Charlotte Brontë & Lesbazeilles Souvestre",
       "trackId": 510909311,
       "trackName": "Jane Eyre",
+      "releaseDate": "1855-03-31T08:00:00Z",
       "genreIds": [
         "9031",
         "38"
@@ -60,8 +59,9 @@
       "currency": "EUR",
       "description": "Charlotte Brontë, sous le nom de plume de Currer Bell, signe un roman dont l’héroïne raconte son enfance, sa jeunesse et son entrée dans l’âge adulte, dans le nord de l’Angleterre entre 1760 et 1820. Cet ouvrage, publié pour la première fois en 1847, offre une traduction de l’anglais de Mme Leszabeilles Souvestre.",
       "formattedPrice": "Gratuit",
+      "price": 0,
       "averageUserRating": 4.5,
-      "userRatingCount": 943,
+      "userRatingCount": 945,
       "country": "FRA"
     }
   ]

@@ -42,17 +42,16 @@
       "artistIds": [
         278225986
       ],
-      "artistId": 278225986,
-      "artistName": "Charles Baudelaire",
       "genres": [
         "Poésie",
         "Livres",
         "Romans et littérature"
       ],
-      "price": 0,
-      "releaseDate": "1857-06-25T08:00:00Z",
+      "artistId": 278225986,
+      "artistName": "Charles Baudelaire",
       "trackId": 506621982,
       "trackName": "Les Fleurs du Mal",
+      "releaseDate": "1857-06-25T08:00:00Z",
       "genreIds": [
         "10093",
         "38",
@@ -62,6 +61,7 @@
       "currency": "EUR",
       "description": "La lecture de poèmes ne vous est pas familière? Découvrez l’un des recueils de poésie les plus célèbres et succombez au charme intemporel de ses vers. Au fil des pages, on s’enivre de la beauté du mal. On respire le poison de sa beauté. Bref, on ne se lasse pas de plonger dans cet ouvrage à la sensualité universelle. Cent poèmes légendaires qui ont changé la face de la littérature.",
       "formattedPrice": "Gratuit",
+      "price": 0,
       "averageUserRating": 3.5,
       "userRatingCount": 948,
       "country": "FRA"

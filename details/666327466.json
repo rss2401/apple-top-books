@@ -40,16 +40,15 @@
       "artistIds": [
         2684161
       ],
-      "artistId": 2684161,
-      "artistName": "Victor Hugo",
       "genres": [
         "Romans et littérature",
         "Livres"
       ],
-      "price": 0,
-      "releaseDate": "2013-06-25T07:00:00Z",
+      "artistId": 2684161,
+      "artistName": "Victor Hugo",
       "trackId": 666327466,
       "trackName": "Le dernier jour d'un condamné",
+      "releaseDate": "2013-06-25T07:00:00Z",
       "genreIds": [
         "9031",
         "38"
@@ -58,6 +57,7 @@
       "currency": "EUR",
       "description": "Voilà cinq semaines que j'habite avec cette pensée, toujours seul avec elle,<br />toujours glacé de sa présence, toujours courbé sous son poids !",
       "formattedPrice": "Gratuit",
+      "price": 0,
       "averageUserRating": 4.5,
       "userRatingCount": 441,
       "country": "FRA"

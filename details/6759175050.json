@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "19,99 €",
+      "artistIds": [
+        162449548
+      ],
+      "price": 19.99,
+      "artistId": 162449548,
+      "artistName": "Allen Levi",
+      "genres": [
+        "Literarische Belletristik",
+        "Bücher",
+        "Belletristik und Literatur"
+      ],
+      "genreIds": [
+        "10049",
+        "38",
+        "9031"
+      ],
+      "trackId": 6759175050,
+      "trackName": "Theo in Golden",
+      "releaseDate": "2026-09-04T07:00:00Z",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>»Dieses Buch wird Sie zu einem besseren Menschen machen.«</b><br /><br />An einem klaren Frühlingmorgen erscheint ein Fremder in Golden, einer amerikanischen Kleinstadt im Süden. Wer aber ist er, und warum ist er gekommen?<br /><br />Sein Name ist Theo. Und er stellt weit mehr Fragen, als er beantwortet.<br /><br />Theo besucht das örtliche Café, in dem zweiundneunzig Bleistiftporträts an den Wänden hängen – Porträts der Menschen von Golden, gezeichnet von einem lokalen Künstler. Er beginnt, sie nach und nach zu kaufen und sie den »rechtmäßigen Besitzerinnen und Besitzern« zurückzugeben. Mit jedem Austausch wird eine Geschichte erzählt, eine Freundschaft gestiftet und ein Leben verändert. Und ein neues Geheimnis offenbart.<br /><br />»Theo in Golden« erzählt von der Kraft der Großzügigkeit und Menschlichkeit – ein klug komponierter, einnehmender Roman über die Bedeutung des Staunens für ein sinnerfülltes Leben und die unsichtbaren Fäden der Freundlichkeit, die uns alle miteinander verbinden.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/56/7d/68/567d68c2-be4c-c72a-752f-f96dbb99ce7d/9783492613156.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/56/7d/68/567d68c2-be4c-c72a-752f-f96dbb99ce7d/9783492613156.jpg/100x100bb.jpg",
+      "trackCensoredName": "Theo in Golden",
+      "artistViewUrl": "https://books.apple.com/de/artist/allen-levi/162449548?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/theo-in-golden/id6759175050?uo=4",
+      "averageUserRating": 5,
+      "userRatingCount": 5,
+      "country": "DEU"
+    }
+  ]
+}

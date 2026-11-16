@@ -39,12 +39,6 @@
       "artistIds": [
         965589256
       ],
-      "formattedPrice": "Free",
-      "artistId": 965589256,
-      "artistName": "Ben Leighton",
-      "price": 0,
-      "trackId": 969866384,
-      "trackName": "Become A Better Version of Yourself",
       "releaseDate": "2015-02-22T08:00:00Z",
       "kind": "ebook",
       "currency": "USD",
@@ -54,6 +48,10 @@
       "trackViewUrl": "https://books.apple.com/us/book/become-a-better-version-of-yourself/id969866384?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/6f/6a/f3/6f6af333-ce86-662c-01bb-0b50fcafe827/cover.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/6f/6a/f3/6f6af333-ce86-662c-01bb-0b50fcafe827/cover.jpg/100x100bb.jpg",
+      "formattedPrice": "Free",
+      "price": 0,
+      "trackId": 969866384,
+      "trackName": "Become A Better Version of Yourself",
       "genreIds": [
         "10119",
         "38",
@@ -66,8 +64,10 @@
         "Health, Mind & Body",
         "Spirituality"
       ],
+      "artistId": 965589256,
+      "artistName": "Ben Leighton",
       "averageUserRating": 4,
-      "userRatingCount": 3172,
+      "userRatingCount": 3177,
       "country": "USA"
     }
   ]

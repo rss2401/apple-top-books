@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        6800474551
+      ],
+      "artistId": 6800474551,
+      "artistName": "Alice Fox",
+      "genres": [
+        "Romantic Suspense",
+        "Books",
+        "Romance",
+        "Contemporary Romance"
+      ],
+      "price": 3.99,
+      "trackId": 6829488209,
+      "trackName": "Dirty Ice: A Spicy Hockey Romcom",
+      "releaseDate": "2026-10-30T07:00:00Z",
+      "genreIds": [
+        "10061",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>SIENNA</b><br /><br />Our marriage was supposed to be fake.<br /><br />The rings were tape. The contract had an end date. Then I fell in love with my husband, and now I'm carrying his baby, and he doesn't know.<br /><br />I can't tell him. Not yet. I've watched a man stay out of duty and hate every day of it, and I'd rather lose Ronan Wolfe than be the reason he can't leave.<br /><br /><b>So I keep the secret. And the secret starts to show.</b><br /><br />Then somebody leaks the contract. The city that loved us turns on us overnight, and the job I've wanted my whole life hangs by a thread.<br /><br /><b>One of us has to go. I never thought he'd decide it without me.</b><br /><br /><b>RONAN</b><br /><br />I've spent my whole life being told I'm too much. Too big, too loud, too dangerous to keep.<br /><br />She keeps me anyway.<br /><br />I'm in love with my wife. I told her in my grandmother's kitchen, in the town I grew up in, and she cried and didn't say it back, and I don't care. I'll say it for both of us.<br /><br /><b>Then the whole league finds out our marriage started as a lie.</b><br /><br />They want her job. They want my contract. They want somebody to pay.<br /><br />So I'll pay. Quietly. Before she can stop me.<br /><br /><b>She'll hate me for it. She'll still have everything she ever wanted.</b><br /><br /><i>This is the second book in The Big Bad Wolfe Series. Reading order:</i><br /><br /><i>Reckless Ice.</i><br /><br /><i>Dirty Ice.</i><br /><br /><i>Fearless Ice.</i>",
+      "formattedPrice": "$3.99",
+      "trackCensoredName": "Dirty Ice: A Spicy Hockey Romcom",
+      "artistViewUrl": "https://books.apple.com/us/artist/alice-fox/6800474551?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/dirty-ice-a-spicy-hockey-romcom/id6829488209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a8/f4/96/a8f49642-7ed2-d263-cddb-ac978333c580/6610001506902.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a8/f4/96/a8f49642-7ed2-d263-cddb-ac978333c580/6610001506902.jpg/100x100bb.jpg",
+      "country": "USA"
+    }
+  ]
+}

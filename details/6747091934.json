@@ -5,12 +5,6 @@
       "artistIds": [
         587737721
       ],
-      "formattedPrice": "Free",
-      "artistId": 587737721,
-      "artistName": "Charles Pazos",
-      "price": 0,
-      "trackId": 6747091934,
-      "trackName": "Ethiopian Bible, LARGE PRINT: The Complete Edition of Rejected Scriptures & Lost Books with Commentary for True Seekers—Full Apocrypha & Deuterocanonicals with Enoch, Jubilees, Tobit, Judith & More",
       "releaseDate": "2025-06-10T07:00:00Z",
       "kind": "ebook",
       "currency": "USD",
@@ -20,6 +14,10 @@
       "trackViewUrl": "https://books.apple.com/us/book/ethiopian-bible-large-print-the-complete-edition/id6747091934?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/90/01/52/9001525e-7c23-4db9-9b09-feb3eb9c4033/0002985891.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/90/01/52/9001525e-7c23-4db9-9b09-feb3eb9c4033/0002985891.jpg/100x100bb.jpg",
+      "formattedPrice": "Free",
+      "price": 0,
+      "trackId": 6747091934,
+      "trackName": "Ethiopian Bible, LARGE PRINT: The Complete Edition of Rejected Scriptures & Lost Books with Commentary for True Seekers—Full Apocrypha & Deuterocanonicals with Enoch, Jubilees, Tobit, Judith & More",
       "genreIds": [
         "9018",
         "38",
@@ -30,8 +28,10 @@
         "Books",
         "Bible Studies"
       ],
+      "artistId": 587737721,
+      "artistName": "Charles Pazos",
       "averageUserRating": 4,
-      "userRatingCount": 77,
+      "userRatingCount": 76,
       "country": "USA"
     }
   ]

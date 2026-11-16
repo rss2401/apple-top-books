@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        2025040
+      ],
+      "trackCensoredName": "Zauber einer Winternacht",
+      "artistViewUrl": "https://books.apple.com/de/artist/nora-roberts/2025040?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/zauber-einer-winternacht/id767993889?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/6f/24/c0/6f24c01e-d2d6-7610-8b3a-af7a78203cc1/9783641120948.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/6f/24/c0/6f24c01e-d2d6-7610-8b3a-af7a78203cc1/9783641120948.jpg/100x100bb.jpg",
+      "artistId": 2025040,
+      "artistName": "Nora Roberts",
+      "genres": [
+        "Liebesromane",
+        "Bücher",
+        "Zeitgenössische Liebesromane"
+      ],
+      "releaseDate": "2013-12-16T08:00:00Z",
+      "trackName": "Zauber einer Winternacht",
+      "trackId": 767993889,
+      "genreIds": [
+        "9003",
+        "38",
+        "10057"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Gabriel rettet die schwangere Laura aus ihrem verunglückten Auto, das in den verschneiten Bergen von Colorado ins Schlittern geraten ist. Er nimmt sie mit in seine Hütte und gewährt ihr für ein paar Tage Unterschlupf. Der zurückgezogene Künstler spürt jedoch, dass die wunderschöne Frau ein Geheimnis mit sich herumträgt, das zu schrecklich ist, um es ihm anzuvertrauen. Zu schrecklich, um überhaupt jemandem zu vertrauen. Schritt für Schritt kommen die beiden sich näher. Der Maler und die Frau, die er liebend gerne malen würde – und in seinem Leben behalten würde.",
+      "formattedPrice": "2,99 €",
+      "price": 2.99,
+      "averageUserRating": 4,
+      "userRatingCount": 87,
+      "country": "DEU"
+    }
+  ]
+}

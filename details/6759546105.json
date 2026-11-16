@@ -10,13 +10,11 @@
       "artistIds": [
         2087446
       ],
-      "genres": [
-        "Mysteries & Thrillers",
-        "Books",
-        "Police Procedural"
-      ],
+      "formattedPrice": "$14.99",
+      "price": 14.99,
       "artistId": 2087446,
       "artistName": "James Patterson",
+      "releaseDate": "2026-10-19T07:00:00Z",
       "trackId": 6759546105,
       "trackName": "The Family Cross",
       "genreIds": [
@@ -24,14 +22,16 @@
         "38",
         "10052"
       ],
-      "releaseDate": "2026-10-19T07:00:00Z",
       "kind": "ebook",
       "currency": "USD",
       "description": "<b>Instant </b><i><b>New York Times </b></i><b>Bestseller!&#xa0;</b><br /><br /><b>Alex Cross investigates a series of baffling murders while balancing a family crisis that threatens to upend his entire world in this thriller from the world's #1 bestselling author, James Patterson.</b><br /><br />Alex Cross is a brilliant psychologist—and a relentless hunter of killers for the FBI and DC Metro Police.<br /><br />To his beloved Nana Mama, he’s still the boy she raised—and every morning, as he straps on his service weapon, she’s reminded just how dangerous his world has become.<br /><br />But in Washington, DC, there are places even the police don’t go—an unseen underworld where violence thrives and rules don’t apply. And this time, Alex is stepping straight into it.<br /><br />Each move pulls him deeper into the dark—and closer to a case that could shatter the promise he made to Nana … and cost him everything he holds most dear.",
-      "formattedPrice": "$14.99",
-      "price": 14.99,
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books",
+        "Police Procedural"
+      ],
       "averageUserRating": 4.5,
-      "userRatingCount": 440,
+      "userRatingCount": 559,
       "country": "USA"
     }
   ]

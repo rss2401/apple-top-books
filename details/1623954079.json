@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        424938560
+      ],
+      "artistId": 424938560,
+      "artistName": "Will Guidara",
+      "genres": [
+        "Management & Leadership",
+        "Books",
+        "Business & Personal Finance",
+        "Industries & Professions"
+      ],
+      "price": 1.99,
+      "trackId": 1623954079,
+      "trackName": "Unreasonable Hospitality",
+      "releaseDate": "2022-10-25T07:00:00Z",
+      "genreIds": [
+        "10014",
+        "38",
+        "9009",
+        "10005"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>The must-read <i>New York Times</i> bestseller that's redefining hospitality and inspiring readers in every industry. <br /><br />- Featured in FX's <i>The Bear</i> and Showtime's <i>Billions<br /></i>- <b>JP Morgan NextList Pick</b><br /></b><br />Eleven Madison Park was a struggling two-star brasserie when Will Guidara took the helm. Eleven years later, it had been named the best restaurant in the world, renowned for its “relentless, skillful campaign to spread joy” (Pete Wells, <i>New York Times</i>). How did Guidara and his team pull off this unprecedented transformation? By offering hospitality so memorable, so over the top, it can only be described as unreasonable.<br /><br />The team consistently gave people more than they expected—filling a private dining room with sand, mai tais, and beach chairs to console a couple after a canceled vacation, or surprising a family who had never seen snow with a sledding trip to Central Park. That hospitality-first culture—making people feel seen and truly welcomed—extended beyond the guests to their own team, who learned that the best way to build your bottom line is to give more, not less; how to deliver praise and criticism with intention; and about the greatness possible when a busser is empowered to think like an owner.<br /><br />Guidara shows us how to find the magic in what we do—for ourselves, the people we work with, and the people we serve.<br /><br />Since its publication, <i>Unreasonable Hospitality </i>has sold over a million copies, has been translated into over a dozen languages, and was an inspiration for the Emmy Award–winning series <i>The Bear</i>. Today, every business can choose to be in the hospitality industry, as the word has spread far beyond the dining room, encouraging leaders from all disciplines to elevate ordinary transactions into unforgettable experiences.",
+      "formattedPrice": "$1.99",
+      "trackCensoredName": "Unreasonable Hospitality",
+      "artistViewUrl": "https://books.apple.com/us/artist/will-guidara/424938560?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/unreasonable-hospitality/id1623954079?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3d/a7/99/3da799e5-67bc-eeee-6179-5de60a5fa0e1/9780593418581.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3d/a7/99/3da799e5-67bc-eeee-6179-5de60a5fa0e1/9780593418581.d.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 494,
+      "country": "USA"
+    }
+  ]
+}
