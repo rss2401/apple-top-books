@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 88,
+      "artistName": "Alice Fox",
+      "id": "6829488209",
+      "name": "Dirty Ice: A Spicy Hockey Romcom",
+      "releaseDate": "2026-10-30",
+      "kind": "books",
+      "artistId": "6800474551",
+      "artistUrl": "https://books.apple.com/us/author/alice-fox/id6800474551",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a8/f4/96/a8f49642-7ed2-d263-cddb-ac978333c580/6610001506902.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10061",
+          "name": "Romantic Suspense",
+          "url": "https://itunes.apple.com/us/genre/id10061"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        },
+        {
+          "genreId": "10057",
+          "name": "Contemporary Romance",
+          "url": "https://itunes.apple.com/us/genre/id10057"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/dirty-ice-a-spicy-hockey-romcom/id6829488209"
+    }
+  ]
+}

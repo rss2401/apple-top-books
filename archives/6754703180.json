@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 71,
+      "artistName": "Ferdinand Dudenhöffer",
+      "id": "6754703180",
+      "name": "Die neue Auto-Supermacht",
+      "releaseDate": "2026-11-15",
+      "kind": "books",
+      "artistId": "1113843994",
+      "artistUrl": "https://books.apple.com/de/author/ferdinand-dudenh%C3%B6ffer/id1113843994",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/52/53/7b/52537bcc-e2c0-3c3a-88d6-0fdaf1e81d61/1062667827.jpg/100x148bb.png",
+      "genres": [
+        {
+          "genreId": "10005",
+          "name": "Branchen und Berufe",
+          "url": "https://itunes.apple.com/de/genre/id10005"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9009",
+          "name": "Business und Finanzen",
+          "url": "https://itunes.apple.com/de/genre/id9009"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/die-neue-auto-supermacht/id6754703180"
+    }
+  ]
+}

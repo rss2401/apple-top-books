@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 80,
+      "artistName": "Lars Kepler",
+      "id": "1599452865",
+      "name": "The Mirror Man",
+      "releaseDate": "2022-05-26",
+      "kind": "books",
+      "artistId": "398607110",
+      "artistUrl": "https://books.apple.com/gb/author/lars-kepler/id398607110",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/f5/38/8d/f5388dc4-7536-592e-efe3-00120df5f869/9781804180181.jpg/100x153bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Crime & Thrillers",
+          "url": "https://itunes.apple.com/gb/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/the-mirror-man/id1599452865"
+    }
+  ]
+}

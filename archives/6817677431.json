@@ -1,0 +1,58 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 83,
+      "artistName": "谷川ニコ",
+      "id": "6817677431",
+      "name": "私がモテないのはどう考えてもお前らが悪い! 29巻",
+      "releaseDate": "2026-11-12",
+      "kind": "books",
+      "artistId": "712770020",
+      "artistUrl": "https://books.apple.com/jp/author/%E8%B0%B7%E5%B7%9D%E3%83%8B%E3%82%B3/id712770020",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/08/38/6a/08386a0c-15b8-5f85-aefd-ec21046e17de/BT000019183102902901900209.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000072",
+          "name": "ギャグ／コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id50000072"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11347",
+          "name": "メディア化",
+          "url": "https://itunes.apple.com/jp/genre/id11347"
+        },
+        {
+          "genreId": "11052",
+          "name": "ヒューマンドラマ",
+          "url": "https://itunes.apple.com/jp/genre/id11052"
+        },
+        {
+          "genreId": "11337",
+          "name": "少年",
+          "url": "https://itunes.apple.com/jp/genre/id11337"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E7%A7%81%E3%81%8C%E3%83%A2%E3%83%86%E3%81%AA%E3%81%84%E3%81%AE%E3%81%AF%E3%81%A9%E3%81%86%E8%80%83%E3%81%88%E3%81%A6%E3%82%82%E3%81%8A%E5%89%8D%E3%82%89%E3%81%8C%E6%82%AA%E3%81%84-29%E5%B7%BB/id6817677431"
+    }
+  ]
+}

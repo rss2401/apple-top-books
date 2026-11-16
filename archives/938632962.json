@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 66,
+      "artistName": "K. Bromberg",
+      "id": "938632962",
+      "name": "Driven. Verführt",
+      "releaseDate": "2015-01-12",
+      "kind": "books",
+      "artistId": "803460786",
+      "artistUrl": "https://books.apple.com/de/author/k-bromberg/id803460786",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication3/v4/e1/9c/90/e19c90bb-955a-fca0-992d-3f36b4375a33/9783641149048.jpg/100x158bb.png",
+      "genres": [
+        {
+          "genreId": "10057",
+          "name": "Zeitgenössische Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10057"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/driven-verf%C3%BChrt/id938632962"
+    }
+  ]
+}

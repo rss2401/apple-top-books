@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 86,
+      "artistName": "Sophie Cousens",
+      "id": "1617279787",
+      "name": "Alles beginnt mit dir und mir",
+      "releaseDate": "2023-02-01",
+      "kind": "books",
+      "artistId": "1000855500",
+      "artistUrl": "https://books.apple.com/de/author/sophie-cousens/id1000855500",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/b9/12/1b/b9121bf2-ae45-2f51-6d70-87056c6dfacd/9783641294540.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "10057",
+          "name": "Zeitgenössische Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10057"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/alles-beginnt-mit-dir-und-mir/id1617279787"
+    }
+  ]
+}

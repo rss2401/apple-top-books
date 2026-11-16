@@ -1,0 +1,49 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 87,
+      "artistName": "くろたま",
+      "id": "6830103542",
+      "name": "元教え子の二ノ瀬さん 1巻",
+      "releaseDate": "2026-11-13",
+      "kind": "books",
+      "artistId": "1281828335",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%81%8F%E3%82%8D%E3%81%9F%E3%81%BE/id1281828335",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/4f/ed/37/4fed37ff-f2c1-0c3d-d98b-26c993753bf9/BT000247418200100101900209.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000085",
+          "name": "ラブコメディ",
+          "url": "https://itunes.apple.com/jp/genre/id50000085"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11338",
+          "name": "青年",
+          "url": "https://itunes.apple.com/jp/genre/id11338"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E5%85%83%E6%95%99%E3%81%88%E5%AD%90%E3%81%AE%E4%BA%8C%E3%83%8E%E7%80%AC%E3%81%95%E3%82%93-1%E5%B7%BB/id6830103542"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 86,
+      "artistName": "Amy Harper",
+      "id": "6739965644",
+      "name": "Adult ADHD Starter Guide: The Brutally Honest First Step to Understanding and Managing Your Neurodivergent Brain",
+      "releaseDate": "2024-12-28",
+      "kind": "books",
+      "artistId": "1726983433",
+      "artistUrl": "https://books.apple.com/gb/author/amy-harper/id1726983433",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9f/d5/b4/9fd5b495-84ea-6c25-3424-f41ac9a75588/0002499493.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10094",
+          "name": "Psychology",
+          "url": "https://itunes.apple.com/gb/genre/id10094"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "9025",
+          "name": "Health & Well-Being",
+          "url": "https://itunes.apple.com/gb/genre/id9025"
+        },
+        {
+          "genreId": "9002",
+          "name": "Non-Fiction",
+          "url": "https://itunes.apple.com/gb/genre/id9002"
+        },
+        {
+          "genreId": "10038",
+          "name": "Family & Relationships",
+          "url": "https://itunes.apple.com/gb/genre/id10038"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/adult-adhd-starter-guide-the-brutally-honest-first/id6739965644"
+    }
+  ]
+}

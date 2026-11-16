@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 99,
+      "artistName": "Apple Inc.",
+      "id": "1458654756",
+      "name": "Guide d’utilisation de Pages pour Mac",
+      "releaseDate": "2023-07-07",
+      "kind": "books",
+      "artistId": "405307759",
+      "artistUrl": "https://books.apple.com/fr/author/apple-inc/id405307759",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/24/67/ec/2467ec8e-499e-1ff3-be53-47f85f9b417d/ePubCover_Pages_Mac.png/100x145bb.png",
+      "genres": [
+        {
+          "genreId": "10017",
+          "name": "Ordinateurs",
+          "url": "https://itunes.apple.com/fr/genre/id10017"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9027",
+          "name": "Informatique et Internet",
+          "url": "https://itunes.apple.com/fr/genre/id9027"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/guide-dutilisation-de-pages-pour-mac/id1458654756"
+    }
+  ]
+}

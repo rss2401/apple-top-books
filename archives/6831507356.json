@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 74,
+      "artistName": "柳瀬こたつ, 道造 & めろん22",
+      "id": "6831507356",
+      "name": "貞操逆転世界の童貞辺境領主騎士 4",
+      "releaseDate": "2026-11-20",
+      "kind": "books",
+      "artistId": "1715397699",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%9F%B3%E7%80%AC%E3%81%93%E3%81%9F%E3%81%A4/id1715397699",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/16/48/06/164806e7-8dd8-ea85-4c05-e317d8db9d7f/K500002.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "11337",
+          "name": "少年",
+          "url": "https://itunes.apple.com/jp/genre/id11337"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E8%B2%9E%E6%93%8D%E9%80%86%E8%BB%A2%E4%B8%96%E7%95%8C%E3%81%AE%E7%AB%A5%E8%B2%9E%E8%BE%BA%E5%A2%83%E9%A0%98%E4%B8%BB%E9%A8%8E%E5%A3%AB-4/id6831507356"
+    }
+  ]
+}

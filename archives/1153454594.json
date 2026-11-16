@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 85,
+      "artistName": "Danielle Stewart",
+      "id": "1153454594",
+      "name": "Three Seconds to Rush",
+      "releaseDate": "2016-09-11",
+      "kind": "books",
+      "artistId": "637931637",
+      "artistUrl": "https://books.apple.com/gb/author/danielle-stewart/id637931637",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3c/8c/f1/3c8cf126-e197-577a-907e-3755aa9a2151/1c53044a-6b17-48f0-9eb8-0ecbe9a451bb_cover_image.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Crime & Thrillers",
+          "url": "https://itunes.apple.com/gb/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/gb/genre/id9003"
+        },
+        {
+          "genreId": "10061",
+          "name": "Romantic Suspense",
+          "url": "https://itunes.apple.com/gb/genre/id10061"
+        },
+        {
+          "genreId": "10055",
+          "name": "Women Sleuths",
+          "url": "https://itunes.apple.com/gb/genre/id10055"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/three-seconds-to-rush/id1153454594"
+    }
+  ]
+}

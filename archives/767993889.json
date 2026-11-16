@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 92,
+      "artistName": "Nora Roberts",
+      "id": "767993889",
+      "name": "Zauber einer Winternacht",
+      "releaseDate": "2013-12-16",
+      "kind": "books",
+      "artistId": "2025040",
+      "artistUrl": "https://books.apple.com/de/author/nora-roberts/id2025040",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/6f/24/c0/6f24c01e-d2d6-7610-8b3a-af7a78203cc1/9783641120948.jpg/100x158bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "10057",
+          "name": "Zeitgenössische Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10057"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/zauber-einer-winternacht/id767993889"
+    }
+  ]
+}
