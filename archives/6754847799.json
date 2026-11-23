@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 62,
+      "artistName": "Cindi Madsen",
+      "id": "6754847799",
+      "name": "Wreck My Plans",
+      "releaseDate": "2026-01-12",
+      "kind": "books",
+      "artistId": "584211720",
+      "artistUrl": "https://books.apple.com/us/author/cindi-madsen/id584211720",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e4/12/ad/e412ad0b-6a1e-24dc-0fa7-3fa6fbcebbf2/9781649375810.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10057",
+          "name": "Contemporary Romance",
+          "url": "https://itunes.apple.com/us/genre/id10057"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        },
+        {
+          "genreId": "11042",
+          "name": "Romantic Comedies",
+          "url": "https://itunes.apple.com/us/genre/id11042"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/wreck-my-plans/id6754847799"
+    }
+  ]
+}

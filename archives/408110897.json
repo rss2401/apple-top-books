@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 92,
+      "artistName": "Viktor E. Frankl",
+      "id": "408110897",
+      "name": "... trotzdem Ja zum Leben sagen",
+      "releaseDate": "2010-12-09",
+      "kind": "books",
+      "artistId": "27059386",
+      "artistUrl": "https://books.apple.com/de/author/viktor-e-frankl/id27059386",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/27/74/a3/2774a332-db0c-30f3-7a8b-31e3642c92e3/9783641059033.jpg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "10094",
+          "name": "Psychologie",
+          "url": "https://itunes.apple.com/de/genre/id10094"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9025",
+          "name": "Gesundheit, Körper und Geist",
+          "url": "https://itunes.apple.com/de/genre/id9025"
+        },
+        {
+          "genreId": "9008",
+          "name": "Biografien und Memoiren",
+          "url": "https://itunes.apple.com/de/genre/id9008"
+        },
+        {
+          "genreId": "11034",
+          "name": "Militärbiografien und Memoiren",
+          "url": "https://itunes.apple.com/de/genre/id11034"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/trotzdem-ja-zum-leben-sagen/id408110897"
+    }
+  ]
+}

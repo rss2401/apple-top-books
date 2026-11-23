@@ -105,7 +105,7 @@
       "country": "us",
       "mediaType": "books",
       "feed": "top-paid",
-      "rank": 34,
+      "rank": 23,
       "artistName": "Ann Patchett",
       "id": "6753892862",
       "name": "Whistler",
@@ -129,6 +129,16 @@
           "genreId": "9031",
           "name": "Fiction & Literature",
           "url": "https://itunes.apple.com/us/genre/id9031"
+        },
+        {
+          "genreId": "10047",
+          "name": "Historical Fiction",
+          "url": "https://itunes.apple.com/us/genre/id10047"
+        },
+        {
+          "genreId": "11050",
+          "name": "Family Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id11050"
         }
       ],
       "url": "https://books.apple.com/us/book/whistler/id6753892862"

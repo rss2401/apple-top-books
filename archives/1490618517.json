@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 1,
+      "artistName": "Jennifer Sucevic",
+      "id": "1490618517",
+      "name": "Hate to Love you",
+      "releaseDate": "2019-11-29",
+      "kind": "books",
+      "artistId": "893776741",
+      "artistUrl": "https://books.apple.com/de/author/jennifer-sucevic/id893776741",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/be/04/42/be0442c3-15fa-5abc-6242-eba1b26b124c/1030275208.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "10057",
+          "name": "Zeitgenössische Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10057"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "11040",
+          "name": "New Adult-Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id11040"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/hate-to-love-you/id1490618517"
+    }
+  ]
+}

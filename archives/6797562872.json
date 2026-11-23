@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 47,
+      "artistName": "Rebecca Yarros",
+      "id": "6797562872",
+      "name": "Peculiar Stars – Zwischen uns die Welt",
+      "releaseDate": "2026-11-19",
+      "kind": "books",
+      "artistId": "802770747",
+      "artistUrl": "https://books.apple.com/de/author/rebecca-yarros/id802770747",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/91/89/7e/91897e44-158a-46ea-914d-d0cca22e48f5/1067797819.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "10049",
+          "name": "Literarische Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id10049"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/peculiar-stars-zwischen-uns-die-welt/id6797562872"
+    }
+  ]
+}

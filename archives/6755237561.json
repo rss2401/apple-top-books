@@ -1,0 +1,63 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 100,
+      "artistName": "Victoria Scott",
+      "id": "6755237561",
+      "name": "The Echo of Lost Stories",
+      "releaseDate": "2026-06-28",
+      "kind": "books",
+      "artistId": "398202024",
+      "artistUrl": "https://books.apple.com/us/author/victoria-scott/id398202024",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ad/dd/ac/adddac49-dea3-1780-5cf6-aa201cf85f8f/9781805575658.jpg/100x153bb.png",
+      "genres": [
+        {
+          "genreId": "10047",
+          "name": "Historical Fiction",
+          "url": "https://itunes.apple.com/us/genre/id10047"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        },
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "10055",
+          "name": "Women Sleuths",
+          "url": "https://itunes.apple.com/us/genre/id10055"
+        },
+        {
+          "genreId": "11050",
+          "name": "Family Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id11050"
+        },
+        {
+          "genreId": "10046",
+          "name": "Ghost Stories",
+          "url": "https://itunes.apple.com/us/genre/id10046"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/the-echo-of-lost-stories/id6755237561"
+    }
+  ]
+}

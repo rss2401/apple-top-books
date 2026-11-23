@@ -39,7 +39,7 @@
       "country": "us",
       "mediaType": "books",
       "feed": "top-paid",
-      "rank": 25,
+      "rank": 21,
       "artistName": "Jodi Picoult",
       "id": "6756904796",
       "name": "Hollow Bones",
@@ -47,7 +47,7 @@
       "kind": "books",
       "artistId": "14907223",
       "artistUrl": "https://books.apple.com/us/author/jodi-picoult/id14907223",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/00/58/18/00581833-06cf-e33d-98ed-4ed338184bbb/9780593726266.d.jpg/100x151bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f6/a3/34/f6a33418-a7d9-6ba7-e2a4-c6881b883ed6/9780593726266.d.jpg/100x151bb.png",
       "genres": [
         {
           "genreId": "9031",

@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 66,
+      "artistName": "Rob Reiner, David Hoffman & Dick Russell",
+      "id": "6759484054",
+      "name": "Who Killed JFK?",
+      "releaseDate": "2026-11-17",
+      "kind": "books",
+      "artistId": "81506306",
+      "artistUrl": "https://books.apple.com/us/author/rob-reiner/id81506306",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ed/e3/f0/ede3f0b0-c51d-48f7-cf26-26e0aeef4419/9781668083895.jpg/100x152bb.png",
+      "genres": [
+        {
+          "genreId": "9008",
+          "name": "Biographies & Memoirs",
+          "url": "https://itunes.apple.com/us/genre/id9008"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9015",
+          "name": "History",
+          "url": "https://itunes.apple.com/us/genre/id9015"
+        },
+        {
+          "genreId": "10079",
+          "name": "U.S. History",
+          "url": "https://itunes.apple.com/us/genre/id10079"
+        },
+        {
+          "genreId": "9002",
+          "name": "Nonfiction",
+          "url": "https://itunes.apple.com/us/genre/id9002"
+        },
+        {
+          "genreId": "10120",
+          "name": "Social Science",
+          "url": "https://itunes.apple.com/us/genre/id10120"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/who-killed-jfk/id6759484054"
+    }
+  ]
+}

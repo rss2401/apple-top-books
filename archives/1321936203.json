@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 71,
+      "artistName": "Pierre Lemaitre",
+      "id": "1321936203",
+      "name": "Couleurs de l'incendie",
+      "releaseDate": "2018-01-03",
+      "kind": "books",
+      "artistId": "373392577",
+      "artistUrl": "https://books.apple.com/fr/author/pierre-lemaitre/id373392577",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/8d/d7/a9/8dd7a976-0daf-da6c-ce45-9f1e5f0f9bfb/9782226426888.jpg/100x155bb.png",
+      "genres": [
+        {
+          "genreId": "10049",
+          "name": "Fiction et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id10049"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/couleurs-de-lincendie/id1321936203"
+    }
+  ]
+}

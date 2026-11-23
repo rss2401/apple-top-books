@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 64,
+      "artistName": "Juanita Kees",
+      "id": "1385273097",
+      "name": "Montana Baby",
+      "releaseDate": "2018-06-26",
+      "kind": "books",
+      "artistId": "567313685",
+      "artistUrl": "https://books.apple.com/us/author/juanita-kees/id567313685",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/f6/b0/a0/f6b0a074-527e-d702-13a1-ba2865aed4c1/MontanaBaby-300dpi.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10057",
+          "name": "Contemporary Romance",
+          "url": "https://itunes.apple.com/us/genre/id10057"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/montana-baby/id1385273097"
+    }
+  ]
+}

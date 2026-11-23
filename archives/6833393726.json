@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 16,
+      "artistName": "粥川すず",
+      "id": "6833393726",
+      "name": "大正學生愛妻家(6)",
+      "releaseDate": "2026-11-20",
+      "kind": "books",
+      "artistId": "1632389187",
+      "artistUrl": "https://books.apple.com/jp/author/%E7%B2%A5%E5%B7%9D%E3%81%99%E3%81%9A/id1632389187",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/71/1c/4f/711c4fc9-d8d1-c665-35e3-cc714defa05a/BT000171918200600601900206.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000084",
+          "name": "恋愛／ロマンス",
+          "url": "https://itunes.apple.com/jp/genre/id50000084"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11338",
+          "name": "青年",
+          "url": "https://itunes.apple.com/jp/genre/id11338"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E5%A4%A7%E6%AD%A3%E5%AD%B8%E7%94%9F%E6%84%9B%E5%A6%BB%E5%AE%B6-6/id6833393726"
+    }
+  ]
+}

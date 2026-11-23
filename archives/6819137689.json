@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 48,
+      "artistName": "平井大橋",
+      "id": "6819137689",
+      "name": "ダイヤモンドの功罪 11",
+      "releaseDate": "2026-11-18",
+      "kind": "books",
+      "artistId": "1684667511",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%B9%B3%E4%BA%95%E5%A4%A7%E6%A9%8B/id1684667511",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1a/7f/62/1a7f6255-bad5-68ac-4e13-b4b0219f6146/08X10000000075275200.jpg/100x124bb.png",
+      "genres": [
+        {
+          "genreId": "50000087",
+          "name": "スポーツ",
+          "url": "https://itunes.apple.com/jp/genre/id50000087"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%81%AE%E5%8A%9F%E7%BD%AA-11/id6819137689"
+    }
+  ]
+}

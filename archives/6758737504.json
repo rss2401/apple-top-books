@@ -1,0 +1,71 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 51,
+      "artistName": "Becky Dvorak",
+      "id": "6758737504",
+      "name": "The Miracle Code",
+      "releaseDate": "2026-03-03",
+      "kind": "books",
+      "artistId": "512541665",
+      "artistUrl": "https://books.apple.com/gb/author/becky-dvorak/id512541665",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a4/bb/c4/a4bbc4ef-9be3-5d14-52f2-fd83370c4e85/9798881506117.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10107",
+          "name": "Christianity",
+          "url": "https://itunes.apple.com/gb/genre/id10107"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "9018",
+          "name": "Religion & Spirituality",
+          "url": "https://itunes.apple.com/gb/genre/id9018"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/the-miracle-code/id6758737504"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 30,
+      "artistName": "Becky Dvorak",
+      "id": "6758737504",
+      "name": "The Miracle Code",
+      "releaseDate": "2026-03-03",
+      "kind": "books",
+      "artistId": "512541665",
+      "artistUrl": "https://books.apple.com/us/author/becky-dvorak/id512541665",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a4/bb/c4/a4bbc4ef-9be3-5d14-52f2-fd83370c4e85/9798881506117.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10107",
+          "name": "Christianity",
+          "url": "https://itunes.apple.com/us/genre/id10107"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9018",
+          "name": "Religion & Spirituality",
+          "url": "https://itunes.apple.com/us/genre/id9018"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/the-miracle-code/id6758737504"
+    }
+  ]
+}

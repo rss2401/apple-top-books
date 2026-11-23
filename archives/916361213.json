@@ -1,5 +1,5 @@
 {
-  "resultCount": 3,
+  "resultCount": 1,
   "results": [
     {
       "month": "202607",
@@ -7,72 +7,6 @@
       "mediaType": "books",
       "feed": "top-free",
       "rank": 94,
-      "artistName": "William Shakespeare",
-      "id": "916361213",
-      "name": "Macbeth",
-      "releaseDate": "2014-09-04",
-      "kind": "books",
-      "artistId": "1100023598",
-      "artistUrl": "https://books.apple.com/gb/author/william-shakespeare/id1100023598",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/85/b9/93/85b99395-d3c8-54eb-0126-e4d83c08c27c/playshakespeare_macbeth.jpg/100x156bb.png",
-      "genres": [
-        {
-          "genreId": "10036",
-          "name": "Theatre",
-          "url": "https://itunes.apple.com/gb/genre/id10036"
-        },
-        {
-          "genreId": "38",
-          "name": "Books",
-          "url": "https://itunes.apple.com/gb/genre/id38"
-        },
-        {
-          "genreId": "9007",
-          "name": "Arts & Entertainment",
-          "url": "https://itunes.apple.com/gb/genre/id9007"
-        }
-      ],
-      "url": "https://books.apple.com/gb/book/macbeth/id916361213"
-    },
-    {
-      "month": "202611",
-      "country": "de",
-      "mediaType": "books",
-      "feed": "top-free",
-      "rank": 79,
-      "artistName": "William Shakespeare",
-      "id": "916361213",
-      "name": "Macbeth",
-      "releaseDate": "2014-09-04",
-      "kind": "books",
-      "artistId": "1100023598",
-      "artistUrl": "https://books.apple.com/de/author/william-shakespeare/id1100023598",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/85/b9/93/85b99395-d3c8-54eb-0126-e4d83c08c27c/playshakespeare_macbeth.jpg/100x156bb.png",
-      "genres": [
-        {
-          "genreId": "10036",
-          "name": "Theater",
-          "url": "https://itunes.apple.com/de/genre/id10036"
-        },
-        {
-          "genreId": "38",
-          "name": "Bücher",
-          "url": "https://itunes.apple.com/de/genre/id38"
-        },
-        {
-          "genreId": "9007",
-          "name": "Kultur und Unterhaltung",
-          "url": "https://itunes.apple.com/de/genre/id9007"
-        }
-      ],
-      "url": "https://books.apple.com/de/book/macbeth/id916361213"
-    },
-    {
-      "month": "202611",
-      "country": "gb",
-      "mediaType": "books",
-      "feed": "top-free",
-      "rank": 77,
       "artistName": "William Shakespeare",
       "id": "916361213",
       "name": "Macbeth",

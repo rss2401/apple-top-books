@@ -1,0 +1,59 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 67,
+      "artistName": "ろりたけんじ & 愛南ぜろ",
+      "id": "6831554300",
+      "name": "異世界転移した俺は、Hのたびにガチャを引く!～もってくれ、俺の精力!～(3)",
+      "releaseDate": "2026-11-19",
+      "kind": "books",
+      "artistId": "1859582862",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%82%8D%E3%82%8A%E3%81%9F%E3%81%91%E3%82%93%E3%81%98/id1859582862",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/13/8e/0e/138e0eea-8546-9270-4378-c06657921d65/BT000209692900300301900206.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000074",
+          "name": "ファンタジー",
+          "url": "https://itunes.apple.com/jp/genre/id50000074"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "50000073",
+          "name": "アダルト",
+          "url": "https://itunes.apple.com/jp/genre/id50000073"
+        },
+        {
+          "genreId": "11338",
+          "name": "青年",
+          "url": "https://itunes.apple.com/jp/genre/id11338"
+        },
+        {
+          "genreId": "11345",
+          "name": "異世界",
+          "url": "https://itunes.apple.com/jp/genre/id11345"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E7%95%B0%E4%B8%96%E7%95%8C%E8%BB%A2%E7%A7%BB%E3%81%97%E3%81%9F%E4%BF%BA%E3%81%AF-h%E3%81%AE%E3%81%9F%E3%81%B3%E3%81%AB%E3%82%AC%E3%83%81%E3%83%A3%E3%82%92%E5%BC%95%E3%81%8F-%E3%82%82%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C-%E4%BF%BA%E3%81%AE%E7%B2%BE%E5%8A%9B-3/id6831554300"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
       "country": "de",
       "mediaType": "books",
       "feed": "top-paid",
-      "rank": 14,
+      "rank": 22,
       "artistName": "Daniel Kehlmann",
       "id": "6793701218",
       "name": "Afrika",
@@ -14,7 +14,7 @@
       "kind": "books",
       "artistId": "199152768",
       "artistUrl": "https://books.apple.com/de/author/daniel-kehlmann/id199152768",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e3/5c/e6/e35ce65d-43bf-a845-36a4-3519c1bb3958/1067480960.jpg/100x164bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/89/1c/89/891c893b-552b-159b-43f9-e82fd3cbd158/1067480960.jpg/100x164bb.png",
       "genres": [
         {
           "genreId": "10047",

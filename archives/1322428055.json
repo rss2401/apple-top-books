@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 92,
+      "artistName": "Alfred Bekker, Tom Willhaus, Michael Hellmer & Jörn Slieter",
+      "id": "1322428055",
+      "name": "Krimi Paket Deutschland: Fünf Romane - 900 Seiten",
+      "releaseDate": "2026-11-18",
+      "kind": "books",
+      "artistId": "318952872",
+      "artistUrl": "https://books.apple.com/de/author/alfred-bekker/id318952872",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/92/7b/37/927b37ce-6f8f-93b2-48d9-bc0a082301b9/9783738912609.jpg/100x153bb.png",
+      "genres": [
+        {
+          "genreId": "10053",
+          "name": "Krimi-Kurzgeschichten",
+          "url": "https://itunes.apple.com/de/genre/id10053"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "10050",
+          "name": "Hard-boiled-Krimis",
+          "url": "https://itunes.apple.com/de/genre/id10050"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/krimi-paket-deutschland-f%C3%BCnf-romane-900-seiten/id1322428055"
+    }
+  ]
+}

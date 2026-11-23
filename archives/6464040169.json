@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 50,
+      "artistName": "亜樹直;オキモト・シュウ",
+      "id": "6464040169",
+      "name": "神の雫 (新装版)1",
+      "releaseDate": "2023-09-01",
+      "kind": "books",
+      "artistId": "1705367856",
+      "artistUrl": "https://books.apple.com/jp/author/%E4%BA%9C%E6%A8%B9%E7%9B%B4-%E3%82%AA%E3%82%AD%E3%83%A2%E3%83%88-%E3%82%B7%E3%83%A5%E3%82%A6/id1705367856",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/93/01/7f/93017f40-98d5-8d97-aaed-003576e88028/4840000010423.jpg/100x145bb.png",
+      "genres": [
+        {
+          "genreId": "11338",
+          "name": "青年",
+          "url": "https://itunes.apple.com/jp/genre/id11338"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E7%A5%9E%E3%81%AE%E9%9B%AB-%E6%96%B0%E8%A3%85%E7%89%88-1/id6464040169"
+    }
+  ]
+}

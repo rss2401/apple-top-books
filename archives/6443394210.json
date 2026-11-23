@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 6,
+      "artistName": "Valerie Bowman",
+      "id": "6443394210",
+      "name": "The Duke Deal",
+      "releaseDate": "2023-01-01",
+      "kind": "books",
+      "artistId": "518624214",
+      "artistUrl": "https://books.apple.com/us/author/valerie-bowman/id518624214",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/30/fa/61/30fa61ea-c349-b58a-ce28-fdc6fc3ccf7c/The_Duke_Deal_final_cover.jpg/100x164bb.png",
+      "genres": [
+        {
+          "genreId": "10059",
+          "name": "Historical Romance",
+          "url": "https://itunes.apple.com/us/genre/id10059"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/the-duke-deal/id6443394210"
+    }
+  ]
+}

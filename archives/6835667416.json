@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 38,
+      "artistName": "Tom Willhaus",
+      "id": "6835667416",
+      "name": "Klare Küste und Spuren im Schlick: Ostfrieslandkrimi",
+      "releaseDate": "2026-11-17",
+      "kind": "books",
+      "artistId": "1894625026",
+      "artistUrl": "https://books.apple.com/de/author/tom-willhaus/id1894625026",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/38/69/7f/38697fe8-683d-fee6-b8d0-f43f978dca31/9783757253295.jpg/100x153bb.png",
+      "genres": [
+        {
+          "genreId": "10050",
+          "name": "Hard-boiled-Krimis",
+          "url": "https://itunes.apple.com/de/genre/id10050"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "11259",
+          "name": "Cosy Crime",
+          "url": "https://itunes.apple.com/de/genre/id11259"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/klare-k%C3%BCste-und-spuren-im-schlick-ostfrieslandkrimi/id6835667416"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 81,
+      "artistName": "G. F. Unger",
+      "id": "6833213932",
+      "name": "G. F. Unger Western-Bestseller 2804",
+      "releaseDate": "2026-11-21",
+      "kind": "books",
+      "artistId": "609482092",
+      "artistUrl": "https://books.apple.com/de/author/g-f-unger/id609482092",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0c/2c/cc/0c2cccaa-0391-19a8-17db-05fa048dcf33/9783819803635.jpg/100x133bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "10047",
+          "name": "Historische Romane",
+          "url": "https://itunes.apple.com/de/genre/id10047"
+        },
+        {
+          "genreId": "10039",
+          "name": "Action und Abenteuer",
+          "url": "https://itunes.apple.com/de/genre/id10039"
+        },
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "10042",
+          "name": "Klassiker",
+          "url": "https://itunes.apple.com/de/genre/id10042"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/g-f-unger-western-bestseller-2804/id6833213932"
+    }
+  ]
+}

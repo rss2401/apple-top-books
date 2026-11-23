@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 32,
+      "artistName": "Bruce Hammack",
+      "id": "6538715147",
+      "name": "Murder On The Colorado",
+      "releaseDate": "2024-09-05",
+      "kind": "books",
+      "artistId": "673924759",
+      "artistUrl": "https://books.apple.com/us/author/bruce-hammack/id673924759",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c2/cd/35/c2cd35dd-e344-46c7-6de8-9d2259b30de2/0001669790.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "10054",
+          "name": "Detective Novels",
+          "url": "https://itunes.apple.com/us/genre/id10054"
+        },
+        {
+          "genreId": "11259",
+          "name": "Cozy Mysteries",
+          "url": "https://itunes.apple.com/us/genre/id11259"
+        },
+        {
+          "genreId": "10052",
+          "name": "Police Procedural",
+          "url": "https://itunes.apple.com/us/genre/id10052"
+        },
+        {
+          "genreId": "10050",
+          "name": "Hard-Boiled Mysteries",
+          "url": "https://itunes.apple.com/us/genre/id10050"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/murder-on-the-colorado/id6538715147"
+    }
+  ]
+}

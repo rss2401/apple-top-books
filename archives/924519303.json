@@ -1,0 +1,58 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 95,
+      "artistName": "Ellen Berg",
+      "id": "924519303",
+      "name": "Ich will es doch auch!",
+      "releaseDate": "2014-11-05",
+      "kind": "books",
+      "artistId": "467087886",
+      "artistUrl": "https://books.apple.com/de/author/ellen-berg/id467087886",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/7e/82/b0/7e82b0bf-1e2a-83bf-bbb6-619d57c16320/9783841208323.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "11050",
+          "name": "Familienbelletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id11050"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "10057",
+          "name": "Zeitgenössische Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10057"
+        },
+        {
+          "genreId": "11042",
+          "name": "Romantische Komödien",
+          "url": "https://itunes.apple.com/de/genre/id11042"
+        },
+        {
+          "genreId": "10042",
+          "name": "Klassiker",
+          "url": "https://itunes.apple.com/de/genre/id10042"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/ich-will-es-doch-auch/id924519303"
+    }
+  ]
+}

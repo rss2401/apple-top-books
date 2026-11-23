@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 32,
+      "artistName": "クロマツテツロウ",
+      "id": "6833907930",
+      "name": "ベー革(10)",
+      "releaseDate": "2026-11-18",
+      "kind": "books",
+      "artistId": "839486249",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%84%E3%83%86%E3%83%84%E3%83%AD%E3%82%A6/id839486249",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/cb/09/eb/cb09ebdc-9d01-dbd8-11a2-721aa0116966/BT000109940101001001900203.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000087",
+          "name": "スポーツ",
+          "url": "https://itunes.apple.com/jp/genre/id50000087"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11337",
+          "name": "少年",
+          "url": "https://itunes.apple.com/jp/genre/id11337"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%83%99%E3%83%BC%E9%9D%A9-10/id6833907930"
+    }
+  ]
+}

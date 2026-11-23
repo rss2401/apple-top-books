@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 97,
+      "artistName": "Silvia Moreno-Garcia",
+      "id": "6754002943",
+      "name": "The Intrigue",
+      "releaseDate": "2026-07-14",
+      "kind": "books",
+      "artistId": "432428458",
+      "artistUrl": "https://books.apple.com/us/author/silvia-moreno-garcia/id432428458",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/78/d2/64/78d264b7-9eb6-a75d-063d-70754f21906a/9780593874363.d.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "10047",
+          "name": "Historical Fiction",
+          "url": "https://itunes.apple.com/us/genre/id10047"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/the-intrigue/id6754002943"
+    }
+  ]
+}

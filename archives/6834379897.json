@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 42,
+      "artistName": "二階堂ヒカル",
+      "id": "6834379897",
+      "name": "あおざくら 防衛大学校物語(38)",
+      "releaseDate": "2026-11-18",
+      "kind": "books",
+      "artistId": "767383147",
+      "artistUrl": "https://books.apple.com/jp/author/%E4%BA%8C%E9%9A%8E%E5%A0%82%E3%83%92%E3%82%AB%E3%83%AB/id767383147",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ee/bf/cf/eebfcf64-1fd6-d967-f3c3-1b12ba0ce32c/BT000039651303803801900203.jpg/100x157bb.png",
+      "genres": [
+        {
+          "genreId": "11052",
+          "name": "ヒューマンドラマ",
+          "url": "https://itunes.apple.com/jp/genre/id11052"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11051",
+          "name": "学園",
+          "url": "https://itunes.apple.com/jp/genre/id11051"
+        },
+        {
+          "genreId": "11337",
+          "name": "少年",
+          "url": "https://itunes.apple.com/jp/genre/id11337"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%81%82%E3%81%8A%E3%81%96%E3%81%8F%E3%82%89-%E9%98%B2%E8%A1%9B%E5%A4%A7%E5%AD%A6%E6%A0%A1%E7%89%A9%E8%AA%9E-38/id6834379897"
+    }
+  ]
+}

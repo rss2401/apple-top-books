@@ -1,0 +1,71 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 5,
+      "artistName": "Kathleen Shoop",
+      "id": "6472675125",
+      "name": "Christmas In Eagle Bend",
+      "releaseDate": "2023-11-17",
+      "kind": "books",
+      "artistId": "550901410",
+      "artistUrl": "https://books.apple.com/gb/author/kathleen-shoop/id550901410",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/9e/08/b3/9e08b339-873f-cb49-df62-fe5c9b6817d0/9798215567722.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "11050",
+          "name": "Family Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id11050"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/christmas-in-eagle-bend/id6472675125"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 3,
+      "artistName": "Kathleen Shoop",
+      "id": "6472675125",
+      "name": "Christmas In Eagle Bend",
+      "releaseDate": "2023-11-17",
+      "kind": "books",
+      "artistId": "550901410",
+      "artistUrl": "https://books.apple.com/us/author/kathleen-shoop/id550901410",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/9e/08/b3/9e08b339-873f-cb49-df62-fe5c9b6817d0/9798215567722.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "11050",
+          "name": "Family Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id11050"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/christmas-in-eagle-bend/id6472675125"
+    }
+  ]
+}

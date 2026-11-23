@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 93,
+      "artistName": "マスクザJ, ジェームズ・リッチマン & マツセダイチ",
+      "id": "6677012098",
+      "name": "バスタード・ソードマン 1",
+      "releaseDate": "2024-09-27",
+      "kind": "books",
+      "artistId": "1767972021",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%83%9E%E3%82%B9%E3%82%AF%E3%82%B6j/id1767972021",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/31/31/f8/3131f8c0-6a1a-30ff-6384-d5e4558b96d1/04915879A18891600000.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "11338",
+          "name": "青年",
+          "url": "https://itunes.apple.com/jp/genre/id11338"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "50000074",
+          "name": "ファンタジー",
+          "url": "https://itunes.apple.com/jp/genre/id50000074"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%89-%E3%82%BD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%B3-1/id6677012098"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 86,
+      "artistName": "曹洞宗",
+      "id": "685985659",
+      "name": "曹洞宗経典",
+      "releaseDate": "2013-08-08",
+      "kind": "books",
+      "artistId": "685985897",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%9B%B9%E6%B4%9E%E5%AE%97/id685985897",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/27/39/c4/2739c4f9-d193-9b3f-3098-f77baf267408/top.png/100x133bb.png",
+      "genres": [
+        {
+          "genreId": "10106",
+          "name": "仏教",
+          "url": "https://itunes.apple.com/jp/genre/id10106"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9018",
+          "name": "宗教／スピリチュアル",
+          "url": "https://itunes.apple.com/jp/genre/id9018"
+        },
+        {
+          "genreId": "9025",
+          "name": "健康／心と体",
+          "url": "https://itunes.apple.com/jp/genre/id9025"
+        },
+        {
+          "genreId": "10004",
+          "name": "スピリチュアル",
+          "url": "https://itunes.apple.com/jp/genre/id10004"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E6%9B%B9%E6%B4%9E%E5%AE%97%E7%B5%8C%E5%85%B8/id685985659"
+    }
+  ]
+}

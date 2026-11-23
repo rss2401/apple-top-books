@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 48,
+      "artistName": "John French",
+      "id": "6824527668",
+      "name": "The Scouring Band 2: Terras Zorn",
+      "releaseDate": "2026-11-21",
+      "kind": "books",
+      "artistId": "416760550",
+      "artistUrl": "https://books.apple.com/de/author/john-french/id416760550",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/0c/c0/16/0cc0163c-5fc1-96c1-63a1-e6d4eef6b380/GER-Wrath-Of-Terra-Cover.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "9020",
+          "name": "Science-Fiction und Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id9020"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/the-scouring-band-2-terras-zorn/id6824527668"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 53,
+      "artistName": "Sophie Hopper",
+      "id": "6761612832",
+      "name": "Fragen Sie Ms Blunt!",
+      "releaseDate": "2026-11-01",
+      "kind": "books",
+      "artistId": "1805258136",
+      "artistUrl": "https://books.apple.com/de/author/sophie-hopper/id1805258136",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/98/17/81/9817817c-74bc-2f68-302e-e8f481da30e7/9783641346478.jpg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "10047",
+          "name": "Historische Romane",
+          "url": "https://itunes.apple.com/de/genre/id10047"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/fragen-sie-ms-blunt/id6761612832"
+    }
+  ]
+}

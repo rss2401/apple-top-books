@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 96,
+      "artistName": "Grace Burrowes",
+      "id": "6816759098",
+      "name": "A Gentleman in Winter",
+      "releaseDate": "2026-09-27",
+      "kind": "books",
+      "artistId": "403746786",
+      "artistUrl": "https://books.apple.com/us/author/grace-burrowes/id403746786",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/75/57/a3/7557a3da-ea66-c51a-de78-63387ab12f2b/fb9a9bcc-6995-4cd3-b66e-917f8455d58d_cover_image.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "10059",
+          "name": "Historical Romance",
+          "url": "https://itunes.apple.com/us/genre/id10059"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        },
+        {
+          "genreId": "11231",
+          "name": "Holiday Romance",
+          "url": "https://itunes.apple.com/us/genre/id11231"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/a-gentleman-in-winter/id6816759098"
+    }
+  ]
+}

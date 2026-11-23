@@ -1,0 +1,58 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 60,
+      "artistName": "なぎはしここ, ガチャ空, ペコー & HJノベルス",
+      "id": "6835275131",
+      "name": "ダンジョンバトルロワイヤル～魔王になったので世界統一を目指します～ (11)",
+      "releaseDate": "2026-11-22",
+      "kind": "books",
+      "artistId": "1548917098",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%81%AA%E3%81%8E%E3%81%AF%E3%81%97%E3%81%93%E3%81%93/id1548917098",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/68/4c/72/684c72fd-cf6f-c6b1-b95f-6b569c71ff7b/BT000088859901101101900209.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000074",
+          "name": "ファンタジー",
+          "url": "https://itunes.apple.com/jp/genre/id50000074"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11338",
+          "name": "青年",
+          "url": "https://itunes.apple.com/jp/genre/id11338"
+        },
+        {
+          "genreId": "50000071",
+          "name": "アクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000071"
+        },
+        {
+          "genreId": "11345",
+          "name": "異世界",
+          "url": "https://itunes.apple.com/jp/genre/id11345"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%90%E3%83%88%E3%83%AB%E3%83%AD%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AB-%E9%AD%94%E7%8E%8B%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7%E4%B8%96%E7%95%8C%E7%B5%B1%E4%B8%80%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%BE%E3%81%99-11/id6835275131"
+    }
+  ]
+}

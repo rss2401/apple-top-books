@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 42,
+      "artistName": "Marco Pianelli",
+      "id": "6448117366",
+      "name": "L'ombre de la nuit",
+      "releaseDate": "2023-06-28",
+      "kind": "books",
+      "artistId": "1586986262",
+      "artistUrl": "https://books.apple.com/fr/author/marco-pianelli/id1586986262",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/68/3d/21/683d217b-2e39-1b5d-d976-355994a30a02/cover.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/lombre-de-la-nuit/id6448117366"
+    }
+  ]
+}

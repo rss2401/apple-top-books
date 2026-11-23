@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 76,
+      "artistName": "Gerri Russell",
+      "id": "1592381621",
+      "name": "Only a Highlander Will Do",
+      "releaseDate": "2022-04-19",
+      "kind": "books",
+      "artistId": "378089932",
+      "artistUrl": "https://books.apple.com/us/author/gerri-russell/id378089932",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/d9/8c/89/d98c89f8-c7f9-205f-9edc-9bf4033b3e23/OnlyAHighlanderWillDo_Standard.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10059",
+          "name": "Historical Romance",
+          "url": "https://itunes.apple.com/us/genre/id10059"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        },
+        {
+          "genreId": "10047",
+          "name": "Historical Fiction",
+          "url": "https://itunes.apple.com/us/genre/id10047"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/only-a-highlander-will-do/id1592381621"
+    }
+  ]
+}

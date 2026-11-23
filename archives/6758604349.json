@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 1,
+      "artistName": "James Patterson & Nancy Allen",
+      "id": "6758604349",
+      "name": "The Murder Trial",
+      "releaseDate": "2026-11-23",
+      "kind": "books",
+      "artistId": "2087446",
+      "artistUrl": "https://books.apple.com/us/author/james-patterson/id2087446",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/06/88/cf/0688cfb3-47ab-c6e0-04e7-7aeeac2fea12/9781538758533.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/the-murder-trial/id6758604349"
+    }
+  ]
+}

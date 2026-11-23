@@ -1,0 +1,81 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 13,
+      "artistName": "Taylor Night",
+      "id": "6755254874",
+      "name": "Runesworn: Stone One (Runesworn Series—Book One)",
+      "releaseDate": "2025-12-15",
+      "kind": "books",
+      "artistId": "1725104204",
+      "artistUrl": "https://books.apple.com/gb/author/taylor-night/id1725104204",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/94/db/0c/94db0ccd-0da2-4c76-7146-ad652c3d8e6d/e2083bd9-a405-410b-b6a6-09ab081b93d7_cover_image.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10044",
+          "name": "Fantasy",
+          "url": "https://itunes.apple.com/gb/genre/id10044"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "9020",
+          "name": "Sci-Fi & Fantasy",
+          "url": "https://itunes.apple.com/gb/genre/id9020"
+        },
+        {
+          "genreId": "11005",
+          "name": "Fantasy Short Stories",
+          "url": "https://itunes.apple.com/gb/genre/id11005"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/runesworn-stone-one-runesworn-series-book-one/id6755254874"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 18,
+      "artistName": "Taylor Night",
+      "id": "6755254874",
+      "name": "Runesworn: Stone One (Runesworn Series—Book One)",
+      "releaseDate": "2025-12-15",
+      "kind": "books",
+      "artistId": "1725104204",
+      "artistUrl": "https://books.apple.com/us/author/taylor-night/id1725104204",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/94/db/0c/94db0ccd-0da2-4c76-7146-ad652c3d8e6d/e2083bd9-a405-410b-b6a6-09ab081b93d7_cover_image.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10044",
+          "name": "Fantasy",
+          "url": "https://itunes.apple.com/us/genre/id10044"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9020",
+          "name": "Sci-Fi & Fantasy",
+          "url": "https://itunes.apple.com/us/genre/id9020"
+        },
+        {
+          "genreId": "11005",
+          "name": "Fantasy Short Stories",
+          "url": "https://itunes.apple.com/us/genre/id11005"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/runesworn-stone-one-runesworn-series-book-one/id6755254874"
+    }
+  ]
+}

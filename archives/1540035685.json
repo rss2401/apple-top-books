@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 4,
+      "artistName": "LR Wright",
+      "id": "1540035685",
+      "name": "The Suspect",
+      "releaseDate": "2015-07-01",
+      "kind": "books",
+      "artistId": "1014805896",
+      "artistUrl": "https://books.apple.com/us/author/lr-wright/id1014805896",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/69/b2/55/69b255c3-c603-0183-d891-a431da0a9aff/1058922129.jpg/100x145bb.png",
+      "genres": [
+        {
+          "genreId": "10052",
+          "name": "Police Procedural",
+          "url": "https://itunes.apple.com/us/genre/id10052"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/the-suspect/id1540035685"
+    }
+  ]
+}

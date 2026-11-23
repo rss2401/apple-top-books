@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 99,
+      "artistName": "Anette Hinrichs",
+      "id": "6444441916",
+      "name": "Nordlicht - Tod in den Fluten",
+      "releaseDate": "2023-07-19",
+      "kind": "books",
+      "artistId": "995254856",
+      "artistUrl": "https://books.apple.com/de/author/anette-hinrichs/id995254856",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/e9/25/b6/e925b6c7-eb8e-9dcd-9060-2f6dbee72cbd/9783641296773.jpg/100x158bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "10055",
+          "name": "Weibliche Spürnasen",
+          "url": "https://itunes.apple.com/de/genre/id10055"
+        },
+        {
+          "genreId": "10052",
+          "name": "Polizeiromane",
+          "url": "https://itunes.apple.com/de/genre/id10052"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/nordlicht-tod-in-den-fluten/id6444441916"
+    }
+  ]
+}

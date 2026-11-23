@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 58,
+      "artistName": "横幕智裕 & モリタイシ",
+      "id": "6819136688",
+      "name": "ラジエーションハウス 21",
+      "releaseDate": "2026-11-18",
+      "kind": "books",
+      "artistId": "770659561",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%A8%AA%E5%B9%95%E6%99%BA%E8%A3%95/id770659561",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d7/e4/b7/d7e4b7b1-6262-ea73-bf90-74824a6ac3fc/08X10000000075276300.jpg/100x124bb.png",
+      "genres": [
+        {
+          "genreId": "11052",
+          "name": "ヒューマンドラマ",
+          "url": "https://itunes.apple.com/jp/genre/id11052"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%83%A9%E3%82%B8%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%8F%E3%82%A6%E3%82%B9-21/id6819136688"
+    }
+  ]
+}

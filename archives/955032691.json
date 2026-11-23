@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 49,
+      "artistName": "Gotthold Ephraim Lessing",
+      "id": "955032691",
+      "name": "Emilia Galotti",
+      "releaseDate": "2014-12-31",
+      "kind": "books",
+      "artistId": "290200586",
+      "artistUrl": "https://books.apple.com/de/author/gotthold-ephraim-lessing/id290200586",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication7/v4/d6/3f/fc/d63ffc70-8150-adc0-9276-717791f43c05/coverArt.07a82d.jpg/100x148bb.png",
+      "genres": [
+        {
+          "genreId": "10036",
+          "name": "Theater",
+          "url": "https://itunes.apple.com/de/genre/id10036"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9007",
+          "name": "Kultur und Unterhaltung",
+          "url": "https://itunes.apple.com/de/genre/id9007"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/emilia-galotti/id955032691"
+    }
+  ]
+}

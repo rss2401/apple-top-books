@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 68,
+      "artistName": "Brad Thor",
+      "id": "6736627100",
+      "name": "Edge of Honor",
+      "releaseDate": "2025-07-01",
+      "kind": "books",
+      "artistId": "189767733",
+      "artistUrl": "https://books.apple.com/us/author/brad-thor/id189767733",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/4b/6a/c1/4b6ac105-bb1b-32f4-1c14-e8b900934ba4/9781982182311.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/edge-of-honor/id6736627100"
+    }
+  ]
+}

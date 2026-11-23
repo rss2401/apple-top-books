@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 78,
+      "artistName": "Blake Pierce",
+      "id": "6756438003",
+      "name": "If She Watched (A Kate Wise Mystery—Book 18)",
+      "releaseDate": "2026-11-23",
+      "kind": "books",
+      "artistId": "1061299863",
+      "artistUrl": "https://books.apple.com/us/author/blake-pierce/id1061299863",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/49/ef/76/49ef766e-ab42-cd92-55fb-8b6df88fb56b/25dd4ed9-9be5-4ff2-bcce-7b4db9293a7b_cover_image.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10055",
+          "name": "Women Sleuths",
+          "url": "https://itunes.apple.com/us/genre/id10055"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "10052",
+          "name": "Police Procedural",
+          "url": "https://itunes.apple.com/us/genre/id10052"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/if-she-watched-a-kate-wise-mystery-book-18/id6756438003"
+    }
+  ]
+}

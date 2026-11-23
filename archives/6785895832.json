@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 63,
+      "artistName": "Josephine Tey",
+      "id": "6785895832",
+      "name": "The Complete Inspector Alan Grant Series",
+      "releaseDate": "2026-06-30",
+      "kind": "books",
+      "artistId": "65564406",
+      "artistUrl": "https://books.apple.com/gb/author/josephine-tey/id65564406",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/c0/6d/5c/c06d5c71-a5ac-a75b-a5df-0183d3456fd6/67b5fb5f-f05c-474c-89f2-32e0c714ffef_cover_image.png/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Crime & Thrillers",
+          "url": "https://itunes.apple.com/gb/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "10054",
+          "name": "Detective Novels",
+          "url": "https://itunes.apple.com/gb/genre/id10054"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/the-complete-inspector-alan-grant-series/id6785895832"
+    }
+  ]
+}

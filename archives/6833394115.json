@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 11,
+      "artistName": "森高夕次 & 足立金太郎",
+      "id": "6833394115",
+      "name": "グラゼニ～大リーグ編～(10)",
+      "releaseDate": "2026-11-20",
+      "kind": "books",
+      "artistId": "608613757",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%A3%AE%E9%AB%98%E5%A4%95%E6%AC%A1/id608613757",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/eb/cb/7a/ebcb7aac-29a0-8e3d-4fed-464db42f3378/BT000111865801001001900206.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000087",
+          "name": "スポーツ",
+          "url": "https://itunes.apple.com/jp/genre/id50000087"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11338",
+          "name": "青年",
+          "url": "https://itunes.apple.com/jp/genre/id11338"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%82%B0%E3%83%A9%E3%82%BC%E3%83%8B-%E5%A4%A7%E3%83%AA%E3%83%BC%E3%82%B0%E7%B7%A8-10/id6833394115"
+    }
+  ]
+}

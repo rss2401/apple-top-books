@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 75,
+      "artistName": "Mari Carr",
+      "id": "6463009922",
+      "name": "Italian Stallions",
+      "releaseDate": "2023-08-22",
+      "kind": "books",
+      "artistId": "372953950",
+      "artistUrl": "https://books.apple.com/us/author/mari-carr/id372953950",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/d3/b5/40/d3b540f6-284b-137f-1473-31c774132349/eb0ed4f4-790b-49a4-938e-11603addc584_cover_image.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "10056",
+          "name": "Erotic Romance",
+          "url": "https://itunes.apple.com/us/genre/id10056"
+        },
+        {
+          "genreId": "10057",
+          "name": "Contemporary Romance",
+          "url": "https://itunes.apple.com/us/genre/id10057"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/italian-stallions/id6463009922"
+    }
+  ]
+}

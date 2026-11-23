@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 43,
+      "artistName": "Kat Mizera",
+      "id": "6830443157",
+      "name": "Holiday Bliss",
+      "releaseDate": "2026-11-23",
+      "kind": "books",
+      "artistId": "1094099799",
+      "artistUrl": "https://books.apple.com/us/author/kat-mizera/id1094099799",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/54/aa/16/54aa1633-2269-83ae-d2e9-66249ca0be8b/Holiday_Bliss.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/holiday-bliss/id6830443157"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 7,
+      "artistName": "Seth Hunter",
+      "id": "531773372",
+      "name": "The Time of Terror",
+      "releaseDate": "2012-08-02",
+      "kind": "books",
+      "artistId": "347840375",
+      "artistUrl": "https://books.apple.com/gb/author/seth-hunter/id347840375",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/1b/ee/03/1bee03e4-49a3-2bac-674e-fcf9afd1296f/9780755385072.jpg/100x144bb.png",
+      "genres": [
+        {
+          "genreId": "10047",
+          "name": "Historical Fiction",
+          "url": "https://itunes.apple.com/gb/genre/id10047"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id9031"
+        },
+        {
+          "genreId": "9015",
+          "name": "History",
+          "url": "https://itunes.apple.com/gb/genre/id9015"
+        },
+        {
+          "genreId": "10075",
+          "name": "European History",
+          "url": "https://itunes.apple.com/gb/genre/id10075"
+        },
+        {
+          "genreId": "10039",
+          "name": "Action & Adventure",
+          "url": "https://itunes.apple.com/gb/genre/id10039"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/the-time-of-terror/id531773372"
+    }
+  ]
+}

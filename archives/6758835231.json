@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 80,
+      "artistName": "青色まろ, 赤池宗 & 転",
+      "id": "6758835231",
+      "name": "お気楽領主の楽しい領地防衛 8",
+      "releaseDate": "2026-02-25",
+      "kind": "books",
+      "artistId": "1609190059",
+      "artistUrl": "https://books.apple.com/jp/author/%E9%9D%92%E8%89%B2%E3%81%BE%E3%82%8D/id1609190059",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e6/68/e6/e668e669-1b4b-4fcc-b3e8-61914e8083a8/K466802.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "11337",
+          "name": "少年",
+          "url": "https://itunes.apple.com/jp/genre/id11337"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%81%8A%E6%B0%97%E6%A5%BD%E9%A0%98%E4%B8%BB%E3%81%AE%E6%A5%BD%E3%81%97%E3%81%84%E9%A0%98%E5%9C%B0%E9%98%B2%E8%A1%9B-8/id6758835231"
+    }
+  ]
+}

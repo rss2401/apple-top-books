@@ -1,0 +1,58 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 38,
+      "artistName": "Ken Follett, Dietmar Schmidt, Rainer Schumacher & Markus Weber",
+      "id": "6445470218",
+      "name": "Die Waffen des Lichts",
+      "releaseDate": "2023-09-26",
+      "kind": "books",
+      "artistId": "41828779",
+      "artistUrl": "https://books.apple.com/de/author/ken-follett/id41828779",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/12/9f/30/129f3022-771f-fece-3775-a3911d9ab331/9783751748278.jpg/100x158bb.png",
+      "genres": [
+        {
+          "genreId": "10011",
+          "name": "Wirtschaft",
+          "url": "https://itunes.apple.com/de/genre/id10011"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9009",
+          "name": "Business und Finanzen",
+          "url": "https://itunes.apple.com/de/genre/id9009"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "10047",
+          "name": "Historische Romane",
+          "url": "https://itunes.apple.com/de/genre/id10047"
+        },
+        {
+          "genreId": "9015",
+          "name": "Geschichte",
+          "url": "https://itunes.apple.com/de/genre/id9015"
+        },
+        {
+          "genreId": "10075",
+          "name": "Europäische Geschichte",
+          "url": "https://itunes.apple.com/de/genre/id10075"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/die-waffen-des-lichts/id6445470218"
+    }
+  ]
+}

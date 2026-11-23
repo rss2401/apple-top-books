@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 41,
+      "artistName": "Elizabeth Leeks",
+      "id": "6835502694",
+      "name": "The Woman In Room 309",
+      "releaseDate": "2026-11-16",
+      "kind": "books",
+      "artistId": "6835503061",
+      "artistUrl": "https://books.apple.com/gb/author/elizabeth-leeks/id6835503061",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/49/75/26/497526e4-579b-d2cb-b124-b21a74fb3b3f/6c63d4fc-5a29-4349-aab6-1c36e2a4e4b5_cover_image.png/100x155bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "10043",
+          "name": "Erotica",
+          "url": "https://itunes.apple.com/gb/genre/id10043"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/the-woman-in-room-309/id6835502694"
+    }
+  ]
+}

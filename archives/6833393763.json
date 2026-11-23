@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 37,
+      "artistName": "今村翔吾 & 立沢克美",
+      "id": "6833393763",
+      "name": "イクサガミ(8)",
+      "releaseDate": "2026-11-20",
+      "kind": "books",
+      "artistId": "442355727",
+      "artistUrl": "https://books.apple.com/jp/author/%E4%BB%8A%E6%9D%91%E7%BF%94%E5%90%BE/id442355727",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/8a/22/d8/8a22d8ad-55c3-6612-557d-60b252d581f5/BT000133122300800801900206.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000071",
+          "name": "アクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000071"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11338",
+          "name": "青年",
+          "url": "https://itunes.apple.com/jp/genre/id11338"
+        },
+        {
+          "genreId": "50000079",
+          "name": "歴史",
+          "url": "https://itunes.apple.com/jp/genre/id50000079"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%82%A4%E3%82%AF%E3%82%B5%E3%82%AC%E3%83%9F-8/id6833393763"
+    }
+  ]
+}

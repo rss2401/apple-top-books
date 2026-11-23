@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 58,
+      "artistName": "Ellen Sandberg",
+      "id": "6796962053",
+      "name": "Wolfsstunde",
+      "releaseDate": "2026-11-11",
+      "kind": "books",
+      "artistId": "1227247132",
+      "artistUrl": "https://books.apple.com/de/author/ellen-sandberg/id1227247132",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/d0/6a/6e/d06a6ee1-b0fa-1b3e-3452-6014e2beba94/9783641306625.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/wolfsstunde/id6796962053"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 40,
+      "artistName": "日之影ソラ & 堀博昭",
+      "id": "6808567731",
+      "name": "クラフトスキルで異世界の無人島を大改造! ‥‥‥とか思ったら先住民がいて、俺の子種を狙っているようです(1)",
+      "releaseDate": "2026-09-17",
+      "kind": "books",
+      "artistId": "1550879067",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%97%A5%E4%B9%8B%E5%BD%B1%E3%82%BD%E3%83%A9/id1550879067",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/52/8a/88/528a8863-1198-000d-8aeb-8056b7a9d622/BT000241337300100101900206.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000074",
+          "name": "ファンタジー",
+          "url": "https://itunes.apple.com/jp/genre/id50000074"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "50000085",
+          "name": "ラブコメディ",
+          "url": "https://itunes.apple.com/jp/genre/id50000085"
+        },
+        {
+          "genreId": "11338",
+          "name": "青年",
+          "url": "https://itunes.apple.com/jp/genre/id11338"
+        },
+        {
+          "genreId": "11345",
+          "name": "異世界",
+          "url": "https://itunes.apple.com/jp/genre/id11345"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%A7%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E7%84%A1%E4%BA%BA%E5%B3%B6%E3%82%92%E5%A4%A7%E6%94%B9%E9%80%A0-%E3%81%A8%E3%81%8B%E6%80%9D%E3%81%A3%E3%81%9F%E3%82%89%E5%85%88%E4%BD%8F%E6%B0%91%E3%81%8C%E3%81%84%E3%81%A6-%E4%BF%BA%E3%81%AE%E5%AD%90%E7%A8%AE%E3%82%92%E7%8B%99%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%82%88%E3%81%86%E3%81%A7%E3%81%99-1/id6808567731"
+    }
+  ]
+}

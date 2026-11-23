@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 81,
+      "artistName": "Philippe Xavier & Joe Pruett",
+      "id": "6808502659",
+      "name": "Le Territoire",
+      "releaseDate": "2026-10-16",
+      "kind": "books",
+      "artistId": "566528156",
+      "artistUrl": "https://books.apple.com/fr/author/philippe-xavier/id566528156",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6a/28/61/6a286130-f44b-b32d-1e3a-6b59077c7af9/9782808221405.jpg/100x140bb.png",
+      "genres": [
+        {
+          "genreId": "9026",
+          "name": "BD et mangas",
+          "url": "https://itunes.apple.com/fr/genre/id9026"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/le-territoire/id6808502659"
+    }
+  ]
+}

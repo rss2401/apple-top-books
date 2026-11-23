@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 94,
+      "artistName": "Juli Zeh",
+      "id": "1410682632",
+      "name": "Corpus Delicti",
+      "releaseDate": "2018-08-06",
+      "kind": "books",
+      "artistId": "84243465",
+      "artistUrl": "https://books.apple.com/de/author/juli-zeh/id84243465",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/13/a1/b6/13a1b690-dbcf-14ee-af30-22a87a845014/9783641242701.jpg/100x148bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9024",
+          "name": "Lifestyle und Wohnen",
+          "url": "https://itunes.apple.com/de/genre/id9024"
+        },
+        {
+          "genreId": "9020",
+          "name": "Science-Fiction und Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id9020"
+        },
+        {
+          "genreId": "10063",
+          "name": "Science-Fiction",
+          "url": "https://itunes.apple.com/de/genre/id10063"
+        },
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/corpus-delicti/id1410682632"
+    }
+  ]
+}

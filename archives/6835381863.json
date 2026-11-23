@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 70,
+      "artistName": "Daisy Bloom",
+      "id": "6835381863",
+      "name": "Savage Roses: Eine Dark Mafia Romance",
+      "releaseDate": "2026-11-15",
+      "kind": "books",
+      "artistId": "1758423300",
+      "artistUrl": "https://books.apple.com/de/author/daisy-bloom/id1758423300",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/67/f4/d6/67f4d659-334d-2301-59ef-6ac33848d75e/6610001539214.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10061",
+          "name": "Romantische Thriller",
+          "url": "https://itunes.apple.com/de/genre/id10061"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/savage-roses-eine-dark-mafia-romance/id6835381863"
+    }
+  ]
+}

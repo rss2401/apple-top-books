@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 90,
+      "artistName": "Dieter Lange",
+      "id": "6817691569",
+      "name": "Auf dem Weg zu deinem Nordstern",
+      "releaseDate": "2026-09-30",
+      "kind": "books",
+      "artistId": "210223496",
+      "artistUrl": "https://books.apple.com/de/author/dieter-lange/id210223496",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/02/45/07/0245078d-e857-bc2d-2455-9b2b0111266f/9783689361792.jpg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "10004",
+          "name": "Spiritualität",
+          "url": "https://itunes.apple.com/de/genre/id10004"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9025",
+          "name": "Gesundheit, Körper und Geist",
+          "url": "https://itunes.apple.com/de/genre/id9025"
+        },
+        {
+          "genreId": "10119",
+          "name": "Selbstverwirklichung",
+          "url": "https://itunes.apple.com/de/genre/id10119"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/auf-dem-weg-zu-deinem-nordstern/id6817691569"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 73,
+      "artistName": "Daniella Mestyanek Young",
+      "id": "1613174913",
+      "name": "Uncultured",
+      "releaseDate": "2022-09-20",
+      "kind": "books",
+      "artistId": "1602252712",
+      "artistUrl": "https://books.apple.com/us/author/daniella-mestyanek-young/id1602252712",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/71/61/47/716147ed-d353-2965-9a36-d194cb5587c2/9781250280121.jpg/100x153bb.png",
+      "genres": [
+        {
+          "genreId": "9008",
+          "name": "Biographies & Memoirs",
+          "url": "https://itunes.apple.com/us/genre/id9008"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9018",
+          "name": "Religion & Spirituality",
+          "url": "https://itunes.apple.com/us/genre/id9018"
+        },
+        {
+          "genreId": "9002",
+          "name": "Nonfiction",
+          "url": "https://itunes.apple.com/us/genre/id9002"
+        },
+        {
+          "genreId": "10120",
+          "name": "Social Science",
+          "url": "https://itunes.apple.com/us/genre/id10120"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/uncultured/id1613174913"
+    }
+  ]
+}

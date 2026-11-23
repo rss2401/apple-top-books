@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 35,
+      "artistName": "Alice Fox",
+      "id": "6835384569",
+      "name": "Tempting the Bosshole: A Billionaire Boss Romance",
+      "releaseDate": "2026-11-14",
+      "kind": "books",
+      "artistId": "6800474551",
+      "artistUrl": "https://books.apple.com/gb/author/alice-fox/id6800474551",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/87/43/72/87437262-5d4a-5d88-a18f-a8e261bc75e0/6610001539313.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/gb/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "10061",
+          "name": "Romantic Suspense",
+          "url": "https://itunes.apple.com/gb/genre/id10061"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/tempting-the-bosshole-a-billionaire-boss-romance/id6835384569"
+    }
+  ]
+}

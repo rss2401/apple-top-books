@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 80,
+      "artistName": "Holly Atwood",
+      "id": "6759556672",
+      "name": "F##k It, It’s Christmas",
+      "releaseDate": "2026-10-08",
+      "kind": "books",
+      "artistId": "1875922245",
+      "artistUrl": "https://books.apple.com/gb/author/holly-atwood/id1875922245",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/70/56/ad/7056adaf-661e-0f35-a5c0-f84bf1369d77/9781037405419.jpg/100x152bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "11050",
+          "name": "Family Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id11050"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/f-k-it-its-christmas/id6759556672"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 57,
+      "artistName": "Trevor McCall",
+      "id": "6763581126",
+      "name": "First Christmas",
+      "releaseDate": "2026-05-12",
+      "kind": "books",
+      "artistId": "1591465492",
+      "artistUrl": "https://books.apple.com/gb/author/trevor-mccall/id1591465492",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/67/a1/af/67a1af44-0e8f-6c6f-b708-00c34e1532c2/6097b711-3d0c-414e-aa18-3431dd7fbf06_cover_image.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "11231",
+          "name": "Holiday Romance",
+          "url": "https://itunes.apple.com/gb/genre/id11231"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/gb/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/first-christmas/id6763581126"
+    }
+  ]
+}

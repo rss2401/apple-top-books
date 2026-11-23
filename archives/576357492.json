@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 39,
+      "artistName": "David Weber",
+      "id": "576357492",
+      "name": "Mission Basilic",
+      "releaseDate": "2017-05-17",
+      "kind": "books",
+      "artistId": "2073007",
+      "artistUrl": "https://books.apple.com/fr/author/david-weber/id2073007",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/44/cb/52/44cb52b0-8229-a0ed-a551-3f25e0ab5efc/cover.jpg/100x165bb.png",
+      "genres": [
+        {
+          "genreId": "9020",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id9020"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/mission-basilic/id576357492"
+    }
+  ]
+}

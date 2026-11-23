@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 72,
+      "artistName": "Ruby St. Clair",
+      "id": "6829902783",
+      "name": "Sweet Poison: Eine Dark Mafia Romance",
+      "releaseDate": "2026-11-02",
+      "kind": "books",
+      "artistId": "1874739672",
+      "artistUrl": "https://books.apple.com/de/author/ruby-st-clair/id1874739672",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0b/4d/9b/0b4d9b3d-8fdb-fbe2-9dcd-50e9cfcf23e3/0004491232.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10061",
+          "name": "Romantische Thriller",
+          "url": "https://itunes.apple.com/de/genre/id10061"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "10057",
+          "name": "Zeitgenössische Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10057"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/sweet-poison-eine-dark-mafia-romance/id6829902783"
+    }
+  ]
+}

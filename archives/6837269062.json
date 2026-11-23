@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 84,
+      "artistName": "MAIKO",
+      "id": "6837269062",
+      "name": "パタヤで、今日もポンコツ。",
+      "releaseDate": "2026-11-20",
+      "kind": "books",
+      "artistId": "1213224878",
+      "artistUrl": "https://books.apple.com/jp/author/maiko/id1213224878",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b6/4c/5e/b64c5e67-b9a7-c59a-1a46-73df6f6cafc8/1b3db2ae-5279-459f-8e4b-622f98bbca57_cover_image.jpg/100x133bb.png",
+      "genres": [
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "9004",
+          "name": "旅行",
+          "url": "https://itunes.apple.com/jp/genre/id9004"
+        },
+        {
+          "genreId": "10140",
+          "name": "アジア旅行",
+          "url": "https://itunes.apple.com/jp/genre/id10140"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%83%91%E3%82%BF%E3%83%A4%E3%81%A7-%E4%BB%8A%E6%97%A5%E3%82%82%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84/id6837269062"
+    }
+  ]
+}

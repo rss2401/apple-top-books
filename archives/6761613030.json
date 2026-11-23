@@ -39,7 +39,7 @@
       "country": "de",
       "mediaType": "books",
       "feed": "top-paid",
-      "rank": 97,
+      "rank": 39,
       "artistName": "Charlotte Link",
       "id": "6761613030",
       "name": "Kalte Tage",
@@ -58,6 +58,11 @@
           "genreId": "38",
           "name": "Bücher",
           "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "10052",
+          "name": "Polizeiromane",
+          "url": "https://itunes.apple.com/de/genre/id10052"
         },
         {
           "genreId": "9031",

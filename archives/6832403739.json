@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 22,
+      "artistName": "春野友矢",
+      "id": "6832403739",
+      "name": "ディーふらぐ! 21",
+      "releaseDate": "2026-11-20",
+      "kind": "books",
+      "artistId": "617767963",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%98%A5%E9%87%8E%E5%8F%8B%E7%9F%A2/id617767963",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/96/ef/50/96ef501b-2247-d9ee-3ea1-441f61e159ea/04660690A26667500000.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "11051",
+          "name": "学園",
+          "url": "https://itunes.apple.com/jp/genre/id11051"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%83%87%E3%82%A3%E3%83%BC%E3%81%B5%E3%82%89%E3%81%90-21/id6832403739"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 97,
+      "artistName": "Christian H. Godefroy",
+      "id": "6478854364",
+      "name": "Introduction à l'auto-hypnose",
+      "releaseDate": "2024-03-04",
+      "kind": "books",
+      "artistId": "701580826",
+      "artistUrl": "https://books.apple.com/fr/author/christian-h-godefroy/id701580826",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/9b/9b/e5/9b9be507-998b-8728-b5fc-439cdf8bcc18/d1ee1312-085b-405b-ac95-73ffa0d58fe7_cover_image.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "10119",
+          "name": "Développement personnel",
+          "url": "https://itunes.apple.com/fr/genre/id10119"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9025",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id9025"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/introduction-%C3%A0-lauto-hypnose/id6478854364"
+    }
+  ]
+}

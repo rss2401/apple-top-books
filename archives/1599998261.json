@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 47,
+      "artistName": "歌峰由子 & カズキヨネ",
+      "id": "1599998261",
+      "name": "陰陽師と天狗眼 ―冬山の隠れ鬼―",
+      "releaseDate": "2021-12-20",
+      "kind": "books",
+      "artistId": "1527707772",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%AD%8C%E5%B3%B0%E7%94%B1%E5%AD%90/id1527707772",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/c7/af/ed/c7afed22-7e5a-1cdf-a05c-7b642877638e/20427_124100434_001_001_artwork_20211213120240.jpg/100x141bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "小説／文学",
+          "url": "https://itunes.apple.com/jp/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "ロマンス",
+          "url": "https://itunes.apple.com/jp/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E9%99%B0%E9%99%BD%E5%B8%AB%E3%81%A8%E5%A4%A9%E7%8B%97%E7%9C%BC-%E5%86%AC%E5%B1%B1%E3%81%AE%E9%9A%A0%E3%82%8C%E9%AC%BC/id1599998261"
+    }
+  ]
+}

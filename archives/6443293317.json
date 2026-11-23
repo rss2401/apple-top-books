@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 91,
+      "artistName": "Carley Fortune",
+      "id": "6443293317",
+      "name": "Meet Me at the Lake",
+      "releaseDate": "2023-05-02",
+      "kind": "books",
+      "artistId": "1580661567",
+      "artistUrl": "https://books.apple.com/gb/author/carley-fortune/id1580661567",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6b/42/62/6b426258-40b4-597a-89c2-7db84fa5b7c1/9780349433127.jpg/100x157bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/gb/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "11231",
+          "name": "Holiday Romance",
+          "url": "https://itunes.apple.com/gb/genre/id11231"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/meet-me-at-the-lake/id6443293317"
+    }
+  ]
+}

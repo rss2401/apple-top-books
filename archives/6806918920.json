@@ -1,0 +1,49 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 4,
+      "artistName": "鏑木カヅキ, MUGENFACTORY & HykeComic",
+      "id": "6806918920",
+      "name": "魔力9999万 全属性使いの大賢者【コミック】 (1)",
+      "releaseDate": "2026-09-11",
+      "kind": "books",
+      "artistId": "1413046568",
+      "artistUrl": "https://books.apple.com/jp/author/%E9%8F%91%E6%9C%A8%E3%82%AB%E3%83%85%E3%82%AD/id1413046568",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/24/49/08/24490895-e12a-d457-557c-594c894a8790/BT000241113800100101900209.jpg/100x140bb.png",
+      "genres": [
+        {
+          "genreId": "50000071",
+          "name": "アクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000071"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11337",
+          "name": "少年",
+          "url": "https://itunes.apple.com/jp/genre/id11337"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E9%AD%94%E5%8A%9B9999%E4%B8%87-%E5%85%A8%E5%B1%9E%E6%80%A7%E4%BD%BF%E3%81%84%E3%81%AE%E5%A4%A7%E8%B3%A2%E8%80%85-%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF-1/id6806918920"
+    }
+  ]
+}

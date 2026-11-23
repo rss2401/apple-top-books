@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 77,
+      "artistName": "Franz Kafka",
+      "id": "1119666897",
+      "name": "Der Prozeß",
+      "releaseDate": "2015-07-10",
+      "kind": "books",
+      "artistId": "17268605",
+      "artistUrl": "https://books.apple.com/de/author/franz-kafka/id17268605",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication18/v4/9f/72/7f/9f727fac-dda8-942b-6cb9-fe60d9135f89/9783843055420.jpg/100x141bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/der-proze%C3%9F/id1119666897"
+    }
+  ]
+}

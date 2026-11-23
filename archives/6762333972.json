@@ -1,0 +1,49 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 17,
+      "artistName": "堀博昭, 高橋徹 & 篠岡ほまれ",
+      "id": "6762333972",
+      "name": "コンビニで出会ったエロい女の子と爛れきった関係になりました。 1",
+      "releaseDate": "2026-04-20",
+      "kind": "books",
+      "artistId": "886191179",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%A0%80%E5%8D%9A%E6%98%AD/id886191179",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ba/63/bd/ba63bd12-214a-1060-8f6f-6a34030e8fac/27313_130608813_001_001_artwork_20260416124305.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000085",
+          "name": "ラブコメディ",
+          "url": "https://itunes.apple.com/jp/genre/id50000085"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "10015",
+          "name": "グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id10015"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B%E3%81%A7%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%9F%E3%82%A8%E3%83%AD%E3%81%84%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%A8%E7%88%9B%E3%82%8C%E3%81%8D%E3%81%A3%E3%81%9F%E9%96%A2%E4%BF%82%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F-1/id6762333972"
+    }
+  ]
+}

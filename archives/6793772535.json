@@ -6,7 +6,7 @@
       "country": "us",
       "mediaType": "books",
       "feed": "top-paid",
-      "rank": 21,
+      "rank": 63,
       "artistName": "M. John Harrison",
       "id": "6793772535",
       "name": "The End of Everything",
@@ -14,7 +14,7 @@
       "kind": "books",
       "artistId": "296603597",
       "artistUrl": "https://books.apple.com/us/author/m-john-harrison/id296603597",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/01/89/50/0189500c-67d6-d4c4-2daf-f5196e2207a9/9798217438679.d.jpg/100x149bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/00/0c/ac/000caca4-ea69-8b7e-416a-e9951a6ad9c2/9798217438679.d.jpg/100x148bb.png",
       "genres": [
         {
           "genreId": "10049",

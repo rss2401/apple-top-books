@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 58,
+      "artistName": "Tom Willhaus",
+      "id": "6835676196",
+      "name": "Klare Küste und letzte Wache: Ostfrieslandkrimi",
+      "releaseDate": "2026-11-17",
+      "kind": "books",
+      "artistId": "1894625026",
+      "artistUrl": "https://books.apple.com/de/author/tom-willhaus/id1894625026",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/36/e5/be/36e5be6b-4155-8e08-2dca-3f83bed610e2/9783757253325.jpg/100x153bb.png",
+      "genres": [
+        {
+          "genreId": "10050",
+          "name": "Hard-boiled-Krimis",
+          "url": "https://itunes.apple.com/de/genre/id10050"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "11259",
+          "name": "Cosy Crime",
+          "url": "https://itunes.apple.com/de/genre/id11259"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/klare-k%C3%BCste-und-letzte-wache-ostfrieslandkrimi/id6835676196"
+    }
+  ]
+}

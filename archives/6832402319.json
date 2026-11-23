@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 18,
+      "artistName": "藍屋球, アネコユサギ & 弥南せいら",
+      "id": "6832402319",
+      "name": "盾の勇者の成り上がり 31",
+      "releaseDate": "2026-11-20",
+      "kind": "books",
+      "artistId": "687721081",
+      "artistUrl": "https://books.apple.com/jp/author/%E8%97%8D%E5%B1%8B%E7%90%83/id687721081",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/95/99/20/959920fe-4cc6-4443-6c8e-ea38c7a9cb1b/04660680A26665900000.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000074",
+          "name": "ファンタジー",
+          "url": "https://itunes.apple.com/jp/genre/id50000074"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E7%9B%BE%E3%81%AE%E5%8B%87%E8%80%85%E3%81%AE%E6%88%90%E3%82%8A%E4%B8%8A%E3%81%8C%E3%82%8A-31/id6832402319"
+    }
+  ]
+}

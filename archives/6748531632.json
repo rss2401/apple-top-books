@@ -6,7 +6,7 @@
       "country": "us",
       "mediaType": "books",
       "feed": "top-paid",
-      "rank": 59,
+      "rank": 26,
       "artistName": "Karin Slaughter",
       "id": "6748531632",
       "name": "The Secrets We Hide",
@@ -42,9 +42,9 @@
           "url": "https://itunes.apple.com/us/genre/id10052"
         },
         {
-          "genreId": "10048",
-          "name": "Horror",
-          "url": "https://itunes.apple.com/us/genre/id10048"
+          "genreId": "11050",
+          "name": "Family Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id11050"
         }
       ],
       "url": "https://books.apple.com/us/book/the-secrets-we-hide/id6748531632"

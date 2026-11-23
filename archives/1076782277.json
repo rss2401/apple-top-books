@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 81,
+      "artistName": "Infos24 GmbH",
+      "id": "1076782277",
+      "name": "Italienisch",
+      "releaseDate": "2016-01-01",
+      "kind": "books",
+      "artistId": "1099107679",
+      "artistUrl": "https://books.apple.com/de/author/infos24-gmbh/id1099107679",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/35/5b/c0/355bc01e-f5d0-73d3-fcda-7caa7d6c1fd6/Italienisch.jpg/100x145bb.png",
+      "genres": [
+        {
+          "genreId": "10066",
+          "name": "Fremdsprachen",
+          "url": "https://itunes.apple.com/de/genre/id10066"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9033",
+          "name": "Nachschlagewerke",
+          "url": "https://itunes.apple.com/de/genre/id9033"
+        },
+        {
+          "genreId": "11286",
+          "name": "Italienische Sprachstudien",
+          "url": "https://itunes.apple.com/de/genre/id11286"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/italienisch/id1076782277"
+    }
+  ]
+}

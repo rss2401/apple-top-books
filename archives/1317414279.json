@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 80,
+      "artistName": "William Shakespeare",
+      "id": "1317414279",
+      "name": "Hamlet (Silver Classics)",
+      "releaseDate": "2017-11-21",
+      "kind": "books",
+      "artistId": "2765976",
+      "artistUrl": "https://books.apple.com/de/author/william-shakespeare/id2765976",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/ba/92/3b/ba923bad-b07f-4294-078a-e123d99bab83/9788827520710.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "10036",
+          "name": "Theater",
+          "url": "https://itunes.apple.com/de/genre/id10036"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9007",
+          "name": "Kultur und Unterhaltung",
+          "url": "https://itunes.apple.com/de/genre/id9007"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/hamlet-silver-classics/id1317414279"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 62,
+      "artistName": "盧恩&雪笠(FriendlyLand), 早秋 & 雨神",
+      "id": "6832788787",
+      "name": "塔の管理をしてみよう 31",
+      "releaseDate": "2026-11-20",
+      "kind": "books",
+      "artistId": "1409505707",
+      "artistUrl": "https://books.apple.com/jp/author/%E7%9B%A7%E6%81%A9-%E9%9B%AA%E7%AC%A0-friendlyland/id1409505707",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/69/3e/c4/693ec46f-4f03-ef6b-91cd-c0893b42727a/04660655A26600100000.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000074",
+          "name": "ファンタジー",
+          "url": "https://itunes.apple.com/jp/genre/id50000074"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E5%A1%94%E3%81%AE%E7%AE%A1%E7%90%86%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86-31/id6832788787"
+    }
+  ]
+}

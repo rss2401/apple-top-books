@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 93,
+      "artistName": "Rick Riordan",
+      "id": "365824737",
+      "name": "Percy Jackson and the Olympians, Book One: The Lightning Thief",
+      "releaseDate": "2009-05-02",
+      "kind": "books",
+      "artistId": "275649968",
+      "artistUrl": "https://books.apple.com/us/author/rick-riordan/id275649968",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1c/7a/e6/1c7ae68e-a0c7-5a15-0250-8ea580fb7dc9/1056002676.jpg/100x147bb.png",
+      "genres": [
+        {
+          "genreId": "11186",
+          "name": "Fairy Tales, Myths & Fables for Young Adults",
+          "url": "https://itunes.apple.com/us/genre/id11186"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "11165",
+          "name": "Young Adult",
+          "url": "https://itunes.apple.com/us/genre/id11165"
+        },
+        {
+          "genreId": "11177",
+          "name": "Fiction for Young Adults",
+          "url": "https://itunes.apple.com/us/genre/id11177"
+        },
+        {
+          "genreId": "11185",
+          "name": "Fantasy for Young Adults",
+          "url": "https://itunes.apple.com/us/genre/id11185"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/percy-jackson-and-the-olympians-book-one/id365824737"
+    }
+  ]
+}

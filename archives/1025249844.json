@@ -1,0 +1,63 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 100,
+      "artistName": "Infos24 GmbH",
+      "id": "1025249844",
+      "name": "Spanisch",
+      "releaseDate": "2015-08-01",
+      "kind": "books",
+      "artistId": "1099107679",
+      "artistUrl": "https://books.apple.com/de/author/infos24-gmbh/id1099107679",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/d2/4b/24/d24b2439-9c8b-c4f8-4266-e6847011d704/Spanisch.jpg/100x145bb.png",
+      "genres": [
+        {
+          "genreId": "10066",
+          "name": "Fremdsprachen",
+          "url": "https://itunes.apple.com/de/genre/id10066"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9033",
+          "name": "Nachschlagewerke",
+          "url": "https://itunes.apple.com/de/genre/id9033"
+        },
+        {
+          "genreId": "10103",
+          "name": "Wörter und Sprache",
+          "url": "https://itunes.apple.com/de/genre/id10103"
+        },
+        {
+          "genreId": "9029",
+          "name": "Gewerbe und Technik",
+          "url": "https://itunes.apple.com/de/genre/id9029"
+        },
+        {
+          "genreId": "10037",
+          "name": "Bildung",
+          "url": "https://itunes.apple.com/de/genre/id10037"
+        },
+        {
+          "genreId": "11009",
+          "name": "Sprachkunst und Lehrfächer",
+          "url": "https://itunes.apple.com/de/genre/id11009"
+        },
+        {
+          "genreId": "11293",
+          "name": "Spanische Sprachstudien",
+          "url": "https://itunes.apple.com/de/genre/id11293"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/spanisch/id1025249844"
+    }
+  ]
+}

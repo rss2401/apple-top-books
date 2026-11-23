@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 78,
+      "artistName": "Walter Isaacson",
+      "id": "1220013711",
+      "name": "Leonardo Da Vinci",
+      "releaseDate": "2017-10-17",
+      "kind": "books",
+      "artistId": "2808713",
+      "artistUrl": "https://books.apple.com/gb/author/walter-isaacson/id2808713",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/62/cb/08/62cb0831-dabf-260c-c07f-245e8e382493/9781471166778.jpg/100x153bb.png",
+      "genres": [
+        {
+          "genreId": "9008",
+          "name": "Biography",
+          "url": "https://itunes.apple.com/gb/genre/id9008"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/leonardo-da-vinci/id1220013711"
+    }
+  ]
+}

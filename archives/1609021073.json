@@ -1,0 +1,49 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 79,
+      "artistName": "Juliette N Banks",
+      "id": "1609021073",
+      "name": "Total Possession: A steamy billionaire romance",
+      "releaseDate": "2022-10-11",
+      "kind": "books",
+      "artistId": "1558340167",
+      "artistUrl": "https://books.apple.com/gb/author/juliette-n-banks/id1558340167",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/e0/19/0e/e0190ea3-8096-4e3f-509a-cd1d41f1fd10/0000835758.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/gb/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "10061",
+          "name": "Romantic Suspense",
+          "url": "https://itunes.apple.com/gb/genre/id10061"
+        },
+        {
+          "genreId": "10057",
+          "name": "Contemporary Romance",
+          "url": "https://itunes.apple.com/gb/genre/id10057"
+        },
+        {
+          "genreId": "11040",
+          "name": "New Adult Romance",
+          "url": "https://itunes.apple.com/gb/genre/id11040"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/total-possession-a-steamy-billionaire-romance/id1609021073"
+    }
+  ]
+}

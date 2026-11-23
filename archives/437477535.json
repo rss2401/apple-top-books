@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 72,
+      "artistName": "Ruth Rendell",
+      "id": "437477535",
+      "name": "The Bridesmaid",
+      "releaseDate": "2010-02-23",
+      "kind": "books",
+      "artistId": "2769651",
+      "artistUrl": "https://books.apple.com/gb/author/ruth-rendell/id2769651",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/e2/62/c3/e262c302-c2c2-6369-eb15-ff969217e00e/9781409068556.jpg/100x153bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Crime & Thrillers",
+          "url": "https://itunes.apple.com/gb/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/the-bridesmaid/id437477535"
+    }
+  ]
+}

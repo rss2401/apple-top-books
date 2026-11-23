@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 32,
+      "artistName": "Donna Moore",
+      "id": "6756940069",
+      "name": "Knit One, Heist One",
+      "releaseDate": "2026-08-27",
+      "kind": "books",
+      "artistId": "389522397",
+      "artistUrl": "https://books.apple.com/gb/author/donna-moore/id389522397",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/0e/9a/ce/0e9ace70-b0b3-5da7-8b26-7edb3cac6ee7/1063507121.jpg/100x153bb.png",
+      "genres": [
+        {
+          "genreId": "10055",
+          "name": "Women Sleuths",
+          "url": "https://itunes.apple.com/gb/genre/id10055"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Crime & Thrillers",
+          "url": "https://itunes.apple.com/gb/genre/id9032"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/knit-one-heist-one/id6756940069"
+    }
+  ]
+}

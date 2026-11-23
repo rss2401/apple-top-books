@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 53,
+      "artistName": "阿久井真",
+      "id": "6833906153",
+      "name": "青のオーケストラ(16)",
+      "releaseDate": "2026-11-18",
+      "kind": "books",
+      "artistId": "708949300",
+      "artistUrl": "https://books.apple.com/jp/author/%E9%98%BF%E4%B9%85%E4%BA%95%E7%9C%9F/id708949300",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ee/7c/03/ee7c03ef-eee9-aa4b-0ea3-6b091765e43d/BT000044781201601601900203.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "11052",
+          "name": "ヒューマンドラマ",
+          "url": "https://itunes.apple.com/jp/genre/id11052"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11051",
+          "name": "学園",
+          "url": "https://itunes.apple.com/jp/genre/id11051"
+        },
+        {
+          "genreId": "11337",
+          "name": "少年",
+          "url": "https://itunes.apple.com/jp/genre/id11337"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E9%9D%92%E3%81%AE%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9-16/id6833906153"
+    }
+  ]
+}

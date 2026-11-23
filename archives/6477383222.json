@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 88,
+      "artistName": "Gérard Saryan",
+      "id": "6477383222",
+      "name": "L’Ombre du prédateur",
+      "releaseDate": "2026-11-19",
+      "kind": "books",
+      "artistId": "1653598253",
+      "artistUrl": "https://books.apple.com/fr/author/g%C3%A9rard-saryan/id1653598253",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a8/01/d4/a801d4b5-dd78-05c8-8161-d74e35c26bab/cover.jpg/100x163bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/lombre-du-pr%C3%A9dateur/id6477383222"
+    }
+  ]
+}

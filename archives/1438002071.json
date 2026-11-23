@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 89,
+      "artistName": "Stéphanie des Horts",
+      "id": "1438002071",
+      "name": "Les Soeurs Livanos",
+      "releaseDate": "2018-11-02",
+      "kind": "books",
+      "artistId": "373059143",
+      "artistUrl": "https://books.apple.com/fr/author/st%C3%A9phanie-des-horts/id373059143",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/cc/29/75/cc297528-7888-f2f6-eb0a-6853cd151494/9782226432315.jpg/100x147bb.png",
+      "genres": [
+        {
+          "genreId": "10049",
+          "name": "Fiction et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id10049"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/les-soeurs-livanos/id1438002071"
+    }
+  ]
+}

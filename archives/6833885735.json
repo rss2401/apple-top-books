@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 88,
+      "artistName": "常盤ギヨ",
+      "id": "6833885735",
+      "name": "織田ちゃんと明智くん(9)",
+      "releaseDate": "2026-11-20",
+      "kind": "books",
+      "artistId": "1756896159",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%B8%B8%E7%9B%A4%E3%82%AE%E3%83%A8/id1756896159",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/82/25/fb/8225fb00-52bb-a291-a0a3-ef5d82d6578c/BT000171918700900901900206.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000085",
+          "name": "ラブコメディ",
+          "url": "https://itunes.apple.com/jp/genre/id50000085"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "50000079",
+          "name": "歴史",
+          "url": "https://itunes.apple.com/jp/genre/id50000079"
+        },
+        {
+          "genreId": "11338",
+          "name": "青年",
+          "url": "https://itunes.apple.com/jp/genre/id11338"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E7%B9%94%E7%94%B0%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E6%98%8E%E6%99%BA%E3%81%8F%E3%82%93-9/id6833885735"
+    }
+  ]
+}

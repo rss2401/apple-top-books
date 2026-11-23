@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 71,
+      "artistName": "M W Craven",
+      "id": "6744417083",
+      "name": "Der Kurator",
+      "releaseDate": "2025-11-03",
+      "kind": "books",
+      "artistId": "1317377906",
+      "artistUrl": "https://books.apple.com/de/author/m-w-craven/id1317377906",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/53/9f/21/539f214b-3490-f8ab-3f4b-3a604c4ad27e/1052995626.jpg/100x156bb.png",
+      "genres": [
+        {
+          "genreId": "10052",
+          "name": "Polizeiromane",
+          "url": "https://itunes.apple.com/de/genre/id10052"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/der-kurator/id6744417083"
+    }
+  ]
+}

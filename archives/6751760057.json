@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 82,
+      "artistName": "Vero Heath",
+      "id": "6751760057",
+      "name": "Eine Schuld so gnadenlos",
+      "releaseDate": "2025-10-25",
+      "kind": "books",
+      "artistId": "1701832360",
+      "artistUrl": "https://books.apple.com/de/author/vero-heath/id1701832360",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/8a/5a/67/8a5a67d2-57bd-98a1-1a53-2faf39bcf350/0003121705.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "10057",
+          "name": "Zeitgenössische Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10057"
+        },
+        {
+          "genreId": "10061",
+          "name": "Romantische Thriller",
+          "url": "https://itunes.apple.com/de/genre/id10061"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/eine-schuld-so-gnadenlos/id6751760057"
+    }
+  ]
+}

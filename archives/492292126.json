@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 68,
+      "artistName": "1265-1321 Dante Alighieri",
+      "id": "492292126",
+      "name": "Die Göttliche Komödie",
+      "releaseDate": "1321-01-01",
+      "kind": "books",
+      "artistId": "365972357",
+      "artistUrl": "https://books.apple.com/de/author/1265-1321-dante-alighieri/id365972357",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication7/v4/29/c3/41/29c34141-eb1c-365c-dff7-1141e7623d25/coverArt.78f242.jpg/100x148bb.png",
+      "genres": [
+        {
+          "genreId": "10093",
+          "name": "Dichtung",
+          "url": "https://itunes.apple.com/de/genre/id10093"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/die-g%C3%B6ttliche-kom%C3%B6die/id492292126"
+    }
+  ]
+}

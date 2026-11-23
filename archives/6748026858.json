@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 91,
+      "artistName": "Alexandra Zöbeli",
+      "id": "6748026858",
+      "name": "Nanny über Nacht",
+      "releaseDate": "2024-07-01",
+      "kind": "books",
+      "artistId": "938095317",
+      "artistUrl": "https://books.apple.com/de/author/alexandra-z%C3%B6beli/id938095317",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3a/42/b2/3a42b22f-e3b5-02b8-2b75-8c05dda04fe2/1058999333.jpg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "10057",
+          "name": "Zeitgenössische Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10057"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/nanny-%C3%BCber-nacht/id6748026858"
+    }
+  ]
+}

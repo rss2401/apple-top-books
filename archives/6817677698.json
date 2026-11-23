@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 44,
+      "artistName": "金沢真之介",
+      "id": "6817677698",
+      "name": "会社と私生活-オンとオフ- 6巻",
+      "releaseDate": "2026-11-20",
+      "kind": "books",
+      "artistId": "1178871099",
+      "artistUrl": "https://books.apple.com/jp/author/%E9%87%91%E6%B2%A2%E7%9C%9F%E4%B9%8B%E4%BB%8B/id1178871099",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/47/36/71/473671a9-0a41-96f3-0762-e962fef5c39b/BT000145528400600601900209.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "11052",
+          "name": "ヒューマンドラマ",
+          "url": "https://itunes.apple.com/jp/genre/id11052"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "50000082",
+          "name": "ノンフィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000082"
+        },
+        {
+          "genreId": "11339",
+          "name": "少女",
+          "url": "https://itunes.apple.com/jp/genre/id11339"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E4%BC%9A%E7%A4%BE%E3%81%A8%E7%A7%81%E7%94%9F%E6%B4%BB-%E3%82%AA%E3%83%B3%E3%81%A8%E3%82%AA%E3%83%95-6%E5%B7%BB/id6817677698"
+    }
+  ]
+}

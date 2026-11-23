@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 86,
+      "artistName": "Emma Kelton",
+      "id": "6829754020",
+      "name": "All In",
+      "releaseDate": "2026-10-31",
+      "kind": "books",
+      "artistId": "6774940820",
+      "artistUrl": "https://books.apple.com/gb/author/emma-kelton/id6774940820",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e1/62/ff/e162ff74-0927-2d5a-6c3e-181bc6d4a9f3/0004431218.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/gb/genre/id9003"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "10057",
+          "name": "Contemporary Romance",
+          "url": "https://itunes.apple.com/gb/genre/id10057"
+        },
+        {
+          "genreId": "10061",
+          "name": "Romantic Suspense",
+          "url": "https://itunes.apple.com/gb/genre/id10061"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/all-in/id6829754020"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 32,
+      "artistName": "Eva Almstädt",
+      "id": "491123422",
+      "name": "Ostseefluch",
+      "releaseDate": "2012-02-17",
+      "kind": "books",
+      "artistId": "375644852",
+      "artistUrl": "https://books.apple.com/de/author/eva-almst%C3%A4dt/id375644852",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/13/d3/6f/13d36f54-d5e4-7b77-ed9e-48bfa3a12a4b/9783838710891.jpg/100x148bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "10052",
+          "name": "Polizeiromane",
+          "url": "https://itunes.apple.com/de/genre/id10052"
+        },
+        {
+          "genreId": "10055",
+          "name": "Weibliche Spürnasen",
+          "url": "https://itunes.apple.com/de/genre/id10055"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "11050",
+          "name": "Familienbelletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id11050"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/ostseefluch/id491123422"
+    }
+  ]
+}

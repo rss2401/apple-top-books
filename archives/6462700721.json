@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 85,
+      "artistName": "Cathy Maxwell",
+      "id": "6462700721",
+      "name": "Because of You",
+      "releaseDate": "2009-03-17",
+      "kind": "books",
+      "artistId": "214000612",
+      "artistUrl": "https://books.apple.com/us/author/cathy-maxwell/id214000612",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9c/12/b2/9c12b209-6785-45f7-5fd0-0ab0707ef3a5/1057957050.jpg/100x161bb.png",
+      "genres": [
+        {
+          "genreId": "10059",
+          "name": "Historical Romance",
+          "url": "https://itunes.apple.com/us/genre/id10059"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        },
+        {
+          "genreId": "11050",
+          "name": "Family Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id11050"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/because-of-you/id6462700721"
+    }
+  ]
+}

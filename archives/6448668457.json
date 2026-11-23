@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 77,
+      "artistName": "Lori Sjoberg",
+      "id": "6448668457",
+      "name": "Mayhem Under the Mistletoe",
+      "releaseDate": "2023-12-08",
+      "kind": "books",
+      "artistId": "572027165",
+      "artistUrl": "https://books.apple.com/us/author/lori-sjoberg/id572027165",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/9c/82/12/9c821218-76e8-898a-6f47-ed603c2f8fcc/0001063541.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "10061",
+          "name": "Romantic Suspense",
+          "url": "https://itunes.apple.com/us/genre/id10061"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id9003"
+        },
+        {
+          "genreId": "10057",
+          "name": "Contemporary Romance",
+          "url": "https://itunes.apple.com/us/genre/id10057"
+        },
+        {
+          "genreId": "11231",
+          "name": "Holiday Romance",
+          "url": "https://itunes.apple.com/us/genre/id11231"
+        },
+        {
+          "genreId": "11233",
+          "name": "Military Romance",
+          "url": "https://itunes.apple.com/us/genre/id11233"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/mayhem-under-the-mistletoe/id6448668457"
+    }
+  ]
+}

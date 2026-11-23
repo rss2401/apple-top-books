@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 73,
+      "artistName": "Tiana Warner",
+      "id": "6831060943",
+      "name": "Striking Gold",
+      "releaseDate": "2026-11-19",
+      "kind": "books",
+      "artistId": "536654998",
+      "artistUrl": "https://books.apple.com/de/author/tiana-warner/id536654998",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7c/49/53/7c49534c-5690-4076-870b-dae6ab5cd89a/1069688461.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "11043",
+          "name": "LGBTQIA+ Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id11043"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "10045",
+          "name": "LGBTQIA+ Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id10045"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/striking-gold/id6831060943"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 84,
+      "artistName": "Camilla Chafer",
+      "id": "6825918757",
+      "name": "Charmed and Dangerous",
+      "releaseDate": "2026-11-22",
+      "kind": "books",
+      "artistId": "442163580",
+      "artistUrl": "https://books.apple.com/us/author/camilla-chafer/id442163580",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/07/eb/f3/07ebf399-e551-6702-7822-e150c521daf9/0004476038.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "11259",
+          "name": "Cozy Mysteries",
+          "url": "https://itunes.apple.com/us/genre/id11259"
+        },
+        {
+          "genreId": "10055",
+          "name": "Women Sleuths",
+          "url": "https://itunes.apple.com/us/genre/id10055"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/charmed-and-dangerous/id6825918757"
+    }
+  ]
+}

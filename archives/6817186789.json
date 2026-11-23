@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 51,
+      "artistName": "Hyuganatsu & Itsuki Nanao",
+      "id": "6817186789",
+      "name": "Les Carnets de l'apothicaire T17",
+      "releaseDate": "2026-11-19",
+      "kind": "books",
+      "artistId": "1785236513",
+      "artistUrl": "https://books.apple.com/fr/author/hyuganatsu/id1785236513",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/57/4e/cb/574ecb75-482a-76fb-e458-d623cf28ba46/9791032722657.jpg/100x139bb.png",
+      "genres": [
+        {
+          "genreId": "10016",
+          "name": "Manga",
+          "url": "https://itunes.apple.com/fr/genre/id10016"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "BD et mangas",
+          "url": "https://itunes.apple.com/fr/genre/id9026"
+        },
+        {
+          "genreId": "11338",
+          "name": "Manga : Seinen",
+          "url": "https://itunes.apple.com/fr/genre/id11338"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/les-carnets-de-lapothicaire-t17/id6817186789"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 30,
+      "artistName": "Jeffery Deaver",
+      "id": "6759309176",
+      "name": "The Collateral Heart",
+      "releaseDate": "2026-11-17",
+      "kind": "books",
+      "artistId": "2071726",
+      "artistUrl": "https://books.apple.com/us/author/jeffery-deaver/id2071726",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0e/da/ce/0edacefb-2f50-2741-6d43-b2d505004301/9780593717530.d.jpg/100x151bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/the-collateral-heart/id6759309176"
+    }
+  ]
+}

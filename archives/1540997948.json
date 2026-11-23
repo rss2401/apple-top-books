@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 99,
+      "artistName": "Charlotte Brontë",
+      "id": "1540997948",
+      "name": "Jane Eyre",
+      "releaseDate": "2026-09-25",
+      "kind": "books",
+      "artistId": "2764906",
+      "artistUrl": "https://books.apple.com/fr/author/charlotte-bront%C3%AB/id2764906",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/82/4e/31/824e312f-bf0b-dfbd-f9f4-1d54a08141f8/9789895621408.jpg/100x156bb.png",
+      "genres": [
+        {
+          "genreId": "10042",
+          "name": "Classiques",
+          "url": "https://itunes.apple.com/fr/genre/id10042"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/jane-eyre/id1540997948"
+    }
+  ]
+}

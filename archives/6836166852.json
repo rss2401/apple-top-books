@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 74,
+      "artistName": "小埜聖華 & ぬー",
+      "id": "6836166852",
+      "name": "ちったい俺の巻き込まれ異世界生活(コミック) : 7",
+      "releaseDate": "2026-11-23",
+      "kind": "books",
+      "artistId": "1492223504",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%B0%8F%E5%9F%9C%E8%81%96%E8%8F%AF/id1492223504",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/94/15/94/94159434-b187-ad89-4495-7a01245f84df/20011_132143569_001_001_artwork_20261118121837.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000074",
+          "name": "ファンタジー",
+          "url": "https://itunes.apple.com/jp/genre/id50000074"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "10015",
+          "name": "グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id10015"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E3%81%A1%E3%81%A3%E3%81%9F%E3%81%84%E4%BF%BA%E3%81%AE%E5%B7%BB%E3%81%8D%E8%BE%BC%E3%81%BE%E3%82%8C%E7%95%B0%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF-7/id6836166852"
+    }
+  ]
+}

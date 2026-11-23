@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 79,
+      "artistName": "Stanley Tucci",
+      "id": "837610269",
+      "name": "The Tucci Table",
+      "releaseDate": "2014-10-28",
+      "kind": "books",
+      "artistId": "269104",
+      "artistUrl": "https://books.apple.com/us/author/stanley-tucci/id269104",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/72/78/07/727807e9-ac08-e4cf-5bf0-cf1c97172273/9781476738574.jpg/100x124bb.png",
+      "genres": [
+        {
+          "genreId": "10030",
+          "name": "Cooking Methods",
+          "url": "https://itunes.apple.com/us/genre/id10030"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9028",
+          "name": "Cookbooks, Food & Wine",
+          "url": "https://itunes.apple.com/us/genre/id9028"
+        },
+        {
+          "genreId": "10027",
+          "name": "Cookbooks",
+          "url": "https://itunes.apple.com/us/genre/id10027"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/the-tucci-table/id837610269"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 97,
+      "artistName": "Bonnie Burke-Patel",
+      "id": "6757921325",
+      "name": "We Search the Island for Grace",
+      "releaseDate": "2026-07-30",
+      "kind": "books",
+      "artistId": "1725174084",
+      "artistUrl": "https://books.apple.com/gb/author/bonnie-burke-patel/id1725174084",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3b/41/7a/3b417afa-6423-c070-647d-88a0a1a9d37d/1061944995.jpg/100x150bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Crime & Thrillers",
+          "url": "https://itunes.apple.com/gb/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/gb/genre/id9031"
+        },
+        {
+          "genreId": "11049",
+          "name": "Fairy Tales, Myths & Fables",
+          "url": "https://itunes.apple.com/gb/genre/id11049"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/we-search-the-island-for-grace/id6757921325"
+    }
+  ]
+}

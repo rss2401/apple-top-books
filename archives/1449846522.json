@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 26,
+      "artistName": "Alex Michaelides",
+      "id": "1449846522",
+      "name": "Dans son silence",
+      "releaseDate": "2019-02-06",
+      "kind": "books",
+      "artistId": "647483875",
+      "artistUrl": "https://books.apple.com/fr/author/alex-michaelides/id647483875",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/f7/1c/b5/f71cb5cd-7f36-7cc9-f23a-f33580b984c8/9782702164532-001-X.jpeg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/dans-son-silence/id1449846522"
+    }
+  ]
+}

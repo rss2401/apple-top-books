@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 64,
+      "artistName": "Anne Langlois",
+      "id": "6809636446",
+      "name": "Les Vipères Vénères",
+      "releaseDate": "2026-09-10",
+      "kind": "books",
+      "artistId": "1740248547",
+      "artistUrl": "https://books.apple.com/fr/author/anne-langlois/id1740248547",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/34/5d/cb/345dcb49-a6c3-0ba5-7f96-f4ae279896e6/9782095060176.jpg/100x147bb.png",
+      "genres": [
+        {
+          "genreId": "11177",
+          "name": "Fiction pour jeunes adultes",
+          "url": "https://itunes.apple.com/fr/genre/id11177"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "11165",
+          "name": "Jeunes adultes",
+          "url": "https://itunes.apple.com/fr/genre/id11165"
+        },
+        {
+          "genreId": "11194",
+          "name": "Romance pour jeunes adultes",
+          "url": "https://itunes.apple.com/fr/genre/id11194"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/les-vip%C3%A8res-v%C3%A9n%C3%A8res/id6809636446"
+    }
+  ]
+}

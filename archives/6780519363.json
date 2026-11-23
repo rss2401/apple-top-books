@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 27,
+      "artistName": "Phillip Margolin",
+      "id": "6780519363",
+      "name": "Conspiracy Theory",
+      "releaseDate": "2026-11-17",
+      "kind": "books",
+      "artistId": "2024578",
+      "artistUrl": "https://books.apple.com/us/author/phillip-margolin/id2024578",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/94/53/cb/9453cb68-1cbc-8392-61a9-84415a290e3d/9781250356932.jpg/100x152bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/conspiracy-theory/id6780519363"
+    }
+  ]
+}

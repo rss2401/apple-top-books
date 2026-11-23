@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 20,
+      "artistName": "力蔵, とーわ & 風花風花",
+      "id": "6832402073",
+      "name": "世界最強の後衛 ～迷宮国の新人探索者～ 11",
+      "releaseDate": "2026-11-20",
+      "kind": "books",
+      "artistId": "1435563619",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%8A%9B%E8%94%B5/id1435563619",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/fd/d4/e2/fdd4e203-2b9f-4795-2ecb-6bc9f87c4456/04660629A26549500000.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000074",
+          "name": "ファンタジー",
+          "url": "https://itunes.apple.com/jp/genre/id50000074"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7%E3%81%AE%E5%BE%8C%E8%A1%9B-%E8%BF%B7%E5%AE%AE%E5%9B%BD%E3%81%AE%E6%96%B0%E4%BA%BA%E6%8E%A2%E7%B4%A2%E8%80%85-11/id6832402073"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 59,
+      "artistName": "Dania Dicken",
+      "id": "6794253429",
+      "name": "Profiling Murder",
+      "releaseDate": "2026-11-01",
+      "kind": "books",
+      "artistId": "902211367",
+      "artistUrl": "https://books.apple.com/de/author/dania-dicken/id902211367",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f6/64/f1/f664f1e7-d9fb-6c3a-58fa-4a8ee5e5b4d6/9783819807473.jpg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "10055",
+          "name": "Weibliche Spürnasen",
+          "url": "https://itunes.apple.com/de/genre/id10055"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/profiling-murder/id6794253429"
+    }
+  ]
+}

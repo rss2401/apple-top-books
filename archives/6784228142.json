@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 34,
+      "artistName": "Laura S. Wild",
+      "id": "6784228142",
+      "name": "Les Héritiers du Chaos - Tome 3",
+      "releaseDate": "2026-11-18",
+      "kind": "books",
+      "artistId": "1123607283",
+      "artistUrl": "https://books.apple.com/fr/author/laura-s-wild/id1123607283",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/36/65/a8/3665a882-9e4f-5bc9-495b-eb26c47a64a9/9791042906450-001-x.jpeg/100x155bb.png",
+      "genres": [
+        {
+          "genreId": "10058",
+          "name": "Romance paranormale",
+          "url": "https://itunes.apple.com/fr/genre/id10058"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id9003"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/les-h%C3%A9ritiers-du-chaos-tome-3/id6784228142"
+    }
+  ]
+}

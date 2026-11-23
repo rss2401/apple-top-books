@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 28,
+      "artistName": "Carl Hiaasen",
+      "id": "6618122119",
+      "name": "Fever Beach",
+      "releaseDate": "2025-05-13",
+      "kind": "books",
+      "artistId": "3500431",
+      "artistUrl": "https://books.apple.com/us/author/carl-hiaasen/id3500431",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/86/38/48/86384870-828e-0097-b965-fc25bee7cb9f/9780593320952.d.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "9032",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id9032"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/fever-beach/id6618122119"
+    }
+  ]
+}

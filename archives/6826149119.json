@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 45,
+      "artistName": "山本隆一郎 & 草下シンヤ",
+      "id": "6826149119",
+      "name": "半グレ―六本木 摩天楼のレクイエム― 16",
+      "releaseDate": "2026-11-19",
+      "kind": "books",
+      "artistId": "625079875",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%B1%B1%E6%9C%AC%E9%9A%86%E4%B8%80%E9%83%8E/id625079875",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1a/5e/c3/1a5ec37c-ea4f-eebd-c4c4-2f49d8c03eae/27313_131885314_001_001_artwork_20261117121902.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000077",
+          "name": "ハードボイルド",
+          "url": "https://itunes.apple.com/jp/genre/id50000077"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "10015",
+          "name": "グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id10015"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E5%8D%8A%E3%82%B0%E3%83%AC-%E5%85%AD%E6%9C%AC%E6%9C%A8-%E6%91%A9%E5%A4%A9%E6%A5%BC%E3%81%AE%E3%83%AC%E3%82%AF%E3%82%A4%E3%82%A8%E3%83%A0-16/id6826149119"
+    }
+  ]
+}

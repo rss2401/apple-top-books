@@ -1,0 +1,58 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 14,
+      "artistName": "Sylvester Stallone",
+      "id": "6742979856",
+      "name": "The Steps",
+      "releaseDate": "2026-09-29",
+      "kind": "books",
+      "artistId": "1239210724",
+      "artistUrl": "https://books.apple.com/gb/author/sylvester-stallone/id1239210724",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7a/dd/ba/7addba42-6453-26eb-a295-7c8389da2fe9/9781399629485.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "9008",
+          "name": "Biography",
+          "url": "https://itunes.apple.com/gb/genre/id9008"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/gb/genre/id38"
+        },
+        {
+          "genreId": "9025",
+          "name": "Health & Well-Being",
+          "url": "https://itunes.apple.com/gb/genre/id9025"
+        },
+        {
+          "genreId": "10119",
+          "name": "Self Help",
+          "url": "https://itunes.apple.com/gb/genre/id10119"
+        },
+        {
+          "genreId": "9035",
+          "name": "Sports & Outdoors",
+          "url": "https://itunes.apple.com/gb/genre/id9035"
+        },
+        {
+          "genreId": "11054",
+          "name": "Boxing",
+          "url": "https://itunes.apple.com/gb/genre/id11054"
+        },
+        {
+          "genreId": "11027",
+          "name": "Arts & Entertainment",
+          "url": "https://itunes.apple.com/gb/genre/id11027"
+        }
+      ],
+      "url": "https://books.apple.com/gb/book/the-steps/id6742979856"
+    }
+  ]
+}

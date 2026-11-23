@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 75,
+      "artistName": "Cindy Costes",
+      "id": "1160295446",
+      "name": "C'est pour ton bien",
+      "releaseDate": "2016-08-23",
+      "kind": "books",
+      "artistId": "1160295675",
+      "artistUrl": "https://books.apple.com/fr/author/cindy-costes/id1160295675",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication71/v4/73/1f/7d/731f7d02-c7ac-7a22-3f86-88e4603e0e3e/9791022732505.jpg/100x160bb.png",
+      "genres": [
+        {
+          "genreId": "9031",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id9031"
+        },
+        {
+          "genreId": "38",
+          "name": "Livres",
+          "url": "https://itunes.apple.com/fr/genre/id38"
+        }
+      ],
+      "url": "https://books.apple.com/fr/book/cest-pour-ton-bien/id1160295446"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 37,
+      "artistName": "Ta-Nehisi Coates",
+      "id": "1452108632",
+      "name": "The Water Dancer",
+      "releaseDate": "2019-09-24",
+      "kind": "books",
+      "artistId": "296585558",
+      "artistUrl": "https://books.apple.com/us/author/ta-nehisi-coates/id296585558",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/26/e5/cb/26e5cb40-39c3-4642-d9bb-54b6889b0ea5/9780399590603.d.jpg/100x154bb.png",
+      "genres": [
+        {
+          "genreId": "10040",
+          "name": "Black Literature",
+          "url": "https://itunes.apple.com/us/genre/id10040"
+        },
+        {
+          "genreId": "38",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Fiction & Literature",
+          "url": "https://itunes.apple.com/us/genre/id9031"
+        },
+        {
+          "genreId": "9020",
+          "name": "Sci-Fi & Fantasy",
+          "url": "https://itunes.apple.com/us/genre/id9020"
+        },
+        {
+          "genreId": "10044",
+          "name": "Fantasy",
+          "url": "https://itunes.apple.com/us/genre/id10044"
+        },
+        {
+          "genreId": "11003",
+          "name": "Historical Fantasy",
+          "url": "https://itunes.apple.com/us/genre/id11003"
+        }
+      ],
+      "url": "https://books.apple.com/us/book/the-water-dancer/id1452108632"
+    }
+  ]
+}

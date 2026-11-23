@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 92,
+      "artistName": "七尾ナナキ",
+      "id": "6834380583",
+      "name": "異剣戦記ヴェルンディオ(10)",
+      "releaseDate": "2026-11-18",
+      "kind": "books",
+      "artistId": "908868494",
+      "artistUrl": "https://books.apple.com/jp/author/%E4%B8%83%E5%B0%BE%E3%83%8A%E3%83%8A%E3%82%AD/id908868494",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/34/ad/d6/34add69e-536a-85fc-bdf3-a0daa21a2871/BT000090711501001001900203.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000074",
+          "name": "ファンタジー",
+          "url": "https://itunes.apple.com/jp/genre/id50000074"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11337",
+          "name": "少年",
+          "url": "https://itunes.apple.com/jp/genre/id11337"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E7%95%B0%E5%89%A3%E6%88%A6%E8%A8%98%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%B3%E3%83%87%E3%82%A3%E3%82%AA-10/id6834380583"
+    }
+  ]
+}

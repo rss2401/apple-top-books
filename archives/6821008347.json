@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 9,
+      "artistName": "Björn Harms",
+      "id": "6821008347",
+      "name": "Der Asylkomplex",
+      "releaseDate": "2026-11-23",
+      "kind": "books",
+      "artistId": "1441432802",
+      "artistUrl": "https://books.apple.com/de/author/bj%C3%B6rn-harms/id1441432802",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9e/42/06/9e420634-a880-8b51-a5fb-d54f0591c18a/1066655216.jpg/100x159bb.png",
+      "genres": [
+        {
+          "genreId": "11264",
+          "name": "Politologie",
+          "url": "https://itunes.apple.com/de/genre/id11264"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9034",
+          "name": "Politik und Zeitgeschehen",
+          "url": "https://itunes.apple.com/de/genre/id9034"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/der-asylkomplex/id6821008347"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 31,
+      "artistName": "井龍一 & 伊藤翔太",
+      "id": "6833884958",
+      "name": "降り積もれ孤独な死よ(13)",
+      "releaseDate": "2026-11-20",
+      "kind": "books",
+      "artistId": "954686231",
+      "artistUrl": "https://books.apple.com/jp/author/%E4%BA%95%E9%BE%8D%E4%B8%80/id954686231",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/c8/82/4f/c8824faa-76db-127a-502d-a260cc292e69/BT000103935301301301900206.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000081",
+          "name": "ミステリー",
+          "url": "https://itunes.apple.com/jp/genre/id50000081"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11338",
+          "name": "青年",
+          "url": "https://itunes.apple.com/jp/genre/id11338"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E9%99%8D%E3%82%8A%E7%A9%8D%E3%82%82%E3%82%8C%E5%AD%A4%E7%8B%AC%E3%81%AA%E6%AD%BB%E3%82%88-13/id6833884958"
+    }
+  ]
+}

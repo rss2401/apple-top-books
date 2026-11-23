@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 13,
+      "artistName": "中村光",
+      "id": "6832495443",
+      "name": "聖☆おにいさん(23)",
+      "releaseDate": "2026-11-20",
+      "kind": "books",
+      "artistId": "608508497",
+      "artistUrl": "https://books.apple.com/jp/author/%E4%B8%AD%E6%9D%91%E5%85%89/id608508497",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/28/84/58/288458a4-0a27-f2d9-e79d-b8b66f79cbfa/BT000012856402302301900206.jpg/100x142bb.png",
+      "genres": [
+        {
+          "genreId": "50000072",
+          "name": "ギャグ／コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id50000072"
+        },
+        {
+          "genreId": "38",
+          "name": "ブック",
+          "url": "https://itunes.apple.com/jp/genre/id38"
+        },
+        {
+          "genreId": "9026",
+          "name": "マンガ／グラフィックノベル",
+          "url": "https://itunes.apple.com/jp/genre/id9026"
+        },
+        {
+          "genreId": "10016",
+          "name": "マンガ",
+          "url": "https://itunes.apple.com/jp/genre/id10016"
+        },
+        {
+          "genreId": "11338",
+          "name": "青年",
+          "url": "https://itunes.apple.com/jp/genre/id11338"
+        }
+      ],
+      "url": "https://books.apple.com/jp/book/%E8%81%96-%E3%81%8A%E3%81%AB%E3%81%84%E3%81%95%E3%82%93-23/id6832495443"
+    }
+  ]
+}
