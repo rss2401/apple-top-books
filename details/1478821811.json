@@ -1,0 +1,75 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        411401324
+      ],
+      "artistId": 411401324,
+      "artistName": "Joan Kilby",
+      "genres": [
+        "Holiday Romance",
+        "Books",
+        "Romance",
+        "Contemporary Romance"
+      ],
+      "price": 0,
+      "genreIds": [
+        "11231",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "releaseDate": "2019-11-12T08:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>Now a Hallmark Channel Original Movie</b><br />\n<b></b><br />\n<b>With Christmas and a family showdown looming, can she find a miracle?</b><br /><br />\nHoping to reunite her mother with her long-lost brother for Christmas, interior designer Hayley Stevens travels to Montana to hand-deliver a Christmas card to the uncle she’s never met. Finding her uncle is easier than getting him alone to explain her mission. Reluctantly, Hayley hides her identity to learn more about her uncle and his family, but it’s his handsome and enigmatic partner who captures her heart and imagination.<br /><br />\nArchitect and builder Blake Dennison is attracted instantly to the beautiful Hayley, but he’s suspicious of her curiosity. Can she be a spy for a rival builder? He’s been burned by deceit before, but as he spends time with Hayley, he falls hard.&#xa0;<br /><br />\nHayley knows she has much more at stake than fulfilling her mother’s Christmas dream, and when she confesses to Blake the real reason for her visit, his reaction is what she feared. He wants her gone. But Hayley knows how to fight for what she wants.<br /><br />\n<b>Another heart-warming story set in Sweetheart, Montana, home to&#xa0;The Starr Brothers of Montana&#xa0;series.</b>",
+      "trackCensoredName": "Long Lost Christmas",
+      "artistViewUrl": "https://books.apple.com/us/artist/joan-kilby/411401324?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/long-lost-christmas/id1478821811?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/00/ea/b5/00eab5d9-ad4a-0f7f-8cfb-70e2374fb165/Long-Lost-Christmas-final-movieseal.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/00/ea/b5/00eab5d9-ad4a-0f7f-8cfb-70e2374fb165/Long-Lost-Christmas-final-movieseal.jpg/100x100bb.jpg",
+      "trackId": 1478821811,
+      "trackName": "Long Lost Christmas",
+      "averageUserRating": 4.5,
+      "userRatingCount": 742,
+      "country": "USA"
+    },
+    {
+      "trackCensoredName": "Long Lost Christmas",
+      "artistViewUrl": "https://books.apple.com/gb/artist/joan-kilby/411401324?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/long-lost-christmas/id1478821811?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/00/ea/b5/00eab5d9-ad4a-0f7f-8cfb-70e2374fb165/Long-Lost-Christmas-final-movieseal.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/00/ea/b5/00eab5d9-ad4a-0f7f-8cfb-70e2374fb165/Long-Lost-Christmas-final-movieseal.jpg/100x100bb.jpg",
+      "artistIds": [
+        411401324
+      ],
+      "genres": [
+        "Holiday Romance",
+        "Books",
+        "Romance",
+        "Contemporary Romance"
+      ],
+      "artistId": 411401324,
+      "artistName": "Joan Kilby",
+      "price": 0,
+      "trackId": 1478821811,
+      "trackName": "Long Lost Christmas",
+      "releaseDate": "2019-11-12T08:00:00Z",
+      "genreIds": [
+        "11231",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>Now a Hallmark Channel Original Movie</b><br />\n<b></b><br />\n<b>With Christmas and a family showdown looming, can she find a miracle?</b><br /><br />\nHoping to reunite her mother with her long-lost brother for Christmas, interior designer Hayley Stevens travels to Montana to hand-deliver a Christmas card to the uncle she’s never met. Finding her uncle is easier than getting him alone to explain her mission. Reluctantly, Hayley hides her identity to learn more about her uncle and his family, but it’s his handsome and enigmatic partner who captures her heart and imagination.<br /><br />\nArchitect and builder Blake Dennison is attracted instantly to the beautiful Hayley, but he’s suspicious of her curiosity. Can she be a spy for a rival builder? He’s been burned by deceit before, but as he spends time with Hayley, he falls hard.&#xa0;<br /><br />\nHayley knows she has much more at stake than fulfilling her mother’s Christmas dream, and when she confesses to Blake the real reason for her visit, his reaction is what she feared. He wants her gone. But Hayley knows how to fight for what she wants.<br /><br />\n<b>Another heart-warming story set in Sweetheart, Montana, home to&#xa0;The Starr Brothers of Montana&#xa0;series.</b>",
+      "formattedPrice": "Free",
+      "averageUserRating": 4.5,
+      "userRatingCount": 90,
+      "country": "GBR"
+    }
+  ]
+}

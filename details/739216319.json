@@ -1,0 +1,46 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Mockingjay (Hunger Games, Book Three)",
+      "artistIds": [
+        110188933
+      ],
+      "formattedPrice": "$9.99",
+      "artistId": 110188933,
+      "artistName": "Suzanne Collins",
+      "genres": [
+        "Dystopian Fiction for Young Adults",
+        "Books",
+        "Young Adult",
+        "Fiction for Young Adults",
+        "Coming of Age Fiction for Young Adults",
+        "Action & Adventure Fiction for Young Adults",
+        "Coming of Age for Young Adults"
+      ],
+      "price": 9.99,
+      "genreIds": [
+        "11183",
+        "38",
+        "11165",
+        "11177",
+        "11196",
+        "11178",
+        "11223"
+      ],
+      "trackId": 739216319,
+      "trackName": "Mockingjay (Hunger Games, Book Three)",
+      "releaseDate": "2010-08-24T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "The greatly anticipated final book in the New York Times bestselling Hunger Games trilogy by Suzanne Collins.The Capitol is angry. The Capitol wants revenge. Who do they think should pay for the unrest? Katniss Everdeen. The final book in The Hunger Games trilogy by Suzanne Collins will have hearts racing, pages turning, and everyone talking about one of the biggest and most talked-about books and authors in recent publishing history!",
+      "artistViewUrl": "https://books.apple.com/us/artist/suzanne-collins/110188933?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/mockingjay-hunger-games-book-three/id739216319?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/ae/57/be/ae57bed7-24a0-9bc3-c945-fa334df97201/9780545698245.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/ae/57/be/ae57bed7-24a0-9bc3-c945-fa334df97201/9780545698245.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 8153,
+      "country": "USA"
+    }
+  ]
+}

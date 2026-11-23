@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "5,49 €",
+      "artistIds": [
+        893975049,
+        206588722
+      ],
+      "artistId": 893975049,
+      "artistName": "Gabriel Zucman & Collectif",
+      "genres": [
+        "Politique et actualité",
+        "Livres",
+        "Romans et littérature",
+        "Communication et médias",
+        "Journalisme",
+        "Science politique"
+      ],
+      "price": 5.49,
+      "trackId": 6830100224,
+      "trackName": "Contre l'oligarchie internationale",
+      "genreIds": [
+        "9034",
+        "38",
+        "9031",
+        "11010",
+        "11013",
+        "11264"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "L'explosion de l’extrême richesse est devenue la grande question politique de notre temps.<br /><br />En quelques décennies, une poignée de milliardaires a vu sa fortune atteindre des niveaux sans précédent dans l'histoire humaine. Leur pouvoir dépasse désormais celui de nombreux États : ils possèdent des multinationales, des médias, des réseaux sociaux, des moyens inédits pour influencer les élections, les lois, le débat public à l'échelle planétaire – et jusqu’au cours des guerres.<br /><br />Face à ce déséquilibre, il faut organiser une internationale démocratique. À l'initiative de Gabriel Zucman et d’un collectif de chercheurs et de personnalités publiques, le Manifeste de Paris porte un programme : taxer les ultra-riches, protéger l'indépendance de l'information, démocratiser la gouvernance de l'intelligence artificielle.<br /><br />La survie des démocraties et l’habitabilité de la planète sont en jeu.",
+      "trackCensoredName": "Contre l'oligarchie internationale",
+      "artistViewUrl": "https://books.apple.com/fr/artist/gabriel-zucman-collectif/893975049?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/contre-loligarchie-internationale/id6830100224?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3b/7e/75/3b7e7526-2c0c-610e-c766-1cc9ae2358f6/9782021650969.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3b/7e/75/3b7e7526-2c0c-610e-c766-1cc9ae2358f6/9782021650969.jpg/100x100bb.jpg",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "country": "FRA"
+    }
+  ]
+}

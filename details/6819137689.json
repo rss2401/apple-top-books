@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1a/7f/62/1a7f6255-bad5-68ac-4e13-b4b0219f6146/08X10000000075275200.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1a/7f/62/1a7f6255-bad5-68ac-4e13-b4b0219f6146/08X10000000075275200.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E5%B9%B3%E4%BA%95%E5%A4%A7%E6%A9%8B/1684667511?uo=4",
+      "trackCensoredName": "ダイヤモンドの功罪 11",
+      "formattedPrice": "¥770",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%81%AE%E5%8A%9F%E7%BD%AA-11/id6819137689?uo=4",
+      "artistIds": [
+        1684667511
+      ],
+      "artistId": 1684667511,
+      "genres": [
+        "スポーツ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ"
+      ],
+      "price": 770,
+      "genreIds": [
+        "50000087",
+        "38",
+        "9026",
+        "10016"
+      ],
+      "trackId": 6819137689,
+      "trackName": "ダイヤモンドの功罪 11",
+      "releaseDate": "2026-11-18T08:00:00Z",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "「みんなでいるからどこにも行けないんじゃないですか」 綾瀬川次郎に会うために東京へとやってきた園大和。互いの野球観を語り合うなかで、野球にすべてを尽くす姿勢に共感し、二人は仲を深めていく。チームメイトとは溝が深まる綾瀬川だったが、大和との対話を経て迎えるリトル最後の大会を前に、導き出した答えとは――。",
+      "artistName": "平井大橋",
+      "userRatingCount": 9,
+      "averageUserRating": 5,
+      "country": "JPN"
+    }
+  ]
+}

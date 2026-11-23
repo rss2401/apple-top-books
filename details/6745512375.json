@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1609000580
+      ],
+      "artistId": 1609000580,
+      "artistName": "Karan Gokani",
+      "genres": [
+        "Regional & Ethnic Cookbooks",
+        "Books",
+        "Food & Drink",
+        "Cooking Methods",
+        "Specific Ingredient Cookbooks",
+        "Lifestyle & Home"
+      ],
+      "price": 0.99,
+      "releaseDate": "2025-09-11T07:00:00Z",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "'An incredible book, full of flavour, on one of the most exciting cuisines in the world. A must for anyone who enjoys Indian food' – <b>Tom Kerridge</b><br /><br />'What a beautiful book. Karan is the perfect guide to help you cook incredible Indian food at home' – <b>Jamie Oliver</b><br /><br /><b><i>Indian 101</i> introduces beginners and seasoned home cooks to Indian recipes in a simple and intuitive way, making real Indian home cooking enjoyable for everyone.</b><br /><br />Mumbai-born food writer and chef-patron of Hoppers, Karan Gokani's <b>easy-to-follow recipes are packed with flavour </b>and introduce you to the breadth of dishes that this amazing country has to offer.<br /><br /><b>Karan gives tips and hacks </b>to make the trickier methods quicker and easier to follow at home without compromising on authenticity or taste. <b>There are air fryer methods, tray-bake alternatives and ingredient variations to help you flex your cooking methods</b> while remaining true to the unique and hugely diverse Indian traditions. Recipes include:<br /><br />Burnt Aubergine Bharta<br />Aloo Matar (potato and pea curry)<br />Black dal <i>and</i> simple Yellow Dal<br />Salmon Tikka<br />Proper Butter Chicken <i>and</i> Home-style Chicken Curry<br />One-Pot Meat Curry<br />Lemon Rice<br />Chicken Pilau <i>and</i> Easy Chicken Biryani<br />Indian Bread Pudding<br /><br /><b><i>Indian 101</i> is your go-to cookbook for exciting weekday meals as well as shareable weekend feasts.</b><br /><br />'Brilliant, easy-to-follow recipes that are a joy to eat' – <b>Angela Hartnett</b><br /><br />'Karan reveals the geographic soul of Indian cooking while keeping our weeknight sanity intact. This is cooking that's practical, varied, and utterly genuine' – <b>Yotam Ottolenghi</b>",
+      "formattedPrice": "£0.99",
+      "trackCensoredName": "Indian 101",
+      "artistViewUrl": "https://books.apple.com/gb/artist/karan-gokani/1609000580?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/indian-101/id6745512375?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/bf/25/5f/bf255fa0-ad5e-17a1-fd7c-21371a3b0724/9781035066995.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/bf/25/5f/bf255fa0-ad5e-17a1-fd7c-21371a3b0724/9781035066995.jpg/100x100bb.jpg",
+      "genreIds": [
+        "10032",
+        "38",
+        "9028",
+        "10030",
+        "10033",
+        "9024"
+      ],
+      "trackId": 6745512375,
+      "trackName": "Indian 101",
+      "country": "GBR"
+    }
+  ]
+}

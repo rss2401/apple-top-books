@@ -1,0 +1,71 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        1523942504
+      ],
+      "artistId": 1523942504,
+      "artistName": "H L Marsay",
+      "genres": [
+        "Detective Novels",
+        "Books",
+        "Mysteries & Thrillers"
+      ],
+      "price": 0,
+      "genreIds": [
+        "10054",
+        "38",
+        "9032"
+      ],
+      "releaseDate": "2021-05-13T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>Old sins cast long shadows…</b><br /><br />\nWhen the bodies of a young, homeless girl and a girl who disappeared thirty years ago are found on the same day, residents in the historic city of York are aghast. It seems unlikely the two cases are related, and yet some of the same players knew both victims. As Detective Chief Inspector John Shadow and his eager new partner, Sergeant Jimmy Chang, dive into their investigation, they uncover a complicated web of pop stars, pub owners, shopkeepers and old school friends who each have something to hide.<br /><br />\nJohn Shadow is a man of contradictions. A solitary figure who shuns company, but is a keen observer of all he meets. A lover of good food, but whose fridge is almost always empty. He prefers to work alone and is perpetually trying to dodge his partner, who’s full of energy, modern ideas and theories.<br /><br />\nBut as the two men gradually learn to work together to solve the case, it’s clear that the past is never as far away as you think.",
+      "trackCensoredName": "A Long Shadow",
+      "artistViewUrl": "https://books.apple.com/us/artist/h-l-marsay/1523942504?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/a-long-shadow/id1523942502?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/53/e5/71/53e57146-40dc-def7-c324-f838f3eeb1f7/a_long_shadow_hires.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/53/e5/71/53e57146-40dc-def7-c324-f838f3eeb1f7/a_long_shadow_hires.jpg/100x100bb.jpg",
+      "trackId": 1523942502,
+      "trackName": "A Long Shadow",
+      "averageUserRating": 4,
+      "userRatingCount": 580,
+      "country": "USA"
+    },
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        1523942504
+      ],
+      "artistId": 1523942504,
+      "artistName": "H L Marsay",
+      "price": 0,
+      "trackId": 1523942502,
+      "trackName": "A Long Shadow",
+      "releaseDate": "2021-05-13T07:00:00Z",
+      "genreIds": [
+        "10054",
+        "38",
+        "9032"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>Old sins cast long shadows…</b><br /><br />\nWhen the bodies of a young, homeless girl and a girl who disappeared thirty years ago are found on the same day, residents in the historic city of York are aghast. It seems unlikely the two cases are related, and yet some of the same players knew both victims. As Detective Chief Inspector John Shadow and his eager new partner, Sergeant Jimmy Chang, dive into their investigation, they uncover a complicated web of pop stars, pub owners, shopkeepers and old school friends who each have something to hide.<br /><br />\nJohn Shadow is a man of contradictions. A solitary figure who shuns company, but is a keen observer of all he meets. A lover of good food, but whose fridge is almost always empty. He prefers to work alone and is perpetually trying to dodge his partner, who’s full of energy, modern ideas and theories.<br /><br />\nBut as the two men gradually learn to work together to solve the case, it’s clear that the past is never as far away as you think.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/53/e5/71/53e57146-40dc-def7-c324-f838f3eeb1f7/a_long_shadow_hires.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/53/e5/71/53e57146-40dc-def7-c324-f838f3eeb1f7/a_long_shadow_hires.jpg/100x100bb.jpg",
+      "trackCensoredName": "A Long Shadow",
+      "trackViewUrl": "https://books.apple.com/gb/book/a-long-shadow/id1523942502?uo=4",
+      "artistViewUrl": "https://books.apple.com/gb/artist/h-l-marsay/1523942504?uo=4",
+      "genres": [
+        "Detective Novels",
+        "Books",
+        "Crime & Thrillers"
+      ],
+      "averageUserRating": 4,
+      "userRatingCount": 148,
+      "country": "GBR"
+    }
+  ]
+}

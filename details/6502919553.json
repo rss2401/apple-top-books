@@ -34,7 +34,6 @@
       "userRatingCount": 615
     },
     {
-      "formattedPrice": "Free",
       "trackCensoredName": "Winnie-the-Pooh",
       "artistViewUrl": "https://books.apple.com/us/artist/a-a-milne/409046876?uo=4",
       "trackViewUrl": "https://books.apple.com/us/book/winnie-the-pooh/id6502919553?uo=4",
@@ -43,6 +42,7 @@
       "artistIds": [
         409046876
       ],
+      "formattedPrice": "Free",
       "artistId": 409046876,
       "artistName": "A.A. Milne",
       "genres": [
@@ -63,7 +63,7 @@
       "currency": "USD",
       "description": "An Apple Books Classic edition.<br /><br />If you haven’t met Winnie the Pooh yet, stop reading this, and start reading the book—you’ll be so glad you did. The jovial stuffed bear and his ragtag band of friends have been bringing joy to children for generations. Join Tigger, Owl, Kanga, Roo, Piglet, Eeyore and, of course, Christopher Robin (a stand-in for A.A. Milne’s own son, for whom the stories were written), as they spend pleasant days in the Hundred Acre Wood.<br /><br />Milne’s stories are ideal for bedtime and are full of lessons about friendship. They’re good for the soul.",
       "averageUserRating": 4.5,
-      "userRatingCount": 678,
+      "userRatingCount": 685,
       "country": "USA"
     }
   ]

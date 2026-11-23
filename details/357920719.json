@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Man from St. Petersburg",
+      "artistIds": [
+        41828779
+      ],
+      "formattedPrice": "$1.99",
+      "artistId": 41828779,
+      "artistName": "Ken Follett",
+      "genres": [
+        "Historical Fiction",
+        "Books",
+        "Fiction & Literature",
+        "Mysteries & Thrillers"
+      ],
+      "price": 1.99,
+      "genreIds": [
+        "10047",
+        "38",
+        "9031",
+        "9032"
+      ],
+      "trackId": 357920719,
+      "trackName": "The Man from St. Petersburg",
+      "releaseDate": "1983-05-01T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>\"Ken Follett has done it once more . . . goes down with the ease and impact of a well-prepared martini.\" —<i>New York Times Book Review</i></b><br /><br />His name was Feliks. He came to London to commit a murder that would change history. A master manipulator, he had many weapons at his command, but against him were ranged the whole of the English police, a brilliant and powerful lord, and the young Winston Churchill himself. These odds would have stopped any man in the world—except the man from St. Petersburg.",
+      "artistViewUrl": "https://books.apple.com/us/artist/ken-follett/41828779?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-man-from-st-petersburg/id357920719?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/e7/67/f6/e767f6f2-e282-a586-45bc-2386f2407a7f/9781101043882.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/e7/67/f6/e767f6f2-e282-a586-45bc-2386f2407a7f/9781101043882.jpg/100x100bb.jpg",
+      "averageUserRating": 4,
+      "userRatingCount": 702,
+      "country": "USA"
+    }
+  ]
+}

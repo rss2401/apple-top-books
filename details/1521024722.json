@@ -1,0 +1,75 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        986118321
+      ],
+      "artistId": 986118321,
+      "artistName": "Wayne Stinnett",
+      "genres": [
+        "Action & Adventure",
+        "Books",
+        "Fiction & Literature",
+        "Mysteries & Thrillers"
+      ],
+      "price": 0,
+      "genreIds": [
+        "10039",
+        "38",
+        "9031",
+        "9032"
+      ],
+      "releaseDate": "2019-02-07T08:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "When Jesse McDermitt leaves the Marine Corps, he has no idea what he will do for the rest of his life. He only knows he doesn&#39;t want to spend the coming winter anywhere cold. His greatest skill is killing people from up to a mile away and he knows there aren&#39;t many job opportunities in the civilian world for that.<br/>\n<br/>\nJesse also knows his way around boats and has an old friend living free and easy in the Florida Keys. Being an experienced diver and angler, he immediately heads south toward Key West and the end of the road.<br/>\n<br/>\nWith a single comment, a waitress in a waterfront restaurant in north Key Largo shakes loose a long dormant dream and Jesse runs with it. With the help of friends, new and old, he buys just the right boat to live on and soon starts a part time charter business. Everything is going smoothly, until a Carolina girl and a hurricane hit him at the same time.<br/>\n<br/>\nDanger lurks in the sleepy little town of Marathon, in the middle of the Florida Keys, as well as in the swamps of the Everglades. But danger doesn&#39;t expect to run into a man like Jesse. A man who will not only respond swiftly in facing it, but with a vengeance unexpected.",
+      "trackCensoredName": "Fallen Out",
+      "artistViewUrl": "https://books.apple.com/us/artist/wayne-stinnett/986118321?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/fallen-out/id1521024722?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/6e/c8/1d/6ec81d0d-db08-e7b8-aaa2-4ca331520790/58dafedc-2665-4630-adce-590caf382acf_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/6e/c8/1d/6ec81d0d-db08-e7b8-aaa2-4ca331520790/58dafedc-2665-4630-adce-590caf382acf_cover_image.jpg/100x100bb.jpg",
+      "trackId": 1521024722,
+      "trackName": "Fallen Out",
+      "averageUserRating": 4,
+      "userRatingCount": 1027,
+      "country": "USA"
+    },
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        986118321
+      ],
+      "artistId": 986118321,
+      "artistName": "Wayne Stinnett",
+      "price": 0,
+      "trackId": 1521024722,
+      "trackName": "Fallen Out",
+      "releaseDate": "2019-02-07T08:00:00Z",
+      "genreIds": [
+        "10039",
+        "38",
+        "9031",
+        "9032"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "When Jesse McDermitt leaves the Marine Corps, he has no idea what he will do for the rest of his life. He only knows he doesn&#39;t want to spend the coming winter anywhere cold. His greatest skill is killing people from up to a mile away and he knows there aren&#39;t many job opportunities in the civilian world for that.<br/>\n<br/>\nJesse also knows his way around boats and has an old friend living free and easy in the Florida Keys. Being an experienced diver and angler, he immediately heads south toward Key West and the end of the road.<br/>\n<br/>\nWith a single comment, a waitress in a waterfront restaurant in north Key Largo shakes loose a long dormant dream and Jesse runs with it. With the help of friends, new and old, he buys just the right boat to live on and soon starts a part time charter business. Everything is going smoothly, until a Carolina girl and a hurricane hit him at the same time.<br/>\n<br/>\nDanger lurks in the sleepy little town of Marathon, in the middle of the Florida Keys, as well as in the swamps of the Everglades. But danger doesn&#39;t expect to run into a man like Jesse. A man who will not only respond swiftly in facing it, but with a vengeance unexpected.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/6e/c8/1d/6ec81d0d-db08-e7b8-aaa2-4ca331520790/58dafedc-2665-4630-adce-590caf382acf_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/6e/c8/1d/6ec81d0d-db08-e7b8-aaa2-4ca331520790/58dafedc-2665-4630-adce-590caf382acf_cover_image.jpg/100x100bb.jpg",
+      "trackCensoredName": "Fallen Out",
+      "trackViewUrl": "https://books.apple.com/gb/book/fallen-out/id1521024722?uo=4",
+      "artistViewUrl": "https://books.apple.com/gb/artist/wayne-stinnett/986118321?uo=4",
+      "genres": [
+        "Action & Adventure",
+        "Books",
+        "Fiction & Literature",
+        "Crime & Thrillers"
+      ],
+      "averageUserRating": 4,
+      "userRatingCount": 83,
+      "country": "GBR"
+    }
+  ]
+}

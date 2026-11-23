@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%98%A5%E9%87%8E%E5%8F%8B%E7%9F%A2/617767963?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/96/ef/50/96ef501b-2247-d9ee-3ea1-441f61e159ea/04660690A26667500000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/96/ef/50/96ef501b-2247-d9ee-3ea1-441f61e159ea/04660690A26667500000.jpg/100x100bb.jpg",
+      "artistIds": [
+        617767963
+      ],
+      "trackCensoredName": "ディーふらぐ! 21",
+      "formattedPrice": "¥1,000",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%87%E3%82%A3%E3%83%BC%E3%81%B5%E3%82%89%E3%81%90-21/id6832403739?uo=4",
+      "artistId": 617767963,
+      "artistName": "春野友矢",
+      "genres": [
+        "学園",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ"
+      ],
+      "price": 1000,
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "trackId": 6832403739,
+      "trackName": "ディーふらぐ! 21",
+      "genreIds": [
+        "11051",
+        "38",
+        "9026",
+        "10016"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "謎の飛行物体から生還した堅次たちのもとに平穏が訪れた──と思いきや、政府の役人たちが学園に現れる。<br/>\n彼らは船堀が隠し持っている「ブツ」を回収しにきたという。<br/>\nその「ブツ」って、ひょっとして「宇宙エロ本」のことでは!?……と、即座に察する生徒たち。<br/>\nかつてないほどに焦っている船堀を見かねた堅次は、船堀と二人で教室を抜け出した。<br/>\n逃避行の中で追い詰められた船堀は──新たな自分の姿を目の当たりにすることになる。",
+      "country": "JPN"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        6800474551
+      ],
+      "artistId": 6800474551,
+      "artistName": "Alice Fox",
+      "price": 0,
+      "trackId": 6835384569,
+      "trackName": "Tempting the Bosshole: A Billionaire Boss Romance",
+      "releaseDate": "2026-11-14T08:00:00Z",
+      "genreIds": [
+        "9003",
+        "38",
+        "10061"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "TALIA<br /><br />Two years ago I found forty million dollars that wasn't where it should be. I wrote it up. Four days later I was fired, and every firm in the city was told I was unstable.<br /><br />Now I pour drinks for a living. And one night I throw one in the face of the billionaire whose fund I lost everything over.<br /><br />He doesn't even blink. He texts me at two in the morning instead.<br /><br />He wants me to find his thief. And the only cover that gets me into his office, his parties and his home is pretending to be his girlfriend.<br /><br />Sixty days. A fortune. My name back. His rules on an index card in his breast pocket: no kissing on the mouth, no staying over, no lies.<br /><br />My best friends bet I can't make the man smile in thirty days.<br /><br />I intend to make him do a lot more than smile.<br /><br />PIERCE<br /><br />They call me the Iceberg. I've earned it. Nobody has seen me smile in six years, and I don't plan to start for a bartender from Brooklyn with a temper and a pair of gold hoops.<br /><br />But she's the only person who ever saw the rot in my company and said so out loud. Everyone else kept quiet.<br /><br />So I hire her. I give her my office, my nights, the combination to my safe. I give her my rules, and I watch her break them one by one.<br /><br />She doesn't kiss me on the mouth. She finds every other place.<br /><br />I don't tell her what I wrote about her on the day she walked in.<br /><br />Somebody close to me is stealing. The closer she gets to the truth, the closer she gets to me.<br /><br />And I have never wanted to lose control this badly in my life.<br /><br />This is the third book in The Bosshole Series. Reading order:<br /><br />Taming the Bosshole.<br /><br />Falling for the Bosshole.<br /><br />Tempting the Bosshole.<br /><br />Boss After Dark.<br /><br />An Heir for the Boss.<br /><br />Say Yes to the Boss.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/87/43/72/87437262-5d4a-5d88-a18f-a8e261bc75e0/6610001539313.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/87/43/72/87437262-5d4a-5d88-a18f-a8e261bc75e0/6610001539313.jpg/100x100bb.jpg",
+      "trackCensoredName": "Tempting the Bosshole: A Billionaire Boss Romance",
+      "trackViewUrl": "https://books.apple.com/gb/book/tempting-the-bosshole-a-billionaire-boss-romance/id6835384569?uo=4",
+      "artistViewUrl": "https://books.apple.com/gb/artist/alice-fox/6800474551?uo=4",
+      "genres": [
+        "Romance",
+        "Books",
+        "Romantic Suspense"
+      ],
+      "country": "GBR"
+    }
+  ]
+}

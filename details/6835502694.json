@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        6835503061
+      ],
+      "artistId": 6835503061,
+      "artistName": "Elizabeth Leeks",
+      "price": 0,
+      "trackId": 6835502694,
+      "trackName": "The Woman In Room 309",
+      "releaseDate": "2026-11-16T15:47:52Z",
+      "genreIds": [
+        "9031",
+        "38",
+        "10043"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "THE WOMAN IN ROOM 309\r\n\r\nWARNING: STRICTLY FOR MATURE READERS AGED 18 AND OVER.\r\n\r\nThis novel contains explicit sexual themes, strong language, psychological manipulation and desires that respectable society prefers to discuss behind closed doors.\r\n\r\nRose is brilliant, ambitious and still discovering the world.\r\n\r\nScarlett is fearless, adventurous and entirely unapologetic about the pleasures she pursues.\r\n\r\nVictoria is wealthy, powerful and dangerously intelligent. She knows exactly what desire can buy, what obsession can destroy, and why some secrets are worth keeping.\r\n\r\nIt is a story about the things people crave, the boundaries they cross and the truths they dare not confess.\r\n\r\nYou were warned about the contents.\r\n\r\nNobody said you had to resist.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/49/75/26/497526e4-579b-d2cb-b124-b21a74fb3b3f/6c63d4fc-5a29-4349-aab6-1c36e2a4e4b5_cover_image.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/49/75/26/497526e4-579b-d2cb-b124-b21a74fb3b3f/6c63d4fc-5a29-4349-aab6-1c36e2a4e4b5_cover_image.png/100x100bb.jpg",
+      "trackCensoredName": "The Woman In Room 309",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-woman-in-room-309/id6835502694?uo=4",
+      "artistViewUrl": "https://books.apple.com/gb/artist/elizabeth-leeks/6835503061?uo=4",
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Erotica"
+      ],
+      "country": "GBR"
+    }
+  ]
+}

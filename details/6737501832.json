@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Elegance of the Hedgehog",
+      "formattedPrice": "£0.99",
+      "artistViewUrl": "https://books.apple.com/gb/artist/muriel-barbery/299087259?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-elegance-of-the-hedgehog/id6737501832?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/eb/ec/84/ebec8436-9179-0839-eacd-2589f0846cb6/1050971959.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/eb/ec/84/ebec8436-9179-0839-eacd-2589f0846cb6/1050971959.jpg/100x100bb.jpg",
+      "artistId": 299087259,
+      "artistName": "Muriel Barbery",
+      "price": 0.99,
+      "trackId": 6737501832,
+      "trackName": "The Elegance of the Hedgehog",
+      "artistIds": [
+        299087259
+      ],
+      "genreIds": [
+        "10049",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "&lt;p&gt;&lt;p&gt;&lt;strong&gt;THE INTERNATIONAL PUBLISHING SENSATION WITH OVER 10 MILLION COPIES SOLD WORLDWIDE&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;'Witty and touching' - Gillian Anderson&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;'Wins over its fans with a life-affirming message, a generous portion of heart and Barbery's frequently wicked sense of humor' - &lt;cite&gt;Time Magazine&lt;/cite&gt;&lt;/strong&gt;&lt;/p&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;'Clever, informative and moving' - &lt;cite&gt;Observer&lt;/cite&gt;&lt;/strong&gt;&lt;/p&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;p&gt;Renée is the concierge of a grand Parisian apartment building. To the snobbish residents she is all they expect from a caretaker - hard working, dowdy and unsophisticated. But Renée has a secret. Beneath this façade she is a self-taught intellectual, devoted to Japanese arthouse cinema and her cat, Leo Tolstoy.&lt;/p&gt; &lt;p&gt;Meanwhile, several floors up, twelve-year-old Paloma has also learned to conceal her gifts. The precocious and lonely daughter of pampered parents, Paloma is convinced that life is meaningless and plans to end it all on her next birthday. But the arrival of a charismatic new resident will bring dramatic change to 7, Rue de Grenelle, altering the course of both their lives forever.&lt;/p&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;__________&lt;/strong&gt;&lt;/p&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;'Resistance is futile . . . you might as well buy it before someone recommends it for your book group' - &lt;cite&gt;Guardian&lt;/cite&gt;&lt;/strong&gt;&lt;/p&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;'A book of great charm and grace' - &lt;cite&gt;Metro&lt;/cite&gt;&lt;/strong&gt;&lt;/p&gt; &lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;'The book's attractive, Amélie-esque Parisian setting and cast of eccentrics will appeal to many' - &lt;cite&gt;Sunday Telegraph&lt;/cite&gt;&lt;/strong&gt;&lt;/p&gt; &lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;'Breathtakingly singular novel . . . totally French yet completely universal' - &lt;cite&gt;Good Housekeeping&lt;/cite&gt;&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;p&gt;&lt;strong&gt;'A user's guide to life which is a delight on every level' - &lt;cite&gt;Elle&lt;/cite&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/p&gt;",
+      "releaseDate": "2025-01-01T08:00:00Z",
+      "genres": [
+        "Literary Fiction",
+        "Books",
+        "Fiction & Literature"
+      ],
+      "country": "GBR"
+    }
+  ]
+}

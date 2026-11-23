@@ -1,0 +1,47 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/68/4c/72/684c72fd-cf6f-c6b1-b95f-6b569c71ff7b/BT000088859901101101900209.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/68/4c/72/684c72fd-cf6f-c6b1-b95f-6b569c71ff7b/BT000088859901101101900209.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E3%81%AA%E3%81%8E%E3%81%AF%E3%81%97%E3%81%93%E3%81%93-%E3%82%AC%E3%83%81%E3%83%A3%E7%A9%BA-%E3%83%9A%E3%82%B3%E3%83%BC-hj%E3%83%8E%E3%83%99%E3%83%AB%E3%82%B9/1548917098?uo=4",
+      "trackCensoredName": "ダンジョンバトルロワイヤル～魔王になったので世界統一を目指します～ (11)",
+      "formattedPrice": "¥850",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%90%E3%83%88%E3%83%AB%E3%83%AD%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AB-%E9%AD%94%E7%8E%8B%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7%E4%B8%96%E7%95%8C%E7%B5%B1%E4%B8%80%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%BE%E3%81%99-11/id6835275131?uo=4",
+      "artistIds": [
+        1548917098,
+        1187804492,
+        1459354329,
+        1548917099
+      ],
+      "artistId": 1548917098,
+      "genres": [
+        "ファンタジー",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "青年",
+        "アクション",
+        "異世界"
+      ],
+      "price": 850,
+      "genreIds": [
+        "50000074",
+        "38",
+        "9026",
+        "10016",
+        "11338",
+        "50000071",
+        "11345"
+      ],
+      "trackId": 6835275131,
+      "trackName": "ダンジョンバトルロワイヤル～魔王になったので世界統一を目指します～ (11)",
+      "releaseDate": "2026-11-22T08:00:00Z",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "激闘の末、魔王アリサに勝利したシオン。結果としてカノンに助けられる形での勝利であったが、シオンには腑に落ちない点が1つあった。<br />「なぜ魔王アリサが信頼できない…いや、裏切るとわかった?」<br />重い空気の中、問い詰められたカノンは淡々と語り出し…<br />そして、ついにレベルが10に到達したシオン。できることが格段に増え、次の侵攻へと乗り出していく…!!",
+      "artistName": "なぎはしここ, ガチャ空, ペコー & HJノベルス",
+      "country": "JPN"
+    }
+  ]
+}

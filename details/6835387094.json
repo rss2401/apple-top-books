@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Gratuit",
+      "artistIds": [
+        1734145425
+      ],
+      "artistId": 1734145425,
+      "artistName": "Alessa Steel",
+      "genres": [
+        "Thriller romantique",
+        "Livres",
+        "Romance"
+      ],
+      "price": 0,
+      "trackId": 6835387094,
+      "trackName": "Alek: Mafia et Dark Romance",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "DAISY<br /><br />Pendant six ans, j'ai enseigné en CM1. Puis les Koslov sont arrivés à Willington sur leurs motos, ont acheté tous les bâtiments de la ville et ont rasé mon école.<br /><br />Aujourd'hui, mon père est malade, ses médicaments coûtent une fortune, et le seul homme qui embauche encore est celui qui a démoli ma vie.<br /><br />Alek Koslov. Président du Sinners MC. Impitoyable, grossier, et persuadé que je vais sortir de son bureau en larmes comme toutes les filles avant moi.<br /><br />Je ne suis pas partie en courant.<br /><br />Maintenant, je travaille pour le diable, perchée sur les talons qu'il a choisis, dans un bar qui lui appartient.<br /><br />Et le pire, c'est à quel point j'aime qu'il me regarde.<br /><br />ALEK<br /><br />Je viens de rien. J'ai bâti le Sinners MC de mes propres mains, et je brûlerais cette ville entière plutôt que de retourner à la vie d'avant.<br /><br />Daisy Cooper devrait me haïr. Elle me hait. Elle me le dit tous les soirs, juste avant de prendre les commandes de mes clients avec son joli petit sourire de maîtresse d'école.<br /><br />Elle est têtue. Elle est fière. Elle est la seule personne à Willington qui n'a jamais eu peur de moi.<br /><br />Je lui ai donné ce boulot pour lui donner une leçon.<br /><br />Il se trouve que c'est elle qui va me briser.<br /><br />Ceci est le premier tome de la série «&#xa0;The Koslov Brothers Series&#xa0;». Ordre de lecture&#xa0;:<br /><br />Alek.<br /><br />Leo.<br /><br />Ares.",
+      "trackCensoredName": "Alek: Mafia et Dark Romance",
+      "artistViewUrl": "https://books.apple.com/fr/artist/alessa-steel/1734145425?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/alek-mafia-et-dark-romance/id6835387094?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e5/4c/41/e54c4104-da0d-06ff-b980-19e67a66fd54/6610001539436.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e5/4c/41/e54c4104-da0d-06ff-b980-19e67a66fd54/6610001539436.jpg/100x100bb.jpg",
+      "releaseDate": "2026-11-13T08:00:00Z",
+      "genreIds": [
+        "10061",
+        "38",
+        "9003"
+      ],
+      "country": "FRA"
+    }
+  ]
+}

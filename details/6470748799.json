@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Lignées de l'ombre (tome 3) - Ceux qui font tomber les rois",
+      "artistViewUrl": "https://books.apple.com/fr/artist/roxane-dambre/588128978?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/lign%C3%A9es-de-lombre-tome-3-ceux-qui-font-tomber-les-rois/id6470748799?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/aa/7e/48/aa7e48e9-f852-07c2-5372-da555e90066f/0001193123.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/aa/7e/48/aa7e48e9-f852-07c2-5372-da555e90066f/0001193123.jpg/100x100bb.jpg",
+      "artistIds": [
+        588128978
+      ],
+      "price": 5.99,
+      "genres": [
+        "Contemporain",
+        "Livres",
+        "SF et fantasy",
+        "Fantasy",
+        "Romance",
+        "Romance paranormale",
+        "Romans et littérature",
+        "Contes de fées, mythes et fables"
+      ],
+      "artistId": 588128978,
+      "artistName": "Roxane Dambre",
+      "genreIds": [
+        "11001",
+        "38",
+        "9020",
+        "10044",
+        "9003",
+        "10058",
+        "9031",
+        "11049"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<i><b>Le dernier tome de la série-événement enfin disponible !</b></i><br /><br />Les pixies… Laurette m'avait avertie que j'allais détester ces petites fées maléfiques, et elle avait raison&#xa0;!<br /><br />Nous pensions que la prochaine attaque viendrait des Chasseurs, mais non. Les pixies leur ont coupé l'herbe sous le pied en massacrant une famille de l'ombre et en brûlant leur domaine.<br /><br />Nous voilà coincés au manoir pour cinq jours de deuil, sans aucune certitude de ne pas être les suivants sur leur liste.<br /><br />Le problème&#xa0;?<br /><br />De leur côté, les Chasseurs n'ont pas dit leur dernier mot. Heinrich est toujours déterminé à récupérer les dévoreurs de magie et nous commençons à comprendre qu'il en sait vraiment, vraiment beaucoup sur le monde surnaturel.<br /><br />Ça va être coton de gérer ça en plus d'une bande de fées démoniaques.<br /><br />Pour couronner le tout, Julia n'a rien trouvé de mieux que d'inviter mes parents à venir passer quelques jours chez nous. Mes parents&#xa0;! La catastrophe est en marche&#xa0;!<br /><br />Élias n'ose plus me demander en mariage, il a peur que je dise oui et que je lui commandite des meurtres par paquets de dix. Il n'a peut-être pas tort…<br /><br /><b>Entre magie, humour et action : le grand final des Lignées de l'ombre !</b>",
+      "formattedPrice": "5,99 €",
+      "releaseDate": "2023-11-17T08:00:00Z",
+      "trackId": 6470748799,
+      "trackName": "Lignées de l'ombre (tome 3) - Ceux qui font tomber les rois",
+      "averageUserRating": 4.5,
+      "userRatingCount": 68,
+      "country": "FRA"
+    }
+  ]
+}

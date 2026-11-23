@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$0.99",
+      "trackCensoredName": "The Trip of a Lifetime",
+      "artistViewUrl": "https://books.apple.com/us/artist/kate-galley/1613782477?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-trip-of-a-lifetime/id6757003770?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/46/8b/ae/468bae79-1640-8132-91a4-3acd6bffcf09/9781806005987.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/46/8b/ae/468bae79-1640-8132-91a4-3acd6bffcf09/9781806005987.jpg/100x100bb.jpg",
+      "artistIds": [
+        1613782477
+      ],
+      "artistId": 1613782477,
+      "artistName": "Kate Galley",
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Romance",
+        "Holiday Romance",
+        "Family Fiction & Literature"
+      ],
+      "price": 0.99,
+      "releaseDate": "2026-09-03T07:00:00Z",
+      "genreIds": [
+        "9031",
+        "38",
+        "9003",
+        "11231",
+        "11050"
+      ],
+      "trackId": 6757003770,
+      "trackName": "The Trip of a Lifetime",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "The BRAND NEW brilliantly funny, relatable read from Kate Galley<br /><br />You’re never too old for a second chance… or for settling an old score.<br /><br />Martha’s life has grown smaller in her seventies – quiet days, a tidy flat, and the occasional call from her granddaughter, Erin. But she wasn't always so careful. Fifty years ago, she raced across Spain in a reality travel competition, chasing adventure – and almost winning. Until charming fellow competitor Harrison got in her way.<br /><br />When an invitation arrives for a reunion race, Martha’s first instinct is no. She’s too old for all that now. Isn’t she? But then she thinks of Erin, who is struggling since her mother’s death – this trip might be exactly what they both need.<br /><br />So that's how Martha and Erin find themselves heading for the Canadian wilderness. And this time, Martha is determined to beat Harrison once and for all.<br /><br />Praise for Kate Galley:<br /><br />'Warm, engaging and as beautifully crafted as the Shetland knitwear!' Linda Green<br /><br />'A glorious romp with a super-sensitive touch' Celia Anderson<br /><br />'This was so good. One of my favourite books this year' Rachel Burton<br /><br />'Wonderful to read about older heroines and with their age comes secrets, mysteries and challenges. Highly recommended' Maddie Please<br /><br />'An uplifting, positive story... Eat Pray Love for the older generation' Judy Leigh<br /><br />'I thoroughly enjoyed this poignant and heartwarming debut!' Fiona Gibson<br /><br />'I loved this book! I wouldn't have thought it was a debut novel, it was so well-written. I loved the author's style and also the pace of the story', NetGalley Reviewer<br /><br />'The perfect holiday read! I'll be looking for more books by Kate Galley in the future', NetGalley Reviewer<br /><br />'Wonderful story about friendships, second chances, and what ultimately can make life feel worth living', NetGalley Reviewer",
+      "country": "USA"
+    }
+  ]
+}

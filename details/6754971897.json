@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistId": 1472501789,
+      "artistName": "Rina Kent",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance"
+      ],
+      "price": 9.99,
+      "artistIds": [
+        1472501789
+      ],
+      "releaseDate": "2026-03-19T07:00:00Z",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003"
+      ],
+      "trackId": 6754971897,
+      "trackName": "God of Wrath, Legacy of Gods Tome 3 (Edition Française)",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Elle voulait infiltrer leur monde et en connaître les règles. Y compris les pires.<br /><br />Pour rendre service à un ami, Cecily Knight infiltre une soirée d’initiation organisée par les&#xa0; Heathens, société secrète de la King’s University. Mais la mission tourne au cauchemar : chasse à l’homme, masques, violence ritualisée… et un jeu cruel où seuls les plus forts survivent.<br />Parmi eux, Jeremy Volkov. Héritier d’un empire criminel, il gouverne les&#xa0; Heathens&#xa0; avec une froideur redoutable. Lorsqu’il repère Cecily, il décide qu’il ne la laissera pas s’échapper. Car Jeremy ne recule devant rien pour posséder ce qu’il désire. Et ce qu’il veut, c’est elle. Même si elle résiste. Même si elle fuit.<br />À partir du moment où il se lance à sa poursuite, elle n’est plus qu’une cible. Et Cecily réalise qu’il n’a jamais été question d’un jeu. Dans ce monde, on ne s’échappe pas. On se soumet… ou on tombe<br /><br />Attention : cette histoire est une dark romance qui n’entre pas dans les codes de la romance classique : romance y rime avec violence, et certaines scènes peuvent surprendre un lectorat non averti.",
+      "formattedPrice": "9,99 €",
+      "trackCensoredName": "God of Wrath, Legacy of Gods Tome 3 (Edition Française)",
+      "artistViewUrl": "https://books.apple.com/fr/artist/rina-kent/1472501789?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/god-of-wrath-legacy-of-gods-tome-3-edition-fran%C3%A7aise/id6754971897?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a6/cb/56/a6cb564b-9084-df48-1a9b-9904c29bb154/9782017904052-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a6/cb/56/a6cb564b-9084-df48-1a9b-9904c29bb154/9782017904052-001-x.jpeg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 73,
+      "country": "FRA"
+    }
+  ]
+}

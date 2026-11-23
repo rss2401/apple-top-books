@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E7%8F%88%E7%90%B2/954679287?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/4f/4c/2d/4f4c2d40-603b-37ad-b015-2e54ad0e85cd/BT000061562101601601900206.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/4f/4c/2d/4f4c2d40-603b-37ad-b015-2e54ad0e85cd/BT000061562101601601900206.jpg/100x100bb.jpg",
+      "artistIds": [
+        954679287
+      ],
+      "trackCensoredName": "ワンダンス(16)",
+      "formattedPrice": "¥800",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%B3%E3%82%B9-16/id6832492884?uo=4",
+      "artistId": 954679287,
+      "artistName": "珈琲",
+      "genres": [
+        "恋愛／ロマンス",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "スポーツ",
+        "青年"
+      ],
+      "price": 800,
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "trackId": 6832492884,
+      "trackName": "ワンダンス(16)",
+      "genreIds": [
+        "50000084",
+        "38",
+        "9026",
+        "10016",
+        "50000087",
+        "11338"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "湾田の「学校辞めるかも」という突然の宣言に大混乱のカボ。<br />ダンス一本の道に進もうとする湾田の姿を見て、自分の将来についても考え始める。<br />そんな中、恩ちゃんの代打としてショーイベントに2人で出ることに。<br /><br />一方で、ダンス部を辞めた伊折も進路について考えていた。<br />悩んだまま始まった修学旅行を抜け出して参加したダンスバトルで、ある人物と出会う。<br /><br />自分の将来、相手との将来、踊る理由──。<br />それぞれが、悩みながらも踊り続ける!",
+      "country": "JPN"
+    }
+  ]
+}

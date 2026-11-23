@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        1874739672
+      ],
+      "artistId": 1874739672,
+      "artistName": "Ruby St. Clair",
+      "price": 0,
+      "trackId": 6829277115,
+      "trackName": "Kill for You: Dark Mafia Romance",
+      "releaseDate": "2026-10-31T07:00:00Z",
+      "genreIds": [
+        "10061",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>DAHLIA</b><br /><br />At sixteen, I was the girl who sat alone in the library. The principal's favorite. The one with the pink bow and the perfect grades and nobody to eat lunch with.<br /><br />Then they made me tutor the scariest boy in school.<br /><br />He said maybe ten words to me all year. He walked me to my bus every day without once walking beside me. And when he left, he kept one promise. Every birthday at midnight, the same four words.<br /><br /><b>Happy birthday, pink girl.</b><br /><br />Now I'm twenty-one, and he's standing outside my house with a gold necklace in his hand and a face I barely recognize. Tattoos. A driver. A gun he says is legal. Men who go quiet when he walks into a room.<br /><br />He says he's my best friend.<br /><br />He looks at me like he's been starving.<br /><br /><b>PIETRO</b><br /><br />I was eighteen when I decided she would never be part of my world.<br /><br />So I loved her from across the street. For five years. I made sure nothing ever touched her and she never knew why.<br /><br />Then I broke my own rule and knocked on her door.<br /><br /><b>Now someone in this city knows her name.</b><br /><br />She thinks I'm the grumpy boy she taught algebra to. She has no idea what my last name means, or what I've done, or what I am willing to do to anyone who comes near her.<br /><br /><b>I would kill for her. I already have.</b><br /><br />The only thing I can't do is let her go.<br /><br /><i>This is the first book in The Until Death Series. Reading order:</i><br /><br /><i>Kill for You</i><br /><br /><i>Die for You</i>",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/77/7f/26/777f266b-ff0d-db83-fdfc-f6914ae72ff4/0004488158.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/77/7f/26/777f266b-ff0d-db83-fdfc-f6914ae72ff4/0004488158.jpg/100x100bb.jpg",
+      "trackCensoredName": "Kill for You: Dark Mafia Romance",
+      "trackViewUrl": "https://books.apple.com/gb/book/kill-for-you-dark-mafia-romance/id6829277115?uo=4",
+      "artistViewUrl": "https://books.apple.com/gb/artist/ruby-st-clair/1874739672?uo=4",
+      "genres": [
+        "Romantic Suspense",
+        "Books",
+        "Romance",
+        "Contemporary Romance"
+      ],
+      "country": "GBR"
+    }
+  ]
+}

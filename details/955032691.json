@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        290200586
+      ],
+      "formattedPrice": "Gratis",
+      "trackViewUrl": "https://books.apple.com/de/book/emilia-galotti/id955032691?uo=4",
+      "trackCensoredName": "Emilia Galotti",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication7/v4/d6/3f/fc/d63ffc70-8150-adc0-9276-717791f43c05/coverArt.07a82d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication7/v4/d6/3f/fc/d63ffc70-8150-adc0-9276-717791f43c05/coverArt.07a82d.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/gotthold-ephraim-lessing/290200586?uo=4",
+      "genres": [
+        "Theater",
+        "Bücher",
+        "Kultur und Unterhaltung"
+      ],
+      "artistId": 290200586,
+      "artistName": "Gotthold Ephraim Lessing",
+      "price": 0,
+      "releaseDate": "2014-12-31T21:58:32Z",
+      "genreIds": [
+        "10036",
+        "38",
+        "9007"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Der Prinz (an einem Arbeitstische voller Briefschaften und Papiere, deren einige er durchlaeuft). Klagen, nichts als Klagen! Bittschriften, nichts als Bittschriften!—Die traurigen Geschaefte; und man beneidet uns noch!—Das glaub ich; wenn wir allen helfen koennten: dann waeren wir zu beneiden.—Emilia? (Indem er noch eine von den Bittschriften aufschlaegt und nach dem unterschriebenen Namen sieht.) Eine Emilia?—Aber eine Emilia Bruneschi—nicht Galotti. Nicht Emilia Galotti!—Was will sie, diese Emilia Bruneschi? (Er lieset.) Viel gefodert, sehr viel.—Doch sie heisst Emilia. Gewaehrt! (Er unterschreibt und klingelt, worauf ein Kammerdiener hereintritt.) Es ist wohl noch keiner von den Raeten in dem Vorzimmer?",
+      "trackId": 955032691,
+      "trackName": "Emilia Galotti",
+      "averageUserRating": 3,
+      "userRatingCount": 59,
+      "country": "DEU"
+    }
+  ]
+}

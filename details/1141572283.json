@@ -36,7 +36,6 @@
       "averageUserRating": 4.5
     },
     {
-      "formattedPrice": "Free",
       "trackCensoredName": "Emotional Intelligence Mastery: A Practical Guide To Improving Your EQ",
       "artistViewUrl": "https://books.apple.com/us/artist/eric-jordan/96971466?uo=4",
       "trackViewUrl": "https://books.apple.com/us/book/emotional-intelligence-mastery-a-practical-guide-to/id1141572283?uo=4",
@@ -45,6 +44,7 @@
       "artistIds": [
         96971466
       ],
+      "formattedPrice": "Free",
       "artistId": 96971466,
       "artistName": "Eric Jordan",
       "genres": [

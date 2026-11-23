@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        2765976
+      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/ba/92/3b/ba923bad-b07f-4294-078a-e123d99bab83/9788827520710.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/ba/92/3b/ba923bad-b07f-4294-078a-e123d99bab83/9788827520710.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/william-shakespeare/2765976?uo=4",
+      "trackCensoredName": "Hamlet (Silver Classics)",
+      "formattedPrice": "Gratis",
+      "trackViewUrl": "https://books.apple.com/de/book/hamlet-silver-classics/id1317414279?uo=4",
+      "artistId": 2765976,
+      "artistName": "William Shakespeare",
+      "genres": [
+        "Theater",
+        "Bücher",
+        "Kultur und Unterhaltung"
+      ],
+      "price": 0,
+      "genreIds": [
+        "10036",
+        "38",
+        "9007"
+      ],
+      "releaseDate": "2017-11-21T08:00:00Z",
+      "trackId": 1317414279,
+      "trackName": "Hamlet (Silver Classics)",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Hamlet is a tragedy by William Shakespeare, believed to have been written between 1599 and 1601. The play, set in Denmark, recounts how Prince Hamlet exacts revenge on his uncle Claudius, who has murdered Hamlet's...",
+      "country": "DEU"
+    }
+  ]
+}

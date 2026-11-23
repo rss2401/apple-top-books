@@ -1,0 +1,41 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "グラゼニ～大リーグ編～(10)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%A3%AE%E9%AB%98%E5%A4%95%E6%AC%A1-%E8%B6%B3%E7%AB%8B%E9%87%91%E5%A4%AA%E9%83%8E/608613757?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%82%B0%E3%83%A9%E3%82%BC%E3%83%8B-%E5%A4%A7%E3%83%AA%E3%83%BC%E3%82%B0%E7%B7%A8-10/id6833394115?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/eb/cb/7a/ebcb7aac-29a0-8e3d-4fed-464db42f3378/BT000111865801001001900206.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/eb/cb/7a/ebcb7aac-29a0-8e3d-4fed-464db42f3378/BT000111865801001001900206.jpg/100x100bb.jpg",
+      "artistIds": [
+        608613757,
+        1363892463
+      ],
+      "artistId": 608613757,
+      "artistName": "森高夕次 & 足立金太郎",
+      "genres": [
+        "スポーツ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "青年"
+      ],
+      "price": 800,
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "genreIds": [
+        "50000087",
+        "38",
+        "9026",
+        "10016",
+        "11338"
+      ],
+      "trackId": 6833394115,
+      "trackName": "グラゼニ～大リーグ編～(10)",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "オールジャパンは無事に決勝ラウンドへ進出! 初戦の相手は夏之介がメジャーで共闘した男・ショーン擁するイタリア。絶対に勝たなければいけないこの戦い、しかし日本打線の主砲・三冠王のバットはいまだ沈黙のまま…。日本中が、家族が、子供たちが固唾を呑んで見守るなか、これまでとは一線を画す強敵を相手に、パパたちはカッチョイイ背中を見せられるのか…!?",
+      "formattedPrice": "¥800",
+      "country": "JPN"
+    }
+  ]
+}

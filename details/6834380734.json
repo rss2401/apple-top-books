@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E3%82%B3%E3%83%8E%E3%82%B7%E3%83%9E%E3%83%AB%E3%82%AB/1760107722?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ed/e8/7c/ede87c8d-6c9b-3c36-0c31-6add7e470ec8/BT000164063301001001900203.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ed/e8/7c/ede87c8d-6c9b-3c36-0c31-6add7e470ec8/BT000164063301001001900203.jpg/100x100bb.jpg",
+      "artistIds": [
+        1760107722
+      ],
+      "artistId": 1760107722,
+      "artistName": "コノシマルカ",
+      "genres": [
+        "ホラー",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "少年"
+      ],
+      "price": 590,
+      "releaseDate": "2026-11-18T08:00:00Z",
+      "trackId": 6834380734,
+      "trackName": "写らナイんです(10)",
+      "genreIds": [
+        "50000089",
+        "38",
+        "9026",
+        "10016",
+        "11337"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "どうなる、恐怖のお見合いぶち壊し作戦!?<br /><br />間宮先生のお見合いをぶち壊そうと、<br />狂奔する鬼崎、そして烏野神父。<br />一方日下は、八尺様と恋に落ち…!?<br /><br />他にも恐怖の文化祭に、<br />黒桐と橘の“初めての喧嘩”など。<br />恋も恐怖もフルスロットルな第10巻!!",
+      "trackCensoredName": "写らナイんです(10)",
+      "formattedPrice": "¥590",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E5%86%99%E3%82%89%E3%83%8A%E3%82%A4%E3%82%93%E3%81%A7%E3%81%99-10/id6834380734?uo=4",
+      "averageUserRating": 5,
+      "userRatingCount": 6,
+      "country": "JPN"
+    }
+  ]
+}

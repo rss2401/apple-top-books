@@ -6,14 +6,15 @@
       "artistIds": [
         961211914
       ],
-      "price": 7.99,
       "artistId": 961211914,
       "artistName": "Nils Barrellon",
       "genres": [
         "Policier et suspense",
         "Livres"
       ],
-      "releaseDate": "2026-11-04T08:00:00Z",
+      "price": 7.99,
+      "trackId": 6818485771,
+      "trackName": "Seine de crime",
       "genreIds": [
         "9032",
         "38"
@@ -26,10 +27,9 @@
       "trackViewUrl": "https://books.apple.com/fr/book/seine-de-crime/id6818485771?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/04/41/f1/0441f1dc-66d5-103d-9896-b7ed0d4733ba/9782213737249-001-x.jpeg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/04/41/f1/0441f1dc-66d5-103d-9896-b7ed0d4733ba/9782213737249-001-x.jpeg/100x100bb.jpg",
-      "trackId": 6818485771,
-      "trackName": "Seine de crime",
-      "averageUserRating": 4,
-      "userRatingCount": 15,
+      "releaseDate": "2026-11-04T08:00:00Z",
+      "averageUserRating": 3.5,
+      "userRatingCount": 28,
       "country": "FRA"
     }
   ]

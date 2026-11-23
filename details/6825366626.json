@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "trackId": 6825366626,
+      "trackName": "Wildflowers & Bullets: Dark Mafia Romance",
+      "artistIds": [
+        1758423300
+      ],
+      "artistId": 1758423300,
+      "artistName": "Daisy Bloom",
+      "genres": [
+        "Romantic Suspense",
+        "Books",
+        "Romance"
+      ],
+      "price": 0,
+      "genreIds": [
+        "10061",
+        "38",
+        "9003"
+      ],
+      "releaseDate": "2026-10-17T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>AURORA</b><br /><br />I was raised for one night.<br /><br />One party. One red dress. One gun on my thigh, and one man at the end of it.<br /><br />Adriano Castellani rules Florence. His family destroyed mine. I've spent my whole life learning how to get close enough to put a bullet in his heart.<br /><br /><b>I got close. I missed.</b><br /><br />He should have killed me. That's the law in his world. Instead he carried me out of his own engagement party and locked me in his house on the hill.<br /><br />Now he says I'll marry him or I'll die. He says one day I'll beg him for more than my life.<br /><br />I'd rather burn.<br /><br /><b>But every night under his roof, I forget a little more which one of us is the monster.</b><br /><br /><b>ADRIANO</b><br /><br />She walked into my engagement party in red silk and tried to kill me.<br /><br />She was beautiful. She was fast. She was very nearly good enough.<br /><br />By our law, she should be at the bottom of the Arno. My men are waiting for me to put her there.<br /><br />Then I saw what was inked on her skin, and I knew exactly who she was.<br /><br />So I kept her. I put my ring on her finger to keep her breathing.<br /><br />She sharpens my grandmother's knives at my table. She bites when I kiss her. She swears she'll finish what she came to Florence to do.<br /><br /><b>Let her try. I'm not letting her go.</b><br /><br /><i>This is the first book in The Wildflower War Series. Reading order:</i><br /><br /><i>Wildflowers and Bullets.</i><br /><br /><i>Wildflowers and Blood.</i><br /><br /><i>Wildflowers and Bones.</i>",
+      "trackCensoredName": "Wildflowers & Bullets: Dark Mafia Romance",
+      "artistViewUrl": "https://books.apple.com/us/artist/daisy-bloom/1758423300?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/wildflowers-bullets-dark-mafia-romance/id6825366626?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/32/91/15/329115ec-3f10-b0ba-b544-a4b372ed367d/6610001483173.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/32/91/15/329115ec-3f10-b0ba-b544-a4b372ed367d/6610001483173.jpg/100x100bb.jpg",
+      "country": "USA"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        299126753
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Books",
+        "Fiction & Literature",
+        "Historical Fiction"
+      ],
+      "artistId": 299126753,
+      "artistName": "Mary Lawson",
+      "releaseDate": "2026-11-19T08:00:00Z",
+      "trackId": 6760325337,
+      "trackName": "Solace in Winter",
+      "genreIds": [
+        "10049",
+        "38",
+        "9031",
+        "10047"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>A RADIO 2 BOOK CLUB pick</b><br /><b>An OPRAH'S BOOK CLUB pick </b><br /><br />'Utterly captivating' <b>GRAHAM NORTON</b><br />'A beauty of a book' <b>RACHEL JOYCE</b><br />'Beautifully written and deeply moving' <b>OPRAH WINFREY</b><br />'The Canadian Elizabeth Strout' <i><b>THE TIMES</b></i><br /><br /><b>The novel stealing readers' hearts this Christmas: An unexpected friendship between two men and a dog ripples across a small town, thawing spirits, overturning expectations and forcing difficult choices</b><br /><br />It is deep winter, 1969. The quiet town of Solace is in hibernation. But as the Vietnam War drives young men north across the Canadian border, widower Jack’s quiet life is overturned by two accidents that happen on the bend in the road into town. First comes a dog in a bad way. Next a draft-dodger, seriously injured, lying in the snow.<br /><br />Suddenly, Jack’s cabin is busy with a growing cast of characters – and all the baggage, dreams and desires they’re carrying. But the atmosphere chills when Jack’s daughter Sally drops by one day and doesn’t like what she sees...<br /><br />This exquisite snow globe of a novel is a refuge, a story of connection and moral complexity set in the remote, beautiful Canadian world that has made Mary Lawson's novels and characters so beloved.<br /><br /><b>*****5-STAR READER REVIEWS*****</b><br />'<b>Such a special book</b>. I read it in just over a day, neglecting all plans and conversation'<br />'Loved this. Finished it within 24 hours and regret it. <b>I’m off to hunt down more of her books</b>'<br />'It reminded me of <b>Ann Patchett, Elizabeth Strout and Anne Tyler</b>'<br />'A perfect example of a universal story told in miniature... <b>a small masterpiece</b>'<br />'<b>My favourite book of the year</b> . . . I’m still wondering how the residents of Solace are'<br />'I’m not sure I have the words for this. <b>It’s just beautiful</b> . . . I’m envious of everyone who still has this to read'<br />'Well, isn't this just <b>the perfect book to curl up with and escape in</b>?'<br />'I plucked this book solely for its title and <b>now I have to read every single story by Mary Lawson</b>'<br />'This is <b>an absolutely beautiful book, a real treasure</b>. I was immersed in it, rationing myself, wanting it to last and last'<br />'<b>Has made me fall back in love with reading</b>'",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/5e/ab/9a/5eab9a61-23b4-c451-c626-aa29d41c1a35/9781529998276.jpg/60x60bb.jpg",
+      "trackCensoredName": "Solace in Winter",
+      "artistViewUrl": "https://books.apple.com/gb/artist/mary-lawson/299126753?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/solace-in-winter/id6760325337?uo=4",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/5e/ab/9a/5eab9a61-23b4-c451-c626-aa29d41c1a35/9781529998276.jpg/100x100bb.jpg",
+      "formattedPrice": "£7.99",
+      "price": 7.99,
+      "country": "GBR"
+    }
+  ]
+}

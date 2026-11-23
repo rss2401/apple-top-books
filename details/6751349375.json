@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$0.99",
+      "trackCensoredName": "The Murder at the Murder at the Mimosa Inn",
+      "artistViewUrl": "https://books.apple.com/us/artist/joan-hess/295236435?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-murder-at-the-murder-at-the-mimosa-inn/id6751349375?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b0/e4/94/b0e4942a-8dfb-f31e-29f7-191c3c0ba71e/1061404693.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b0/e4/94/b0e4942a-8dfb-f31e-29f7-191c3c0ba71e/1061404693.jpg/100x100bb.jpg",
+      "artistIds": [
+        295236435
+      ],
+      "artistId": 295236435,
+      "artistName": "Joan Hess",
+      "genres": [
+        "Cozy Mysteries",
+        "Books",
+        "Mysteries & Thrillers"
+      ],
+      "price": 0.99,
+      "releaseDate": "1986-09-15T07:00:00Z",
+      "genreIds": [
+        "11259",
+        "38",
+        "9032"
+      ],
+      "trackId": 6751349375,
+      "trackName": "The Murder at the Murder at the Mimosa Inn",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "When you make a game of murder, be careful who the players are...<br />\n   Who could resist the mock-murder weekend at the charming Mimosa Inn-- certainly not bookstore owner and amateur sleuth Claire Malloy, who decides to bring her petulant daughter Caron along for some detecting. As the guests settle in for a weekend of sleuthing, dressed as their favorite literary detectives, many a Miss Marple and Hercule Poirot stand poised to solve a murder. But fiction becomes alarmingly real, as the mock-murder victim isn't just playing dead-- he's really been bashed to death. More determined than even to find the killer, Claire combs the grounds of the lovely inn for this most uninvited guest.",
+      "country": "USA"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        375644852
+      ],
+      "artistId": 375644852,
+      "artistName": "Eva Almstädt",
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Belletristik und Literatur",
+        "Weibliche Spürnasen"
+      ],
+      "price": 5.99,
+      "releaseDate": "2022-05-27T07:00:00Z",
+      "genreIds": [
+        "9032",
+        "38",
+        "9031",
+        "10055"
+      ],
+      "trackId": 1593297276,
+      "trackName": "Akte Nordsee - Am dunklen Wasser",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Fentje Jacobsen entspricht nicht dem klassischen Bild einer Rechtsanwältin. Sie betreibt ihre Kanzlei vom Bauernhof ihrer Großeltern in Nordfriesland aus. Dort rauben ihr die beginnende Demenz der Oma, eine renitente 14-jährige Nichte und der leichtsinnige Bruder den letzten Nerv. Als Fentje beauftragt wird, einen jungen Mann zu vertreten, der des Mordes an seiner Freundin verdächtigt wird, stößt sie auf einen alten, sehr ähnlichen Fall. Fast zeitgleich verschwinden zwei Schülerinnen aus einem nahe gelegenen Internat. Bei ihren Nachforschungen lernt sie den weltgewandten, ehrgeizigen Journalisten Niklas John kennen. Trotz unterschiedlicher Ziele beginnen sie gemeinsam zu ermitteln ...",
+      "trackCensoredName": "Akte Nordsee - Am dunklen Wasser",
+      "artistViewUrl": "https://books.apple.com/de/artist/eva-almst%C3%A4dt/375644852?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/akte-nordsee-am-dunklen-wasser/id1593297276?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/82/a0/5c/82a05c59-43f2-b788-b1dc-ccb7815aaf7a/9783751720663.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/82/a0/5c/82a05c59-43f2-b788-b1dc-ccb7815aaf7a/9783751720663.jpg/100x100bb.jpg",
+      "formattedPrice": "5,99 €",
+      "averageUserRating": 4,
+      "userRatingCount": 143,
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Bridesmaid",
+      "formattedPrice": "£0.99",
+      "artistViewUrl": "https://books.apple.com/gb/artist/ruth-rendell/2769651?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-bridesmaid/id437477535?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/e2/62/c3/e262c302-c2c2-6369-eb15-ff969217e00e/9781409068556.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/e2/62/c3/e262c302-c2c2-6369-eb15-ff969217e00e/9781409068556.jpg/100x100bb.jpg",
+      "artistId": 2769651,
+      "artistName": "Ruth Rendell",
+      "price": 0.99,
+      "trackId": 437477535,
+      "trackName": "The Bridesmaid",
+      "artistIds": [
+        2769651
+      ],
+      "genreIds": [
+        "9032",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<i><b>Would you kill for love? A breathtakingly tense and taut exploration into the criminal power of love from </b><b>multi-million copy and SUNDAY TIMES bestselling author Ruth Rendell. Perfect for fans of PD James, Ann Cleeves and Donna Leon.</b></i><br /><br /><b>'Every sentence is appallingly, shockingly convincing . . . a memorably </b><b>harrowing journey through sick and weak minds, written with a skill that makes it relentlessly gripping' -- </b><b><i>The Times</i></b><br /><b>'To read her at her best - and </b><b><i>The Bridesmaid </i></b><b>is perhaps her best book - is like </b><b>stepping on to a trundling country bus and feeling it turn into a roller coaster' -- </b><b><i>Sunday Times</i></b><br /><b>'Absorbing and unputdownable' -- ***** Reader review</b><br /><b>'Ruth Rendell at her very best' -- ***** Reader review</b><br /><b>'Couldn't put it down' -- ***** Reader review</b><br /><b>'Top class, as usual' -- ***** Reader review</b><br /><br /><b>**********************************************************************************</b><br /><br /><b>Philip Wardman's</b> feminine ideal is the statue of <b>the Roman goddess Flora</b> in his mother's garden. His marble Flora doesn't fade, doesn't alter, doesn't die.<br /><br />But then he meets <b>Senta Pelham</b>, a beautiful, sensual, childlike actress and a living incarnation of the statue.<br /><br />The two embark on a passionate affair that soon becomes dangerous when Senta sets Philip a test; <b>to prove their love, they must each commit the ultimate crime against humanity...</b>",
+      "releaseDate": "2010-02-23T08:00:00Z",
+      "genres": [
+        "Crime & Thrillers",
+        "Books",
+        "Fiction & Literature"
+      ],
+      "country": "GBR"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Ostseefluch",
+      "artistViewUrl": "https://books.apple.com/de/artist/eva-almst%C3%A4dt/375644852?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/ostseefluch/id491123422?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/13/d3/6f/13d36f54-d5e4-7b77-ed9e-48bfa3a12a4b/9783838710891.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/13/d3/6f/13d36f54-d5e4-7b77-ed9e-48bfa3a12a4b/9783838710891.jpg/100x100bb.jpg",
+      "artistId": 375644852,
+      "artistName": "Eva Almstädt",
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Polizeiromane",
+        "Weibliche Spürnasen",
+        "Belletristik und Literatur",
+        "Familienbelletristik und Literatur"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Im Garten eines verwahrlosten Anwesens auf Fehmarn wird die Leiche einer jungen Frau gefunden. Der Mord löst bei Einheimischen und Touristen Entsetzen aus. Doch die Eltern des Opfers scheinen etwas zu verschweigen. Stattdessen heißt es, dass auf dem alten Haus ein Fluch liegen soll. <br /><br />Pia Korittki, Kommissarin und alleinerziehende Mutter, glaubt nicht an Geistergeschichten. Aber dann geraten die Ermittlungen in eine Sackgasse, und Pia Korittki erkennt etwas Unglaubliches: dass es Zeit wird, sich mit dem Fluch zu befassen ...",
+      "formattedPrice": "5,99 €",
+      "releaseDate": "2012-02-17T08:00:00Z",
+      "artistIds": [
+        375644852
+      ],
+      "genreIds": [
+        "9032",
+        "38",
+        "10052",
+        "10055",
+        "9031",
+        "11050"
+      ],
+      "trackId": 491123422,
+      "trackName": "Ostseefluch",
+      "price": 5.99,
+      "averageUserRating": 4,
+      "userRatingCount": 186,
+      "country": "DEU"
+    }
+  ]
+}

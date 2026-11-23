@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Les Vipères Vénères",
+      "artistViewUrl": "https://books.apple.com/fr/artist/anne-langlois/1740248547?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-vip%C3%A8res-v%C3%A9n%C3%A8res/id6809636446?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/34/5d/cb/345dcb49-a6c3-0ba5-7f96-f4ae279896e6/9782095060176.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/34/5d/cb/345dcb49-a6c3-0ba5-7f96-f4ae279896e6/9782095060176.jpg/100x100bb.jpg",
+      "artistIds": [
+        1740248547
+      ],
+      "price": 11.99,
+      "genres": [
+        "Fiction pour jeunes adultes",
+        "Livres",
+        "Jeunes adultes",
+        "Romance pour jeunes adultes"
+      ],
+      "artistId": 1740248547,
+      "artistName": "Anne Langlois",
+      "genreIds": [
+        "11177",
+        "38",
+        "11165",
+        "11194"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Face à l'extrême droite, l'union fait la force, sur patins comme dans la ville !</b><br /><br />Les Vipères Vénères, le groupe de roller-derby de Roquiville, n'a plus accès au gymnase municipal. Depuis les élections, le nouveau maire considère ce sport comme \"contre-nature\", coupe les subventions et décide de rayer de la carte les Vipères.<br />L'équipe des filles se mobilise pour continuer à s'entraîner et à défendre des droits, et ceux de toute une communauté. Emma, la benjamine de 18 ans, Cassiopée la musclée qui travaille à la mairie, et Bonnie l'étudiante, doivent gérer leur vie personnelle et amoureuse, dans ce combat mouvementé.<br /><br /><i>Porté par une écriture vive et authentique, le roman célèbre le courage d'être soi, la puissance du collectif et la beauté de se relever, ensemble, même quand tout semble perdu.</i>",
+      "formattedPrice": "11,99 €",
+      "releaseDate": "2026-09-10T07:00:00Z",
+      "trackId": 6809636446,
+      "trackName": "Les Vipères Vénères",
+      "country": "FRA"
+    }
+  ]
+}

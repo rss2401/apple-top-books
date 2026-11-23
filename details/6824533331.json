@@ -1,0 +1,63 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "formattedPrice": "$13.99",
+      "trackCensoredName": "Wrath of Terra: The Scouring, Book 2",
+      "artistViewUrl": "https://books.apple.com/us/artist/john-french/416760550?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/wrath-of-terra-the-scouring-book-2/id6824533331?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/60/14/aa/6014aa47-a696-1c37-9060-d1e42664279e/Wrath-Of-Terra-Cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/60/14/aa/6014aa47-a696-1c37-9060-d1e42664279e/Wrath-Of-Terra-Cover.jpg/100x100bb.jpg",
+      "artistIds": [
+        416760550
+      ],
+      "artistId": 416760550,
+      "artistName": "John French",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Books"
+      ],
+      "price": 13.99,
+      "releaseDate": "2026-11-21T08:00:00Z",
+      "genreIds": [
+        "9020",
+        "38"
+      ],
+      "trackId": 6824533331,
+      "trackName": "Wrath of Terra: The Scouring, Book 2",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>Book 2 in The Scouring Series</b><b></b><br /><br />\r\nThe Horus Heresy is over, but the war for the future of the Imperium is just beginning. Loyalists scramble to rebuild before their enemies regroup and return, all the while debating about how to run an empire without an Emperor. The Traitors are fleeing for their lives, their faith in the dark gods shaken. The fate of Mars has yet to be decided. How will the remains of the Legions respond to the demands of a new age?<br /><br />\r\n<b>READ IT BECAUSE</b><b></b><br />\r\nThe final moments of the Horus Heresy tore a wound in the fabric of the Imperium from which it would never fully recover. In the aftermath, Humanity had to find a new way forward. This book offers another glimpse into the repercussions of the war, and the beginning of what would become the grim darkness of the far future.<br /><br />\r\n<b>THE STORY</b><br />\r\nThe Emperor is silent. Sacred Mars is a desecrated world of nightmare machines and the forge fanes of the Dark Mechanicum. In the emptiness between the stars, the Traitor Legions are running for their lives.&#xa0;<br /><br />\r\nIn this cauldron of ruin, Titus Prayto fights to secure the future of the Imperium, a future which only the Space Marines can protect. Ortag Theokon of the Iron Warriors seeks sanctuary amongst the wasteland of a lost war. Apollyon of the Blood Angels fights for salvation with the shadow of his father’s death clinging to his back. While primarchs and High Lords scramble for power, Mouhausen, once Chosen of Malcador, seeks to balance the needs of the future against the fury of the present.&#xa0;<br /><br />\r\nThe angels of the past are now the monsters of an age of ashes.<br /><br />\r\nWritten by John French.",
+      "country": "USA"
+    },
+    {
+      "artistIds": [
+        416760550
+      ],
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Books"
+      ],
+      "artistId": 416760550,
+      "artistName": "John French",
+      "price": 10.99,
+      "genreIds": [
+        "9020",
+        "38"
+      ],
+      "releaseDate": "2026-11-21T08:00:00Z",
+      "trackName": "Wrath of Terra: The Scouring, Book 2",
+      "trackId": 6824533331,
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>Book 2 in The Scouring Series</b><b></b><br /><br />\r\nThe Horus Heresy is over, but the war for the future of the Imperium is just beginning. Loyalists scramble to rebuild before their enemies regroup and return, all the while debating about how to run an empire without an Emperor. The Traitors are fleeing for their lives, their faith in the dark gods shaken. The fate of Mars has yet to be decided. How will the remains of the Legions respond to the demands of a new age?<br /><br />\r\n<b>READ IT BECAUSE</b><b></b><br />\r\nThe final moments of the Horus Heresy tore a wound in the fabric of the Imperium from which it would never fully recover. In the aftermath, Humanity had to find a new way forward. This book offers another glimpse into the repercussions of the war, and the beginning of what would become the grim darkness of the far future.<br /><br />\r\n<b>THE STORY</b><br />\r\nThe Emperor is silent. Sacred Mars is a desecrated world of nightmare machines and the forge fanes of the Dark Mechanicum. In the emptiness between the stars, the Traitor Legions are running for their lives.&#xa0;<br /><br />\r\nIn this cauldron of ruin, Titus Prayto fights to secure the future of the Imperium, a future which only the Space Marines can protect. Ortag Theokon of the Iron Warriors seeks sanctuary amongst the wasteland of a lost war. Apollyon of the Blood Angels fights for salvation with the shadow of his father’s death clinging to his back. While primarchs and High Lords scramble for power, Mouhausen, once Chosen of Malcador, seeks to balance the needs of the future against the fury of the present.&#xa0;<br /><br />\r\nThe angels of the past are now the monsters of an age of ashes.<br /><br />\r\nWritten by John French.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/60/14/aa/6014aa47-a696-1c37-9060-d1e42664279e/Wrath-Of-Terra-Cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/60/14/aa/6014aa47-a696-1c37-9060-d1e42664279e/Wrath-Of-Terra-Cover.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/gb/artist/john-french/416760550?uo=4",
+      "trackCensoredName": "Wrath of Terra: The Scouring, Book 2",
+      "formattedPrice": "£10.99",
+      "trackViewUrl": "https://books.apple.com/gb/book/wrath-of-terra-the-scouring-book-2/id6824533331?uo=4",
+      "country": "GBR"
+    }
+  ]
+}

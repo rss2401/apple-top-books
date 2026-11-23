@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistId": 1207269815,
+      "artistName": "Thierry Breton",
+      "genres": [
+        "Politique et actualité",
+        "Livres",
+        "Science politique",
+        "Politique étrangère et relations internationales"
+      ],
+      "price": 15.99,
+      "artistIds": [
+        1207269815
+      ],
+      "releaseDate": "2026-11-19T08:00:00Z",
+      "genreIds": [
+        "9034",
+        "38",
+        "11264",
+        "11261"
+      ],
+      "trackId": 6774421425,
+      "trackName": "Seuls",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Les solutions concrètes d'un commissaire européen pour que l'Europe retrouve sa place sur l'échiquier mondial<br /><br />Emblème du droit et de la démocratie, l'Europe est aujourd'hui bousculée par d'autres pays qui n'hésitent plus à<b>utiliser la force pour s'imposer dans le jeu international</b>. Or, notre continent est majoritairement constitué d'États qui entretiennent un rapport compliqué à l'idée d'empire : ils en ont quasiment tous été un, ou ont fait partie d'un autre (Habsbourg, russe, ottoman...). Ce malaise face à notre histoire fonde notre faiblesse actuelle.<br /><br />Face aux guerres militaires ou commerciales lancées par des puissances autoritaristes, l'Europe peut proposer<b>un modèle alternatif</b>, un marché commun, une communauté de destins et de valeurs, et imposer ces dernières dans un<b>espace numérique en pleine expansion</b>.<br /><br />Comme pour les<i>Dix renoncements</i>, ce parcours historique conduit à un chapitre consacré à l'œuvre de Thierry Breton en tant que commissaire européen sur le dossier de la régulation du numérique.",
+      "formattedPrice": "15,99 €",
+      "trackCensoredName": "Seuls",
+      "artistViewUrl": "https://books.apple.com/fr/artist/thierry-breton/1207269815?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/seuls/id6774421425?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7d/01/14/7d011485-fd73-5928-c1b1-5d392c51db5f/9782259325288.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7d/01/14/7d011485-fd73-5928-c1b1-5d392c51db5f/9782259325288.jpg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

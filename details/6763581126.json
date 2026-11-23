@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "First Christmas",
+      "artistViewUrl": "https://books.apple.com/gb/artist/trevor-mccall/1591465492?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/first-christmas/id6763581126?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/67/a1/af/67a1af44-0e8f-6c6f-b708-00c34e1532c2/6097b711-3d0c-414e-aa18-3431dd7fbf06_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/67/a1/af/67a1af44-0e8f-6c6f-b708-00c34e1532c2/6097b711-3d0c-414e-aa18-3431dd7fbf06_cover_image.jpg/100x100bb.jpg",
+      "artistIds": [
+        1591465492
+      ],
+      "genres": [
+        "Holiday Romance",
+        "Books",
+        "Romance"
+      ],
+      "artistId": 1591465492,
+      "artistName": "Trevor McCall",
+      "price": 0,
+      "trackId": 6763581126,
+      "trackName": "First Christmas",
+      "releaseDate": "2026-05-12T07:00:00Z",
+      "genreIds": [
+        "11231",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "Aubrey Wilson is a rising star at a private equity firm, planning a lavish wedding and closing a billion-dollar holiday retail deal—until a surprise trip home for Christmas changes everything. It’s her first Christmas since her father passed, and she’s not prepared to be picked up at the airport by the boy who broke her heart twelve years ago. Set in a snow-covered small town, First Christmas is a sweet, second-chance holiday romance filled with emotional depth, festive charm, and the magic of coming home. Perfect for fans of clean Christmas love stories, small town romance, and heartwarming holiday fiction.",
+      "formattedPrice": "Free",
+      "country": "GBR"
+    }
+  ]
+}

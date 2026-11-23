@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Tschick",
+      "artistIds": [
+        259961050
+      ],
+      "formattedPrice": "9,99 €",
+      "artistId": 259961050,
+      "artistName": "Wolfgang Herrndorf",
+      "trackId": 419816131,
+      "trackName": "Tschick",
+      "genreIds": [
+        "9031",
+        "38",
+        "10049"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Zwei Jungs. Ein geknackter Lada. Eine Reise voller Umwege durch ein unbekanntes Deutschland.<br />Mutter in der Entzugsklinik, Vater mit Assistentin auf Geschäftsreise: Maik Klingenberg wird die großen Ferien allein am Pool der elterlichen Villa verbringen. Doch dann kreuzt Tschick auf. Tschick, eigentlich Andrej Tschichatschow, kommt aus einem der Asi-Hochhäuser in Hellersdorf, hat es von der Förderschule irgendwie bis aufs Gymnasium geschafft und wirkt doch nicht gerade wie das Musterbeispiel der Integration. Außerdem hat er einen geklauten Wagen zur Hand. Und damit beginnt eine unvergessliche Reise ohne Karte und Kompass durch die sommerglühende deutsche Provinz.<br />«Auch in fünfzig Jahren wird dies noch ein Roman sein, den wir lesen wollen. Aber besser, man fängt gleich damit an.» (Felicitas von Lovenberg, Frankfurter Allgemeine Zeitung).",
+      "artistViewUrl": "https://books.apple.com/de/artist/wolfgang-herrndorf/259961050?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/tschick/id419816131?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3e/48/50/3e4850bf-f243-f705-fa1a-d3de49866b36/1019066875.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3e/48/50/3e4850bf-f243-f705-fa1a-d3de49866b36/1019066875.jpg/100x100bb.jpg",
+      "releaseDate": "2011-02-01T08:00:00Z",
+      "price": 9.99,
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher",
+        "Literarische Belletristik"
+      ],
+      "averageUserRating": 4,
+      "userRatingCount": 678,
+      "country": "DEU"
+    }
+  ]
+}

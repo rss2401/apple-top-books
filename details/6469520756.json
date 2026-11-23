@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$2.99",
+      "trackCensoredName": "Shanghai",
+      "artistViewUrl": "https://books.apple.com/us/artist/joseph-kanon/2072759?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/shanghai/id6469520756?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/58/2d/4c/582d4cb0-4998-c0e6-393a-5897e0735aab/9781668006443.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/58/2d/4c/582d4cb0-4998-c0e6-393a-5897e0735aab/9781668006443.jpg/100x100bb.jpg",
+      "artistIds": [
+        2072759
+      ],
+      "artistId": 2072759,
+      "artistName": "Joseph Kanon",
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books",
+        "Fiction & Literature",
+        "Historical Fiction"
+      ],
+      "price": 2.99,
+      "releaseDate": "2024-06-25T07:00:00Z",
+      "genreIds": [
+        "9032",
+        "38",
+        "9031",
+        "10047"
+      ],
+      "trackId": 6469520756,
+      "trackName": "Shanghai",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b><b>Named a Best Mystery &amp; Suspense Book of the Year by <i>BookPage </i>and<i> CrimeReads</i></b></b><br /><br /><b>“A steamy, thrilling crime story” (<i>The Washington Post</i>) from <i>New York Times</i> bestselling author Joseph Kanon, this atmospheric historical espionage thriller is set in pre-World War II Shanghai, where glamour and squalor exist side by side and murder is just the cost of doing business.</b><br /><br />After the violence of Kristallnacht (1938), European Jews, now desperate to emigrate, found the consular doors of the world closed to them. Only one port required no entry visa: Shanghai, a self-governing Western trading enclave in what was technically Chinese territory, a political anomaly that became an escape hatch—if you were lucky enough to afford a ticket on one of the great Lloyd liners sailing to the East and safety.<br /><br />Daniel Lohr was one of the lucky ones—lucky enough to have escaped the Gestapo when his colleagues in the resistance were caught, lucky to have an uncle waiting in Shanghai, lucky to find a casual shipboard flirtation that turns unexpectedly passionate. But even lucky refugees have to confront the reality of Shanghai. With all their assets and passports confiscated by the Nazis, they arrive penniless and stateless in a tumultuous, nearly lawless city notorious for vice. When you can sink fast, how far are you willing to go to survive? What lines do you cross? As Daniel tries to navigate his way through his uncle’s world in Shanghai’s fabled nightlife, he finds himself increasingly ensnared in a maze where politics and crime are two sides of the same shiny coin. The trick, his uncle tells him, is to stay one step ahead. But how do you stay ahead of murder? How do you outrun your own past?<br /><br />“A <i>Casablanca</i>-worthy setting for World War II-era intrigue” (<i>Parade</i>), <i>Shanghai</i> is the story of a political haven that becomes a minefield of conflicting loyalties<b>—</b>“one of [Kanon’s] most satisfying historical thrillers to date” (<i>The Wall Street Journal</i>).",
+      "averageUserRating": 4,
+      "userRatingCount": 246,
+      "country": "USA"
+    }
+  ]
+}

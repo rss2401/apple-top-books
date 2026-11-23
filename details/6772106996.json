@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistId": 535404063,
+      "artistName": "Sarah J. Maas",
+      "genres": [
+        "Romance",
+        "Livres",
+        "SF et fantasy",
+        "Fantasy"
+      ],
+      "price": 16.99,
+      "artistIds": [
+        535404063
+      ],
+      "releaseDate": "2026-09-04T07:00:00Z",
+      "genreIds": [
+        "9003",
+        "38",
+        "9020",
+        "10044"
+      ],
+      "trackId": 6772106996,
+      "trackName": "ACOTAR - Tome 3",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<i><b>« Pour mon pays, pour Prythian, pour les mortels et tant d’autres… »</b></i><br /><br />Devenue Grande Dame de la Cour de la Nuit, Feyre a offert son coeur à Rhysand.<br />Pourtant, après la trahison de Tamlin, elle n’a eu d’autre choix que de le suivre à la Cour du Printemps et feindre de l’aimer à nouveau.<br />Mais Feyre n’a qu’une idée en tête : découvrir ce que manigance Tamlin, désormais allié au roi d’Hybern, et regagner au plus vite la Cour de la Nuit.<br />Car la guerre est imminente, et Feyre et Rhysand doivent à tout prix rallier les Grands Seigneurs à leur cause…<br /><br /><i>« Un voyage romantique réussi, sublimé par l’approfondissement de l’univers et de ses personnages secondaires. » KIRKUS</i>",
+      "formattedPrice": "16,99 €",
+      "trackCensoredName": "ACOTAR - Tome 3",
+      "artistViewUrl": "https://books.apple.com/fr/artist/sarah-j-maas/535404063?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/acotar-tome-3/id6772106996?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/8b/40/86/8b408690-c59b-37c1-4f18-579adf7148b6/9791040127918.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/8b/40/86/8b408690-c59b-37c1-4f18-579adf7148b6/9791040127918.jpg/100x100bb.jpg",
+      "averageUserRating": 4,
+      "userRatingCount": 6,
+      "country": "FRA"
+    }
+  ]
+}

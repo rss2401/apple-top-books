@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Best Is Yet to Come",
+      "artistIds": [
+        82711511
+      ],
+      "formattedPrice": "$0.99",
+      "artistId": 82711511,
+      "artistName": "Diana Palmer",
+      "genres": [
+        "Romantic Suspense",
+        "Books",
+        "Romance",
+        "Contemporary Romance"
+      ],
+      "price": 0.99,
+      "genreIds": [
+        "10061",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "trackId": 6741827449,
+      "trackName": "The Best Is Yet to Come",
+      "releaseDate": "2014-11-15T08:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>A secretary and powerful tycoon get a second chance at love in this classic romance by the <i>New York Times</i>–bestselling author.</b><br /><b>\"Diana Palmer is adept at mixing intense emotion, humor, and mystery to bring us a uniquely enjoyable story.\" —<i>RT Book Reviews</i></b><br />\n   As a young secretary, Ivy McKenzie had been hopelessly in love with tycoon Ryder Calaway. But their searing passion—and Ryder's cool rejection—sent innocent Ivy running. Now, five years later, Ryder's magnetic virility was just as daunting—and harder to escape.\n   <br />\n   Ryder always got what he wanted. Except Ivy. For years he'd waited and longed for her. Now she was free, and Ryder's patience was at an end. This time he would make her irrevocably his. With this second chance, could he convince Ivy that the best was yet to come?\n   <br /><b><i>First published in 1991.</i></b>",
+      "artistViewUrl": "https://books.apple.com/us/artist/diana-palmer/82711511?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-best-is-yet-to-come/id6741827449?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/8c/c9/3b/8cc93b48-f76c-d2f3-ac0b-85c7c4aece73/1059027605.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/8c/c9/3b/8cc93b48-f76c-d2f3-ac0b-85c7c4aece73/1059027605.jpg/100x100bb.jpg",
+      "country": "USA"
+    }
+  ]
+}

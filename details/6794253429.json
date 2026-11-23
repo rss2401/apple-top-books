@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Profiling Murder",
+      "artistViewUrl": "https://books.apple.com/de/artist/dania-dicken/902211367?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/profiling-murder/id6794253429?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f6/64/f1/f664f1e7-d9fb-6c3a-58fa-4a8ee5e5b4d6/9783819807473.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f6/64/f1/f664f1e7-d9fb-6c3a-58fa-4a8ee5e5b4d6/9783819807473.jpg/100x100bb.jpg",
+      "artistId": 902211367,
+      "artistName": "Dania Dicken",
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Weibliche Spürnasen"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Laurie Walsh war eine erfolgreiche Polizistin - bis ein Einsatz ihr Leben für immer veränderte. In Notwehr musste sie zur Waffe greifen. Ein Mensch starb. Auch mehr als ein Jahr später verfolgen sie die Erinnerungen Nacht für Nacht. <br /><br />Als sich ihr ehemaliger Partner Jake mit der Bitte um Hilfe bei einem neuen Fall an sie wendet, wird Laurie schmerzhaft bewusst, wie sehr ihr die Polizeiarbeit fehlt. Schon bald unterstützt sie ihn regelmäßig bei Ermittlungen, die selbst erfahrene Detectives an ihre Grenzen bringen. Und gerät dabei nicht selten selbst ins Visier der Täter ... <br /><br />Spannung von der ersten bis zur letzten Seite: Alle 12 Folgen der packenden Thriller-Serie um Laurie Walsh in einem Sammelband. <br /><br />eBooks von beTHRILLED - mörderisch gute Unterhaltung.",
+      "formattedPrice": "2,99 €",
+      "releaseDate": "2026-11-01T07:00:00Z",
+      "artistIds": [
+        902211367
+      ],
+      "genreIds": [
+        "9032",
+        "38",
+        "10055"
+      ],
+      "trackId": 6794253429,
+      "trackName": "Profiling Murder",
+      "price": 2.99,
+      "country": "DEU"
+    }
+  ]
+}

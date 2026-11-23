@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "8,49 €",
+      "artistIds": [
+        647483875
+      ],
+      "artistId": 647483875,
+      "artistName": "Alex Michaelides",
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "price": 8.49,
+      "trackId": 1449846522,
+      "trackName": "Dans son silence",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "LE THRILLER PSYCHANALYTIQUE<br />QUI VOUS LAISSERA SANS VOIX<br />&#xa0; Alicia, jeune peintre britannique en vogue, vit dans une superbe maison près de Londres avec Gabriel, photographe de mode. Quand elle est retrouvée chez elle, hagarde et recouverte de sang devant son mari défiguré par des coups de couteau fatals, la presse s’enflamme. Aussitôt arrêtée, Alicia ne prononce plus jamais le moindre mot, même au tribunal. Elle est jugée mentalement irresponsable et envoyée dans une clinique psychiatrique.<br />Six ans plus tard, le docteur Theo Faber, ambitieux psychiatre, n’a qu’une obsession : parvenir à faire reparler Alicia. Quand une place se libère dans la clinique où elle est internée, il réussit à s’y faire embaucher, et entame avec elle une série de face-à-face glaçants dans l’espoir de lui extirper un mot. Et alors qu’il commence à perdre espoir, Alicia s’anime soudain. Mais sa réaction est tout sauf ce à quoi il s’attendait…<br />Dans la veine de Mensonges sur le divan d’Irvin Yalom, un redoutable mélange de suspense et de psychanalyse qui ravira tous les lecteurs avides d’histoires prenantes.« Je n’avais pas lu un suspense aussi inspiré depuis<br />La Vérité sur l’affaire Harry Québert. Du grand art ! »<br />Yves Grannonio, la Librairie du Château, Brie-Comte-Robert<br /><br />« Un suspense maintenu tout au long du livre et une fin<br />qui retourne complètement tant le dénouement<br />est explosif et inattendu ! Quel sentiment délicieux<br />de se faire autant manipuler ! »<br />Caroline Vallat, Fnac Rosny 2<br />&#xa0; Alex Michaelides est un scénariste britannique de trente-neuf ans. Il a aussi étudié la psychanalyse, et a travaillé deux ans dans une clinique psychiatrique pour jeunes. Dans son silence, son premier roman, est sur le point de devenir un phénomène<br />dans le monde entier.",
+      "trackCensoredName": "Dans son silence",
+      "artistViewUrl": "https://books.apple.com/fr/artist/alex-michaelides/647483875?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/dans-son-silence/id1449846522?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/f7/1c/b5/f71cb5cd-7f36-7cc9-f23a-f33580b984c8/9782702164532-001-X.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/f7/1c/b5/f71cb5cd-7f36-7cc9-f23a-f33580b984c8/9782702164532-001-X.jpeg/100x100bb.jpg",
+      "releaseDate": "2019-02-06T08:00:00Z",
+      "averageUserRating": 4.5,
+      "userRatingCount": 111,
+      "country": "FRA"
+    }
+  ]
+}

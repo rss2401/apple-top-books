@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Planck Divergence",
+      "artistViewUrl": "https://books.apple.com/gb/artist/adrian-v-locke/1871920867?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-planck-divergence/id6760303157?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/bd/e6/ee/bde6ee7a-22db-bdab-aeff-584f65c2575f/0004158010.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/bd/e6/ee/bde6ee7a-22db-bdab-aeff-584f65c2575f/0004158010.jpg/100x100bb.jpg",
+      "artistIds": [
+        1871920867
+      ],
+      "genres": [
+        "High Tech Sci‑Fi",
+        "Books",
+        "Sci-Fi & Fantasy",
+        "Science Fiction",
+        "Adventure Sci‑Fi"
+      ],
+      "artistId": 1871920867,
+      "artistName": "Adrian V. Locke",
+      "price": 0,
+      "trackId": 6760303157,
+      "trackName": "The Planck Divergence",
+      "releaseDate": "2026-03-08T08:00:00Z",
+      "genreIds": [
+        "11007",
+        "38",
+        "9020",
+        "10064",
+        "11006"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>What if the most fundamental constant in the universe… stopped being constant?</b><br /><br />Across the world, reality begins to misbehave. Two dogs move in perfect mirrored synchronization. A door is both open and closed at the same time. Objects fall through solid surfaces.<br /><br />At first the anomalies seem unrelated. Small. Curious. Then the laws of physics begin to unravel. Dr. Maya Ellison, a particle physicist aboard the orbital research station <i>Aurelius</i>, is among the first to notice the pattern hidden in the chaos. Working with theoretical physicist Derrick Lam and mathematician Artis Ozols, she discovers something that should be impossible.<br /><br />A physical constant, the number that defines the boundary between the quantum world and everyday reality, is increasing.<br /><br />As the value rises, quantum phenomena begin leaking into the macroscopic world. Superposition, tunneling, and entanglement start affecting ships, cities, infrastructure, and eventually the entire planet.<br /><br />But the crisis is not entirely natural.<br /><br />A rogue defense organization sees opportunity in the new physics and begins weaponizing the chaos, pushing the planet toward a catastrophic transition.<br /><br />With the oceans rising, satellites failing, and the structure of reality itself destabilizing, Ellison and her team must race to understand what is happening — and find a way to stop the universe from rewriting its own rules.<br /><br />Before the constants of nature change forever.",
+      "formattedPrice": "Free",
+      "country": "GBR"
+    }
+  ]
+}

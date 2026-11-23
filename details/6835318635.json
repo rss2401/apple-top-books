@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/87/c1/91/87c191ae-a54c-0619-69fd-5971af6585c9/BT000119524201401401900209.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/87/c1/91/87c191ae-a54c-0619-69fd-5971af6585c9/BT000119524201401401900209.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E5%90%89%E7%94%B0%E8%96%AB/723389962?uo=4",
+      "trackCensoredName": "さるまね 14巻",
+      "formattedPrice": "¥740",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%81%95%E3%82%8B%E3%81%BE%E3%81%AD-14%E5%B7%BB/id6835318635?uo=4",
+      "artistIds": [
+        723389962
+      ],
+      "genres": [
+        "ホラー",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "青年",
+        "ミステリー"
+      ],
+      "artistId": 723389962,
+      "artistName": "吉田薫",
+      "price": 740,
+      "trackId": 6835318635,
+      "trackName": "さるまね 14巻",
+      "genreIds": [
+        "50000089",
+        "38",
+        "9026",
+        "10016",
+        "11338",
+        "50000081"
+      ],
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "猿に村を襲撃された可畏たちは、物資が潤沢である領地の地へと向かう。その道中、人肉の味を覚えた猿に村人が腕を奪われる。止まらぬ猿の欲望の深化に怯える村人たちだが、それでも前に進む一行を、色欲に目が眩んだ男が品定めしていた…。",
+      "country": "JPN"
+    }
+  ]
+}

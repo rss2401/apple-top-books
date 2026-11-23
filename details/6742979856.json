@@ -1,0 +1,46 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1239210724
+      ],
+      "genres": [
+        "Biography",
+        "Books",
+        "Health & Well-Being",
+        "Self Help",
+        "Sports & Outdoors",
+        "Boxing",
+        "Arts & Entertainment"
+      ],
+      "artistId": 1239210724,
+      "artistName": "Sylvester Stallone",
+      "price": 14.99,
+      "genreIds": [
+        "9008",
+        "38",
+        "9025",
+        "10119",
+        "9035",
+        "11054",
+        "11027"
+      ],
+      "releaseDate": "2026-09-29T07:00:00Z",
+      "trackName": "The Steps",
+      "trackId": 6742979856,
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>THE INSTANT <i>SUNDAY TIMES</i> BESTSELLER</b><br /><b><br />A gritty, inspiring, heart-wrenching memoir by the Academy Award-winning legend and icon Sylvester Stallone, about his unlikely path to stardom and the creation of the greatest underdog story ever told.</b><br /><br />In the fifty years since Sylvester Stallone ran up the steps of the Philadelphia Art Museum, he and those steps have become symbols of resilience and determination, and have inspired millions from all over the world to pursue their dreams. In <i>The Steps</i>, Stallone recounts how he pursued his own dreams. A culmination of decades of reflection, Sly shares where he came from - a difficult birth, an even more difficult childhood, years of struggle in school being misunderstood - and he explains how the real story of a successful life is built by facing, embracing and ultimately overcoming our challenges. It's found in the distances we are willing to go and the steps we must take to get from where we are to where we want to go. <br /><br />In a narrative framed between Stallone's arrival in New York City in 1969 and the triumph of <i>Rocky </i>at the 1977 Academy Awards, Sly weaves a vivid and propulsive portrait of struggle, subsistence and ultimately success. He writes of his early days and later years, too, and the persistence, creativity and resilience that led not only to the creation of <i>Rocky</i> but to a career filled with remarkably iconic roles. <i>The Steps</i> is a testament to Stallone's extraordinary life and a profound meditation on the importance of vision and willpower and hard work.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7a/dd/ba/7addba42-6453-26eb-a295-7c8389da2fe9/9781399629485.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7a/dd/ba/7addba42-6453-26eb-a295-7c8389da2fe9/9781399629485.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/gb/artist/sylvester-stallone/1239210724?uo=4",
+      "trackCensoredName": "The Steps",
+      "formattedPrice": "£14.99",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-steps/id6742979856?uo=4",
+      "averageUserRating": 5,
+      "userRatingCount": 10,
+      "country": "GBR"
+    }
+  ]
+}

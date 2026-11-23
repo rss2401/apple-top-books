@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%84%E3%83%86%E3%83%84%E3%83%AD%E3%82%A6/839486249?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/cb/09/eb/cb09ebdc-9d01-dbd8-11a2-721aa0116966/BT000109940101001001900203.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/cb/09/eb/cb09ebdc-9d01-dbd8-11a2-721aa0116966/BT000109940101001001900203.jpg/100x100bb.jpg",
+      "artistIds": [
+        839486249
+      ],
+      "trackCensoredName": "ベー革(10)",
+      "formattedPrice": "¥790",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%99%E3%83%BC%E9%9D%A9-10/id6833907930?uo=4",
+      "artistId": 839486249,
+      "artistName": "クロマツテツロウ",
+      "genres": [
+        "スポーツ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "少年"
+      ],
+      "price": 790,
+      "releaseDate": "2026-11-18T08:00:00Z",
+      "trackId": 6833907930,
+      "trackName": "ベー革(10)",
+      "genreIds": [
+        "50000087",
+        "38",
+        "9026",
+        "10016",
+        "11337"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "ジローもメンバー入り。夏の神奈川大会開幕<br /><br />ジローら1年生トリオもメンバー入りし、いよいよ夏の神奈川県大会が開幕! エースをクローザーに。全員フルスイング。そして超攻撃的走塁を引っさげて、神奈川にサガユリ旋風を巻き起こせるか? 累計50万部突破!  <br /> ここが高校野球漫画の最前線!",
+      "averageUserRating": 4,
+      "userRatingCount": 5,
+      "country": "JPN"
+    }
+  ]
+}

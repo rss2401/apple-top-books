@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Complete Inspector Alan Grant Series",
+      "artistViewUrl": "https://books.apple.com/gb/artist/josephine-tey/65564406?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-complete-inspector-alan-grant-series/id6785895832?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/c0/6d/5c/c06d5c71-a5ac-a75b-a5df-0183d3456fd6/67b5fb5f-f05c-474c-89f2-32e0c714ffef_cover_image.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/c0/6d/5c/c06d5c71-a5ac-a75b-a5df-0183d3456fd6/67b5fb5f-f05c-474c-89f2-32e0c714ffef_cover_image.png/100x100bb.jpg",
+      "artistIds": [
+        65564406
+      ],
+      "genres": [
+        "Crime & Thrillers",
+        "Books",
+        "Detective Novels"
+      ],
+      "artistId": 65564406,
+      "artistName": "Josephine Tey",
+      "price": 0,
+      "trackId": 6785895832,
+      "trackName": "The Complete Inspector Alan Grant Series",
+      "releaseDate": "2026-06-30T07:00:00Z",
+      "genreIds": [
+        "9032",
+        "38",
+        "10054"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "The Inspector Alan Grant Series follows the investigations of Inspector Alan Grant, an intelligent and perceptive detective whose sharp observation and understanding of human nature help him solve some of the most puzzling crimes. Spanning six novels, the series blends traditional detective fiction with psychological insight, emphasizing careful reasoning over dramatic action. Grant investigates a wide range of cases, from seemingly impossible murders and suspicious deaths to historical mysteries and complex conspiracies. As he interviews witnesses and analyzes subtle clues, he uncovers hidden motives, deception, and the unexpected truths behind each crime. One of the series' most celebrated entries explores the mystery surrounding Richard III, demonstrating Grant's curiosity beyond conventional police work. Throughout the novels, Josephine Tey crafts intricate plots populated by memorable characters and morally complex situations, inviting readers to question appearances and assumptions. Combining elegant prose, intellectual puzzles, and psychological depth, the Inspector Alan Grant Series remains a cornerstone of classic British detective fiction and a lasting influence on the mystery genre.",
+      "formattedPrice": "Free",
+      "country": "GBR"
+    }
+  ]
+}

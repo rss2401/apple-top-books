@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d7/e4/b7/d7e4b7b1-6262-ea73-bf90-74824a6ac3fc/08X10000000075276300.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d7/e4/b7/d7e4b7b1-6262-ea73-bf90-74824a6ac3fc/08X10000000075276300.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%A8%AA%E5%B9%95%E6%99%BA%E8%A3%95-%E3%83%A2%E3%83%AA%E3%82%BF%E3%82%A4%E3%82%B7/770659561?uo=4",
+      "trackCensoredName": "ラジエーションハウス 21",
+      "formattedPrice": "¥770",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%A9%E3%82%B8%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%8F%E3%82%A6%E3%82%B9-21/id6819136688?uo=4",
+      "artistIds": [
+        770659561,
+        690167718
+      ],
+      "artistId": 770659561,
+      "genres": [
+        "ヒューマンドラマ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ"
+      ],
+      "price": 770,
+      "genreIds": [
+        "11052",
+        "38",
+        "9026",
+        "10016"
+      ],
+      "trackId": 6819136688,
+      "trackName": "ラジエーションハウス 21",
+      "releaseDate": "2026-11-18T08:00:00Z",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "同期の広瀬裕乃と共に、ジョブローテで放射線治療科に異動した唯織。新しい職場や同僚にいまだ慣れない唯織をよそに裕乃は患者と交流し、治療の現場に馴染んでいく。そして子宮頸がん患者・塚本容子が精神的に参っていることに気づき、力になろうとするが…。",
+      "artistName": "横幕智裕 & モリタイシ",
+      "country": "JPN"
+    }
+  ]
+}

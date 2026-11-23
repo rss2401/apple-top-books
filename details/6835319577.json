@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a4/79/8f/a4798f1d-48c4-0d62-457c-482086bc437a/BT000063081502302301900209.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a4/79/8f/a4798f1d-48c4-0d62-457c-482086bc437a/BT000063081502302301900209.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E5%8E%9F%E5%93%B2%E5%A4%AB-%E5%A0%80%E6%B1%9F%E4%BF%A1%E5%BD%A6-%E5%87%BA%E5%8F%A3%E7%9C%9F%E4%BA%BA/1091675142?uo=4",
+      "trackCensoredName": "前田慶次 かぶき旅 23巻",
+      "formattedPrice": "¥880",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E5%89%8D%E7%94%B0%E6%85%B6%E6%AC%A1-%E3%81%8B%E3%81%B6%E3%81%8D%E6%97%85-23%E5%B7%BB/id6835319577?uo=4",
+      "artistIds": [
+        1091675142,
+        1091684451,
+        1091689536
+      ],
+      "artistId": 1091675142,
+      "genres": [
+        "ヒューマンドラマ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "青年",
+        "歴史"
+      ],
+      "price": 880,
+      "genreIds": [
+        "11052",
+        "38",
+        "9026",
+        "10016",
+        "11338",
+        "50000079"
+      ],
+      "trackId": 6835319577,
+      "trackName": "前田慶次 かぶき旅 23巻",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "京に舞い戻った慶次は、「九州の傑物」立花宗茂と運命の再会を果たす──!<br />浪人の身となりながらも、再び大名へ返り咲くことを目指す宗茂。しかし、徳川四天王のひとり・本多忠勝が宗茂と慶次の首を狙っておりーー!?<br />さらに、浪人が溢れ返る京の町では、風魔による「徳川家康暗殺計画」が動き出し、天下を揺るがす大騒動へと発展していく──!<br />混沌と化す京の町、されど慶次は揺るがず己の信念を貫き通す!",
+      "artistName": "原哲夫, 堀江信彦 & 出口真人",
+      "country": "JPN"
+    }
+  ]
+}

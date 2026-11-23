@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Grenzland",
+      "artistViewUrl": "https://books.apple.com/de/artist/kim-faber-janni-pedersen/1453183561?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/grenzland/id6761610941?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c2/8a/78/c28a78c8-5962-505e-d839-9c1c88aadee7/9783641327620.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c2/8a/78/c28a78c8-5962-505e-d839-9c1c88aadee7/9783641327620.jpg/100x100bb.jpg",
+      "artistId": 1453183561,
+      "artistName": "Kim Faber & Janni Pedersen",
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Polizeiromane"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Brutale Morde im Kopenhagener Banden-Milieu und ein sehr persönlicher Rachefeldzug … Ein neuer Fall für Juncker &amp; Kristiansen.</b><br /><br />Kopenhagen. Zwei hochrangige Gangmitglieder werden ermordet aufgefunden. Beiden Männern wurde ins Auge geschossen. Der Verdacht: ein eskalierender Bandenkrieg. Doch Juncker und Kristiansen sind skeptisch. Dann taucht noch ein drittes Opfer auf. Nabiha Khalid beobachtet die Ermittlung aus der Ferne. Sie hat ein ganz persönliches Interesse an dem Fall. Nabiha hat geschworen, die Mitglieder der albanischen Mafia zu Fall zu bringen, die das Leben ihres Bruders zerstört haben. Doch wenn ihr Racheplan scheitert, wird es sie das Leben kosten …<br /><b>Sie lieben eiskalten Scandi-Thrill? Dann lesen Sie auch die anderen hoch spannenden Fälle von Juncker &amp; Kristiansen.</b>",
+      "formattedPrice": "15,99 €",
+      "releaseDate": "2026-11-18T08:00:00Z",
+      "artistIds": [
+        1453183561,
+        1453183559
+      ],
+      "genreIds": [
+        "9032",
+        "38",
+        "10052"
+      ],
+      "trackId": 6761610941,
+      "trackName": "Grenzland",
+      "price": 15.99,
+      "country": "DEU"
+    }
+  ]
+}

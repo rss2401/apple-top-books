@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$1.99",
+      "trackCensoredName": "Uncultured",
+      "artistViewUrl": "https://books.apple.com/us/artist/daniella-mestyanek-young/1602252712?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/uncultured/id1613174913?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/71/61/47/716147ed-d353-2965-9a36-d194cb5587c2/9781250280121.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/71/61/47/716147ed-d353-2965-9a36-d194cb5587c2/9781250280121.jpg/100x100bb.jpg",
+      "artistIds": [
+        1602252712
+      ],
+      "artistId": 1602252712,
+      "artistName": "Daniella Mestyanek Young",
+      "genres": [
+        "Biographies & Memoirs",
+        "Books",
+        "Religion & Spirituality",
+        "Nonfiction",
+        "Social Science"
+      ],
+      "price": 1.99,
+      "releaseDate": "2022-09-20T07:00:00Z",
+      "genreIds": [
+        "9008",
+        "38",
+        "9018",
+        "9002",
+        "10120"
+      ],
+      "trackId": 1613174913,
+      "trackName": "Uncultured",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>\"A painful and propulsive memoir delivered in the honest tones of a woman who didn’t always think she’d live to tell her story.\"  —The <i>New York Times</i> </b><br /><b><br />A Buzzfeed Best Book of September <br /><br />In the vein of<i> Educated </i>and <i>The Glass Castle</i>, Daniella Mestyanek Young's <i>Uncultured</i> is more than a memoir about an exceptional upbringing, but about a woman who, no matter the lack of tools given to her, is determined to overcome.</b> <br /><br />Behind the tall, foreboding gates of a commune in Brazil, Daniella Mestyanek Young was raised in the religious cult The Children of God, also known as The Family, as the daughter of high-ranking members. Her great-grandmother donated land for one of The Family’s first communes in Texas. Her mother, at thirteen, was forced to marry the leader and served as his secretary for many years. Beholden to The Family’s strict rules, Daniella suffers physical, emotional, and sexual abuse<b>—</b>masked as godly discipline and divine love<b>—</b>and is forbidden from getting a traditional education.<br /><br />At fifteen years old, fed up with The Family and determined to build a better and freer life for herself, Daniella escapes to Texas. There, she bravely enrolls herself in high school and excels, later graduating as valedictorian of her college class, then electing to join the military to begin a career as an intelligence officer, where she believes she will finally belong. <br /><br />But she soon learns that her new world<b>—</b>surrounded by men on the sands of Afghanistan<b>—</b>looks remarkably similar to the one she desperately tried to leave behind.<br /><br />Told in a beautiful, propulsive voice and with clear-eyed honesty, <i>Uncultured</i> explores the dangers unleashed when harmful group mentality goes unrecognized, and is emblematic of the many ways women have to contort themselves to survive.",
+      "averageUserRating": 4.5,
+      "userRatingCount": 80,
+      "country": "USA"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1894625026
+      ],
+      "formattedPrice": "Gratis",
+      "trackViewUrl": "https://books.apple.com/de/book/klare-k%C3%BCste-und-letzte-wache-ostfrieslandkrimi/id6835676196?uo=4",
+      "trackCensoredName": "Klare Küste und letzte Wache: Ostfrieslandkrimi",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/36/e5/be/36e5be6b-4155-8e08-2dca-3f83bed610e2/9783757253325.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/36/e5/be/36e5be6b-4155-8e08-2dca-3f83bed610e2/9783757253325.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/tom-willhaus/1894625026?uo=4",
+      "genres": [
+        "Hard-boiled-Krimis",
+        "Bücher",
+        "Krimis und Thriller",
+        "Cosy Crime"
+      ],
+      "artistId": 1894625026,
+      "artistName": "Tom Willhaus",
+      "price": 0,
+      "releaseDate": "2026-11-17T08:00:00Z",
+      "genreIds": [
+        "10050",
+        "38",
+        "9032",
+        "11259"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Ein Sturm, eine Leiche, ein perfektes Rätsel.\n\n\n\nAls das schwere Orkantief Tarek über die ostfriesische Insel Juist hereinbricht und den Fähr- und Flugverkehr vollständig lahmlegt, sitzen Hauptkommissar Keno Behrends und sein Kollege Holger Jansen unfreiwillig fest. Doch an Entspannung ist nicht zu denken: Im historischen Memmertfeuer wird der leitende Museumskurator Dr. Tammo Reents tot in einer Blutlache aufgefunden.\n\n\n\nDas Rätsel scheint unlösbar: Die schwere Eichentür des Leuchtturms ist von innen mit einem massiven Eisenriegel verriegelt, die Fenster sind unversehrt und verschlossen. Die Spuren führen zu einem sensationellen Wrackfund aus dem 18. Jahrhundert – dem vermeintlichen Astrolabium des Ostindienfahrers Vrouw Johanna . Doch als Behrends die Indizien zusammenfügt, stößt er auf eine moderne Fälschung, ein gestohlenes Millionending aus Rotterdam und einen perfekten Versicherungsbetrug. Eingeschlossen auf einer abgeriegelten Insel, beginnt ein mörderisches Katz-und-Maus-Spiel, bei dem der Täter unter den wenigen verbliebenen Gästen des Luxushotels zu suchen ist.\n\n\n\nEin hochspannender Ostfrieslandkrimi voller Atmosphäre, genialer Täuschungen und einem unerbittlichen Ermittler gegen die Naturgewalten.",
+      "trackId": 6835676196,
+      "trackName": "Klare Küste und letzte Wache: Ostfrieslandkrimi",
+      "country": "DEU"
+    }
+  ]
+}

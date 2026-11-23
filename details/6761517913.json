@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1890109182
+      ],
+      "artistId": 1890109182,
+      "artistName": "Susan Link",
+      "genres": [
+        "Biografien und Memoiren",
+        "Bücher",
+        "Sachbücher",
+        "Sozialwissenschaft"
+      ],
+      "price": 21.99,
+      "releaseDate": "2026-10-30T07:00:00Z",
+      "genreIds": [
+        "9008",
+        "38",
+        "9002",
+        "10120"
+      ],
+      "trackId": 6761517913,
+      "trackName": "»Ich habe eine Wassermelone getragen«",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Was hat uns geprägt? Und was haben wir daraus gemacht?</b><br /><br />»Ich habe eine Wassermelone getragen« – dieser legendäre Satz der unscheinbaren Heldin aus »Dirty Dancing« steht sinnbildlich für eine ganze Generation von Frauen:<b> stets funktionierend, selten laut, gefangen zwischen Wünschen und Erwartungen</b>.<br /><br />In ihrem sehr persönlichen Buch zeichnet die Journalistin und TV-Moderatorin Susan Link ihren eigenen Lebensweg nach und<b> </b>spricht mit anderen Frauen ihrer Generation: <b>Annette Frier, Désirée Nosbusch, Bärbel Bas, Martina Voss-Tecklenburg, Miriam Meckel, Katja Suding</b> sowie <b>Carolin Feismann</b> (Gründerin des ersten tiergestützten Kinderhospizes) und&#xa0;<b>Suzan Yarkin</b> (Chefärztin).<br /><br />Susan Link und ihre Interviewpartnerinnen erzählen, welche&#xa0;<b>Hürden und Widerstände</b> sie&#xa0;überwinden mussten, woran sie gescheitert sind und woraus sie ihren Mut geschöpft haben.",
+      "trackCensoredName": "»Ich habe eine Wassermelone getragen«",
+      "artistViewUrl": "https://books.apple.com/de/artist/susan-link/1890109182?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/ich-habe-eine-wassermelone-getragen/id6761517913?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/de/9b/54/de9b548e-f914-ec2f-eb3b-9cad84cc7277/9783492614252.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/de/9b/54/de9b548e-f914-ec2f-eb3b-9cad84cc7277/9783492614252.jpg/100x100bb.jpg",
+      "formattedPrice": "21,99 €",
+      "country": "DEU"
+    }
+  ]
+}

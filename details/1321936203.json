@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistId": 373392577,
+      "artistName": "Pierre Lemaitre",
+      "genres": [
+        "Fiction et littérature",
+        "Livres",
+        "Romans et littérature"
+      ],
+      "price": 4.99,
+      "artistIds": [
+        373392577
+      ],
+      "releaseDate": "2018-01-03T08:00:00Z",
+      "genreIds": [
+        "10049",
+        "38",
+        "9031"
+      ],
+      "trackId": 1321936203,
+      "trackName": "Couleurs de l'incendie",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Février 1927. Le Tout-Paris assiste aux obsèques de Marcel Péricourt. Sa fille, Madeleine, doit prendre la tête de l'empire financier dont elle est l'héritière, mais le destin en décide autrement. Son fils, Paul, d'un geste inattendu et tragique, va placer Madeleine sur le chemin de la ruine et du déclassement.<br />Face à l'adversité des hommes, à la cupidité de son époque, à la corruption de son milieu et à l'ambition de son entourage, Madeleine devra déployer des trésors d'intelligence, d'énergie mais aussi de machiavélisme pour survivre et reconstruire sa vie. Tâche d'autant plus difficile dans une France qui observe, impuissante, les premières couleurs de l'incendie qui va ravager l'Europe.<br /><br /><i>Couleurs de l'incendie</i> est le deuxième volet de la trilogie inaugurée avec <i>Au revoir là-haut</i>, prix Goncourt 2013, où l'on retrouve l'extraordinaire talent de Pierre Lemaitre.",
+      "formattedPrice": "4,99 €",
+      "trackCensoredName": "Couleurs de l'incendie",
+      "artistViewUrl": "https://books.apple.com/fr/artist/pierre-lemaitre/373392577?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/couleurs-de-lincendie/id1321936203?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/8d/d7/a9/8dd7a976-0daf-da6c-ce45-9f1e5f0f9bfb/9782226426888.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/8d/d7/a9/8dd7a976-0daf-da6c-ce45-9f1e5f0f9bfb/9782226426888.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 454,
+      "country": "FRA"
+    }
+  ]
+}

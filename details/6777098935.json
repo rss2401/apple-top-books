@@ -2,21 +2,21 @@
   "resultCount": 2,
   "results": [
     {
-      "artistIds": [
-        66479186
-      ],
-      "artistId": 66479186,
-      "artistName": "Marcus Aurelius",
+      "formattedPrice": "Free",
       "genres": [
         "Philosophy",
         "Books",
         "Non-Fiction"
       ],
-      "price": 0,
+      "artistName": "Marcus Aurelius",
+      "artistId": 66479186,
       "genreIds": [
         "10091",
         "38",
         "9002"
+      ],
+      "artistIds": [
+        66479186
       ],
       "releaseDate": "2026-06-05T07:00:00Z",
       "trackId": 6777098935,
@@ -29,7 +29,7 @@
       "trackViewUrl": "https://books.apple.com/gb/book/meditations/id6777098935?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a2/a6/63/a2a66327-740c-7bf9-8c26-f41fcaf0a03e/Meditations.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a2/a6/63/a2a66327-740c-7bf9-8c26-f41fcaf0a03e/Meditations.png/100x100bb.jpg",
-      "formattedPrice": "Free",
+      "price": 0,
       "country": "GBR"
     },
     {

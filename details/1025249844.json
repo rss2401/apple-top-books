@@ -1,0 +1,46 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1099107679
+      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/d2/4b/24/d24b2439-9c8b-c4f8-4266-e6847011d704/Spanisch.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication128/v4/d2/4b/24/d24b2439-9c8b-c4f8-4266-e6847011d704/Spanisch.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/infos24-gmbh/1099107679?uo=4",
+      "trackCensoredName": "Spanisch",
+      "formattedPrice": "Gratis",
+      "trackViewUrl": "https://books.apple.com/de/book/spanisch/id1025249844?uo=4",
+      "artistId": 1099107679,
+      "artistName": "Infos24 GmbH",
+      "genres": [
+        "Fremdsprachen",
+        "Bücher",
+        "Nachschlagewerke",
+        "Wörter und Sprache",
+        "Gewerbe und Technik",
+        "Bildung",
+        "Sprachkunst und Lehrfächer",
+        "Spanische Sprachstudien"
+      ],
+      "price": 0,
+      "genreIds": [
+        "10066",
+        "38",
+        "9033",
+        "10103",
+        "9029",
+        "10037",
+        "11009",
+        "11293"
+      ],
+      "releaseDate": "2015-08-01T07:00:00Z",
+      "trackId": 1025249844,
+      "trackName": "Spanisch",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Dieser Sprachkurs ist eine umfassende, vollständig vertonte, Darstellung der spanischen Sprache und der einzige Sprachkurs, der durchgehend einem komparativen Ansatz folgt, das heißt, er erklärt die Besonderheiten des Spanischen, und damit auch anderer romanischen Sprachen, unter Berücksichtigung der jeweiligen Muttersprache. Dies ist die Version für Deutsch Muttersprachler. Dies erleichtert es, Konstruktionen die stark vom Deutschen abweichen, subjuntivo, Zeitensystem, keine Entsprechung für das deutsche Verb 'werden', ser / estar etc.. zu verstehen, weil sich z.B. die Logik oft durch didaktisch motivierte Hilfsübersetzungen verständlich machen läßt.<br /><br />\r\nDer Kurs ist sehr umfangreich und umfasst den gesamten Bereich von A1 bis C1 nach dem europäischen Referenzrahmen, richtet sich also an Anfänger wie auch an weit Fortgeschrittene, die bestimmte Bereiche, etwa Verbalperiphrasen, üben und vertiefen wollen. Es ist eine Lerngrammatik, die sich allerdings auch als Nachschlagewerk eignet.<br /><br />\r\nDer Kurs beinhaltet einige Tausend Multimedia - Elemente, eingesprochene Sätze mit unterschiedlichen Akzenten aus der Spanisch sprechenden Welt, Kurzgeschichten und eigens für diesen Kurs komponierte Lieder.<br />\r\nDem Kurs wurden einige Tausend interaktive Übungen beigefügt. So können gezielt bestimmte Themen trainiert werden.",
+      "country": "DEU"
+    }
+  ]
+}

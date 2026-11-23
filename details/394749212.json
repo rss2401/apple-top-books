@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Die Säulen der Erde",
+      "artistIds": [
+        41828779
+      ],
+      "formattedPrice": "14,99 €",
+      "artistId": 41828779,
+      "artistName": "Ken Follett",
+      "trackId": 394749212,
+      "trackName": "Die Säulen der Erde",
+      "genreIds": [
+        "10047",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "England 1123-1173. Es ist eine Zeit blutiger Auseinandersetzungen zwischen Adel, Klerus und einfachem Volk, das unter Ausbeutung und Not leidet. <br/>\n<br/>\nPhilip, ein junger Prior, dessen Eltern von marodierenden Söldnern abgeschlachtet wurden, träumt den Traum vom Frieden: der Errichtung einer Kathedrale gegen die Mächte des Bösen. Er und sein Baumeister Tom Builder, dessen Stiefsohn Jack und die Grafentochter Aliena müssen sich in einem Kampf auf Leben und Tod gegen ihre Widersacher behaupten, ehe Kingsbridge Schauplatz des größten abendländischen Bauwerks, der &#34;Säulen der Erde&#34; wird ...",
+      "artistViewUrl": "https://books.apple.com/de/artist/ken-follett/41828779?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/die-s%C3%A4ulen-der-erde/id394749212?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/4f/31/3a/4f313a80-5c77-eb93-2ace-1b1019c1061a/9783838703374.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/4f/31/3a/4f313a80-5c77-eb93-2ace-1b1019c1061a/9783838703374.jpg/100x100bb.jpg",
+      "releaseDate": "2010-07-13T07:00:00Z",
+      "price": 14.99,
+      "genres": [
+        "Historische Romane",
+        "Bücher",
+        "Belletristik und Literatur"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 404,
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Quand la Chine vacillera...",
+      "artistViewUrl": "https://books.apple.com/fr/artist/jean-fran%C3%A7ois-colosimo/400650092?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/quand-la-chine-vacillera/id6816280129?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5b/a8/cb/5ba8cbe6-f074-1cf2-139f-4b50d3b27c34/9782226516947.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5b/a8/cb/5ba8cbe6-f074-1cf2-139f-4b50d3b27c34/9782226516947.jpg/100x100bb.jpg",
+      "artistIds": [
+        400650092
+      ],
+      "price": 15.99,
+      "genres": [
+        "Histoire",
+        "Livres"
+      ],
+      "artistId": 400650092,
+      "artistName": "Jean-François Colosimo",
+      "genreIds": [
+        "9015",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>« Quand la Chine s’éveillera, le monde tremblera » : ces paroles apocryphes de Napoléon hantent notre imaginaire</b>, après les cent mystifications qui – de Marco Polo et des missionnaires jésuites jusqu’aux maoïstes occidentaux – ont forgé le fantasme d’un empire du Milieu aussi fascinant qu’inquiétant. <br /><br /><b>Ce livre décrypte les mythologies d’hier et dévoile les idéologies d’aujourd’hui. Qu’en est-il réellement de l’ascension de la Chine vers l’hégémonie planétaire, va-t-elle vraiment supplanter l’Amérique ?</b> mater la Russie, l’Inde, l’Iran ? écraser l’Europe ? Que veut-elle, que peut-elle vraiment ?<br /><br />Avec le style puissant qu’on lui connaît, Jean-François Colosimo explique comment Xi Jinping et ses conseillers de la Cité interdite ont dérobé à l’Occident ses plus ténébreuses théories politiques. Et comment l’idée de bureaucratie divine, legs du matérialisme confucéen, fonde l’actuel pouvoir totalitaire. Dans cette grande enquête de civilisation, il montre la toxicité de la Chine dans l’ordre international : elle pourra semer le chaos mais, trop hantée par le vide métaphysique et indifférente à l’altérité culturelle, elle ne pourra jamais dominer le monde.",
+      "formattedPrice": "15,99 €",
+      "releaseDate": "2026-10-14T07:00:00Z",
+      "trackId": 6816280129,
+      "trackName": "Quand la Chine vacillera...",
+      "country": "FRA"
+    }
+  ]
+}

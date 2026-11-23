@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "13,99 €",
+      "artistIds": [
+        1081974231
+      ],
+      "artistId": 1081974231,
+      "artistName": "Nicolas Demorand",
+      "genres": [
+        "Arts et spectacles",
+        "Livres",
+        "Entreprise et management",
+        "Secteurs et professions",
+        "Biographies et mémoires"
+      ],
+      "price": 13.99,
+      "trackId": 6823947483,
+      "trackName": "Si besoin - Parlons autrement de la santé mentale",
+      "genreIds": [
+        "9007",
+        "38",
+        "9009",
+        "10005",
+        "9008"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "\" Aujourd'hui que ma vulnérabilité est une force, j'ai à cœur d'aborder à voix haute des sujets de murmure : la dépression d'un adulte ou d'une adolescente, la parole des proches souvent désemparés par la maladie mentale qui traverse les familles, la noblesse du métier de psychiatre, qu'on dit pourtant sinistré. Et puis ce médicament qu'est la lecture, compagne des mauvais jours qui peut parfois vous remettre d'équerre. \"<br /><br />Avec : Guy Birenbaum, éditeur. Sarah Smadja, psychiatre. Isabelle Sabbah Lim, pédopsychiatre. Karine Buisson, aidante et pair-aidante familiale ; et Pauline, aidante. Philippe Lançon, journaliste et écrivain.",
+      "trackCensoredName": "Si besoin - Parlons autrement de la santé mentale",
+      "artistViewUrl": "https://books.apple.com/fr/artist/nicolas-demorand/1081974231?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/si-besoin-parlons-autrement-de-la-sant%C3%A9-mentale/id6823947483?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d1/61/7f/d1617f6e-f5d9-ea46-ce08-520fff4315df/9791037518330.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/d1/61/7f/d1617f6e-f5d9-ea46-ce08-520fff4315df/9791037518330.jpg/100x100bb.jpg",
+      "releaseDate": "2026-10-22T07:00:00Z",
+      "country": "FRA"
+    }
+  ]
+}

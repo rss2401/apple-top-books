@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E4%B8%AD%E6%9D%91%E5%85%89/608508497?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/28/84/58/288458a4-0a27-f2d9-e79d-b8b66f79cbfa/BT000012856402302301900206.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/28/84/58/288458a4-0a27-f2d9-e79d-b8b66f79cbfa/BT000012856402302301900206.jpg/100x100bb.jpg",
+      "artistIds": [
+        608508497
+      ],
+      "trackCensoredName": "聖☆おにいさん(23)",
+      "formattedPrice": "¥850",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E8%81%96-%E3%81%8A%E3%81%AB%E3%81%84%E3%81%95%E3%82%93-23/id6832495443?uo=4",
+      "artistId": 608508497,
+      "artistName": "中村光",
+      "genres": [
+        "ギャグ／コメディ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "青年"
+      ],
+      "price": 850,
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "trackId": 6832495443,
+      "trackName": "聖☆おにいさん(23)",
+      "genreIds": [
+        "50000072",
+        "38",
+        "9026",
+        "10016",
+        "11338"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "バカンスで季節の行事も満喫中のイエスとブッダ。二千歳を超える二人にも寄る年波の影響が…。手元の文字が見えにくくなってしまったブッダにピッタリのメガネ探しをすることに!? しくじりさえもなかったことにされてしまうパラレルワールドの使徒さんも登場の第23巻!",
+      "averageUserRating": 4.5,
+      "userRatingCount": 5,
+      "country": "JPN"
+    }
+  ]
+}

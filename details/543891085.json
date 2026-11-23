@@ -10,8 +10,6 @@
       "artistIds": [
         2037135
       ],
-      "artistId": 2037135,
-      "artistName": "F. Scott Fitzgerald",
       "genres": [
         "Classics",
         "Books",
@@ -20,10 +18,12 @@
         "Romance",
         "Romance Short Stories"
       ],
+      "artistId": 2037135,
+      "artistName": "F. Scott Fitzgerald",
       "price": 0,
-      "releaseDate": "2012-07-11T07:00:00Z",
       "trackId": 543891085,
       "trackName": "The Great Gatsby",
+      "releaseDate": "2012-07-11T07:00:00Z",
       "genreIds": [
         "10042",
         "38",
@@ -37,7 +37,7 @@
       "description": "One of the greatest novels of the early 20th's century, The Great Gatsby tells the story of the extremely wealthy Jay Gatsby and his love of the gorgeous Daisy Buchanan, a love that eventually pulls him apart.<br /><br />\nMade available by The Walter Media Open Book Project&#xa0;<br />\n<b>Publisher Website: waltermedia.weebly.com/open-book-project.html</b>",
       "formattedPrice": "Free",
       "averageUserRating": 4,
-      "userRatingCount": 3777,
+      "userRatingCount": 3781,
       "country": "GBR"
     }
   ]

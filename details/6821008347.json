@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1441432802
+      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9e/42/06/9e420634-a880-8b51-a5fb-d54f0591c18a/1066655216.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9e/42/06/9e420634-a880-8b51-a5fb-d54f0591c18a/1066655216.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/bj%C3%B6rn-harms/1441432802?uo=4",
+      "trackCensoredName": "Der Asylkomplex",
+      "formattedPrice": "21,99 €",
+      "trackViewUrl": "https://books.apple.com/de/book/der-asylkomplex/id6821008347?uo=4",
+      "artistId": 1441432802,
+      "artistName": "Björn Harms",
+      "genres": [
+        "Politologie",
+        "Bücher",
+        "Politik und Zeitgeschehen"
+      ],
+      "price": 21.99,
+      "genreIds": [
+        "11264",
+        "38",
+        "9034"
+      ],
+      "releaseDate": "2026-11-23T08:00:00Z",
+      "trackId": 6821008347,
+      "trackName": "Der Asylkomplex",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Während Politik und Medien die fortlaufende Aufnahme von Flüchtlingen als selbstverständlich betrachten und humanitäre Verantwortung betonen, haben die staatlichen Rahmenbedingungen seit 2015 einen ausufernden Asylkomplex geschaffen. Immobilienkonzerne, Sozialverbände oder Migrationsanwälte profitieren von Verhältnissen, die den deutschen Steuerzahler Milliarden kosten. Björn Harms geht so konsequent wie noch kein Journalist vor ihm der Frage nach, wer die wahren Gewinner der Asyl- und Flüchtlingspolitik sind. Er benennt erstmals konkrete Unternehmen, Netzwerke und Strippenzieher hinter dem Milliardengeschäft. Wer verdient an staatlich subventionierten Unterkünften? Welche politischen Verbindungen bestehen im Hintergrund? Und warum wird über diese Profiteure kaum berichtet?",
+      "country": "DEU"
+    }
+  ]
+}

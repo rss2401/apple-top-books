@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        673924759
+      ],
+      "artistId": 673924759,
+      "artistName": "Bruce Hammack",
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books",
+        "Detective Novels",
+        "Cozy Mysteries",
+        "Police Procedural",
+        "Hard-Boiled Mysteries"
+      ],
+      "price": 0,
+      "genreIds": [
+        "9032",
+        "38",
+        "10054",
+        "11259",
+        "10052",
+        "10050"
+      ],
+      "releaseDate": "2024-09-05T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>One body in the river. A flood of suspects on shore.</b><br /><br />Artist and part-time private investigator Fen Maguire's peaceful location scouting takes a dark turn when kayakers pull a corpse from the Colorado River. The grisly discovery sets off a chain of events that plunge Fen into a web of small-town intrigue.<br /><br />Weeks later, with the wrong man behind bars and threatening a lawsuit against the city, Fen is recruited to find the real killer. Under the guise of teaching an art class, he's tasked with uncovering the truth and preventing a costly legal battle.<br /><br />As Fen delves deeper, he finds the victim had no shortage of enemies. Long-standing feuds and small-town politics muddy the waters, making potential suspects as numerous as the trees lining the river. Can Fen navigate the currents of deceit to expose the real killer?<br /><br /><b>Join Fen Maguire in this gripping whodunit as he sketches out the clues and paints a picture of deadly secrets. The twists and turns in this Texas small-town mystery will keep you turning the pages long into the night. With no graphic violence, strong language, or explicit scenes, you can recommend the Fen Maguire mysteries to anyone, from a teen to your grandma!</b>",
+      "trackCensoredName": "Murder On The Colorado",
+      "artistViewUrl": "https://books.apple.com/us/artist/bruce-hammack/673924759?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/murder-on-the-colorado/id6538715147?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c2/cd/35/c2cd35dd-e344-46c7-6de8-9d2259b30de2/0001669790.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c2/cd/35/c2cd35dd-e344-46c7-6de8-9d2259b30de2/0001669790.jpg/100x100bb.jpg",
+      "trackId": 6538715147,
+      "trackName": "Murder On The Colorado",
+      "averageUserRating": 4.5,
+      "userRatingCount": 34,
+      "country": "USA"
+    }
+  ]
+}

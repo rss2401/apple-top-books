@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Pour Me",
+      "formattedPrice": "£5.49",
+      "artistViewUrl": "https://books.apple.com/gb/artist/a-a-gill/358472856?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/pour-me/id975175864?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication71/v4/57/e4/d0/57e4d045-8acb-30a9-bded-d931de9d0c53/9780297870838.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication71/v4/57/e4/d0/57e4d045-8acb-30a9-bded-d931de9d0c53/9780297870838.jpg/100x100bb.jpg",
+      "artistId": 358472856,
+      "artistName": "A.A. Gill",
+      "price": 5.49,
+      "trackId": 975175864,
+      "trackName": "Pour Me",
+      "artistIds": [
+        358472856
+      ],
+      "genreIds": [
+        "9008",
+        "38",
+        "11027",
+        "9025",
+        "10119",
+        "10069"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>SHORTLISTED FOR THE 2016 PEN ACKERLEY PRIZE</b><br /><br /><b>'An intense, succulent read that's intermittently dazzling' <i>THE TIMES</i></b><br /><b>'Chilling, exquisitely moving' <i>DAILY TELEGRAPH</i></b><br /><b>'A superb memoir - and one of the best books on addiction I have ever read' <i>EVENING STANDARD</i></b><br /><br />A. A. Gill's memoir begins in the dark of a dormitory with six strangers. He is an alcoholic, dying in the last-chance saloon. He tells the truth - as far as he can remember it - about drinking and about what it is like to be drunk. He recalls the lost days, lost friends, failed marriages ... But there was also an 'optimum inebriation, a time when it was all golden'.<br /><br />Sobriety regained, there are painterly descriptions of people and places, unforgettable musings about childhood and family, art and religion; and most movingly, the connections between his cooking, dyslexia and his missing brother. <br /><br />Full of raw and unvarnished truths, exquisitely written throughout, <i>POUR ME </i>is about lost time and self-discovery. Lacerating, unflinching, uplifting, it is a classic about drunken abandon.",
+      "releaseDate": "2015-11-12T08:00:00Z",
+      "genres": [
+        "Biography",
+        "Books",
+        "Arts & Entertainment",
+        "Health & Well-Being",
+        "Self Help",
+        "Health & Fitness"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 56,
+      "country": "GBR"
+    }
+  ]
+}

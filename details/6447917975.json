@@ -1,0 +1,46 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Lignées de l'ombre (tome 2) - Ceux qui dévorent la magie",
+      "artistViewUrl": "https://books.apple.com/fr/artist/roxane-dambre/588128978?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/lign%C3%A9es-de-lombre-tome-2-ceux-qui-d%C3%A9vorent-la-magie/id6447917975?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/82/e5/a7/82e5a7fc-917d-d915-238d-898fdf640775/0001040118.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/82/e5/a7/82e5a7fc-917d-d915-238d-898fdf640775/0001040118.jpg/100x100bb.jpg",
+      "artistIds": [
+        588128978
+      ],
+      "price": 5.99,
+      "genres": [
+        "Contemporain",
+        "Livres",
+        "SF et fantasy",
+        "Fantasy",
+        "Fantasy paranormale",
+        "Romans et littérature",
+        "Contes de fées, mythes et fables"
+      ],
+      "artistId": 588128978,
+      "artistName": "Roxane Dambre",
+      "genreIds": [
+        "11001",
+        "38",
+        "9020",
+        "10044",
+        "11004",
+        "9031",
+        "11049"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Or donc… Il existe des artéfacts maléfiques capables d'aspirer la magie des êtres surnaturels jusqu'à les tuer, et ces artéfacts sont enterrés quelque part sous nos pieds, dans une des milliers de caves de la région.<br /><br />Ça, c'est la deuxième mauvaise nouvelle.<br /><br />La première, c'est que les Chasseurs venus venger Siegfried le savent aussi. Et ils ont bien l'intention de les déterrer pour massacrer tous les habitants du manoir Scorpi où je vis désormais ! Nous n'avons donc pas le choix, il faut mettre la main dessus avant eux.<br /><br />Cerise sur le gâteau, alors que nous avons mille autres choses à gérer, un ancien cauchemar de Zoé revient hanter nos vies…<br /><br />De Laurette, ma petite camarade fée, à Octavia, la goule pleine de bonne volonté, en passant par Myosotis, Merlin et les jumeaux Séléné et Noah, nous aurons besoin de toute l'aide possible pour faire face sur les différents fronts. Sinon, la magie disparaîtra pour de bon de la surface de la terre.<br /><br />Et si Élias, mon tueur à gages de petit ami, pouvait arrêter de me demander en mariage quatre fois par jour, ça m'arrangerait, aussi…<br /><br /><b>Entre magie, humour et action : bienvenue au cœur des lignées de l'ombre !</b>",
+      "formattedPrice": "5,99 €",
+      "releaseDate": "2023-05-05T07:00:00Z",
+      "trackId": 6447917975,
+      "trackName": "Lignées de l'ombre (tome 2) - Ceux qui dévorent la magie",
+      "averageUserRating": 5,
+      "userRatingCount": 94,
+      "country": "FRA"
+    }
+  ]
+}

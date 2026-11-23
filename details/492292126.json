@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        365972357
+      ],
+      "formattedPrice": "Gratis",
+      "trackViewUrl": "https://books.apple.com/de/book/die-g%C3%B6ttliche-kom%C3%B6die/id492292126?uo=4",
+      "trackCensoredName": "Die Göttliche Komödie",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication7/v4/29/c3/41/29c34141-eb1c-365c-dff7-1141e7623d25/coverArt.78f242.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication7/v4/29/c3/41/29c34141-eb1c-365c-dff7-1141e7623d25/coverArt.78f242.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/1265-1321-dante-alighieri/365972357?uo=4",
+      "genres": [
+        "Dichtung",
+        "Bücher",
+        "Belletristik und Literatur"
+      ],
+      "artistId": 365972357,
+      "artistName": "1265-1321 Dante Alighieri",
+      "price": 0,
+      "releaseDate": "1321-01-09T07:00:00Z",
+      "genreIds": [
+        "10093",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Die Commedia ist eine episch-narrative Verserzählung in gereimten Elfsilblern, insgesamt 14.233 Versen, die nach dem hier zum ersten Mal belegten, möglicherweise von Dante selbst erfundenen Prinzip der terza rima gereimt sind und in drei Bücher oder Cantiche von insgesamt hundert (34, 33 und 33) Gesängen (canti) eingeteilt sind. Der Titel Commedia verweist zwar auf die dramatische Gattung der Komödie, ist jedoch nicht oder nicht streng im Sinne der klassisch-antiken Gattungspoetik zu verstehen.",
+      "trackId": 492292126,
+      "trackName": "Die Göttliche Komödie",
+      "averageUserRating": 4,
+      "userRatingCount": 84,
+      "country": "DEU"
+    }
+  ]
+}

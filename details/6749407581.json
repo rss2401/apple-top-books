@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E3%83%9F%E3%82%BD%E3%83%8D%E3%82%BF-%E3%83%89%E3%82%B6%E3%81%88%E3%82%82%E3%82%93-%E5%85%8E%E5%B7%9D%E5%BE%8B-%E3%83%A6%E3%83%BC%E3%82%AD%E3%81%82%E3%81%8D%E3%82%89-%E3%82%86%E3%81%8C%E3%83%BC/1725446328?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/35/8b/e5/358be5f5-bb54-d996-8f5c-edf4b16d4abd/08X10000000065313000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/35/8b/e5/358be5f5-bb54-d996-8f5c-edf4b16d4abd/08X10000000065313000.jpg/100x100bb.jpg",
+      "artistIds": [
+        1725446328,
+        1708872444,
+        1287779235,
+        1661131862
+      ],
+      "artistId": 1725446328,
+      "artistName": "ミソネタ・ドザえもん, 兎川律, ユーキあきら & ゆがー",
+      "genres": [
+        "ラブコメディ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ"
+      ],
+      "price": 800,
+      "releaseDate": "2025-09-19T07:00:00Z",
+      "trackId": 6749407581,
+      "trackName": "高校時代に傲慢だった女王様との同棲生活は意外と居心地が悪くない 2",
+      "genreIds": [
+        "50000085",
+        "38",
+        "9026",
+        "10016"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "大学生の山本は、高校時代の同級生で、勝ち気で傲慢な「女王様」だった林恵と再会し、DV彼氏から彼女を匿う。せめてもの恩返しにと、林は料理を振る舞うようになり、二人の距離は少しずつ変化が生まれはじめていた。そんなある日、山本は大学で同級生・笠原灯里とも再会し、複雑な思いを抱えたまま帰宅すると、料理をして待っていた林と些細な行き違いで、林が家を飛び出してしまう。林は、不運にも街でDV彼氏・内海誠司と遭遇し――。強引に連れ戻そうとする内海に対し、山本は間に合うのか――!? 傷ついた女王様と達観男子が織りなす、じれったくも心くすぐる同棲生活ラブコメディ、第2巻!",
+      "trackCensoredName": "高校時代に傲慢だった女王様との同棲生活は意外と居心地が悪くない 2",
+      "formattedPrice": "¥800",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E9%AB%98%E6%A0%A1%E6%99%82%E4%BB%A3%E3%81%AB%E5%82%B2%E6%85%A2%E3%81%A0%E3%81%A3%E3%81%9F%E5%A5%B3%E7%8E%8B%E6%A7%98%E3%81%A8%E3%81%AE%E5%90%8C%E6%A3%B2%E7%94%9F%E6%B4%BB%E3%81%AF%E6%84%8F%E5%A4%96%E3%81%A8%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%8C%E6%82%AA%E3%81%8F%E3%81%AA%E3%81%84-2/id6749407581?uo=4",
+      "averageUserRating": 4.5,
+      "userRatingCount": 26,
+      "country": "JPN"
+    }
+  ]
+}

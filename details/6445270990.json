@@ -6,7 +6,6 @@
       "artistIds": [
         1223867598
       ],
-      "price": 7.99,
       "artistId": 1223867598,
       "artistName": "C S Quill",
       "genres": [
@@ -14,7 +13,9 @@
         "Livres",
         "Romance"
       ],
-      "releaseDate": "2026-10-22T07:00:00Z",
+      "price": 7.99,
+      "trackId": 6445270990,
+      "trackName": "Campus drivers - Tome 01",
       "genreIds": [
         "10057",
         "38",
@@ -28,10 +29,9 @@
       "trackViewUrl": "https://books.apple.com/fr/book/campus-drivers-tome-01/id6445270990?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/58/93/10/58931079-975b-e4cf-bf9f-acde42982e9b/9782755684339-001-x.jpeg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/58/93/10/58931079-975b-e4cf-bf9f-acde42982e9b/9782755684339-001-x.jpeg/100x100bb.jpg",
-      "trackId": 6445270990,
-      "trackName": "Campus drivers - Tome 01",
+      "releaseDate": "2026-10-22T07:00:00Z",
       "averageUserRating": 4.5,
-      "userRatingCount": 460,
+      "userRatingCount": 469,
       "country": "FRA"
     }
   ]

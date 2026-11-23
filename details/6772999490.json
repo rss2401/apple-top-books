@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1226959214
+      ],
+      "artistId": 1226959214,
+      "artistName": "Bob Mortimer",
+      "genres": [
+        "Fiction & Literature",
+        "Books"
+      ],
+      "price": 11.99,
+      "releaseDate": "2026-11-19T08:00:00Z",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>'A sweet coming-of-age story with a delicate frosting of </b><i><b>It’s a Wonderful Life</b></i><b>... Mortimer’s huge charm as a comedian, and above all his gift for the slightly off-kilter phrase or the unexpected simile, is abundant' </b><i><b>Guardian</b></i><br /><br /><b>'A touching, humorous tale of life's second chances' </b><i><b>Independent</b></i><br /><br /><b>'Beautiful' Romesh Ranganathan </b><br /><br /><b>Michael has had a big life. A life of abundance and applause. But now he's dead (or at least he's pretty sure he is). He is given the chance to return – but it comes with a catch. He ends up back in a time he’d tried to forget.</b><br /><br />He and his mum have been forced to start again after his dad's death: new house, new school, no mates. Worse still, his mum has a new boyfriend, a man with suspiciously close-set eyes and the word ‘DRYWALL’ tattooed on his forearm. He mostly spends his time in his bedroom, drawing cars and making airfix models. Things seem hopeless.<br /><br />But as the months pass, Michael slowly begins to find his place. Helped by new friendships and the unexpected kindness of his neighbour, Mr Graham, what starts as the worst year of Michael’s life might actually turn out to be the one that makes him. Life looks different second time around.<br /><br /><b>A wise, funny and moving novel about growing up and finding your way, from multi-million-copy bestselling author Bob Mortimer.</b>",
+      "formattedPrice": "£11.99",
+      "trackCensoredName": "Michael",
+      "artistViewUrl": "https://books.apple.com/gb/artist/bob-mortimer/1226959214?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/michael/id6772999490?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c7/6d/4f/c76d4fbc-15be-39bf-e9df-22522d036041/9781398548114.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/c7/6d/4f/c76d4fbc-15be-39bf-e9df-22522d036041/9781398548114.jpg/100x100bb.jpg",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "trackId": 6772999490,
+      "trackName": "Michael",
+      "country": "GBR"
+    }
+  ]
+}

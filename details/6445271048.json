@@ -6,7 +6,6 @@
       "artistIds": [
         1223867598
       ],
-      "price": 7.99,
       "artistId": 1223867598,
       "artistName": "C S Quill",
       "genres": [
@@ -14,7 +13,9 @@
         "Livres",
         "Romance"
       ],
-      "releaseDate": "2026-10-22T07:00:00Z",
+      "price": 7.99,
+      "trackId": 6445271048,
+      "trackName": "Campus drivers - Tome 02",
       "genreIds": [
         "10057",
         "38",
@@ -28,10 +29,9 @@
       "trackViewUrl": "https://books.apple.com/fr/book/campus-drivers-tome-02/id6445271048?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e2/a8/6e/e2a86eb5-d8ff-dfd9-ec48-c094c43aaa77/9782755685213-001-x.jpeg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e2/a8/6e/e2a86eb5-d8ff-dfd9-ec48-c094c43aaa77/9782755685213-001-x.jpeg/100x100bb.jpg",
-      "trackId": 6445271048,
-      "trackName": "Campus drivers - Tome 02",
+      "releaseDate": "2026-10-22T07:00:00Z",
       "averageUserRating": 4.5,
-      "userRatingCount": 268,
+      "userRatingCount": 273,
       "country": "FRA"
     }
   ]

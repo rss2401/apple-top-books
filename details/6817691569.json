@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Auf dem Weg zu deinem Nordstern",
+      "artistIds": [
+        210223496
+      ],
+      "formattedPrice": "16,99 €",
+      "artistId": 210223496,
+      "artistName": "Dieter Lange",
+      "trackId": 6817691569,
+      "trackName": "Auf dem Weg zu deinem Nordstern",
+      "genreIds": [
+        "10004",
+        "38",
+        "9025",
+        "10119"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "In einer Welt, die uns mit Reizen, Erwartungen und Herausforderungen überflutet, verlieren sich viele Menschen im Hamsterrad. Toptrainer Dieter Lange zeigt, wie du dagegen angehst, dabei Orientierung findest und innere Klarheit gewinnst.\nDieter Langes Auf dem Weg zu deinem Nordstern offenbart, dass du kein Opfer der Umstände bist. Egal, wo du aktuell stehst, deine Vergangenheit bestimmt nicht, wer du wirklich bist. Mit deinem Nordstern aktivierst du deine natürlichen Kräfte neu und erhältst eine tiefe Resonanz in Beziehungen und im eigenen Handeln.\nDieter Lange zeigt dir in seinem Buch, wie dein Leben mit dem Nordstern in die Eigenverantwortung führt und du an Stärke gewinnst. Du erkennst, wozu du wirklich geboren wurdest, um dein Leben authentisch zu gestalten.\nMit tiefgründigen Einsichten, praxisnahen Impulsen und motivierenden Strategien begleitet dich Dieter Lange auf deiner Reise. Du gewinnst wahre Lebensqualität und schöpfst dein Potenzial voll aus.",
+      "artistViewUrl": "https://books.apple.com/de/artist/dieter-lange/210223496?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/auf-dem-weg-zu-deinem-nordstern/id6817691569?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/02/45/07/0245078d-e857-bc2d-2455-9b2b0111266f/9783689361792.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/02/45/07/0245078d-e857-bc2d-2455-9b2b0111266f/9783689361792.jpg/100x100bb.jpg",
+      "releaseDate": "2026-09-30T07:00:00Z",
+      "price": 16.99,
+      "genres": [
+        "Spiritualität",
+        "Bücher",
+        "Gesundheit, Körper und Geist",
+        "Selbstverwirklichung"
+      ],
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Water Dancer",
+      "artistIds": [
+        296585558
+      ],
+      "formattedPrice": "$1.99",
+      "artistId": 296585558,
+      "artistName": "Ta-Nehisi Coates",
+      "genres": [
+        "Black Literature",
+        "Books",
+        "Fiction & Literature",
+        "Sci-Fi & Fantasy",
+        "Fantasy",
+        "Historical Fantasy"
+      ],
+      "price": 1.99,
+      "genreIds": [
+        "10040",
+        "38",
+        "9031",
+        "9020",
+        "10044",
+        "11003"
+      ],
+      "trackId": 1452108632,
+      "trackName": "The Water Dancer",
+      "releaseDate": "2019-09-24T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b><b>#1 <i>NEW YORK TIMES </i>BESTSELLER • OPRAH’S BOOK CLUB PICK •</b> From the National Book Award–winning author of <i>Between the World and Me, </i>a boldly conjured debut novel about a magical gift, a devastating loss, and an underground war for freedom.<br /><br />“This potent book about America’s most disgraceful sin establishes [Ta-Nehisi Coates] as a first-rate novelist.”—<i>San Francisco Chronicle</i><br /><br /><b>IN DEVELOPMENT AS A MAJOR MOTION PICTURE • Adapted by Ta-Nehisi Coates and Kamilah Forbes, directed by Nia DaCosta, and produced by MGM, Plan B, and Oprah Winfrey’s Harpo Films</b><br /><br />NOMINATED FOR THE NAACP IMAGE AWARD • NAMED ONE OF <i>PASTE</i>’S BEST NOVELS OF THE DECADE • NAMED ONE OF THE BEST BOOKS OF THE YEAR BY <i>Time </i>• NPR • <i>The Washington Post</i> • <i>Chicago Tribune</i> • <i>Vanity Fair</i> • <i>Esquire </i>• <i>Good Housekeeping </i>• <i>Paste</i> • <i>Town &amp; Country</i> • The New York Public Library • <i>Kirkus Reviews </i>• <i>Library Journal</i></b><br /><br />Young Hiram Walker was born into bondage. When his mother was sold away, Hiram was robbed of all memory of her—but was gifted with a mysterious power. Years later, when Hiram almost drowns in a river, that same power saves his life. This brush with death births an urgency in Hiram and a daring scheme: to escape from the only home he’s ever known.<br /><br /> So begins an unexpected journey that takes Hiram from the corrupt grandeur of Virginia’s proud plantations to desperate guerrilla cells in the wilderness, from the coffin of the Deep South to dangerously idealistic movements in the North. Even as he’s enlisted in the underground war between slavers and the enslaved, Hiram’s resolve to rescue the family he left behind endures.<br /><br /> This is the dramatic story of an atrocity inflicted on generations of women, men, and children—the violent and capricious separation of families—and the war they waged to simply make lives with the people they loved. Written by one of today’s most exciting thinkers and writers, <i>The Water Dancer </i>is<i> </i>a propulsive, transcendent work that restores the humanity of those from whom everything was stolen.<br /><br /><b>Praise for </b><i><b>The Water Dancer</b></i><br /><br />“Ta-Nehisi Coates is the most important essayist in a generation and a writer who changed the national political conversation about race with his 2015 memoir, <i>Between the World and Me</i>. So naturally his debut novel comes with slightly unrealistic expectations—and then proceeds to exceed them. <i>The Water Dancer</i> . . . is a work of both staggering imagination and rich historical significance. . . . What’s most powerful is the way Coates enlists his notions of the fantastic, as well as his fluid prose, to probe a wound that never seems to heal. . . . Timeless&#xa0;and&#xa0;instantly canon-worthy.”<b>—<i>Rolling Stone</i></b>",
+      "artistViewUrl": "https://books.apple.com/us/artist/ta-nehisi-coates/296585558?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-water-dancer/id1452108632?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/26/e5/cb/26e5cb40-39c3-4642-d9bb-54b6889b0ea5/9780399590603.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/26/e5/cb/26e5cb40-39c3-4642-d9bb-54b6889b0ea5/9780399590603.d.jpg/100x100bb.jpg",
+      "averageUserRating": 4,
+      "userRatingCount": 3331,
+      "country": "USA"
+    }
+  ]
+}

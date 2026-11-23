@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "F##k It, It’s Christmas",
+      "formattedPrice": "£0.99",
+      "artistViewUrl": "https://books.apple.com/gb/artist/holly-atwood/1875922245?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/f-k-it-its-christmas/id6759556672?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/70/56/ad/7056adaf-661e-0f35-a5c0-f84bf1369d77/9781037405419.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/70/56/ad/7056adaf-661e-0f35-a5c0-f84bf1369d77/9781037405419.jpg/100x100bb.jpg",
+      "artistId": 1875922245,
+      "artistName": "Holly Atwood",
+      "price": 0.99,
+      "trackId": 6759556672,
+      "trackName": "F##k It, It’s Christmas",
+      "artistIds": [
+        1875922245
+      ],
+      "genreIds": [
+        "9031",
+        "38",
+        "11050"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "❄️<b>Is your Christmas to-do list more like a never-ending roll-call of obligations?</b><br /><br />🎄<b>Are your fairy lights more tangled than your tights drawer?</b><br /><br />🍷<b>And are your homemade mince pies more pie in the sky than reality?</b><br /><br /><b>Join the club.</b><br /><br />Meet Laurie: a working mother of two who is at the end of her tinsel. All she really wants for Christmas is five minutes of peace (and another Bailey’s in her coffee).<br /><br />With a disastrously chaotic family Christmas brewing, Laurie has a choice to make. Should she double down on her perfectly manufactured festive cheer? Or burn the Pinterest board and embrace her imperfections so that she can have some fun too?<br /><br /><b>If you’ve spent more Christmases surviving than thriving, it’s time to join Laurie in ditching the colour-coded spreadsheets, letting the kids (and adults) stay in their pyjamas until 3 p.m. and finally raising a toast to say, ‘F##k it, it’s Christmas’.</b><br /><br />A laugh-out-loud novel for fans of <i>Amandaland</i>, <i>The F##k It List</i> and <i>Why Mummy Drinks</i>.<br /><br />❄️🎄🍷",
+      "releaseDate": "2026-10-08T07:00:00Z",
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Family Fiction & Literature"
+      ],
+      "country": "GBR"
+    }
+  ]
+}

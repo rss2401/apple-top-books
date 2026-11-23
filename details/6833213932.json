@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "G. F. Unger Western-Bestseller 2804",
+      "artistIds": [
+        609482092
+      ],
+      "formattedPrice": "2,49 €",
+      "artistId": 609482092,
+      "artistName": "G. F. Unger",
+      "trackId": 6833213932,
+      "trackName": "G. F. Unger Western-Bestseller 2804",
+      "genreIds": [
+        "9031",
+        "38",
+        "10047",
+        "10039",
+        "9032",
+        "10042"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Lily Osborne war zweifellos die schönste Frau in Dodge City. Und das wollte schon etwas heißen, denn in diesem Babylon der Kansas-Prärie hatten sich die schönsten Elstern des ganzen Westens niedergelassen. Ausgerechnet auf mich hatte sie ein Auge geworfen, und wir waren gerade dabei, uns bestens miteinander anzufreunden. Doch da tauchte Herb Yates, mein alter Gefährte aus dem Bürgerkrieg, auf und machte mir einen dicken Strich durch die Rechnung. Er hatte eine Sammelherde mit gutem Gewinn verkauft und wagte nicht, die vierzigtausend Dollar allein nach San Jubal zu schaffen. Was blieb mir anderes übrig, als ihm zu helfen? Gewiss, ich würde die schöne Lily gegen einen Höllenjob vertauschen, aber ein Schuft, wer einen alten Sattelgefährten im Stich lässt!",
+      "artistViewUrl": "https://books.apple.com/de/artist/g-f-unger/609482092?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/g-f-unger-western-bestseller-2804/id6833213932?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0c/2c/cc/0c2cccaa-0391-19a8-17db-05fa048dcf33/9783819803635.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0c/2c/cc/0c2cccaa-0391-19a8-17db-05fa048dcf33/9783819803635.jpg/100x100bb.jpg",
+      "releaseDate": "2026-11-21T08:00:00Z",
+      "price": 2.49,
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher",
+        "Historische Romane",
+        "Action und Abenteuer",
+        "Krimis und Thriller",
+        "Klassiker"
+      ],
+      "country": "DEU"
+    }
+  ]
+}

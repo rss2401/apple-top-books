@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E8%97%8D%E5%B1%8B%E7%90%83-%E3%82%A2%E3%83%8D%E3%82%B3%E3%83%A6%E3%82%B5%E3%82%AE-%E5%BC%A5%E5%8D%97%E3%81%9B%E3%81%84%E3%82%89/687721081?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/95/99/20/959920fe-4cc6-4443-6c8e-ea38c7a9cb1b/04660680A26665900000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/95/99/20/959920fe-4cc6-4443-6c8e-ea38c7a9cb1b/04660680A26665900000.jpg/100x100bb.jpg",
+      "artistIds": [
+        687721081,
+        757758503,
+        757758506
+      ],
+      "trackCensoredName": "盾の勇者の成り上がり 31",
+      "formattedPrice": "¥1,000",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E7%9B%BE%E3%81%AE%E5%8B%87%E8%80%85%E3%81%AE%E6%88%90%E3%82%8A%E4%B8%8A%E3%81%8C%E3%82%8A-31/id6832402319?uo=4",
+      "artistId": 687721081,
+      "artistName": "藍屋球, アネコユサギ & 弥南せいら",
+      "genres": [
+        "ファンタジー",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ"
+      ],
+      "price": 1000,
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "trackId": 6832402319,
+      "trackName": "盾の勇者の成り上がり 31",
+      "genreIds": [
+        "50000074",
+        "38",
+        "9026",
+        "10016"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "さらなる強さを求め、ゼルトブルのコロシアムを訪れた尚文一行。<br/>\nそこでリーシアは、別の大会に出場する樹の姿を見つけ駆け寄るが<br/>\nうつろな眼でリーシアを振りほどき、その場を去ってしまう。<br/>\n「パーフェクト・ハイド・ジャスティス」を名乗り、勝利に雄叫びをあげる樹。<br/>\nその姿は尚文の知る樹とはまるで別人で――!?",
+      "country": "JPN"
+    }
+  ]
+}

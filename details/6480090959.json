@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        273746762
+      ],
+      "artistId": 273746762,
+      "artistName": "Sebastian Faulks",
+      "genres": [
+        "Literary Fiction",
+        "Books",
+        "Fiction & Literature",
+        "Romance",
+        "Historical Romance",
+        "Historical Fiction"
+      ],
+      "price": 0.99,
+      "releaseDate": "2024-06-13T07:00:00Z",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>THE <i>SUNDAY TIMES</i> BESTSELLER</b><br /><br />'Faulks's most poignant love story yet' <b>ANTONY BEEVOR</b><br /><br /><b>1914</b>: Aspiring journalist Anton arrives in Vienna where he meets Delphine, a woman of deep secrets. Anton is entranced by the light of first love, until his country declares war on hers.<br /><br /><b>1927</b>: For Lena, life in a small town has been harsh and cold. When her love affair with a young lawyer crumbles, she leaves to take a post at a remote snow-capped sanatorium.<br /><br /><b>1933</b>: Anton is sent to write about the same clinic, the mysterious Schloss Seeblick. In this place, on the banks of a silvery lake where the roots of human suffering are laid bare, two people will see each other as if for the first time.<br /><br />‘A magnificent, moving novel’ <b><i>INDEPENDENT</i></b><br /><br />‘Faulks on his best form’ <b><i>TELEGRAPH</i></b>",
+      "formattedPrice": "£0.99",
+      "trackCensoredName": "Snow Country",
+      "artistViewUrl": "https://books.apple.com/gb/artist/sebastian-faulks/273746762?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/snow-country/id6480090959?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/55/24/0d/55240d63-0d6d-e97f-e54b-24f39ae623c6/9781804944332.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/55/24/0d/55240d63-0d6d-e97f-e54b-24f39ae623c6/9781804944332.jpg/100x100bb.jpg",
+      "genreIds": [
+        "10049",
+        "38",
+        "9031",
+        "9003",
+        "10059",
+        "10047"
+      ],
+      "trackId": 6480090959,
+      "trackName": "Snow Country",
+      "averageUserRating": 4.5,
+      "userRatingCount": 7,
+      "country": "GBR"
+    }
+  ]
+}

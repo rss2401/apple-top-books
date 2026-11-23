@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1701832360
+      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/8a/5a/67/8a5a67d2-57bd-98a1-1a53-2faf39bcf350/0003121705.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/8a/5a/67/8a5a67d2-57bd-98a1-1a53-2faf39bcf350/0003121705.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/vero-heath/1701832360?uo=4",
+      "trackCensoredName": "Eine Schuld so gnadenlos",
+      "formattedPrice": "Gratis",
+      "trackViewUrl": "https://books.apple.com/de/book/eine-schuld-so-gnadenlos/id6751760057?uo=4",
+      "artistId": 1701832360,
+      "artistName": "Vero Heath",
+      "genres": [
+        "Liebesromane",
+        "Bücher",
+        "Zeitgenössische Liebesromane",
+        "Romantische Thriller"
+      ],
+      "price": 0,
+      "genreIds": [
+        "9003",
+        "38",
+        "10057",
+        "10061"
+      ],
+      "releaseDate": "2025-10-25T07:00:00Z",
+      "trackId": 6751760057,
+      "trackName": "Eine Schuld so gnadenlos",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Geld kennt keine Gnade. Und er auch nicht ...</b><br /><br />Um Punkt Mitternacht an meinem zwanzigsten Geburtstag kommt er in Dunkelheit und Blut. Elio Titone, der Erbe von Torontos brutalster Cosa Nostra Famiglia.&#xa0;<br /><br />Mein Vater hat riesige Schulden bei der sizilianischen Mafia und Elio ist nur aus einem einzigen Grund gekommen: um das einzufordern, was ihm zusteht.<br /><br />Und das, was ihm zusteht, bin <i>ich</i>.<br /><br />Mein Entführer ist gefährlich und fordernd. Gequält, besitzergreifend und unglaublich reich. Er hält mich in seiner vergoldeten, aber gewalttätigen Welt gefangen und nimmt mir jede Hoffnung auf einen Ausweg. Aber je länger ich mit ihm, seinen dunklen Augen und seinen vernarbten Händen zusammen bin, desto weniger will ich mich aus seinem Käfig befreien.<br /><br />Als mich neue Feinde bedrohen, sehe ich eine Seite von Elio, von der ich nicht wusste, dass sie existiert –&#xa0;eine rücksichtslose, beschützende Seite. Er zwingt mich dazu, die eine Sache zu tun, die meine Sicherheit garantieren kann, auch wenn ich dafür auf ewig seine Gefangene bleiben muss.<br /><br />Und dann werden mich nicht mehr die Schulden fesseln, sondern das Eheversprechen.<br /><br />Denn er wird mich zu seiner Braut machen.<br /><br /><i>Eine Schuld so gnadenlos ist ein dunkler Mafia-Roman mit Altersunterschied. Es ist der erste Teil eines Duos.</i>",
+      "country": "DEU"
+    }
+  ]
+}

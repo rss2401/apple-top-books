@@ -1,0 +1,41 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E4%BA%95%E9%BE%8D%E4%B8%80-%E4%BC%8A%E8%97%A4%E7%BF%94%E5%A4%AA/954686231?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/c8/82/4f/c8824faa-76db-127a-502d-a260cc292e69/BT000103935301301301900206.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/c8/82/4f/c8824faa-76db-127a-502d-a260cc292e69/BT000103935301301301900206.jpg/100x100bb.jpg",
+      "artistIds": [
+        954686231,
+        1021500915
+      ],
+      "trackCensoredName": "降り積もれ孤独な死よ(13)",
+      "formattedPrice": "¥1,100",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E9%99%8D%E3%82%8A%E7%A9%8D%E3%82%82%E3%82%8C%E5%AD%A4%E7%8B%AC%E3%81%AA%E6%AD%BB%E3%82%88-13/id6833884958?uo=4",
+      "artistId": 954686231,
+      "artistName": "井龍一 & 伊藤翔太",
+      "genres": [
+        "ミステリー",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "青年"
+      ],
+      "price": 1100,
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "trackId": 6833884958,
+      "trackName": "降り積もれ孤独な死よ(13)",
+      "genreIds": [
+        "50000081",
+        "38",
+        "9026",
+        "10016",
+        "11338"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "それぞれが、灰川十三の足跡を辿り、<br />冴木仁はバンコクへ、蓮水花音はサハリンへーー。<br />”瑕面の男”を追い、<br />インターポールの市岡ユカリとバンコクへと降り立った仁。<br />そこで待ち受けていたのは、<br />十三とゆかりのある懐かしい男・レック。<br />3人は、十三の残り香が今も漂うここバンコクで、<br />十三の因縁、そして諸悪の根源へと立ち向かう。<br />一方、花音は”現在”の十三を追って、サハリンを訪れていた。<br />少しだけ日本語を理解できる少年・ユージュカと出会い、<br />彼に連れられた先の山小屋にあったのは、年老いた父の姿。<br />十三は、ここサハリンで何をしているのか…。<br />久しぶりの再会にもかかわらず、<br />十三は花音に「帰れ」と一蹴してしまうーーー。<br /><br />激情と慟哭のクライムサスペンス、堂々完結ーー。",
+      "country": "JPN"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Deep End – Die unausweichliche Unanständigkeit von Liebe",
+      "artistViewUrl": "https://books.apple.com/de/artist/ali-hazelwood/1549344169?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/deep-end-die-unausweichliche-unanst%C3%A4ndigkeit-von-liebe/id6736392923?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/79/6c/c6/796cc61a-e658-2cac-0111-16c46dcac627/9783841237118.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/79/6c/c6/796cc61a-e658-2cac-0111-16c46dcac627/9783841237118.jpg/100x100bb.jpg",
+      "artistId": 1549344169,
+      "artistName": "Ali Hazelwood",
+      "genres": [
+        "Liebesromane",
+        "Bücher",
+        "Belletristik und Literatur",
+        "Zeitgenössische Liebesromane",
+        "Romantische Komödien"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "So steamy war Sports Romance noch nie.<br /><br />Seit einer schweren Verletzung hat Turmspringerin Scarlett Vandermeer das Gefühl, immer gegen den Strom zu schwimmen. Introvertierter denn je, will sie sich auf ihr Studium fokussieren. Für so etwas Kompliziertes wie Beziehungen hat sie keine Zeit – meint sie zumindest.<br /><br />Für Lukas Blomqvist, das Schwimm-Ass von Stanford, ist Disziplin einfach alles. So gewinnt er Goldmedaillen, so bricht er Rekorde: volle Konzentration, unerbittliche Härte, bei jedem Zug.<br /><br />Und obwohl sie nichts gemeinsam zu haben scheinen, finden sich Lukas und Scarlett plötzlich in einem Arrangement wieder, das eigentlich nur kurzfristig und zur beiderseitigen Befriedigung sein soll. Bis Scarlett begreift, dass ihr Herz längst in einen gefährlichen Strudel geraten ist ...<br /><br />Spicy wie nie lässt Bestsellerautorin Ali Hazelwood eine traumatisierte Turmspringerin und einen unwiderstehlichen schwedischen Schwimm-Superstar in verbotene Gewässer abtauchen.<br /><br />Mit einem Wiedersehen mit Olive und Adam aus \"The Love Hypothesis\".",
+      "formattedPrice": "3,49 €",
+      "releaseDate": "2025-02-04T08:00:00Z",
+      "artistIds": [
+        1549344169
+      ],
+      "genreIds": [
+        "9003",
+        "38",
+        "9031",
+        "10057",
+        "11042"
+      ],
+      "trackId": 6736392923,
+      "trackName": "Deep End – Die unausweichliche Unanständigkeit von Liebe",
+      "price": 3.49,
+      "averageUserRating": 4.5,
+      "userRatingCount": 233,
+      "country": "DEU"
+    }
+  ]
+}

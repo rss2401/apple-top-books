@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Conspiracy Theory",
+      "artistIds": [
+        2024578
+      ],
+      "formattedPrice": "$14.99",
+      "artistId": 2024578,
+      "artistName": "Phillip Margolin",
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books"
+      ],
+      "price": 14.99,
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "trackId": 6780519363,
+      "trackName": "Conspiracy Theory",
+      "releaseDate": "2026-11-17T08:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>Searching for a plot for his next legal thriller, D.C. area lawyer and novelist Michael Harris stumbles across a conspiracy theory that may have put his own life at risk.<br /></b><br />Five years ago, Gloria Hale, the President's wife, was assassinated by a lone gunman, who was himself killed in a shoot out with a security guard while trying to escape. At the same time and hotel, a young lawyer, Marsha Hart, disappears in the chaos after the shooting, only to have her murdered body turn up a few days later, her murder never solved.<br /><br />Michael Harris is a D. C. area lawyer with a second career as a novelist, but after a very successful debut, his subsequent legal thrillers have been less and less successful.  With one more book due under his contract and desperate to revive his flagging career, Harris is stumbles across the voluminous research done by a recently deceased former Secret Service agent obsessed with proving that the First Lady's assassination was a conspiracy. Thinking he might be able to turn one of these wildly unlikely theories into his next book, Harris begins to look into the matter.  He doesn't turn up anything but his inquiries might have set something into motion - leading to another murder, a fire destroying the original evidence, and an attempt assault of Harris himself. This might be a coincidence or Harris may well be the next target in an increasingly deadly conspiracy.",
+      "artistViewUrl": "https://books.apple.com/us/artist/phillip-margolin/2024578?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/conspiracy-theory/id6780519363?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/94/53/cb/9453cb68-1cbc-8392-61a9-84415a290e3d/9781250356932.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/94/53/cb/9453cb68-1cbc-8392-61a9-84415a290e3d/9781250356932.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 13,
+      "country": "USA"
+    }
+  ]
+}

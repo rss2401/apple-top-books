@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Whisky mit Mord",
+      "artistViewUrl": "https://books.apple.com/de/artist/melinda-mullet/1158782847?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/whisky-mit-mord/id1311642609?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/be/34/12/be3412ae-b62e-da0c-6519-04f400ef1679/9783841215215.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/be/34/12/be3412ae-b62e-da0c-6519-04f400ef1679/9783841215215.jpg/100x100bb.jpg",
+      "artistId": 1158782847,
+      "artistName": "Melinda Mullet",
+      "genres": [
+        "Cosy Crime",
+        "Bücher",
+        "Krimis und Thriller",
+        "Belletristik und Literatur",
+        "Weibliche Spürnasen",
+        "Krimis"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Hochprozentig kriminell.  Abigail Logan, erfolgreiche Fotojournalistin Anfang dreißig, hätte nie gedacht, dass sie einmal eine Whisky-Destillerie in Schottland erben würde. Und eine Frau als Eigentümerin eines solchen Kleinods? Als sie mit ihrem Kollegen Patrick, einem Whisky-Kenner, und ihrem Terrier Liam dort ankommt, macht man ihr sehr deutlich klar, dass man sie nicht haben will. Es gibt Sabotageakte in der Destillerie, man bedroht sie, und dann findet man einen ihrer Angestellten tot im Whisky-Bottich ...&#xa0;<br /> Ein Krimi aus den schottischen Highlands mit viel Whisky und Flair.",
+      "formattedPrice": "3,99 €",
+      "releaseDate": "2018-07-13T07:00:00Z",
+      "artistIds": [
+        1158782847
+      ],
+      "genreIds": [
+        "11259",
+        "38",
+        "9032",
+        "9031",
+        "10055",
+        "10054"
+      ],
+      "trackId": 1311642609,
+      "trackName": "Whisky mit Mord",
+      "price": 3.99,
+      "averageUserRating": 4,
+      "userRatingCount": 194,
+      "country": "DEU"
+    }
+  ]
+}

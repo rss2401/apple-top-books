@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "無料",
+      "artistIds": [
+        1527707772,
+        740395163
+      ],
+      "trackCensoredName": "陰陽師と天狗眼 ―冬山の隠れ鬼―",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%AD%8C%E5%B3%B0%E7%94%B1%E5%AD%90-%E3%82%AB%E3%82%BA%E3%82%AD%E3%83%A8%E3%83%8D/1527707772?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E9%99%B0%E9%99%BD%E5%B8%AB%E3%81%A8%E5%A4%A9%E7%8B%97%E7%9C%BC-%E5%86%AC%E5%B1%B1%E3%81%AE%E9%9A%A0%E3%82%8C%E9%AC%BC/id1599998261?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/c7/af/ed/c7afed22-7e5a-1cdf-a05c-7b642877638e/20427_124100434_001_001_artwork_20211213120240.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/c7/af/ed/c7afed22-7e5a-1cdf-a05c-7b642877638e/20427_124100434_001_001_artwork_20211213120240.jpg/100x100bb.jpg",
+      "price": 0,
+      "genres": [
+        "小説／文学",
+        "ブック",
+        "ロマンス"
+      ],
+      "artistId": 1527707772,
+      "artistName": "歌峰由子 & カズキヨネ",
+      "releaseDate": "2021-12-20T08:00:00Z",
+      "genreIds": [
+        "9031",
+        "38",
+        "9003"
+      ],
+      "trackId": 1599998261,
+      "trackName": "陰陽師と天狗眼 ―冬山の隠れ鬼―",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "狗神退治を無事に終えた広島県巴市の公務員陰陽師・宮澤美郷(みやざわ・みさと)のもとに、<br/>\n新たな「特殊自然災害(もののけトラブル)」解決の依頼が舞い込む。<br/>\n同時にフリーの山伏・狩野怜路(かりの・りょうじ)のもとには、出雲から内密に<br/>\n人捜しの依頼が来ていた。捜す人物は鳴神克樹(なるかみ・かつき)。<br/>\nそれは、美郷の愛する弟だった。<br/>\n調査を進めるうち、二つの事件に共通のキーワードが浮かび上がる。<br/>\nそれは「鬼ごっこ」――。",
+      "country": "JPN"
+    }
+  ]
+}

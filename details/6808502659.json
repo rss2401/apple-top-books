@@ -1,0 +1,35 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistId": 566528156,
+      "artistName": "Philippe Xavier & Joe Pruett",
+      "genres": [
+        "BD et mangas",
+        "Livres"
+      ],
+      "price": 9.99,
+      "artistIds": [
+        566528156,
+        505697263
+      ],
+      "releaseDate": "2026-10-16T07:00:00Z",
+      "genreIds": [
+        "9026",
+        "38"
+      ],
+      "trackId": 6808502659,
+      "trackName": "Le Territoire",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Il y a 16 ans, la civilisation s’est effondrée. Le monde s’est réinitialisé en un paysage dystopique où seule la loi du plus fort règne. Un homme issu d’une humanité désormais décimée et une jeune fille sans aucun passé, deux compagnons improbables, réunis par le hasard et un lien qu’ils ne reconnaissent pas encore, sont pourchassés à travers les étendues cruelles et impitoyables du Territoire, courant vers un destin commun qu’aucun des deux n’aurait pu anticiper.",
+      "formattedPrice": "9,99 €",
+      "trackCensoredName": "Le Territoire",
+      "artistViewUrl": "https://books.apple.com/fr/artist/philippe-xavier-joe-pruett/566528156?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/le-territoire/id6808502659?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6a/28/61/6a286130-f44b-b32d-1e3a-6b59077c7af9/9782808221405.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6a/28/61/6a286130-f44b-b32d-1e3a-6b59077c7af9/9782808221405.jpg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        6800474551
+      ],
+      "artistId": 6800474551,
+      "artistName": "Alice Fox",
+      "genres": [
+        "Romantic Comedies",
+        "Books",
+        "Romance",
+        "Contemporary Romance"
+      ],
+      "price": 0,
+      "genreIds": [
+        "11042",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "releaseDate": "2026-11-19T08:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "SLOANE<br /><br />I came to Milwaukee to sell a hockey team.<br /><br />My father's firm owns forty percent of it. One more losing season and we can force a sale to a buyer who will move it two thousand miles away. I wrote the plan myself. It is clean, it is legal, and it works.<br /><br />What I didn't plan for was my grandfather waiting for me at the bottom of the airport escalator. Or the room he gave me under the roof of his house, across a shared bathroom from the team's captain.<br /><br />He makes me toast at five in the morning. By six he can't stand me.<br /><br />On paper he is exactly what my spreadsheet says. Thirty. Slow. Expiring. The most expensive line in the budget.<br /><br />He is also the only person in this city who tells me the truth.<br /><br />And somewhere in my plan, in my own handwriting, is the sentence that sends him away.<br /><br />KILLIAN<br /><br />I've been traded three times. I found out about the first one from my phone, sitting alone in a parking lot.<br /><br />This team is the first place that ever kept me. Now the owner's granddaughter is living across the hall, putting a price on everything I love, and she is very, very good at it.<br /><br />So we made a deal. Every morning, from five to six, in that kitchen, nothing either of us says counts.<br /><br />It's the only hour I tell anybody the truth.<br /><br />I have never once asked anyone to stay.<br /><br />I'm about to ask the one woman who came here to make me leave.<br /><br />This is the first book in The Black Aces Series. Reading order:<br /><br />Cold Crush.<br /><br />Cold Kiss.<br /><br />Cold Blooded.<br /><br />Cold Comfort.<br /><br />Cold Temptation.<br /><br />Cold Fire.",
+      "trackCensoredName": "Cold Crush: A Spicy Hockey Romance",
+      "artistViewUrl": "https://books.apple.com/us/artist/alice-fox/6800474551?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/cold-crush-a-spicy-hockey-romance/id6837334498?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/82/41/2e/82412e8c-1422-f373-2798-96ec108cba14/6610001561079.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/82/41/2e/82412e8c-1422-f373-2798-96ec108cba14/6610001561079.jpg/100x100bb.jpg",
+      "trackId": 6837334498,
+      "trackName": "Cold Crush: A Spicy Hockey Romance",
+      "country": "USA"
+    },
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        6800474551
+      ],
+      "artistId": 6800474551,
+      "artistName": "Alice Fox",
+      "price": 0,
+      "trackId": 6837334498,
+      "trackName": "Cold Crush: A Spicy Hockey Romance",
+      "releaseDate": "2026-11-19T08:00:00Z",
+      "genreIds": [
+        "11042",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "SLOANE<br /><br />I came to Milwaukee to sell a hockey team.<br /><br />My father's firm owns forty percent of it. One more losing season and we can force a sale to a buyer who will move it two thousand miles away. I wrote the plan myself. It is clean, it is legal, and it works.<br /><br />What I didn't plan for was my grandfather waiting for me at the bottom of the airport escalator. Or the room he gave me under the roof of his house, across a shared bathroom from the team's captain.<br /><br />He makes me toast at five in the morning. By six he can't stand me.<br /><br />On paper he is exactly what my spreadsheet says. Thirty. Slow. Expiring. The most expensive line in the budget.<br /><br />He is also the only person in this city who tells me the truth.<br /><br />And somewhere in my plan, in my own handwriting, is the sentence that sends him away.<br /><br />KILLIAN<br /><br />I've been traded three times. I found out about the first one from my phone, sitting alone in a parking lot.<br /><br />This team is the first place that ever kept me. Now the owner's granddaughter is living across the hall, putting a price on everything I love, and she is very, very good at it.<br /><br />So we made a deal. Every morning, from five to six, in that kitchen, nothing either of us says counts.<br /><br />It's the only hour I tell anybody the truth.<br /><br />I have never once asked anyone to stay.<br /><br />I'm about to ask the one woman who came here to make me leave.<br /><br />This is the first book in The Black Aces Series. Reading order:<br /><br />Cold Crush.<br /><br />Cold Kiss.<br /><br />Cold Blooded.<br /><br />Cold Comfort.<br /><br />Cold Temptation.<br /><br />Cold Fire.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/82/41/2e/82412e8c-1422-f373-2798-96ec108cba14/6610001561079.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/82/41/2e/82412e8c-1422-f373-2798-96ec108cba14/6610001561079.jpg/100x100bb.jpg",
+      "trackCensoredName": "Cold Crush: A Spicy Hockey Romance",
+      "trackViewUrl": "https://books.apple.com/gb/book/cold-crush-a-spicy-hockey-romance/id6837334498?uo=4",
+      "artistViewUrl": "https://books.apple.com/gb/artist/alice-fox/6800474551?uo=4",
+      "genres": [
+        "Romantic Comedies",
+        "Books",
+        "Romance",
+        "Contemporary Romance"
+      ],
+      "country": "GBR"
+    }
+  ]
+}

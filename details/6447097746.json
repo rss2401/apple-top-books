@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Seven Days",
+      "artistViewUrl": "https://books.apple.com/de/artist/steve-cavanagh/924089499?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/seven-days/id6447097746?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/6a/bc/18/6abc182e-8681-54e0-3de7-679db15f4671/9783641305451.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/6a/bc/18/6abc182e-8681-54e0-3de7-679db15f4671/9783641305451.jpg/100x100bb.jpg",
+      "artistId": 924089499,
+      "artistName": "Steve Cavanagh",
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Belletristik und Literatur"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Er gewinnt jeden Prozess. Denn er steckt hinter jedem Mord.</b><br /><br />Man nennt ihn den König der Todeszellen. Randal Korn hat mehr Menschen auf den elektrischen Stuhl geschickt als jeder andere Staatsanwalt in Amerika. Und er genießt es, bei Hinrichtungen zuzusehen. Sein nächstes Opfer: Andy Dubois, ein junger Afroamerikaner, der wegen des Mordes an einem weißen Mädchen zum Tode verurteilt werden soll. Korn hat bereits alles für einen möglichst kurzen Prozess vorbereitet. Doch er hat nicht mit Eddie Flynn gerechnet. Dem New Yorker Anwalt bleiben sieben Tage, um Andy vor einer korrupten Justiz zu retten und den wahren Täter zu finden. Dann soll das Urteil gesprochen werden. Wird Eddie Flynn bis dahin noch am Leben sein?<br /><b>Sieben Tage bleiben Eddie Flynn, um das Leben seines Mandanten zu retten. Und sein eigenes ...</b><br /><b>\"Nach den ersten Seiten hängen Sie rettungslos am Haken. ›Seven Days‹ treibt einem den Schweiß auf die Stirn, und die grandiosen Gerichtsszenen übertreffen sogar John Grisham.\" The Times</b>",
+      "formattedPrice": "4,99 €",
+      "releaseDate": "2024-01-17T08:00:00Z",
+      "artistIds": [
+        924089499
+      ],
+      "genreIds": [
+        "9032",
+        "38",
+        "9031"
+      ],
+      "trackId": 6447097746,
+      "trackName": "Seven Days",
+      "price": 4.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 173,
+      "country": "DEU"
+    }
+  ]
+}

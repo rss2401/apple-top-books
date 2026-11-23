@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "社外取締役 島耕作(9)",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E5%BC%98%E5%85%BC%E6%86%B2%E5%8F%B2/583294491?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E7%A4%BE%E5%A4%96%E5%8F%96%E7%B7%A0%E5%BD%B9-%E5%B3%B6%E8%80%95%E4%BD%9C-9/id6833883289?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/df/85/e8/df85e83a-4e24-cdfd-7cb3-cf523485437e/BT000123588500900901900206.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/df/85/e8/df85e83a-4e24-cdfd-7cb3-cf523485437e/BT000123588500900901900206.jpg/100x100bb.jpg",
+      "artistIds": [
+        583294491
+      ],
+      "artistId": 583294491,
+      "artistName": "弘兼憲史",
+      "genres": [
+        "ヒューマンドラマ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "ノンフィクション",
+        "青年"
+      ],
+      "price": 800,
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "genreIds": [
+        "11052",
+        "38",
+        "9026",
+        "10016",
+        "50000082",
+        "11338"
+      ],
+      "trackId": 6833883289,
+      "trackName": "社外取締役 島耕作(9)",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "会長の死、剣持の退任騒動…。激動の末、新社長・圭介の下で再スタートを切ったUEMATSU。新たなビジョンを掲げ改革が進む中、目下の問題となったのは女王様・高倉アツ子の“お取り扱い”!?他方、島は四谷嵐子のツテで、千歳にある最先端の半導体工場へ!国を挙げたプロジェクトに圧倒される島たち。だが、すぐ側には不審な影がちらついておりーー。",
+      "formattedPrice": "¥800",
+      "country": "JPN"
+    }
+  ]
+}

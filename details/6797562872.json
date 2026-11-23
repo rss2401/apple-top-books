@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Peculiar Stars – Zwischen uns die Welt",
+      "artistViewUrl": "https://books.apple.com/de/artist/rebecca-yarros/802770747?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/peculiar-stars-zwischen-uns-die-welt/id6797562872?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/91/89/7e/91897e44-158a-46ea-914d-d0cca22e48f5/1067797819.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/91/89/7e/91897e44-158a-46ea-914d-d0cca22e48f5/1067797819.jpg/100x100bb.jpg",
+      "artistId": 802770747,
+      "artistName": "Rebecca Yarros",
+      "genres": [
+        "Liebesromane",
+        "Bücher",
+        "Belletristik und Literatur",
+        "Literarische Belletristik"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>543 Tage. Eine Insel. Keine einfachen Lösungen: Zu wem wird man, wenn alles Vertraute verloren geht?</b><br /><br /><b>Ein emotionaler, moderner Liebesroman über Transformation, Überleben und den Mut, ein authentisches Leben zu wählen, auch wenn es bedeutet, alles hinter sich zu lassen.</b><br /><br />Callista Moran hat ihr Leben stets nach den Bedürfnissen anderer ausgerichtet. Als sie sich mit ihrem langjährigen Partner Darren verlobt, scheint ihr Weg vorgezeichnet: Sicherheit, Stabilität, ein Leben nach Plan. Doch eine scheinbar harmlose Segeltour endet in einer Katastrophe, als ein Zyklon nicht nur das Boot zerstört, sondern auch ihre sichere Zukunft davonfegt.&#xa0;<br />Gemeinsam mit der Crew und Darrens Cousin Dominic strandet Callista auf einer abgelegenen Insel. Die Aussicht auf Rettung ist ungewiss, die Zeit der Isolation dehnt sich zu einem monatelangen Überlebenskampf. Fernab von Verpflichtungen, Rollenbildern und gesellschaftlichen Erwartungen entdeckt Callista eine innere Stärke, die sie nie zuvor gespürt hat, und beginnt, ihr bisheriges Leben zu hinterfragen.&#xa0;<br />Dominic, ein ehemaliger Armeesanitäter, gibt ihr einen ungewohnten, bedingungslosen Halt, ohne dass Callista etwas beweisen muss. Zunächst widerstehen sie ihrer wachsenden Nähe, doch je mehr Zeit vergeht und die Hoffnung auf Rettung schwindet, desto mehr entsteht etwas Echtes, gegründet auf dem, was von ihnen bleibt, wenn alles Äußere wegfällt.&#xa0;<br />Als sie schließlich gerettet werden, kehren sie in eine Welt zurück, die sich kaum verändert hat, während sie selbst nicht mehr dieselben sind. Inmitten medialer Aufmerksamkeit und öffentlicher Erwartungen müssen Callista und Dominic lernen, zu ihrem neuen Selbst zu stehen, und für sich neu definieren, was es bedeutet, zu überleben … und zu lieben.<br />Rebecca Yarros versteht es meisterhaft, intensive Liebesgeschichten mit tiefgründigen Themen wie Verlust, Trauma, Heilung und Hoffnung zu verweben – ihre Romane gehen unter die Haut und bleiben im HerzenAls Bestsellerautorin von ›Fourth Wing‹ begeistert sie Millionen Leser:innen und auch ihre realistischen Liebesromane wie ›The Last Letter‹ erreichen regelmäßig hohe Platzierungen auf internationalen BestsellerlistenFür Leser:innen, die emotionale, realitätsnahe Liebesgeschichten mit Tiefgang suchen<br />»Mal witzig, mal herzzerreißend und immer mitreißend – diese sich langsam entwickelnde Liebesgeschichte ist ein weiterer Volltreffer von Yarros.« Library Journal, starred review",
+      "formattedPrice": "14,99 €",
+      "releaseDate": "2026-11-19T08:00:00Z",
+      "artistIds": [
+        802770747
+      ],
+      "genreIds": [
+        "9003",
+        "38",
+        "9031",
+        "10049"
+      ],
+      "trackId": 6797562872,
+      "trackName": "Peculiar Stars – Zwischen uns die Welt",
+      "price": 14.99,
+      "country": "DEU"
+    }
+  ]
+}

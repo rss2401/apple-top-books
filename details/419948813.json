@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Between Sisters",
+      "artistIds": [
+        279488103
+      ],
+      "formattedPrice": "$8.99",
+      "artistId": 279488103,
+      "artistName": "Kristin Hannah",
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Romance",
+        "Contemporary Romance"
+      ],
+      "price": 8.99,
+      "genreIds": [
+        "9031",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "trackId": 419948813,
+      "trackName": "Between Sisters",
+      "releaseDate": "2003-04-15T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>#1 <i>NEW YORK TIMES </i>BESTSELLER • The renowned author of <i>The Women </i>vividly explores the intricate bonds of sisterhood and family.<br /><br />“[Kristin] Hannah [brings] snap and a lot of warmth to a familiar lesson: that contentment comes from accepting each other’s flaws.”—<i>People</i></b><br /><br />Years ago, Meghann Dontess made a terrible choice that cost her everything, including the love of her sister, Claire. Now, Meghann is a highly successful attorney who doesn’t believe in intimacy—until she meets the one man who can change her mind. Claire Cavenaugh has fallen in love for the first time in her life. As her wedding day approaches, she prepares to face her strong-willed older sister. Reunited after more than two decades apart, these two women who believe they have nothing in common will try to become what they never were: a family. <br /><br />Tender, funny, bittersweet, and moving, <i>Between Sisters</i> skillfully explores the profound joys and sorrows shared by sisters, the mistakes made in the name of love, and the promise of redemption—all beautifully told by acclaimed author Kristin Hannah.<br /><br /><b>“Enormously entertaining . . . Hannah has a nice ear for dialogue and a knack for getting the reader inside the characters’ heads.”—<i>The Seattle Times</i></b><br /><br /><b>“Hannah writes of love with compassion and conviction.”—Luanne Rice</b>",
+      "artistViewUrl": "https://books.apple.com/us/artist/kristin-hannah/279488103?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/between-sisters/id419948813?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ef/da/00/efda00bc-d9f6-cf3d-c7cd-09a1f8d5786b/9780345464248.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ef/da/00/efda00bc-d9f6-cf3d-c7cd-09a1f8d5786b/9780345464248.d.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 2293,
+      "country": "USA"
+    }
+  ]
+}

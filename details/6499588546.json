@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Story Keeper",
+      "artistIds": [
+        668844366
+      ],
+      "formattedPrice": "$1.99",
+      "artistId": 668844366,
+      "artistName": "Kelly Rimmer",
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Family Fiction & Literature",
+        "Historical Fiction",
+        "Nonfiction",
+        "Social Science",
+        "Society",
+        "Literary Fiction"
+      ],
+      "price": 1.99,
+      "genreIds": [
+        "9031",
+        "38",
+        "11050",
+        "10047",
+        "9002",
+        "10120",
+        "11076",
+        "10049"
+      ],
+      "trackId": 6499588546,
+      "trackName": "The Story Keeper",
+      "releaseDate": "2026-07-21T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "AN INDIE NEXT PICK •&#xa0;A LIBRARY READS #1 TOP PICK&#xa0; &#xa0;<br /><br />\"Kelly Rimmer is at her most skillful here… An emotional, haunting tale.\" —Julia Kelly, internationally bestselling author of&#xa0;The Dressmakers of London<br /><br />In the aftermath of a tumultuous year, Fiona Winslow finds solace in the decaying grandeur of Wurimbirra, the rambling family estate she once called home. Intent on restoring it, she discovers the keys to more than just the dilapidated mansion—beneath the crumbling plaster and dust are secrets that have been buried for a generation.<br /><br />When a curious book, The Midnight Estate, catches her attention in her late uncle’s library, Fiona is plunged into a tale that mirrors her own—a story of love, loss and betrayal. But as the lines between fiction and reality blur, Fiona must ask herself: Is the true mystery the one hidden within the walls of her ancestral home, or is it within the pages of a book that chose her as much as she chose it?<br /><br />Told in a dual narrative and set against the Gothic backdrop of Wurimbirra, Kelly Rimmer, bestselling author of&#xa0;The Things We Cannot Say, weaves an intricate and compelling tale, inviting readers into the heart of a family’s deepest secrets with an absorbing book-within-a-book mystery.<br /><br />\"Kelly Rimmer always delivers a poignant story with real characters who lodge themselves in your heart.\" —New York Times&#xa0;bestselling author Madeline Martin<br /><br />For more by Kelly Rimmer, look for Before I Let You Go The Things We Cannot Say&#xa0;(Also available in a Collector's Edition!) Truths I Never Told You The Warsaw Orphan The German Wife The Paris Agent",
+      "artistViewUrl": "https://books.apple.com/us/artist/kelly-rimmer/668844366?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-story-keeper/id6499588546?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6a/3d/b3/6a3db33e-080f-df81-9249-6e9e648f3ddc/dj.mofevgml.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/6a/3d/b3/6a3db33e-080f-df81-9249-6e9e648f3ddc/dj.mofevgml.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 58,
+      "country": "USA"
+    }
+  ]
+}

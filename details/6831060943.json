@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Striking Gold",
+      "artistIds": [
+        536654998
+      ],
+      "formattedPrice": "9,99 €",
+      "artistId": 536654998,
+      "artistName": "Tiana Warner",
+      "trackId": 6831060943,
+      "trackName": "Striking Gold",
+      "genreIds": [
+        "11043",
+        "38",
+        "9003",
+        "9031",
+        "10045"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Eine humorvolle und romantische Sapphic Romance über verborgene Schätze und die Frage, was im Leben wirklich zählt. </b><br /><br />Ein Stück unberührtes Land, ein längst vergessenes Geheimnis – und eine Frau, die ihr Herz auf keinen Fall verlieren will.<br /><br />Als die naturverbundene Ivy ein Grundstück in den wilden Bergen von British Columbia erbt, lässt sie das hektische Stadtleben hinter sich. Ihr Traum: ein autarkes Leben mitten in der Natur. Doch kaum angekommen, gerät sie mit ihrer faszinierenden Nachbarin Annie aneinander.<br /><br />Die attraktive Geschäftsfrau wirkt kühl, distanziert – und hat nur ein Ziel: Ivys Land zu kaufen. Denn unter dem Boden könnte der Schlüssel zu einem Goldrausch-Rätsel verborgen liegen, das Annies Familie seit Generationen beschäftigt.<br /><br />Statt zu verkaufen, schlägt Ivy einen Deal vor: Sie hilft Annie bei der Suche nach dem legendären Schatz, wenn Annie ihr im Gegenzug beim Aufbau ihrer Selbstversorger-Oase zur Seite steht.<br /><br />Widerwillig machen sich die beiden gemeinsam auf die Spur der Vergangenheit. Zwischen vergrabenen Hinweisen, hitzigen Wortgefechten und unerwarteten Gefühlen kommen sie sich jedoch näher, als beiden lieb ist.<br /><br />Doch je größer die Chance wird, das Geheimnis zu lüften, desto deutlicher wird Ivy, dass sie etwas verlieren könnte, das wertvoller ist als jedes Gold.",
+      "artistViewUrl": "https://books.apple.com/de/artist/tiana-warner/536654998?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/striking-gold/id6831060943?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7c/49/53/7c49534c-5690-4076-870b-dae6ab5cd89a/1069688461.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7c/49/53/7c49534c-5690-4076-870b-dae6ab5cd89a/1069688461.jpg/100x100bb.jpg",
+      "releaseDate": "2026-11-19T08:00:00Z",
+      "price": 9.99,
+      "genres": [
+        "LGBTQIA+ Liebesromane",
+        "Bücher",
+        "Liebesromane",
+        "Belletristik und Literatur",
+        "LGBTQIA+ Belletristik"
+      ],
+      "country": "DEU"
+    }
+  ]
+}

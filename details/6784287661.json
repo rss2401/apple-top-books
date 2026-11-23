@@ -6,14 +6,15 @@
       "artistIds": [
         626909893
       ],
-      "price": 14.99,
       "artistId": 626909893,
       "artistName": "François-Henri Désérable",
       "genres": [
         "Romans et littérature",
         "Livres"
       ],
-      "releaseDate": "2026-08-20T07:00:00Z",
+      "price": 14.99,
+      "trackId": 6784287661,
+      "trackName": "Le Palais - Prix Renaudot 2026",
       "genreIds": [
         "9031",
         "38"
@@ -26,10 +27,9 @@
       "trackViewUrl": "https://books.apple.com/fr/book/le-palais-prix-renaudot-2026/id6784287661?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ce/5e/dc/ce5edcf7-8db1-1914-7ada-27b6abc7cb2b/9782073159243.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ce/5e/dc/ce5edcf7-8db1-1914-7ada-27b6abc7cb2b/9782073159243.jpg/100x100bb.jpg",
-      "trackId": 6784287661,
-      "trackName": "Le Palais - Prix Renaudot 2026",
-      "averageUserRating": 4,
-      "userRatingCount": 20,
+      "releaseDate": "2026-08-20T07:00:00Z",
+      "averageUserRating": 4.5,
+      "userRatingCount": 25,
       "country": "FRA"
     }
   ]

@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E4%B8%83%E5%B0%BE%E3%83%8A%E3%83%8A%E3%82%AD/908868494?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/34/ad/d6/34add69e-536a-85fc-bdf3-a0daa21a2871/BT000090711501001001900203.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/34/ad/d6/34add69e-536a-85fc-bdf3-a0daa21a2871/BT000090711501001001900203.jpg/100x100bb.jpg",
+      "artistIds": [
+        908868494
+      ],
+      "artistId": 908868494,
+      "artistName": "七尾ナナキ",
+      "genres": [
+        "ファンタジー",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "少年"
+      ],
+      "price": 760,
+      "releaseDate": "2026-11-18T08:00:00Z",
+      "trackId": 6834380583,
+      "trackName": "異剣戦記ヴェルンディオ(10)",
+      "genreIds": [
+        "50000074",
+        "38",
+        "9026",
+        "10016",
+        "11337"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "運命に立ち向かう覚悟はありますか?<br /><br />ついに辿りついた聖都。<br />教皇・ルクシノエから授けられたのは世界終焉の予言。<br />そして、死者蘇生に関する知識だった!<br />希望にむかって進み始めたクレオ達。<br />しかし、その道を阻むように、<br />悪魔達が飛来する。抗え、絶望に──!!",
+      "trackCensoredName": "異剣戦記ヴェルンディオ(10)",
+      "formattedPrice": "¥760",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E7%95%B0%E5%89%A3%E6%88%A6%E8%A8%98%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%B3%E3%83%87%E3%82%A3%E3%82%AA-10/id6834380583?uo=4",
+      "averageUserRating": 5,
+      "userRatingCount": 7,
+      "country": "JPN"
+    }
+  ]
+}

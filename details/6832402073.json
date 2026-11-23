@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E5%8A%9B%E8%94%B5-%E3%81%A8%E3%83%BC%E3%82%8F-%E9%A2%A8%E8%8A%B1%E9%A2%A8%E8%8A%B1/1435563619?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/fd/d4/e2/fdd4e203-2b9f-4795-2ecb-6bc9f87c4456/04660629A26549500000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/fd/d4/e2/fdd4e203-2b9f-4795-2ecb-6bc9f87c4456/04660629A26549500000.jpg/100x100bb.jpg",
+      "artistIds": [
+        1435563619,
+        1308712203,
+        1308712200
+      ],
+      "trackCensoredName": "世界最強の後衛 ～迷宮国の新人探索者～ 11",
+      "formattedPrice": "¥1,000",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7%E3%81%AE%E5%BE%8C%E8%A1%9B-%E8%BF%B7%E5%AE%AE%E5%9B%BD%E3%81%AE%E6%96%B0%E4%BA%BA%E6%8E%A2%E7%B4%A2%E8%80%85-11/id6832402073?uo=4",
+      "artistId": 1435563619,
+      "artistName": "力蔵, とーわ & 風花風花",
+      "genres": [
+        "ファンタジー",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ"
+      ],
+      "price": 1000,
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "trackId": 6832402073,
+      "trackName": "世界最強の後衛 ～迷宮国の新人探索者～ 11",
+      "genreIds": [
+        "50000074",
+        "38",
+        "9026",
+        "10016"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "七番区序列一位の探索者同盟「自由を目指す同盟」。<br/>\n多くの探索者が集う同盟であったが、<br/>\nその実態は人を操るスキルを持つ<br/>\n悪辣な男・グレイに支配されていることが判明。<br/>\n同盟の動向を警戒するアリヒトたちだったが、<br/>\n中位迷宮“牧羊神の寝床”を探索中、<br/>\n闇夜に紛れてグレイの魔の手が忍び寄り……!?",
+      "averageUserRating": 4.5,
+      "userRatingCount": 7,
+      "country": "JPN"
+    }
+  ]
+}

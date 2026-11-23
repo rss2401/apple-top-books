@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Intrigue",
+      "trackViewUrl": "https://books.apple.com/us/book/the-intrigue/id6754002943?uo=4",
+      "artistViewUrl": "https://books.apple.com/us/artist/silvia-moreno-garcia/432428458?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/78/d2/64/78d264b7-9eb6-a75d-063d-70754f21906a/9780593874363.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/78/d2/64/78d264b7-9eb6-a75d-063d-70754f21906a/9780593874363.d.jpg/100x100bb.jpg",
+      "artistIds": [
+        432428458
+      ],
+      "price": 1.99,
+      "artistId": 432428458,
+      "artistName": "Silvia Moreno-Garcia",
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Mysteries & Thrillers",
+        "Historical Fiction"
+      ],
+      "trackId": 6754002943,
+      "trackName": "The Intrigue",
+      "genreIds": [
+        "9031",
+        "38",
+        "9032",
+        "10047"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>NATIONAL BESTSELLER • In this sizzling noir “so stylishly evil, it begs for a movie version” (NPR’s <i>Fresh Air</i>), seduction is the ultimate con. Descend into a world of desire, danger, and greed with the <i>New York Times</i> bestselling author of <i>Mexican Gothic</i> and <i>Velvet Was the Night</i>.</b><br /><br /><b>“Lush and passionate with magnetic prose . . . <i>The Intrigue</i> will grab you by the throat and not let go until its earth-shaking finale!” —S. A. Cosby, author of <i>King of Ashes</i></b><br /><br /><b>A MOST ANTICIPATED BOOK: <i>The New York Times, People, Book Riot, Southern Living, Marie Claire, Time</i></b><br /><br />Handsome con artist Ulises has long charmed lonely women via letters in order to steal their money, but money is hard to come by in 1940s Mexico. Ulises knows his looks won’t last forever, and he’s desperate to get his hands on a real fortune.<br /><br />He thinks he’s found it when he captivates his newest correspondent, Perla, the owner of a small-town boardinghouse in picturesque Veracruz. But when he meets her, he finds something he didn’t expect. The woman has a niece, Inés, who is as observant as she is desperate to escape her aunt’s household.<br /><br />When Inés discovers Ulises’s true intentions, she wants in on the scheme. They’ll convince her aunt that Ulises is a great catch, Perla will marry him, and her money will vanish. Easy, fast, and clean. But Perla is not the desperate, silly spinster Ulises imagines. She harbors secrets. And although Ulises does not believe in true romance, Inés is more alluring than he bargained for. Suddenly, a simple plan may become perilously complicated.<br /><br />Venture into the streets of a small town where a patina of convention and good manners conceals a cauldron of avarice and lust.",
+      "formattedPrice": "$1.99",
+      "releaseDate": "2026-07-14T07:00:00Z",
+      "averageUserRating": 4,
+      "userRatingCount": 15,
+      "country": "USA"
+    }
+  ]
+}

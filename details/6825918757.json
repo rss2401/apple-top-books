@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$5.99",
+      "trackCensoredName": "Charmed and Dangerous",
+      "artistViewUrl": "https://books.apple.com/us/artist/camilla-chafer/442163580?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/charmed-and-dangerous/id6825918757?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/07/eb/f3/07ebf399-e551-6702-7822-e150c521daf9/0004476038.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/07/eb/f3/07ebf399-e551-6702-7822-e150c521daf9/0004476038.jpg/100x100bb.jpg",
+      "artistIds": [
+        442163580
+      ],
+      "artistId": 442163580,
+      "artistName": "Camilla Chafer",
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books",
+        "Cozy Mysteries",
+        "Women Sleuths"
+      ],
+      "price": 5.99,
+      "releaseDate": "2026-11-22T08:00:00Z",
+      "genreIds": [
+        "9032",
+        "38",
+        "11259",
+        "10055"
+      ],
+      "trackId": 6825918757,
+      "trackName": "Charmed and Dangerous",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "A fantasy ball, a stolen design, and a murder on stage? Talk about a weekend gone wrong.<br /><br />Private investigator Lexi Graves and her best friend Lily are ready for a little fun when they score tickets to the fantasy weekend of the year. But first, Lexi has a client to help: someone has been stealing her fashion designs and passing them off as their own. And, conveniently, the prime suspect is attending the fair.<br /><br />Then, on opening night, the lights go out, and when they come back on, one of the actors is dead.<br /><br />With a bereft ex, a suspicious new girlfriend, and a string of other suspects who all have reasons to hate the victim, Lexi has plenty to investigate. But with everyone hiding something, can she uncover the killer before the fantasy weekend turns into a real-life nightmare?<br /><br /><i><b>Dress up. Solve crimes. Try not to get murdered.</b></i><br /><br /><b>Free gift inside! </b>Download your printable Charmed and Dangerous Mini Activity and Puzzle Book via the link provided.<br /><br /><i><b>Perfect for fans of smart, sassy sleuths in light-hearted mysteries.</b></i>",
+      "country": "USA"
+    }
+  ]
+}

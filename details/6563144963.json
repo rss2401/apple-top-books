@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Three Lives of Cate Kay",
+      "formattedPrice": "£0.99",
+      "artistViewUrl": "https://books.apple.com/gb/artist/kate-fagan/1182872868?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-three-lives-of-cate-kay/id6563144963?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a6/e1/c0/a6e1c075-f914-1268-dbc4-f82cd7b936be/1046051569.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/a6/e1/c0/a6e1c075-f914-1268-dbc4-f82cd7b936be/1046051569.jpg/100x100bb.jpg",
+      "artistId": 1182872868,
+      "artistName": "Kate Fagan",
+      "price": 0.99,
+      "trackId": 6563144963,
+      "trackName": "The Three Lives of Cate Kay",
+      "artistIds": [
+        1182872868
+      ],
+      "genreIds": [
+        "10045",
+        "38",
+        "9031",
+        "9003",
+        "11043"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "An addictive and propulsive bookclub novel about ambition, fame and friendship.<br/>\n<br/>\n&#39;If you loved The Seven Husbands of Evelyn Hugo, then you will be obsessed with this&#39; Cosmo<br/>\n<br/>\n**<br/>\n<br/>\nCate Kay is the most famous author on the planet.<br/>\n<br/>\nExcept no one knows who she is…<br/>\n<br/>\nTo the small town she grew up in, and the best friend she left behind, she&#39;s Anne-Marie Callahan.<br/>\n<br/>\nTo the life she ran away to, and the woman she&#39;s about to fall in love with, she&#39;s Cass Ford.<br/>\n<br/>\nTo the rest of the world, she&#39;s Cate Kay, author of everyone&#39;s favourite novels and somehow completely anonymous. Until now.<br/>\n<br/>\nOnly she knows the truth about who she really is, or was: a girl with a big dream who made a terrible mistake all those summers ago.<br/>\n<br/>\nBut she can&#39;t outrun her past forever.<br/>\n<br/>\nAnd when her secret is out and there are no more names to hide behind, who will Cate Kay finally choose to be?<br/>\n<br/>\n**<br/>\n<br/>\n&#39;This story swept me away with its big dreams, love, and unexpected twists&#39; Reese Witherspoon<br/>\n<br/>\n&#39;We were obsessed with this page-turner&#39; Closer<br/>\n<br/>\n&#39;Brilliantly entertaining&#39; Good Housekeeping",
+      "releaseDate": "2025-01-09T08:00:00Z",
+      "genres": [
+        "LGBTQIA+ Fiction",
+        "Books",
+        "Fiction & Literature",
+        "Romance",
+        "LGBTQIA+ Romance"
+      ],
+      "averageUserRating": 4,
+      "userRatingCount": 48,
+      "country": "GBR"
+    }
+  ]
+}

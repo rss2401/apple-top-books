@@ -1,0 +1,46 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        467087886
+      ],
+      "artistId": 467087886,
+      "artistName": "Ellen Berg",
+      "genres": [
+        "Familienbelletristik und Literatur",
+        "Bücher",
+        "Belletristik und Literatur",
+        "Liebesromane",
+        "Zeitgenössische Liebesromane",
+        "Romantische Komödien",
+        "Klassiker"
+      ],
+      "price": 3.99,
+      "releaseDate": "2014-11-05T08:00:00Z",
+      "genreIds": [
+        "11050",
+        "38",
+        "9031",
+        "9003",
+        "10057",
+        "11042",
+        "10042"
+      ],
+      "trackId": 924519303,
+      "trackName": "Ich will es doch auch!",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Charlotte ist Ärztin, hat einen tollen Job, eine tolle Wohnung, tolle Freunde – nur leider keinen Mann. Und das mit 39! Langsam wird es eng. Da taucht plötzlich Uwe auf, der attraktive, aber ziemlich ungehobelte Klempner. Geht gar nicht? Tja, geht doch! Denn Hals über Kopf verliebt sich Charlotte in sein umwerfendes Lächeln und seine unkonventionelle Art: Buletten zum Frühstück, Tanzen im Regen, Poolbillard in düsteren Kneipen. Charlotte ist selig, ihr Umfeld entsetzt. Downdating? Das kann doch nichts werden! Was willst du denn mit dem?<br /><br />\"Herrlich fieser Humor.\" cosmopolitan.",
+      "trackCensoredName": "Ich will es doch auch!",
+      "artistViewUrl": "https://books.apple.com/de/artist/ellen-berg/467087886?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/ich-will-es-doch-auch/id924519303?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/7e/82/b0/7e82b0bf-1e2a-83bf-bbb6-619d57c16320/9783841208323.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/7e/82/b0/7e82b0bf-1e2a-83bf-bbb6-619d57c16320/9783841208323.jpg/100x100bb.jpg",
+      "formattedPrice": "3,99 €",
+      "averageUserRating": 4,
+      "userRatingCount": 190,
+      "country": "DEU"
+    }
+  ]
+}

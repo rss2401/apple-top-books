@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Verräterische Treue",
+      "artistIds": [
+        279725098
+      ],
+      "formattedPrice": "11,99 €",
+      "artistId": 279725098,
+      "artistName": "J. D. Robb",
+      "trackId": 6761613390,
+      "trackName": "Verräterische Treue",
+      "genreIds": [
+        "9032",
+        "38",
+        "10055"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Hinter einem tödlichen Streit zwischen zwei Liebenden verbirgt sich ein erschreckendes Motiv …</b><br /><br />Ein Studio im West Village, zwei Weingläser, Musik – und die junge Bildhauerin Ariel Byrd, erschlagen. Für Lieutenant Eve Dallas wirkt es wie ein Verbrechen aus Leidenschaft. Doch die elegante Gwen Huffman, die den Fund meldete, verstrickt sich in Widersprüche. Warum wartete sie eine Stunde mit dem Anruf? Und weshalb lügt sie über scheinbare Kleinigkeiten? Als Eve tiefer in Gwens Vergangenheit und ihr Umfeld eintaucht, stößt sie auf ein Netz aus fanatischer Ideologie und einer skrupellosen Verschwörung – und der Fall wird tödlich persönlich.<br /><br /><b>Sie lieben es spannend und romantisch? Dann lesen Sie auch die anderen \"Eve Dallas\"-Romane und erfahren Sie, wie alles begann. </b>",
+      "artistViewUrl": "https://books.apple.com/de/artist/j-d-robb/279725098?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/verr%C3%A4terische-treue/id6761613390?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/43/01/fb/4301fb82-bdc0-ee57-ae35-6d0946fd2315/9783641348489.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/43/01/fb/4301fb82-bdc0-ee57-ae35-6d0946fd2315/9783641348489.jpg/100x100bb.jpg",
+      "releaseDate": "2026-11-18T08:00:00Z",
+      "price": 11.99,
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Weibliche Spürnasen"
+      ],
+      "country": "DEU"
+    }
+  ]
+}

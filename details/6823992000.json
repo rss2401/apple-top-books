@@ -2,21 +2,24 @@
   "resultCount": 2,
   "results": [
     {
+      "artistIds": [
+        1669097093
+      ],
       "trackCensoredName": "The Wife He Priced Too Low",
       "artistViewUrl": "https://books.apple.com/us/artist/lena-marsh/1669097093?uo=4",
       "trackViewUrl": "https://books.apple.com/us/book/the-wife-he-priced-too-low/id6823992000?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b6/47/4b/b6474b47-4539-5e2f-331e-ecc977ba1ff9/0004468718.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b6/47/4b/b6474b47-4539-5e2f-331e-ecc977ba1ff9/0004468718.jpg/100x100bb.jpg",
-      "artistIds": [
-        1669097093
+      "genres": [
+        "Romance",
+        "Books",
+        "Contemporary Romance"
       ],
-      "formattedPrice": "Free",
-      "price": 0,
       "artistId": 1669097093,
       "artistName": "Lena Marsh",
-      "releaseDate": "2026-10-17T07:00:00Z",
-      "trackId": 6823992000,
       "trackName": "The Wife He Priced Too Low",
+      "trackId": 6823992000,
+      "releaseDate": "2026-10-17T07:00:00Z",
       "genreIds": [
         "9003",
         "38",
@@ -25,13 +28,10 @@
       "kind": "ebook",
       "currency": "USD",
       "description": "He married me to close a deal. He never asked who was paying for it.<br /><br />For three years I ran his house, charmed his investors, and wrote the plan that saved his company, and he never once asked me a single question about myself.<br /><br />Then, at our anniversary dinner, in front of forty-two guests, he raised his glass and thanked another woman.<br /><br />I smiled. I made sure the dessert went out on time. And at four in the morning I left my ring on top of the prenup and walked out with one suitcase.<br /><br />Julian Hart thinks his company survived because he is brilliant. He is about to learn it survived because my family's money said yes. And in sixty days, I'll be the one sitting across the table, deciding what it's worth.<br /><br />Now the man who called me a line item wants a meeting. He'll have to wait in the lobby like everyone else.<br /><br />The Wife He Priced Too Low is a steamy standalone billionaire marriage-in-crisis romance with a secret heiress, an other woman who gets exactly what she deserves, a long and very public grovel, and a guaranteed HEA. No cheating.",
-      "genres": [
-        "Romance",
-        "Books",
-        "Contemporary Romance"
-      ],
+      "formattedPrice": "Free",
+      "price": 0,
       "averageUserRating": 4.5,
-      "userRatingCount": 240,
+      "userRatingCount": 393,
       "country": "USA"
     },
     {
@@ -39,11 +39,8 @@
       "artistIds": [
         1669097093
       ],
-      "genres": [
-        "Romance",
-        "Books",
-        "Contemporary Romance"
-      ],
+      "artistId": 1669097093,
+      "artistName": "Lena Marsh",
       "price": 0,
       "trackId": 6823992000,
       "trackName": "The Wife He Priced Too Low",
@@ -56,15 +53,18 @@
       "kind": "ebook",
       "currency": "GBP",
       "description": "He married me to close a deal. He never asked who was paying for it.<br /><br />For three years I ran his house, charmed his investors, and wrote the plan that saved his company, and he never once asked me a single question about myself.<br /><br />Then, at our anniversary dinner, in front of forty-two guests, he raised his glass and thanked another woman.<br /><br />I smiled. I made sure the dessert went out on time. And at four in the morning I left my ring on top of the prenup and walked out with one suitcase.<br /><br />Julian Hart thinks his company survived because he is brilliant. He is about to learn it survived because my family's money said yes. And in sixty days, I'll be the one sitting across the table, deciding what it's worth.<br /><br />Now the man who called me a line item wants a meeting. He'll have to wait in the lobby like everyone else.<br /><br />The Wife He Priced Too Low is a steamy standalone billionaire marriage-in-crisis romance with a secret heiress, an other woman who gets exactly what she deserves, a long and very public grovel, and a guaranteed HEA. No cheating.",
-      "trackCensoredName": "The Wife He Priced Too Low",
-      "artistViewUrl": "https://books.apple.com/gb/artist/lena-marsh/1669097093?uo=4",
-      "trackViewUrl": "https://books.apple.com/gb/book/the-wife-he-priced-too-low/id6823992000?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b6/47/4b/b6474b47-4539-5e2f-331e-ecc977ba1ff9/0004468718.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/b6/47/4b/b6474b47-4539-5e2f-331e-ecc977ba1ff9/0004468718.jpg/100x100bb.jpg",
-      "artistId": 1669097093,
-      "artistName": "Lena Marsh",
+      "trackCensoredName": "The Wife He Priced Too Low",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-wife-he-priced-too-low/id6823992000?uo=4",
+      "artistViewUrl": "https://books.apple.com/gb/artist/lena-marsh/1669097093?uo=4",
+      "genres": [
+        "Romance",
+        "Books",
+        "Contemporary Romance"
+      ],
       "averageUserRating": 4.5,
-      "userRatingCount": 77,
+      "userRatingCount": 110,
       "country": "GBR"
     }
   ]

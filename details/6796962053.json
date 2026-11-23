@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Wolfsstunde",
+      "artistViewUrl": "https://books.apple.com/de/artist/ellen-sandberg/1227247132?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/wolfsstunde/id6796962053?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/d0/6a/6e/d06a6ee1-b0fa-1b3e-3452-6014e2beba94/9783641306625.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/d0/6a/6e/d06a6ee1-b0fa-1b3e-3452-6014e2beba94/9783641306625.jpg/100x100bb.jpg",
+      "artistId": 1227247132,
+      "artistName": "Ellen Sandberg",
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Belletristik und Literatur"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Der neue, fesselnde Roman der SPIEGEL-Bestsellerautorin über die dunklen Schatten, die ein Verbrechen auf eine Familie wirft</b><br /><br />Kurz vor dem Morgengrauen bricht die Wolfsstunde an. Die Stunde, in der die meisten Menschen geboren werden. Die Stunde, in der die meisten sterben. Die Stunde, in der lange Verdrängtes an die Oberfläche kommt …<br />Umgeben von Feldern und Wiesen liegt das alte Gehöft, in dem Marlene seit vielen Jahren mit ihrem Mann Torge und einer Gruppe von Gleichgesinnten lebt. Als Dokumentarfilmerin erzählt sie die Geschichten anderer, aber ihre eigene ist tabu. Noch immer schweigt sie zu den Ereignissen einer Nacht vor vielen Jahren, die ihre Familie zerstörten. <br /><br />Mit dem Einzug eines neuen Mitbewohners in die Landkommune gerät Marlenes sorgsam bewahrtes Gleichgewicht ins Wanken, denn seine Fragen reißen alte Wunden auf. Zur selben Zeit recherchiert ein True-Crime-Podcaster zu dem ungeklärten Familiendrama. Er stößt auf Hinweise, die ein neues Licht auf den Fall werfen. Was geschah wirklich in jener verhängnisvollen Nacht vor über dreißig Jahren?<br /><br />Enttäuschung, Neid, Verzweiflung und vor allem: Hoffnung. Der neue Roman von Bestsellerautorin Ellen Sandberg über die Abgründe, die Menschen in sich tragen.",
+      "formattedPrice": "19,99 €",
+      "releaseDate": "2026-11-11T08:00:00Z",
+      "artistIds": [
+        1227247132
+      ],
+      "genreIds": [
+        "9032",
+        "38",
+        "9031"
+      ],
+      "trackId": 6796962053,
+      "trackName": "Wolfsstunde",
+      "price": 19.99,
+      "country": "DEU"
+    }
+  ]
+}

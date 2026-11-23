@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$14.99",
+      "trackId": 6759309590,
+      "trackName": "Celebration",
+      "artistIds": [
+        2025376
+      ],
+      "artistId": 2025376,
+      "artistName": "Danielle Steel",
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Romance",
+        "Contemporary Romance",
+        "Family Fiction & Literature"
+      ],
+      "price": 14.99,
+      "genreIds": [
+        "9031",
+        "38",
+        "9003",
+        "10057",
+        "11050"
+      ],
+      "releaseDate": "2026-11-17T08:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>Second chances come in the most unexpected forms in this wise and moving novel by #1 <i>New York Times </i>bestselling author Danielle Steel.</b><br /><br />A timeless beauty in her sixties, Anna Hughes is a sought-after photographer. Six years after the love of her life passed away, she finds fulfillment in her work and in being a mother to her two adult daughters. Ashley is an entertainment lawyer who lives in Los Angeles with her producer husband and two children, and Isabelle is a painter in New York City—and a dreamer who has yet to find direction.<br /><br />While Anna is in Los Angeles to photograph a famous actress, her son-in-law asks her to consider being on a dating show for seniors he’s producing called <i>Golden Couples.</i> Having no interest, she politely declines, though she agrees to attend at a dinner for potential cast members to help fill out the guest list.<br /><br />At the dinner she meets Shep Anderson, a bank manager devoted to his late wife’s memory, his sailboat, and his adult son, Bill. Though neither Anna nor Shep is looking for a new partner, they are drawn together in friendship, and perhaps something more.<br /><br />But just as they are getting closer, their children’s lives seem to implode. Ashley’s marriage crumbles when she suspects her husband is having an affair. Isabelle shocks her mother by announcing she’s pregnant by a man who seems as ill-equipped for adulthood as Isabelle herself. And Shep is equally upset to learn Bill is involved with a woman who wants him to father her baby after six weeks of dating. Surrounded by a whirlwind of chaos with their children, Anna and Shep question whether a relationship is possible.<br /><br />In this tender and nuanced novel, Danielle Steel invites us to celebrate love at any age, despite what life may hurl our way, and remember that it’s never too late if we are brave enough to stay open to new opportunities.",
+      "trackCensoredName": "Celebration",
+      "artistViewUrl": "https://books.apple.com/us/artist/danielle-steel/2025376?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/celebration/id6759309590?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/74/a7/d2/74a7d22a-3ffc-b40c-89a7-9f032fbf74a8/9780593973349.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/74/a7/d2/74a7d22a-3ffc-b40c-89a7-9f032fbf74a8/9780593973349.d.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 35,
+      "country": "USA"
+    }
+  ]
+}

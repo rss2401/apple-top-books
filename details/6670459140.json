@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$13.99",
+      "trackCensoredName": "The Road to Tender Hearts",
+      "artistViewUrl": "https://books.apple.com/us/artist/annie-hartnett/1175451259?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-road-to-tender-hearts/id6670459140?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e4/49/66/e4496631-431c-000d-b84c-4273d20f26e2/9780593873458.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e4/49/66/e4496631-431c-000d-b84c-4273d20f26e2/9780593873458.d.jpg/100x100bb.jpg",
+      "artistIds": [
+        1175451259
+      ],
+      "artistId": 1175451259,
+      "artistName": "Annie Hartnett",
+      "genres": [
+        "Literary Fiction",
+        "Books",
+        "Fiction & Literature",
+        "Family Fiction & Literature"
+      ],
+      "price": 13.99,
+      "releaseDate": "2025-04-29T07:00:00Z",
+      "genreIds": [
+        "10049",
+        "38",
+        "9031",
+        "11050"
+      ],
+      "trackId": 6670459140,
+      "trackName": "The Road to Tender Hearts",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>NATIONAL BESTSELLER • A darkly comic and warm-hearted novel about an old man on a cross-country mission to reunite with his high school crush—bringing together his adult daughter, two orphaned kids, and a cat who can predict death—by the beloved author of <i>Rabbit Cake</i> and <i>Unlikely Animals</i></b> <br /><br /><b>“A miraculous novel—an actual and spiritual road trip you won’t forget.”—John Irving</b><br /><br /><b>AN NPR AND <i>LIT HUB</i> BEST BOOK OF THE YEAR</b><br /><br />At sixty-three years old, million-dollar lottery winner PJ Halliday would be the luckiest man in Pondville, Massachusetts, if it weren’t for the tragedies of his life: the sudden death of his eldest daughter and the way his marriage fell apart after that. Since then, PJ spends both his money and his time at the bar, and he probably doesn’t have much time left—he’s had three heart attacks already.<br /><br />But when PJ reads the obituary of his old romantic rival, he realizes his high school sweetheart, Michelle Cobb, is finally single again. Filled with a new enthusiasm for life, PJ decides he’s going to drive across the country to the Tender Hearts Retirement Community in Arizona to win Michelle back.<br /><br />Before PJ can hit the road, tragedy strikes Pondville, leaving PJ the sudden guardian of his estranged brother’s grandchildren. Anyone else would be deterred from the planned trip, but PJ figures the orphaned kids might benefit from getting out of town. PJ also thinks he can ask Sophie, his adult daughter who’s adrift in her twenties, to come along to babysit. And there’s one more surprise addition to the roster: Pancakes, a former nursing home therapy cat with a knack of predicting death, who recently turned up outside PJ’s home.<br /><br />This could be the second chance PJ has long hoped for—a fresh shot at love <i>and</i> parenting—but does he have the strength to do both those things again? It’s very possible his heart can’t take it.",
+      "averageUserRating": 4.5,
+      "userRatingCount": 534,
+      "country": "USA"
+    }
+  ]
+}

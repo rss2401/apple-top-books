@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Collateral Heart",
+      "artistIds": [
+        2071726
+      ],
+      "formattedPrice": "$14.99",
+      "artistId": 2071726,
+      "artistName": "Jeffery Deaver",
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books"
+      ],
+      "price": 14.99,
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "trackId": 6759309176,
+      "trackName": "The Collateral Heart",
+      "releaseDate": "2026-11-17T08:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b><i>New York Times </i>bestselling author Jeffery Deaver returns with a propulsive new thriller featuring forensic criminalist Lincoln Rhyme and detective Amelia Sachs (from <i>The Bone Collector</i>) as they investigate a series of arsons in New York City.</b><br /><br />When a harrowing arson in Manhattan burns a building to the ground, Rhyme and Sachs are called to investigate, only to discover in the rubble a package of clues that teases where the perp will strike next. Rhyme and Sachs work feverishly to unravel the mystery, turning to an unlikely source for help: one of the nation's most popular history podcasters. Along the way they cross paths with Desdemona Vale, a determined detective from Long Island who is in search of the killer of a young woman from her neighborhood.<br /><br />As Rhyme's team digs into both cases, it becomes increasingly clear that their suspect's plot might be more complicated than they initially thought. But can Rhyme and Sachs unpack his vile scheme, and stop the carnage in time?",
+      "artistViewUrl": "https://books.apple.com/us/artist/jeffery-deaver/2071726?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-collateral-heart/id6759309176?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0e/da/ce/0edacefb-2f50-2741-6d43-b2d505004301/9780593717530.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/0e/da/ce/0edacefb-2f50-2741-6d43-b2d505004301/9780593717530.d.jpg/100x100bb.jpg",
+      "averageUserRating": 5,
+      "userRatingCount": 13,
+      "country": "USA"
+    }
+  ]
+}

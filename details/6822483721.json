@@ -6,7 +6,6 @@
       "artistIds": [
         1109505564
       ],
-      "price": 7.99,
       "artistId": 1109505564,
       "artistName": "A. Zavarelli",
       "genres": [
@@ -14,7 +13,9 @@
         "Livres",
         "Thriller romantique"
       ],
-      "releaseDate": "2026-11-10T08:00:00Z",
+      "price": 7.99,
+      "trackId": 6822483721,
+      "trackName": "Délicieux Tourments",
       "genreIds": [
         "9003",
         "38",
@@ -28,8 +29,9 @@
       "trackViewUrl": "https://books.apple.com/fr/book/d%C3%A9licieux-tourments/id6822483721?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3b/74/23/3b742376-c90c-4ace-0d99-db0ddaf47ef9/4e70ccc6-f60c-4d8d-8e11-d501489aa262_cover_image.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3b/74/23/3b742376-c90c-4ace-0d99-db0ddaf47ef9/4e70ccc6-f60c-4d8d-8e11-d501489aa262_cover_image.jpg/100x100bb.jpg",
-      "trackId": 6822483721,
-      "trackName": "Délicieux Tourments",
+      "releaseDate": "2026-11-10T08:00:00Z",
+      "averageUserRating": 5,
+      "userRatingCount": 6,
       "country": "FRA"
     }
   ]

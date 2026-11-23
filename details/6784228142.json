@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Les Héritiers du Chaos - Tome 3",
+      "artistViewUrl": "https://books.apple.com/fr/artist/laura-s-wild/1123607283?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-h%C3%A9ritiers-du-chaos-tome-3/id6784228142?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/36/65/a8/3665a882-9e4f-5bc9-495b-eb26c47a64a9/9791042906450-001-x.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/36/65/a8/3665a882-9e4f-5bc9-495b-eb26c47a64a9/9791042906450-001-x.jpeg/100x100bb.jpg",
+      "artistIds": [
+        1123607283
+      ],
+      "price": 9.99,
+      "genres": [
+        "Romance paranormale",
+        "Livres",
+        "Romance"
+      ],
+      "artistId": 1123607283,
+      "artistName": "Laura S. Wild",
+      "genreIds": [
+        "10058",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Malgré les efforts de Noxan et Neva, l’équilibre trouvé entre sorcières et vampires <b>demeure fragile.</b><br /><br />Neva, bouleversée par les révélations auxquelles elle a dû faire face, <b>se sent plus isolée que jamais.</b> D'autant que ses pouvoirs grandissants deviennent <b>un danger pour tous, y compris pour elle.&#xa0;</b><br /><br />Nox, lui, entend bien faire d’elle sa reine, quel que soit l’avis de son peuple à ce sujet. <b>Et le plus tôt sera le mieux.</b> Alors que les ténèbres progressent, ils pourraient découvrir à leurs dépens que la menace est <b>plus proche d’eux que jamais.&#xa0;</b>",
+      "formattedPrice": "9,99 €",
+      "releaseDate": "2026-11-18T08:00:00Z",
+      "trackId": 6784228142,
+      "trackName": "Les Héritiers du Chaos - Tome 3",
+      "country": "FRA"
+    }
+  ]
+}

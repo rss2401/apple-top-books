@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        6800474551
+      ],
+      "artistId": 6800474551,
+      "artistName": "Alice Fox",
+      "price": 0,
+      "trackId": 6834196644,
+      "trackName": "Cruel King: Dark Mafia Romance",
+      "releaseDate": "2026-11-11T08:00:00Z",
+      "genreIds": [
+        "10061",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "SCARLETT<br /><br />I clean hotel rooms for eleven dollars an hour, and I've been apologising for being alive since the night my sister died in my arms.<br /><br />Then the man in the garden suite asks for me by name.<br /><br />He's rude. He's cold. He makes me taste his coffee and won't drink it. He keeps a gun beside his laptop like it's a pen.<br /><br />And when my mother locks me out in the rain, he's the one who comes to sit on the step.<br /><br />He takes me into his house with three rules. I break every one of them.<br /><br />I know what he is now. I've seen what his hands do to the men who touch me. He swears he can't love anyone, that men like him end alone.<br /><br />I'm in love with him anyway. And someone just put a price on my head.<br /><br />CAESAR<br /><br />I rule New York. I've never once raised my voice to do it.<br /><br />I don't keep women. I don't sleep beside them. What you love is what they take, so I made sure I'd never love anything.<br /><br />Then a maid lied to my face for a stranger at two in the morning, and I wanted to know what kind of woman does that.<br /><br />Now she's in my house. In my bed. In my head.<br /><br />Every man who wants my throne knows exactly where I'm weak.<br /><br />I'll burn this city to keep her. I'll lie to her. I'll send her away.<br /><br />What I won't do is let her go.<br /><br />This is the first book in The Empire of Sin Series. Reading order:<br /><br />Cruel King.<br /><br />Brutal King.<br /><br />Lethal King.<br /><br />Sinful King.<br /><br />Savage King.<br /><br />Wicked King.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/48/67/43/486743ba-060a-e6ea-541e-daaedcc3feae/6610001535117.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/48/67/43/486743ba-060a-e6ea-541e-daaedcc3feae/6610001535117.jpg/100x100bb.jpg",
+      "trackCensoredName": "Cruel King: Dark Mafia Romance",
+      "trackViewUrl": "https://books.apple.com/gb/book/cruel-king-dark-mafia-romance/id6834196644?uo=4",
+      "artistViewUrl": "https://books.apple.com/gb/artist/alice-fox/6800474551?uo=4",
+      "genres": [
+        "Romantic Suspense",
+        "Books",
+        "Romance"
+      ],
+      "country": "GBR"
+    }
+  ]
+}

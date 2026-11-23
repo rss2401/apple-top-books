@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Objectif Boss",
+      "artistViewUrl": "https://books.apple.com/fr/artist/vi-keeland/639401764?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/objectif-boss/id6467126753?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/08/d9/6d/08d96dc0-4c25-9bc1-ece3-d106caa5ef69/b98a85b3-dd1c-4105-8a32-fcb5a0b9f72f_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/08/d9/6d/08d96dc0-4c25-9bc1-ece3-d106caa5ef69/b98a85b3-dd1c-4105-8a32-fcb5a0b9f72f_cover_image.jpg/100x100bb.jpg",
+      "artistIds": [
+        639401764
+      ],
+      "price": 5.99,
+      "genres": [
+        "Romance",
+        "Livres",
+        "Romance contemporaine"
+      ],
+      "artistId": 639401764,
+      "artistName": "Vi Keeland",
+      "genreIds": [
+        "9003",
+        "38",
+        "10057"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Vi Keeland, auteure de bests-sellers no 1 au classement du New York Times, nous livre un nouveau roman intégral, torride et sexy.\n\nMa première rencontre avec Merrick Crawford a lieu lors de mon entretien d'embauche.\n\nEnfin… techniquement, je l'ai rencontré vingt minutes plus tôt, lorsqu'il a fait irruption dans une cabine d'essayage à quelques mètres du lieu de rendez-vous.\n\nSur le coup, j'ai crié. Et lui aussi. Vêtue d’un simple soutien-gorge, j'ai mis fin à cette dispute en claquant la porte au nez de ce magnifique abruti.\n\nComme vous pouvez l'imaginer, maintenant je panique en découvrant que ce grossier personnage risque bien de devenir mon nouveau boss.\n\nPourtant, il ne semble pas me reconnaître. Du moins, c'est ce que je crois... Jusqu'à ce qu’on se dispute à nouveau pendant l'entretien et qu'il me dise d'aller me renifler l'aisselle.  \n\nBon, d'accord, lorsqu’il m’a surprise dans la cabine, je n'étais peut-être pas vraiment en pleine séance d'essayage. Pour ma défense, j'étais restée coincée dans un train non climatisé pendant deux heures et je voulais m'assurer que je ne sentais rien.\n\nBien évidemment, je ne m'attends pas à obtenir le poste. Mais curieusement, une invitation à un second entretien arrive dans ma boîte mail.  \n\nAvant de partir, je demande à voir Merrick. J'ai besoin de savoir pourquoi je suis encore en lice après notre départ désastreux.\n\nIl s’avère qu'il veut m'engager uniquement parce que je suis la candidate la moins compétente. Apparemment, son conseil d'administration l'oblige à pourvoir le poste contre son gré.\n\nJe n'ai pas vraiment envie de travailler dans un endroit où mon boss s'attend à me voir échouer, alors je décide de lui prouver qu’il se trompe. C’est ma nouvelle opération : Objectif Boss.\n\nCe qui est inattendu, en revanche, c’est toutes les autres choses que je me surprends à vouloir faire avec Merrick Crawford.\n\nIl faut dire que ce n’est pas une idée brillante de nouer des liens plus intimes avec mon patron.\n\nMais vous savez ce qu'on dit à propos des choix : il y en a qu’on regrette, d’autres dont on est fier. Et je me demande bien comment celui-là va tourner.",
+      "formattedPrice": "5,99 €",
+      "releaseDate": "2024-03-20T07:00:00Z",
+      "trackId": 6467126753,
+      "trackName": "Objectif Boss",
+      "averageUserRating": 4.5,
+      "userRatingCount": 175,
+      "country": "FRA"
+    }
+  ]
+}

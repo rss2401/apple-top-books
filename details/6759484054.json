@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$14.99",
+      "trackCensoredName": "Who Killed JFK?",
+      "artistViewUrl": "https://books.apple.com/us/artist/rob-reiner-david-hoffman-dick-russell/81506306?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/who-killed-jfk/id6759484054?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ed/e3/f0/ede3f0b0-c51d-48f7-cf26-26e0aeef4419/9781668083895.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ed/e3/f0/ede3f0b0-c51d-48f7-cf26-26e0aeef4419/9781668083895.jpg/100x100bb.jpg",
+      "artistIds": [
+        81506306,
+        5956107,
+        417408837
+      ],
+      "artistId": 81506306,
+      "artistName": "Rob Reiner, David Hoffman & Dick Russell",
+      "genres": [
+        "Biographies & Memoirs",
+        "Books",
+        "History",
+        "U.S. History",
+        "Nonfiction",
+        "Social Science"
+      ],
+      "price": 14.99,
+      "releaseDate": "2026-11-17T08:00:00Z",
+      "genreIds": [
+        "9008",
+        "38",
+        "9015",
+        "10079",
+        "9002",
+        "10120"
+      ],
+      "trackId": 6759484054,
+      "trackName": "Who Killed JFK?",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>From the creators of the hit podcast of the same name, <i>Who Killed JFK?</i> unravels a tangled web of evidence—including recently declassified documents, rare interview transcripts, and existing expert research—and presents the definitive analysis of the Kennedy assassination.</b><br /><br />Since the fateful day in Dallas on November 22, 1963, journalists, historians, and investigators have examined the official record of the assassination of President John F. Kennedy, yet a clear and conclusive explanation has remained elusive. Until now.<br /><br />Synthesizing decades of research with original investigative work, Rob Reiner, David Hoffman, and Dick Russell reconstruct the assassination with scholarly rigor and narrative urgency. As the conspiracy unfolds, we find a botched autopsy, two compromised investigations, numerous suspicious deaths, and countless cover-ups within the very institutions charged with uncovering the truth. This book assembles the long-scattered fragments of the investigation into a coherent and riveting case and finally decodes America’s greatest murder mystery.<br /><br />At a time when political violence and distrust in the government are reaching new highs, this answer—and the reasons why—may be more important than ever.",
+      "country": "USA"
+    }
+  ]
+}

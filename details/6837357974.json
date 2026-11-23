@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$5.99",
+      "trackCensoredName": "Sunrise on the Reapin̴g, LimitedTime",
+      "artistViewUrl": "https://books.apple.com/us/artist/sunrise-on-the-reapin-g/1803625399?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/sunrise-on-the-reapin-g-limitedtime/id6837357974?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/15/ac/a1/15aca190-6fa7-bf4e-cbe6-ea7948693597/5b3862f4-e6af-45ad-a688-a792853fa7b0_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/15/ac/a1/15aca190-6fa7-bf4e-cbe6-ea7948693597/5b3862f4-e6af-45ad-a688-a792853fa7b0_cover_image.jpg/100x100bb.jpg",
+      "artistIds": [
+        1803625399
+      ],
+      "artistId": 1803625399,
+      "artistName": "Sunrise on the Reapin̴g",
+      "genres": [
+        "Fantasy",
+        "Books",
+        "Sci-Fi & Fantasy"
+      ],
+      "price": 5.99,
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "genreIds": [
+        "10044",
+        "38",
+        "9020"
+      ],
+      "trackId": 6837357974,
+      "trackName": "Sunrise on the Reapin̴g, LimitedTime",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "When you are set up to lose everything you love, what is left to fight for? Blending high-stakes survival, hidden truths, and unforgettable emotional depth, this acclaimed fifth installment explores the cost of victory in a world built on propaganda and fear.\n\nIncludes the complete, full-length 400-page original English text with full chapter navigation, optimized for effortless reading",
+      "country": "USA"
+    }
+  ]
+}

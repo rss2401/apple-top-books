@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Der Kurator",
+      "artistIds": [
+        1317377906
+      ],
+      "formattedPrice": "9,99 €",
+      "artistId": 1317377906,
+      "artistName": "M W Craven",
+      "trackId": 6744417083,
+      "trackName": "Der Kurator",
+      "genreIds": [
+        "10052",
+        "38",
+        "9032",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Wer ist gefährlicher als ein Serienkiller?</b><br /><br />Band 3 der <b>SPIEGEL-Bestsellerserie</b> und <b>englischen Krimi-Reihe mit Kult-Status</b>: clevere Fälle, schwarzer Humor und Spannung, die dich die ganze Nacht an die Seiten fesselt.&#xa0;<br /><br />Überall in Cumbria hinterlässt ein Serienkiller »Weihnachtsgeschenke« für die Polizei: abgetrennte Finger und dazu die Nachricht »#BSC6«.<br /><br />DS Washington Poe und die Analystin Tilly Bradshaw stehen vor einem Fall, der einfach keinen Sinn ergibt. Ihr einziger Verdächtiger leugnet hartnäckig, was sie zweifelsfrei beweisen können – gibt dafür aber Dinge zu, von denen die Polizei noch gar nichts wusste. Und warum haben die Opfer, die scheinbar nicht das Geringste miteinander zu tun hatten, alle vor drei Jahren dieselben zwei Wochen Urlaub genommen?<br /><br />Als sich eine in Ungnade gefallene FBI-Agentin bei Washington Poe meldet, nimmt der Fall eine düstere Wendung. Denn sie ist überzeugt, dass der Täter keineswegs ein Serienkiller ist. Sondern jemand sehr viel Gefährlicheres …<br /><br /><b>Preisgekrönt und Kult in England, SPIEGEL-Bestsellerautor in Deutschland: die Krimis um Washington Poe endlich auch auf Deutsch</b><br /><br />Der britische Bestseller-Autor M. W. Craven liefert Hochspannung zum Miträtseln, gewürzt mit intelligentem Wortwitz.<br /><br />Alle Bände der Krimi-Serie lassen sich unabhängig voneinander lesen und folgende Bände sind bereits auf Deutsch erschienen:<br />Der Zögling (Band 1)Der Gourmet (Band 2)Der Kurator (Band 3)Der Botaniker (Band 5)",
+      "artistViewUrl": "https://books.apple.com/de/artist/m-w-craven/1317377906?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/der-kurator/id6744417083?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/53/9f/21/539f214b-3490-f8ab-3f4b-3a604c4ad27e/1052995626.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/53/9f/21/539f214b-3490-f8ab-3f4b-3a604c4ad27e/1052995626.jpg/100x100bb.jpg",
+      "releaseDate": "2025-11-03T08:00:00Z",
+      "price": 9.99,
+      "genres": [
+        "Polizeiromane",
+        "Bücher",
+        "Krimis und Thriller",
+        "Belletristik und Literatur"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 140,
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        318952872,
+        1894625026,
+        1843566489,
+        6780923019
+      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/92/7b/37/927b37ce-6f8f-93b2-48d9-bc0a082301b9/9783738912609.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/92/7b/37/927b37ce-6f8f-93b2-48d9-bc0a082301b9/9783738912609.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/alfred-bekker-tom-willhaus-michael-hellmer-j%C3%B6rn-slieter/318952872?uo=4",
+      "trackCensoredName": "Krimi Paket Deutschland: Fünf Romane - 900 Seiten",
+      "formattedPrice": "Gratis",
+      "trackViewUrl": "https://books.apple.com/de/book/krimi-paket-deutschland-f%C3%BCnf-romane-900-seiten/id1322428055?uo=4",
+      "artistId": 318952872,
+      "artistName": "Alfred Bekker, Tom Willhaus, Michael Hellmer & Jörn Slieter",
+      "genres": [
+        "Krimi-Kurzgeschichten",
+        "Bücher",
+        "Krimis und Thriller",
+        "Hard-boiled-Krimis"
+      ],
+      "price": 0,
+      "genreIds": [
+        "10053",
+        "38",
+        "9032",
+        "10050"
+      ],
+      "releaseDate": "2026-11-18T08:00:00Z",
+      "trackId": 1322428055,
+      "trackName": "Krimi Paket Deutschland: Fünf Romane - 900 Seiten",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Krimi Paket Deutschland: Fünf Romane - 900 Seiten\n\nvon ALFRED BEKKER, TOM WILLHAUS, MICHAEL HELLMER, JÖRN SLIETER\n\n\n \n\nDieser Band enthält folgende Krimis:\n\n\n \n\nJörn Slieter: Das Erbe der Schweigenden Insel: Ostfrieslandkrimi\n\nMichael Hellmer: Sauerländer Dämmerung: Thriller\n\nTom Willhaus: Unheimlich klare Küste: Ostfrieslandkrimi\n\nAlfred Bekker: Kommissar Jörgensen und die Simulation\n\nAlfred Bekker: Kubinke und die Melodie der Nacht: Krimi\n\n\n \n\nEin kalter Hamburger Morgen in einer Villa in Blankenese: Der renommierte Physikprofessor Harald Zilgen liegt tot in seinem Wohnzimmer. Zilgen war in den Medien bekannt als streitbarer Verfechter der Simulationstheorie – der Überzeugung, dass unsere gesamte Realität nur ein gigantisches Computerprogramm ist. Doch die Todesursache lässt selbst die Spurensicherung und den Forensiker Dr. Dr. Förnheim stutzen: Der Wissenschaftler wurde von einem exotischen Todesfinger-Skorpion gestochen. Und das Tier trug einen winzigen, handgelöteten Chip auf dem Rücken, um es per Funkfernsteuerung als tödliche Waffe einzusetzen.\n\nKommissar Uwe Jörgensen und sein pragmatischer Partner Roy übernehmen die Ermittlungen. Als kurz darauf ein weiterer Wissenschaftler aus der Szene auf dieselbe bizarre Weise stirbt, wird klar: Ein Serienmörder zieht durch Hamburg. Es entbrennt ein gefährlicher Wettlauf gegen die Zeit. Die Spur führt über dubiose Quanten-Start-ups, geheime Foren, den Schwarzmarkt für exotische Tiere bis hin zu einem rätselhaften Code, der nicht nur das Leben der Beteiligten bedroht, sondern die Grenzen der Realität selbst ins Wanken bringt.",
+      "country": "DEU"
+    }
+  ]
+}

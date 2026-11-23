@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "パタヤで、今日もポンコツ。",
+      "artistViewUrl": "https://books.apple.com/jp/artist/maiko/1213224878?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%91%E3%82%BF%E3%83%A4%E3%81%A7-%E4%BB%8A%E6%97%A5%E3%82%82%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84/id6837269062?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b6/4c/5e/b64c5e67-b9a7-c59a-1a46-73df6f6cafc8/1b3db2ae-5279-459f-8e4b-622f98bbca57_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b6/4c/5e/b64c5e67-b9a7-c59a-1a46-73df6f6cafc8/1b3db2ae-5279-459f-8e4b-622f98bbca57_cover_image.jpg/100x100bb.jpg",
+      "artistIds": [
+        1213224878
+      ],
+      "artistId": 1213224878,
+      "artistName": "MAIKO",
+      "genres": [
+        "マンガ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "旅行",
+        "アジア旅行"
+      ],
+      "price": 0,
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "genreIds": [
+        "10016",
+        "38",
+        "9026",
+        "9004",
+        "10140"
+      ],
+      "trackId": 6837269062,
+      "trackName": "パタヤで、今日もポンコツ。",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "女社長なのに、今日もポンコツ!?\n「男の街」と呼ばれるタイ・パタヤで、20代で旅行会社を起業した日本人女性社長・Mia。カナダ、バリ、セブ、オーストラリア——世界を回ってたどり着いたこの街で、失敗して、泣いて、それでも笑って前に進む、実話から生まれたフルカラー漫画です。\n昼は社長、夜はムーガタ店の女将。言葉の通じない場所で「味方でいる」ことの大切さを学んだ彼女の奮闘は、読む人に小さな元気をくれるはず。全64ページの第一巻。原作はMAIKO『男の街タイ・パタヤ女社長』(Apple Booksで無料配信中)。\n原作:MAIKO/キャラクターデザイン・イラスト:🍑MOMO",
+      "formattedPrice": "無料",
+      "country": "JPN"
+    }
+  ]
+}

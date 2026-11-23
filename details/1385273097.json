@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        567313685
+      ],
+      "artistId": 567313685,
+      "artistName": "Juanita Kees",
+      "genres": [
+        "Contemporary Romance",
+        "Books",
+        "Romance"
+      ],
+      "price": 0,
+      "genreIds": [
+        "10057",
+        "38",
+        "9003"
+      ],
+      "releaseDate": "2018-06-26T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "Chase Calhoun has worked hard at making Calhoun Customs a world-wide sensation and keeping his father’s dream alive. He hasn’t had time to think about settling down, so he’s not expecting to find love or new life in their garage amongst the ghosts of his family’s past.<br /><br />\nCharlotte Jackson is on the run from a rebellious past, determined to prove she can be a good mom to three-month-old baby, Zoe. Tired of being delegated to the back office of the racing team her famous NASCAR family owns, she sets out to establish herself as a custom design artist. But her past soon threatens her future and everything she’s worked hard to build is challenged.<br /><br />\nWhile Chase slowly loses his heart, Charlotte learns that sometimes family is more than just blood and DNA.<br /><br />\n<i>Previously titled Overdrive</i>",
+      "trackCensoredName": "Montana Baby",
+      "artistViewUrl": "https://books.apple.com/us/artist/juanita-kees/567313685?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/montana-baby/id1385273097?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/f6/b0/a0/f6b0a074-527e-d702-13a1-ba2865aed4c1/MontanaBaby-300dpi.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/f6/b0/a0/f6b0a074-527e-d702-13a1-ba2865aed4c1/MontanaBaby-300dpi.jpg/100x100bb.jpg",
+      "trackId": 1385273097,
+      "trackName": "Montana Baby",
+      "averageUserRating": 4.5,
+      "userRatingCount": 1295,
+      "country": "USA"
+    }
+  ]
+}

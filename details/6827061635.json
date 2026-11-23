@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Gratuit",
+      "artistIds": [
+        1734145425
+      ],
+      "artistId": 1734145425,
+      "artistName": "Alessa Steel",
+      "genres": [
+        "Thriller romantique",
+        "Livres",
+        "Romance"
+      ],
+      "price": 0,
+      "trackId": 6827061635,
+      "trackName": "Silent Fury: Mafia et Dark Romance",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>IVANA</b><br /><br />J'étais la fille dont personne n'était censé connaître l'existence.<br /><br />Ma sœur a eu les leçons, les robes de soirée et le fiancé. Moi, j'ai eu un garage, une paire de patins et un faux nom. Ça me convenait très bien.<br /><br />Puis l'homme le plus craint de New York est entré dans la mauvaise pièce et c'est moi qu'il a vue.<br /><br />Il n'a rien demandé. Il a pris le contrat destiné à ma sœur, a rayé son nom et a inscrit le mien. Et mon père l'a laissé faire.<br /><br /><b>Il veut ma famille à genoux. Il pense que je serai la première à m'agenouiller.</b><br /><br />Alors j'ai emménagé dans sa tour de verre et j'ai déclaré la guerre.<br /><br />J'ai réduit ses chemises en lambeaux. J'ai réparé ses voitures sans rien lui demander. Je lui ai logé une balle.<br /><br />Et quelque part entre les bagarres, les bleus et ses mains sur ma gorge, j'ai commencé à le désirer en retour.<br /><br />C'est la chose la plus dangereuse que j'aie jamais faite.<br /><br /><b>VASCO</b><br /><br />Je ne prends rien qu'une femme ne me donne pas. C'est la seule règle que je n'aie jamais enfreinte.<br /><br />Alors j'attendrai.<br /><br />Elle me déteste. Parfait. Elle mord. Elle ment. Elle me sourit de l'autre côté de ma propre table comme si elle choisissait l'endroit où elle allait m'enterrer.<br /><br /><b>Son père a envers moi une dette que seul le sang peut payer. Elle en est les intérêts.</b><br /><br />Je devrais garder mes distances. Je devrais me rappeler de qui elle est la fille, et qui l'a envoyée chez moi.<br /><br />Au lieu de cela, je la garde plus près chaque nuit.<br /><br /><b>Qu'elle me déteste. Elle finira quand même par dire oui.</b><br /><br /><i>Il s'agit du premier tome de la série The Silent Desire. Ordre de lecture :</i><br /><br /><i>Silent Fury.</i><br /><br /><i>Silent Sins.</i>",
+      "trackCensoredName": "Silent Fury: Mafia et Dark Romance",
+      "artistViewUrl": "https://books.apple.com/fr/artist/alessa-steel/1734145425?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/silent-fury-mafia-et-dark-romance/id6827061635?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ff/7b/39/ff7b394c-7223-9074-482b-e4ca4f740754/6610001489410.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/ff/7b/39/ff7b394c-7223-9074-482b-e4ca4f740754/6610001489410.jpg/100x100bb.jpg",
+      "releaseDate": "2026-10-21T07:00:00Z",
+      "genreIds": [
+        "10061",
+        "38",
+        "9003"
+      ],
+      "country": "FRA"
+    }
+  ]
+}

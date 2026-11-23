@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Le Maître et Marguerite",
+      "artistViewUrl": "https://books.apple.com/fr/artist/mikhail-boulgakov/373716400?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/le-ma%C3%AEtre-et-marguerite/id6444520143?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/cd/57/ed/cd57ed85-f647-65cb-1f93-5ed0ec53d524/cover_Bulgakov_fr.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/cd/57/ed/cd57ed85-f647-65cb-1f93-5ed0ec53d524/cover_Bulgakov_fr.jpg/100x100bb.jpg",
+      "artistIds": [
+        373716400
+      ],
+      "price": 0.99,
+      "genres": [
+        "Classiques",
+        "Livres",
+        "Romans et littérature"
+      ],
+      "artistId": 373716400,
+      "artistName": "Mikhail Boulgakov",
+      "genreIds": [
+        "10042",
+        "38",
+        "9031"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Le Maître et Marguerite (en russe : Мастер и Маргарита) est un roman de l'écrivain soviétique Mikhaïl Boulgakov écrit entre 1927 et 1939. À la fois histoire d'amour, critique politique et sociale, comédie burlesque et conte fantastique, il est considéré comme l'une des œuvres majeures de la littérature russe du xxe siècle.<br /><br />\nBoulgakov entreprend la rédaction de son roman dès 1928. Il détruit une première version de l'ouvrage (en la brûlant dans un poêle) en mars 1930 après avoir été averti que les autorités avaient interdit sa pièce La Cabale des dévots. Il revient à ce roman en 1931 et termine un second manuscrit en 1936, qui contient d'ores et déjà tous les principaux épisodes de l'œuvre finale. La troisième version est achevée en 1937. Boulgakov ne cesse de peaufiner une quatrième version avec l'aide de sa femme, jusqu'à ce qu'il soit contraint de s'arrêter quatre semaines avant sa mort en 1940. C'est sa femme, Elena Sergueïevna, qui achève son œuvre en 1940 et 1941.<br />\nUne version censurée du livre (12 % du texte y sont omis et une part plus grande encore altérée) est d'abord publiée dans le magazine Moscou (no 11, 1966, et no 1, 1967). Le texte des parties mises à l'écart ou modifiées paraît clandestinement (publication dite en samizdat), accompagné des indications nécessaires pour le resituer. En 1967, la maison d'édition Posev (sise à Francfort) édite une version complétée grâce à ces extraits. En Union soviétique, la première édition complète, préparée par les soins d'Anna Saakyants et fondée sur la version datant de début 1940, paraît dans Khoudojestvennaïa Literatoura en 19732. Cette édition est demeurée celle de référence jusqu'en 1989, date de la dernière édition établie par la littératrice Lidiya Yanovskaïa sur la base de tous les manuscrits existants.",
+      "formattedPrice": "0,99 €",
+      "releaseDate": "2022-11-17T08:00:00Z",
+      "trackId": 6444520143,
+      "trackName": "Le Maître et Marguerite",
+      "country": "FRA"
+    }
+  ]
+}

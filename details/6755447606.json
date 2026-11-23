@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Perry Rhodan 3405: Operation Persephone",
+      "artistViewUrl": "https://books.apple.com/de/artist/lucy-guth/843283151?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/perry-rhodan-3405-operation-persephone/id6755447606?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f2/df/86/f2df8653-be47-c416-e1bd-daba5c9c8a77/1062888555.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f2/df/86/f2df8653-be47-c416-e1bd-daba5c9c8a77/1062888555.jpg/100x100bb.jpg",
+      "artistId": 843283151,
+      "artistName": "Lucy Guth",
+      "genres": [
+        "Science-Fiction und Fantasy",
+        "Bücher"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Wir schreiben das Jahr 2266 Neuer Galaktischer Zeitrechnung, gut viertausend Jahre von unserer heutigen Zeit entfernt. Zehn Jahre sind vergangen, seit die Superintelligenz ES die Milchstraße verlassen hat. Damit ist eine Abfolge von Krisen zu Ende gegangen. <br/>\n<br/>\nDie Zeichen stehen gut: Mit dem Elysion wird ein uralter Menschheitstraum für alle Völker der Milchstraße und der benachbarten Galaxien wahr. Ein wehrhaftes, demokratisches Bündnis auf politischer und ökonomischer Ebene entsteht, das von Austausch und Diplomatie lebt. Die ersten Gefahren sind gebannt, der Blick geht nach vorne. Mit Feuereifer forschen Wissenschaftler nach neuen Technologien. <br/>\n<br/>\nEiner dieser Wissenschaftler ist Arion Mbinguni. Als er einen Fiktivtransmitter entwickelt und diesen ausprobiert, hat das dramatische Folgen: Im Indischen Ozean öffnet sich ein gigantischer Schacht, in den Mbinguni hineingerissen wird und ins Nichts stürzt. <br/>\nPerry Rhodan folgt ihm mit einem kleinen Einsatzteam und lernt die seltsame Umgebung des Tartaros kennen.<br/>\n<br/>\nOffenbar will das Volk der Kanequa einen Gefangenen befreien, der Unheil über die Milchstraße bringen könnte. Ein Angehöriger dieses Volkes schafft es aus dem Tartaros und in die Milchstraße  – seinetwegen beginnt OPERATION PERSEPHONE ...",
+      "formattedPrice": "2,49 €",
+      "releaseDate": "2026-11-19T08:00:00Z",
+      "artistIds": [
+        843283151
+      ],
+      "genreIds": [
+        "9020",
+        "38"
+      ],
+      "trackId": 6755447606,
+      "trackName": "Perry Rhodan 3405: Operation Persephone",
+      "price": 2.49,
+      "country": "DEU"
+    }
+  ]
+}

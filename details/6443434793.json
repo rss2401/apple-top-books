@@ -1,0 +1,46 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Lignées de l'ombre (tome 1) - Ceux qui protègent les fées",
+      "artistViewUrl": "https://books.apple.com/fr/artist/roxane-dambre/588128978?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/lign%C3%A9es-de-lombre-tome-1-ceux-qui-prot%C3%A8gent-les-f%C3%A9es/id6443434793?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/e9/0d/53/e90d53e6-9810-4117-2e20-2f47fff6362a/0000936575.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/e9/0d/53/e90d53e6-9810-4117-2e20-2f47fff6362a/0000936575.jpg/100x100bb.jpg",
+      "artistIds": [
+        588128978
+      ],
+      "price": 5.99,
+      "genres": [
+        "Contemporain",
+        "Livres",
+        "SF et fantasy",
+        "Fantasy",
+        "Fantasy paranormale",
+        "Romans et littérature",
+        "Contes de fées, mythes et fables"
+      ],
+      "artistId": 588128978,
+      "artistName": "Roxane Dambre",
+      "genreIds": [
+        "11001",
+        "38",
+        "9020",
+        "10044",
+        "11004",
+        "9031",
+        "11049"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Vous est-il déjà arrivé de trouver une fée à l'agonie sur votre canapé&#xa0;? Moi qui pensais que mon plus grand défi cet été, ça serait d'aider le resto où je suis cheffe à décrocher une étoile, j'ai dû revoir très vite le sens de mes priorités&#xa0;!<br /><br />Parce qu'en la recueillant, j'ai découvert que les fées ne sont pas les seuls êtres magiques qui existent. Les Chasseurs qui les traquent sont là, eux aussi. Et il y en a un en ville prêt à tout pour mettre la main sur celle que je tente de guérir.<br /><br />Le pire dans l'histoire&#xa0;? Alors que je me retrouve plongée dans ce conflit surnaturel, on m'attribue un nouveau commis en cuisine. Un certain Élias. Il est vraiment très sexy et il assure avec des couteaux. Sauf que ce n'est pas le moment de fantasmer. J'ai une fée à sauver et un Chasseur à éviter.<br /><br />Problème&#xa0;: j'ignore complètement à quoi ressemble ledit Chasseur mis à part qu'il a… des «&#xa0;pieds de chèvre&#xa0;».<br /><br />Ah, oui, j'ai oublié de vous dire&#xa0;: les fées sont nulles pour donner des infos utiles…<br /><br />Mais à qui suis-je censée demander de l'aide si je ne sais pas qui sont mes alliés et mes ennemis&#xa0;?<br /><br /><b>Entre magie, humour et action&#xa0;: bienvenue au cœur des lignées de l'ombre&#xa0;!</b>",
+      "formattedPrice": "5,99 €",
+      "releaseDate": "2022-10-06T07:00:00Z",
+      "trackId": 6443434793,
+      "trackName": "Lignées de l'ombre (tome 1) - Ceux qui protègent les fées",
+      "averageUserRating": 4.5,
+      "userRatingCount": 121,
+      "country": "FRA"
+    }
+  ]
+}

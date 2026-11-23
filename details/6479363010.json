@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Les Entrailles de la nuit - Prix du roman de la gendarmerie nationale 2024",
+      "artistViewUrl": "https://books.apple.com/fr/artist/marco-pianelli/1586986262?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-entrailles-de-la-nuit-prix-du-roman-de/id6479363010?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/76/8b/f0/768bf05b-a494-8827-e57e-f09fed6eb0fd/9782259315821.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/76/8b/f0/768bf05b-a494-8827-e57e-f09fed6eb0fd/9782259315821.jpg/100x100bb.jpg",
+      "artistIds": [
+        1586986262
+      ],
+      "price": 9.99,
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "artistId": 1586986262,
+      "artistName": "Marco Pianelli",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Un polar à la mécanique impitoyable, couronné du prix du roman de la gendarmerie nationale par un jury prestigieux.<br /><br />Lucie, huit ans et demi, vient d'être enlevée. Grâce à sa montre connectée, elle a pu donner l'alerte et le compte à rebours est lancé : dans vingt-quatre heures, les chances de la retrouver vivante seront moins qu'infimes...<br />Devant l'enjeu, le major Victor Tchaïev est dépêché sur place. Coriace et réputé infaillible, il est devenu l'expert des crimes les plus opaques. Mais, cette fois, il ne s'agit pas de confondre un meurtrier : il faut sauver une vie.<br />Et plus l'enquête progresse, plus la vérité devient mirage. Car celui qui joue avec le sablier possède toujours un coup d'avance. Tchaïev va se heurter à un maître dans l'art de manipuler les faits, les êtres et les esprits.<br />Créé en 2020 par la gendarmerie nationale et les éditions Plon, le prix du roman de la gendarmerie nationale récompense un roman inédit mettant en scène la gendarmerie. Le jury, présidé par le général d'armée Christian Rodriguez, directeur général de la gendarmerie nationale, réunit journalistes et écrivains, tels que Maxime Chattam, Caroline Roux, Maître Julia Minkowski, Eric Delbecque... mais aussi des gendarmes – hauts gradés ou non. Aussi exigeant que passionné, ce jury couronne chaque année un roman de grande qualité.",
+      "formattedPrice": "9,99 €",
+      "releaseDate": "2024-03-14T07:00:00Z",
+      "trackId": 6479363010,
+      "trackName": "Les Entrailles de la nuit - Prix du roman de la gendarmerie nationale 2024",
+      "averageUserRating": 4,
+      "userRatingCount": 10,
+      "country": "FRA"
+    }
+  ]
+}

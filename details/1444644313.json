@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Butterfly Room",
+      "formattedPrice": "£0.99",
+      "artistViewUrl": "https://books.apple.com/gb/artist/lucinda-riley/401210503?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-butterfly-room/id1444644313?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/59/19/95/591995b7-18e7-b995-d0ef-69275be0c2c3/9781529014976.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/59/19/95/591995b7-18e7-b995-d0ef-69275be0c2c3/9781529014976.jpg/100x100bb.jpg",
+      "artistId": 401210503,
+      "artistName": "Lucinda Riley",
+      "price": 0.99,
+      "trackId": 1444644313,
+      "trackName": "The Butterfly Room",
+      "artistIds": [
+        401210503
+      ],
+      "genreIds": [
+        "10059",
+        "38",
+        "9003",
+        "9031",
+        "11050",
+        "10047",
+        "10061",
+        "10057"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>A spellbinding, muligenerational story set between the 1950s and the present, <i>The Butterfly Room </i>is an enchanting tale of heartbreaking secrets from Lucinda Riley, international bestselling author of the Seven Sisters series.<br /><br />'Captivating . . . poignant yet uplifting' – <i>Woman's Own</i></b><br /><br />Posy Montague is approaching her seventieth birthday. Still living in her beautiful Suffolk family home, Admiral House, she is surrounded by memories of her idyllic childhood catching butterflies with her beloved father, and of raising her own children. But Posy knows she must make an agonizing decision.<br /><br />Despite the memories the house holds, and the exquisite garden she has spent twenty-five years creating, the house is crumbling around her, and Posy knows the time has come to sell it.<br /><br />Then a face appears from the past – Freddie, her first love, who abandoned her and left her heartbroken fifty years ago. Already struggling to cope with her son’s inept business dealings, and the sudden reappearance of her younger son after ten years in Australia, Posy is reluctant to trust in Freddie’s renewed affection. And, unbeknown to Posy, Freddie has a devastating secret to reveal . . .<br /><br /><b>'A perfect beach read' – <i>Daily Mail</i></b><br /><br /><b>'Prepare to be intrigued, moved to tears and ultimately uplifted' – <i>Lancashire Evening Post</i></b>",
+      "releaseDate": "2019-05-02T07:00:00Z",
+      "genres": [
+        "Historical Romance",
+        "Books",
+        "Romance",
+        "Fiction & Literature",
+        "Family Fiction & Literature",
+        "Historical Fiction",
+        "Romantic Suspense",
+        "Contemporary Romance"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 277,
+      "country": "GBR"
+    }
+  ]
+}

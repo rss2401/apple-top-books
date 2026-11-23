@@ -35,21 +35,21 @@
       "country": "USA"
     },
     {
-      "artistIds": [
-        6802406789
-      ],
-      "artistId": 6802406789,
-      "artistName": "Trent Crimm",
+      "formattedPrice": "Free",
       "genres": [
         "Coaching",
         "Books",
         "Sports & Outdoors"
       ],
-      "price": 0,
+      "artistName": "Trent Crimm",
+      "artistId": 6802406789,
       "genreIds": [
         "10123",
         "38",
         "9035"
+      ],
+      "artistIds": [
+        6802406789
       ],
       "releaseDate": "2026-10-07T07:00:00Z",
       "trackId": 6802406621,
@@ -62,7 +62,7 @@
       "trackViewUrl": "https://books.apple.com/gb/book/the-richmond-way/id6802406621?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/56/19/e1/5619e165-9d65-38c3-4b5c-0aabb9ffe6e4/TED4_RichmondWay_AppleBooks_Ebook_Cover_1553x2404.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/56/19/e1/5619e165-9d65-38c3-4b5c-0aabb9ffe6e4/TED4_RichmondWay_AppleBooks_Ebook_Cover_1553x2404.jpg/100x100bb.jpg",
-      "formattedPrice": "Free",
+      "price": 0,
       "averageUserRating": 4,
       "userRatingCount": 64,
       "country": "GBR"

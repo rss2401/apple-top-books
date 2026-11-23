@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistId": 1835825632,
+      "artistName": "Lucie Del",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance",
+        "Romance jeunes adultes"
+      ],
+      "price": 9.99,
+      "artistIds": [
+        1835825632
+      ],
+      "releaseDate": "2026-10-15T07:00:00Z",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003",
+        "11040"
+      ],
+      "trackId": 6810058604,
+      "trackName": "Black Bikers - Tome 3 L'Effrontée",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Ouvrir son cœur demande du courage.<br /><br />Ava Moon, brillante procureure fédérale adjointe à New York, a bâti sa réputation sur sa rigueur et son sang-froid. Quand on l'envoie à Whitesboro pour participer à une enquête sur un vaste réseau de blanchiment d'argent, cette petite ville du Texas remet en question tout ce qu'elle pensait maîtriser.<br /><br />Face aux Black Bikers, un club de motards aussi influent que redouté, Ava ne recule devant rien. Froide, méthodique et acharnée, elle inspire la méfiance des habitants... et ne fait aucun effort pour s'en excuser. Dans son monde, chaque chose a sa place, chaque décision est calculée, et les sentiments n'ont jamais eu leur mot à dire.<br /><br />Mais Whitesboro n'est pas New York.<br /><br />Harry Wall, sergent d'armes des Black Bikers, voit immédiatement l'arrivée de cette étrangère comme une menace. Mais plus il s'en approche, plus les frontières deviennent floues. Parce que derrière le regard glacé d'Ava se cache une femme qu'il n'arrive plus à ignorer. Et chaque échange, chaque regard entre eux fait naître une tension qu'aucun des deux ne devrait ressentir.<br /><br />Elle est venue pour détruire son monde. Il est prêt à tout pour le protéger. Mais certaines batailles sont impossibles à gagner lorsque le cœur s'en mêle.",
+      "formattedPrice": "9,99 €",
+      "trackCensoredName": "Black Bikers - Tome 3 L'Effrontée",
+      "artistViewUrl": "https://books.apple.com/fr/artist/lucie-del/1835825632?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/black-bikers-tome-3-leffront%C3%A9e/id6810058604?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/aa/ac/e6/aaace605-dab4-1e0f-4518-8e0603ffc3e5/9782488109208.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/aa/ac/e6/aaace605-dab4-1e0f-4518-8e0603ffc3e5/9782488109208.jpg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        995254856
+      ],
+      "artistId": 995254856,
+      "artistName": "Anette Hinrichs",
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher",
+        "Belletristik und Literatur",
+        "Weibliche Spürnasen",
+        "Polizeiromane"
+      ],
+      "price": 10.99,
+      "releaseDate": "2023-07-19T07:00:00Z",
+      "genreIds": [
+        "9032",
+        "38",
+        "9031",
+        "10055",
+        "10052"
+      ],
+      "trackId": 6444441916,
+      "trackName": "Nordlicht - Tod in den Fluten",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Ein mörderischer Segeltörn auf der Flensburger Förde. Der neue Fall für Boisen &amp; Nyborg von SPIEGEL-Bestsellerautorin Anette Hinrichs</b><br /><br />Dauerregen und Starkwind über der Flensburger Außenförde. Während eines Kundenevents auf einer Segelyacht geht die junge Bankerin Saskia Niekamp bei einem Wendemanöver über Bord. Wenige Tage später wird ihr Leichnam in Sønderby an der dänischen Küste angespült. Was zunächst wie ein tragischer Unfall aussieht, erweist sich als heimtückischer Mord.<br />Vibeke Boisen und Rasmus Nyborg ermitteln in der einflussreichen Welt von Vorstandsetagen und gut betuchten Kunden. Je tiefer sie graben, desto mehr belastende Erkenntnisse bringen sie über die Tote ans Tageslicht. Doch erst als sie auf die Verbindung zu einem alten, ungelösten Fall stoßen, kommen sie den wahren Hintergründen auf die Spur… <br /><b>\"NORDLICHT ist einfach eine der besten deutschen Krimireihen, die es aktuell gibt.\" </b><i><b>krimi-couch.de</b></i><br /><br /><b>Zwei Ermittler so unterschiedlich wie Ebbe und Flut: Boisen &amp; Nyborg ermitteln in grenzübergreifenden Fällen in Deutschland und Dänemark. </b><br /><br /><b>Alle Bände der SPIEGEL-Bestsellerreihe sind eigenständige Fälle und können unabhängig voneinander gelesen werden.</b>",
+      "trackCensoredName": "Nordlicht - Tod in den Fluten",
+      "artistViewUrl": "https://books.apple.com/de/artist/anette-hinrichs/995254856?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/nordlicht-tod-in-den-fluten/id6444441916?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/e9/25/b6/e925b6c7-eb8e-9dcd-9060-2f6dbee72cbd/9783641296773.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/e9/25/b6/e925b6c7-eb8e-9dcd-9060-2f6dbee72cbd/9783641296773.jpg/100x100bb.jpg",
+      "formattedPrice": "10,99 €",
+      "averageUserRating": 4.5,
+      "userRatingCount": 145,
+      "country": "DEU"
+    }
+  ]
+}

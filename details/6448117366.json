@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "L'ombre de la nuit",
+      "artistViewUrl": "https://books.apple.com/fr/artist/marco-pianelli/1586986262?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/lombre-de-la-nuit/id6448117366?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/68/3d/21/683d217b-2e39-1b5d-d976-355994a30a02/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/68/3d/21/683d217b-2e39-1b5d-d976-355994a30a02/cover.jpg/100x100bb.jpg",
+      "artistIds": [
+        1586986262
+      ],
+      "price": 7.99,
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "artistId": 1586986262,
+      "artistName": "Marco Pianelli",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Il fait nuit. Un homme épuisé se traine sur une route d’Ardèche déserte. Il pleut, le froid s’immisce et glace ses os, la lune n’est pas prête à céder sa place et les rares voitures qu’il croise le dépassent sans ralentir.<br /><br />Qui prendrait un autostoppeur trempé de pluie, plus sombre que la nuit qui l’entoure ?<br /><br />Pourtant quelqu’un s’arrête. Une femme, seule, qui retrace le chemin sur lequel son fils a disparu il y a tout juste cinq ans.<br /><br />En ouvrant son foyer pour la nuit à cet inconnu que le hasard a mis sur sa route, elle ouvre aussi, sans le savoir, la porte sur son passé.<br /><br />Dans son costume de vagabond, l’homme semble poursuivre un but connu de lui seul. Pourtant, quand sur son parcours il croise le Mal et l’injustice, il fait face et les affronte sans merci.<br /><br />Il va chercher des réponses là où les mystères subsistent. Mais la vérité est-elle toujours supportable ?",
+      "formattedPrice": "7,99 €",
+      "releaseDate": "2023-06-28T07:00:00Z",
+      "trackId": 6448117366,
+      "trackName": "L'ombre de la nuit",
+      "country": "FRA"
+    }
+  ]
+}

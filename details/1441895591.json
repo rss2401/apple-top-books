@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Zwei Handvoll Leben",
+      "artistViewUrl": "https://books.apple.com/de/artist/katharina-fuchs/1441895592?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/zwei-handvoll-leben/id1441895591?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f4/2a/33/f42a33dc-8bbf-ff00-02b7-4e41df7ce21d/1028592168.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f4/2a/33/f42a33dc-8bbf-ff00-02b7-4e41df7ce21d/1028592168.jpg/100x100bb.jpg",
+      "artistId": 1441895592,
+      "artistName": "Katharina Fuchs",
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher",
+        "Familienbelletristik und Literatur"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Zwei starke Frauen – zwei deutsche Schicksale</b><br /><b>Und die Geschichte des Berliner Kaufhauses KaDeWe in einem anrührend authentischen historischen Roman</b><br /><br />Deutschland 1914: Charlotte wächst auf dem archaischen Landgut ihres mächtigen Vaters in Sachsen auf. Die Welt scheint ihr zu Füßen zu liegen, als sie von ihrer Tante und deren jüdischem Ehemann in die Leipziger Ballsaison eingeführt werden soll. Sie begegnet ihrer ersten Liebe. Doch der Beginn des ersten Weltkriegs zerstört ihre Pläne. Und ihr Leben verändert sich für immer.<br /><br />Gleichzeitig gelingt es Anna, zwischen den Wasserstraßen des Spreewalds, wo Verzicht und harte Arbeit erfinderisch machen, dem Schicksal immer wieder ein Schnippchen zu schlagen. Doch sie verkennt die tiefe Liebe ihres besten Freundes, bevor er an die Westfront zieht. An einem eiskalten Tag im Februar 1919 steigt die neunzehnjährige Schneiderin alleine in den Zug nach Berlin. In den engen Hinterhöfen des Wedding prallen Hunger und Armut auf den ungezügelten Lebensdurst der beginnenden zwanziger Jahre. Und im Konsumtempel KaDeWe sucht man Verkäuferinnen …<br /><br />Anna und Charlotte werden sich erst 1953 in Berlin begegnen. Hinter ihnen liegen zwei Weltkriege und ihr deutsches Schicksal. Es ist die Ehe ihrer Kinder, die die beiden ungleichen Frauen zusammenführt, und eine tiefe Verbundenheit durch denselben Schmerz, den sie noch nie zuvor einem anderen Menschen anvertraut haben.<br /><br />»Es ist das vergessene Leben der Frauen, in dieser ganz besonderen Zeit, die bis heute nachwirkt, das ich zu Papier bringen wollte. Es wurde so lange totgeschwiegen. ›Zwei Handvoll Leben‹ lässt es uns spüren.«<br />Katharina Fuchs<br /><br /><b>Katharina Fuchs erzählt in ihrem historischen Roman nicht nur ein Stück deutsche Geschichte aus der Perspektive der Frauen – es ist die Geschichte ihrer eigenen Großmütter.</b>",
+      "formattedPrice": "4,99 €",
+      "releaseDate": "2019-03-27T07:00:00Z",
+      "artistIds": [
+        1441895592
+      ],
+      "genreIds": [
+        "9031",
+        "38",
+        "11050"
+      ],
+      "trackId": 1441895591,
+      "trackName": "Zwei Handvoll Leben",
+      "price": 4.99,
+      "averageUserRating": 4.5,
+      "userRatingCount": 107,
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        963856300
+      ],
+      "genres": [
+        "Police Procedural",
+        "Books",
+        "Crime & Thrillers",
+        "Women Sleuths",
+        "Detective Novels"
+      ],
+      "artistId": 963856300,
+      "artistName": "Angela Marsons",
+      "price": 2.99,
+      "genreIds": [
+        "10052",
+        "38",
+        "9032",
+        "10055",
+        "10054"
+      ],
+      "releaseDate": "2026-11-17T08:00:00Z",
+      "trackName": "Last Whisper",
+      "trackId": 6802302365,
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "She lies broken on the cold ground, her blonde hair dark with blood, her eyes staring blankly upwards. With her final breath, she murmurs the name of her last hope: ‘Kim Stone’.\n\nAt first, Detective Kim Stone doesn’t understand why she’s been summoned to the scene: Chelsea Taylor’s fall looks like an accident. But then she hears Chelsea’s dying words.\n\nChelsea is a total stranger, and Kim has no idea what she wanted. But she doesn’t believe the death is innocent. And as Kim watches Chelsea’s distraught mother holding her orphaned granddaughter, she makes a vow. She couldn’t save Chelsea’s life, but she will make her murderer pay.\n\nAnd when she’s called to a second fatal fall, Kim is certain the killer has claimed another soul. She and the team dig into the victims’ pasts and uncover a shocking link. They were both patients at mental health clinic Rayburn…\n\nKim rushes to the clinic, hunting for answers. She’s taken aback by what she finds: it’s more like a hotel than a hospital, with polished floors, flowers everywhere and cheerful smiling staff too keen to answer questions. Kim’s suspicions only grow. The clinic treats people with severe disorders. There must be patients they’re protecting and secrets they’re hiding… because somewhere in this peaceful place, Chelsea and Karl met their killer.\n\nBut is Kim’s traumatic past and the memory of Chelsea’s last whisper blinding her to the truth? Or is she right to fear the most terrifying murderer of all – someone who will never, ever stop…\n\nA completely unputdownable, twisty crime thriller that will have you racing through the pages. Perfect for fans of Val McDermid, Robert Dugoni and JM Dalgliesh.\n\nCan be read as a standalone.\n\nSee what everyone is saying about Last Whisper:\n\n‘Just brilliant… I was engrossed from the first page to the last… Gripping and unputdownable… How can I help giving this five stars? No choice. It is that good!!’ Goodreads reviewer, ⭐⭐⭐⭐⭐\n\n‘Outstanding… fabulous… a compelling and massively thought-provoking page-turner.’ Noveldeelights, ⭐⭐⭐⭐⭐\n\n‘WOW!… absolutely outstanding… had me completely hooked from beginning to end… sheer brilliance… Just when you think you have things figured out, Angela pulls the rug from under your feet!’ Goodreads reviewer, ⭐⭐⭐⭐⭐\n\n‘Fantastic… highly addictive… I cannot recommend enough. It reads like a train!’ Me Love Books, ⭐⭐⭐⭐⭐\n\n‘Wow!… a whirlwind ride… kept me flipping pages nonstop… Starts with a bang and never lets up. Big 5 stars from me.’ NetGalley reviewer, ⭐⭐⭐⭐⭐\n\n‘Outstanding… amazing… you are almost guaranteed a late night, turning for just one more chapter…I cannot recommend this book highly enough.’ Goodreads reviewer, ⭐⭐⭐⭐⭐\n\n‘Amazing… Fast paced and exciting… I couldn’t put down! Highly recommend.’ Goodreads reviewer, ⭐⭐⭐⭐⭐\n\n‘Fantastic… kept me turning the pages until the shocking conclusion. Plenty of twists and turns. Brilliant!’ Goodreads reviewer, ⭐⭐⭐⭐⭐\n\n‘Brilliant, gripping… had me hooked from the very beginning… I was desperate to find out what had really happened… fantastic… plenty of twists, turns and shocking revelations to keep you guessing… Highly recommend!’ Goodreads reviewer, ⭐⭐⭐⭐⭐\n\n‘Kept me eagerly turning the pages late into the night… outstanding… one of my all-time favourites.’ Cleopatra Loves Books, ⭐⭐⭐⭐⭐\n\n‘Superb… compelling… perfect… utterly gripping… Hours passed by and I didn't even notice.’ Jen Med’s Book Reviews, ⭐⭐⭐⭐⭐\n\n‘I am running out of words to praise this series highly enough… I was totally hooked and read it in one day.’ Goodreads reviewer, ⭐⭐⭐⭐⭐",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f9/bb/55/f9bb5577-147a-ea02-98f2-cefdb733dbaf/Last-Whisper-Apple.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f9/bb/55/f9bb5577-147a-ea02-98f2-cefdb733dbaf/Last-Whisper-Apple.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/gb/artist/angela-marsons/963856300?uo=4",
+      "trackCensoredName": "Last Whisper",
+      "formattedPrice": "£2.99",
+      "trackViewUrl": "https://books.apple.com/gb/book/last-whisper/id6802302365?uo=4",
+      "averageUserRating": 4.5,
+      "userRatingCount": 7,
+      "country": "GBR"
+    }
+  ]
+}

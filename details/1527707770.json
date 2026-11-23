@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "無料",
+      "artistIds": [
+        1527707772,
+        740395163
+      ],
+      "trackCensoredName": "陰陽師と天狗眼 ―巴市役所もののけトラブル係―",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E6%AD%8C%E5%B3%B0%E7%94%B1%E5%AD%90-%E3%82%AB%E3%82%BA%E3%82%AD%E3%83%A8%E3%83%8D/1527707772?uo=4",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E9%99%B0%E9%99%BD%E5%B8%AB%E3%81%A8%E5%A4%A9%E7%8B%97%E7%9C%BC-%E5%B7%B4%E5%B8%82%E5%BD%B9%E6%89%80%E3%82%82%E3%81%AE%E3%81%AE%E3%81%91%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E4%BF%82/id1527707770?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/02/78/90/0278903c-fb64-f9ba-610d-cb72c80a6563/20427_123134187_001_001_artwork_20210929160522.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication115/v4/02/78/90/0278903c-fb64-f9ba-610d-cb72c80a6563/20427_123134187_001_001_artwork_20210929160522.jpg/100x100bb.jpg",
+      "price": 0,
+      "genres": [
+        "小説／文学",
+        "ブック",
+        "ロマンス"
+      ],
+      "artistId": 1527707772,
+      "artistName": "歌峰由子 & カズキヨネ",
+      "releaseDate": "2020-08-20T07:00:00Z",
+      "genreIds": [
+        "9031",
+        "38",
+        "9003"
+      ],
+      "trackId": 1527707770,
+      "trackName": "陰陽師と天狗眼 ―巴市役所もののけトラブル係―",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "古より怪異と隣り合わせの町・広島県巴市。<br/>\n巴市役所の「危機管理課特自災害係(通称もののけトラブル係)」に採用された、<br/>\n出雲の高名な陰陽師一族出身ながら、少し訳ありの黒髪美青年・宮澤美郷と、<br/>\n幼い頃に在野の天狗を名乗る男に拾われ、フリーの山伏となった<br/>\n金髪・緑銀眼の熱血系イケメン・狩野怜路。<br/>\nいきなり同居することになった異色のふたりが、<br/>\n現代に起こる怪異を華麗に、そしてお役所仕事に追われながら解決していくことに――。",
+      "country": "JPN"
+    }
+  ]
+}

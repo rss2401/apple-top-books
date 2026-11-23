@@ -1,0 +1,73 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "artistIds": [
+        981361709
+      ],
+      "trackCensoredName": "A Bayou Christmas",
+      "artistViewUrl": "https://books.apple.com/us/artist/susan-sands/981361709?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/a-bayou-christmas/id6442985634?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/05/84/ca/0584ca46-5c4f-9d44-2363-edc1308588a0/abayouchristmas-300dpi.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/05/84/ca/0584ca46-5c4f-9d44-2363-edc1308588a0/abayouchristmas-300dpi.jpg/100x100bb.jpg",
+      "genres": [
+        "Holiday Romance",
+        "Books",
+        "Romance",
+        "Contemporary Romance"
+      ],
+      "artistId": 981361709,
+      "artistName": "Susan Sands",
+      "trackName": "A Bayou Christmas",
+      "trackId": 6442985634,
+      "releaseDate": "2022-11-01T07:00:00Z",
+      "genreIds": [
+        "11231",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>It’s her first Christmas with her birth family…</b><br /><br />\nThanks to a bone marrow donation from her newly discovered sister, interior designer Allison Miers has just beat cancer and has been welcomed into her new family, the Bertrands of Cypress Bayou. She’s been curious about her birth family for years, and it seems they’re all trying to make amends for her mother abandoning her—even offering a trust fund if she’ll stay a year and give the town a chance.<br /><br />\nAs Allison arrives in town amidst preparations for the Cypress Bayou Christmas Festival, she’s quickly overwhelmed by the drama and competition between both sides of her birth families. Local mechanic Nick Landry is the most normal person she’s met so far, and it doesn’t hurt that he’s also handsome and friendly. Just as Allison starts to wonder if she’s finally found a new home, family, and a man to love, she discovers that Nick—just like both sides of her family—has been keeping his own secrets.<br /><br />\nFamily is all Allison has ever wanted, but should she listen to her head or her heart this unforgettable Christmas?",
+      "formattedPrice": "Free",
+      "price": 0,
+      "averageUserRating": 4.5,
+      "userRatingCount": 37,
+      "country": "USA"
+    },
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        981361709
+      ],
+      "artistId": 981361709,
+      "artistName": "Susan Sands",
+      "price": 0,
+      "trackId": 6442985634,
+      "trackName": "A Bayou Christmas",
+      "releaseDate": "2022-11-01T07:00:00Z",
+      "genreIds": [
+        "11231",
+        "38",
+        "9003",
+        "10057"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>It’s her first Christmas with her birth family…</b><br /><br />\nThanks to a bone marrow donation from her newly discovered sister, interior designer Allison Miers has just beat cancer and has been welcomed into her new family, the Bertrands of Cypress Bayou. She’s been curious about her birth family for years, and it seems they’re all trying to make amends for her mother abandoning her—even offering a trust fund if she’ll stay a year and give the town a chance.<br /><br />\nAs Allison arrives in town amidst preparations for the Cypress Bayou Christmas Festival, she’s quickly overwhelmed by the drama and competition between both sides of her birth families. Local mechanic Nick Landry is the most normal person she’s met so far, and it doesn’t hurt that he’s also handsome and friendly. Just as Allison starts to wonder if she’s finally found a new home, family, and a man to love, she discovers that Nick—just like both sides of her family—has been keeping his own secrets.<br /><br />\nFamily is all Allison has ever wanted, but should she listen to her head or her heart this unforgettable Christmas?",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/05/84/ca/0584ca46-5c4f-9d44-2363-edc1308588a0/abayouchristmas-300dpi.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/05/84/ca/0584ca46-5c4f-9d44-2363-edc1308588a0/abayouchristmas-300dpi.jpg/100x100bb.jpg",
+      "trackCensoredName": "A Bayou Christmas",
+      "trackViewUrl": "https://books.apple.com/gb/book/a-bayou-christmas/id6442985634?uo=4",
+      "artistViewUrl": "https://books.apple.com/gb/artist/susan-sands/981361709?uo=4",
+      "genres": [
+        "Holiday Romance",
+        "Books",
+        "Romance",
+        "Contemporary Romance"
+      ],
+      "country": "GBR"
+    }
+  ]
+}

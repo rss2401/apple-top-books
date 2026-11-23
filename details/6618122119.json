@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Fever Beach",
+      "artistIds": [
+        3500431
+      ],
+      "formattedPrice": "$1.99",
+      "artistId": 3500431,
+      "artistName": "Carl Hiaasen",
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books",
+        "Fiction & Literature"
+      ],
+      "price": 1.99,
+      "genreIds": [
+        "9032",
+        "38",
+        "9031"
+      ],
+      "trackId": 6618122119,
+      "trackName": "Fever Beach",
+      "releaseDate": "2025-05-13T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b><i>NEW YORK TIMES</i> BESTSELLER • From the bestselling author of <i>Squeeze Me</i> comes a wildly entertaining Florida caper—a razor-sharp send-up of modern American life, packed with misfits and mayhem.<br /><br />“No satirist arrived at our dystopian moment better prepared than Carl Hiaasen.<i>”</i> —<i>Slate</i><br /><br />“[Carl Hiaasen’s] reality with a side of escapism is a blessing for our fragile minds at this time.” —Samantha Irby in <i>The&#xa0;Atlantic</i></b><br /><br />Welcome to <i>Fever Beach</i>, where the sun blazes, the politics are unhinged, and the characters are as volatile as a summer storm.<br /><br />Dale Figgo is a half-baked crusader with the rare distinction of being kicked out of the Proud Boys—for being too dumb. His latest bad decision? Picking up a hitchhiker on a rainy afternoon while running an errand.<br /><br />That errand sets off a chain reaction involving Viva Morales, a clever, resilient newcomer trying to rebuild her life post-divorce. She’s renting a room in Figgo’s apartment and working at the Mink Foundation—a philanthropic front with something far darker beneath the surface.<br /><br />Circling them is Twilly Spree, a hotheaded environmentalist with too much cash and a gift for over-the-top revenge.<br /><br />When dark money and twisted motives bring their worlds crashing together, Viva and Twilly become unlikely allies. Together, they uncover a tangle of corruption and conspiracy led by a plastic-surgery-loving billionaire couple and a clueless congressman with delusions of grandeur.<br /><br />In his most outrageous and deliciously funny novel yet, Hiaasen delivers a gleefully chaotic portrait of contemporary madness.",
+      "artistViewUrl": "https://books.apple.com/us/artist/carl-hiaasen/3500431?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/fever-beach/id6618122119?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/86/38/48/86384870-828e-0097-b965-fc25bee7cb9f/9780593320952.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/86/38/48/86384870-828e-0097-b965-fc25bee7cb9f/9780593320952.d.jpg/100x100bb.jpg",
+      "averageUserRating": 4,
+      "userRatingCount": 802,
+      "country": "USA"
+    }
+  ]
+}

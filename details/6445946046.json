@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Gratuit",
+      "artistIds": [
+        293288357
+      ],
+      "artistId": 293288357,
+      "artistName": "Fiodor Dostoïevski",
+      "genres": [
+        "Classiques",
+        "Livres",
+        "Romans et littérature",
+        "Policier et suspense"
+      ],
+      "price": 0,
+      "trackId": 6445946046,
+      "trackName": "Crime et Châtiment",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Découvrez le chef-d&#39;œuvre incontournable de la littérature russe avec &#34;Crime et Châtiment&#34; de Fiodor Dostoïevski. Cette oeuvre monumentale raconte l&#39;histoire de Raskolnikov, un étudiant en droit qui commet un meurtre pour prouver sa théorie selon laquelle les gens exceptionnels sont au-dessus des lois morales.<br/>\n<br/>\nPlongez dans l&#39;univers sombre et tourmenté de Raskolnikov et suivez son parcours psychologique alors qu&#39;il est rongé par la culpabilité et les remords. Avec son style d&#39;écriture immersif et sa profondeur psychologique, Dostoïevski offre une réflexion saisissante sur la nature humaine, la morale et la justice.<br/>\n<br/>\n&#34;Crime et Châtiment&#34; est un classique de la littérature qui a marqué l&#39;histoire de la littérature russe. Ce livre inoubliable est une oeuvre intemporelle qui continue d&#39;inspirer les lecteurs du monde entier. Ne manquez pas l&#39;occasion de découvrir cette oeuvre majeure de Dostoïevski et de plonger dans une expérience de lecture captivante et enrichissante.",
+      "trackCensoredName": "Crime et Châtiment",
+      "artistViewUrl": "https://books.apple.com/fr/artist/fiodor-dosto%C3%AFevski/293288357?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/crime-et-ch%C3%A2timent/id6445946046?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/52/fe/08/52fe086c-5a0e-5af3-195f-aff305d5962c/1040146183.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/52/fe/08/52fe086c-5a0e-5af3-195f-aff305d5962c/1040146183.jpg/100x100bb.jpg",
+      "releaseDate": "2023-03-29T07:00:00Z",
+      "genreIds": [
+        "10042",
+        "38",
+        "9031",
+        "9032"
+      ],
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$6.99",
+      "trackCensoredName": "Percy Jackson and the Olympians, Book One: The Lightning Thief",
+      "artistViewUrl": "https://books.apple.com/us/artist/rick-riordan/275649968?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/percy-jackson-and-the-olympians-book-one/id365824737?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1c/7a/e6/1c7ae68e-a0c7-5a15-0250-8ea580fb7dc9/1056002676.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1c/7a/e6/1c7ae68e-a0c7-5a15-0250-8ea580fb7dc9/1056002676.jpg/100x100bb.jpg",
+      "artistIds": [
+        275649968
+      ],
+      "artistId": 275649968,
+      "artistName": "Rick Riordan",
+      "genres": [
+        "Fairy Tales, Myths & Fables for Young Adults",
+        "Books",
+        "Young Adult",
+        "Fiction for Young Adults",
+        "Fantasy for Young Adults"
+      ],
+      "price": 6.99,
+      "releaseDate": "2009-05-02T07:00:00Z",
+      "genreIds": [
+        "11186",
+        "38",
+        "11165",
+        "11177",
+        "11185"
+      ],
+      "trackId": 365824737,
+      "trackName": "Percy Jackson and the Olympians, Book One: The Lightning Thief",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>The #1 New York Times Bestseller | Now a series on Disney+<br />\n    12-year-old Percy Jackson discovers he is the son of Poseidon in the opener to the hilarious, fast-paced adventure fantasy series for young readers ages 10 and up<br />\n    The eBook edition of the first book in Rick Riordan's thrilling series, filled with magic, mythology, and plenty of monsters</b><br />\n   Percy Jackson is about to be kicked out of boarding school again—he can't seem to stay out of trouble. Is he supposed to stand by while a bully picks on his scrawny best friend? Or not defend himself when his teacher turns into a monster and tries to kill him?<br />\n   Mythical creatures seem to be walking straight out of the pages of Percy's Greek mythology textbook and into his life. What's worse, he's angered a few of them: Zeus's master lightning bolt has been stolen, and Percy is the prime suspect.<br />\n   Percy and his friends Grover the satyr, and Annabeth, the demigod daughter of Athena, must find and return Zeus's stolen property and bring peace to a warring Mount Olympus. They travel cross country to the gates of the Underworld in Los Angeles, facing a host of enemies determined to stop them.<br />\n   Withmillions of copies and over 10 years spent on the New York Times bestseller list, Percy has also become a movie, a Broadway musical, and now a Disney+ series. He continues to find fans in classrooms and libraries across the world.",
+      "averageUserRating": 4.5,
+      "userRatingCount": 8543,
+      "country": "USA"
+    }
+  ]
+}

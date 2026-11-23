@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Holiday Bliss",
+      "artistIds": [
+        1094099799
+      ],
+      "formattedPrice": "$5.99",
+      "artistId": 1094099799,
+      "artistName": "Kat Mizera",
+      "genres": [
+        "Romance",
+        "Books"
+      ],
+      "price": 5.99,
+      "genreIds": [
+        "9003",
+        "38"
+      ],
+      "trackId": 6830443157,
+      "trackName": "Holiday Bliss",
+      "releaseDate": "2026-11-23T08:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>A charity bachelor auction. A forbidden age-gap romance. And one very merry holiday temptation.</b><br /><br />\nI never expected to be the bachelor everyone was bidding on this Christmas.<br />\nEspecially not her.<br />\nAt forty, my life is finally under control. I’m an assistant coach for the Atlanta Thunder, fresh off a championship season, and a single dad to an eight-year-old daughter. My ex-wife and I co-parent like pros, and after a decade of uncertainty, I’m finally settled.<br />\nThen I enter a charity bachelor auction on a dare.<br />\nAnd my daughter’s twenty-five-year-old figure skating coach buys me.<br />\nIt’s supposed to be one innocent holiday date.<br />\nIt isn’t.<br />\nShe’s beautiful. Sweet. Talented. Amazing with my daughter.<br />\nAnd she <i>wants</i> me.<br />\nThe fifteen-year age gap should be enough to make me walk away.<br />\nThe fact that she’s my daughter’s coach should make this completely off-limits.<br />\nBut there’s something about the holidays that makes impossible things feel possible.<br />\nOne date turns into stolen kisses beneath twinkling lights.<br />\nA holiday fling starts feeling dangerously like forever.<br />\nAnd suddenly, the biggest risk of my life isn’t on the ice.<br /><br />\n<b>It’s falling for the woman I never saw coming.</b>",
+      "artistViewUrl": "https://books.apple.com/us/artist/kat-mizera/1094099799?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/holiday-bliss/id6830443157?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/54/aa/16/54aa1633-2269-83ae-d2e9-66249ca0be8b/Holiday_Bliss.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/54/aa/16/54aa1633-2269-83ae-d2e9-66249ca0be8b/Holiday_Bliss.jpg/100x100bb.jpg",
+      "country": "USA"
+    }
+  ]
+}

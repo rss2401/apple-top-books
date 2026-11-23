@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Gratuit",
+      "artistIds": [
+        1160295675
+      ],
+      "artistId": 1160295675,
+      "artistName": "Cindy Costes",
+      "genres": [
+        "Romans et littérature",
+        "Livres"
+      ],
+      "price": 0,
+      "trackId": 1160295446,
+      "trackName": "C'est pour ton bien",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Laetitia est une jeune femme d'aujourd'hui, une battante. Bien entourée par ses collègues, sa meilleure amie et sa mère....\n\nBien entourée ? Oui... effectivement, tous sont là pour la conseiller, la pousser à prendre les bonnes décisions que ce soit dans la vie amoureuse ou professionnelle.\n\nMais finalement, qui sont-ils pour juger et dire « ce qui est bon » ?\n\nAvec une écriture mature, pleine de tendresse pour son personnage principal, Cindy Costes nous offre une tranche de vie, parfois douloureuse mais belle et lucide....",
+      "trackCensoredName": "C'est pour ton bien",
+      "artistViewUrl": "https://books.apple.com/fr/artist/cindy-costes/1160295675?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/cest-pour-ton-bien/id1160295446?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication71/v4/73/1f/7d/731f7d02-c7ac-7a22-3f86-88e4603e0e3e/9791022732505.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication71/v4/73/1f/7d/731f7d02-c7ac-7a22-3f86-88e4603e0e3e/9791022732505.jpg/100x100bb.jpg",
+      "releaseDate": "2016-08-23T07:00:00Z",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "averageUserRating": 4,
+      "userRatingCount": 279,
+      "country": "FRA"
+    }
+  ]
+}

@@ -2,11 +2,7 @@
   "resultCount": 1,
   "results": [
     {
-      "artistIds": [
-        1538750322
-      ],
-      "artistId": 1538750322,
-      "artistName": "Alex James Eccleston",
+      "formattedPrice": "Free",
       "genres": [
         "Contemporary Romance",
         "Books",
@@ -14,13 +10,17 @@
         "New Adult Romance",
         "Fiction & Literature"
       ],
-      "price": 0,
+      "artistName": "Alex James Eccleston",
+      "artistId": 1538750322,
       "genreIds": [
         "10057",
         "38",
         "9003",
         "11040",
         "9031"
+      ],
+      "artistIds": [
+        1538750322
       ],
       "releaseDate": "2026-06-26T07:00:00Z",
       "trackId": 6815941029,
@@ -33,9 +33,9 @@
       "trackViewUrl": "https://books.apple.com/gb/book/the-girl-who-lives-by-the-sea/id6815941029?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/73/d2/47/73d2477d-ffa4-8af3-da21-bda9f66d6617/0003047028.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/73/d2/47/73d2477d-ffa4-8af3-da21-bda9f66d6617/0003047028.jpg/100x100bb.jpg",
-      "formattedPrice": "Free",
+      "price": 0,
       "averageUserRating": 4.5,
-      "userRatingCount": 73,
+      "userRatingCount": 90,
       "country": "GBR"
     }
   ]

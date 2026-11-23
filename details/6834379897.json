@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ee/bf/cf/eebfcf64-1fd6-d967-f3c3-1b12ba0ce32c/BT000039651303803801900203.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ee/bf/cf/eebfcf64-1fd6-d967-f3c3-1b12ba0ce32c/BT000039651303803801900203.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E4%BA%8C%E9%9A%8E%E5%A0%82%E3%83%92%E3%82%AB%E3%83%AB/767383147?uo=4",
+      "trackCensoredName": "あおざくら 防衛大学校物語(38)",
+      "formattedPrice": "¥590",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%81%82%E3%81%8A%E3%81%96%E3%81%8F%E3%82%89-%E9%98%B2%E8%A1%9B%E5%A4%A7%E5%AD%A6%E6%A0%A1%E7%89%A9%E8%AA%9E-38/id6834379897?uo=4",
+      "artistIds": [
+        767383147
+      ],
+      "artistId": 767383147,
+      "genres": [
+        "ヒューマンドラマ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "学園",
+        "少年"
+      ],
+      "price": 590,
+      "genreIds": [
+        "11052",
+        "38",
+        "9026",
+        "10016",
+        "11051",
+        "11337"
+      ],
+      "trackId": 6834379897,
+      "trackName": "あおざくら 防衛大学校物語(38)",
+      "releaseDate": "2026-11-18T08:00:00Z",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "目指す背中は、今も昔もただ一つ。<br /><br />学生長・岩倉の非凡さを目の当たりにして、<br />自身との差に落ち込む近藤。<br />しかし、沖田の言葉により<br />「本当に目指したい人」が誰なのか気付き…?<br /><br />一方、土方は世界中の士官候補生が集う<br />〝サンドハースト競技会〟に参戦!<br />日本チームを世界一に導けるか…!?",
+      "artistName": "二階堂ヒカル",
+      "country": "JPN"
+    }
+  ]
+}

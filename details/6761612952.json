@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Die Schatten über Hallingham Hall",
+      "artistIds": [
+        373541953
+      ],
+      "formattedPrice": "10,99 €",
+      "artistId": 373541953,
+      "artistName": "Corina Bomann",
+      "trackId": 6761612952,
+      "trackName": "Die Schatten über Hallingham Hall",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Zwei Frauen, eine dramatische Wahrheit und ein atemberaubendes Schloss – SPIEGEL-Bestsellerautorin Corina Bomann entführt in die schottischen Highlands.</b><br /><br />Seit Isabel das Foto einer Frau gefunden hat, die ihrer kürzlich verstorbenen Großmutter zum Verwechseln ähnlich sieht, lässt sie die Frage nicht mehr los: <b>Wer war ihre Großmutter wirklich? </b>Ihre Recherchen führen nach <b>Hallingham Hall, einem prachtvollen Schloss in den schottischen Highlands</b>. Als Isabel das Angebot des Earls von Hallingham erhält, ihre Ausbildung zur <b>Butleresse </b>ausgerechnet auf seinem Schloss zu absolvieren, zögert sie nicht lange. Zwischen festlichen Banketten und strengen Prüfungen erhält Isabel eine verantwortungsvolle Aufgabe: die <b>märchenhafte Verlobungsfeier </b>seiner Enkelin, Lady Catherine, auszurichten. Doch Lady Catherine scheint mehr über Isabel zu wissen, als sie preisgibt, und setzt alles daran, der neuen Butleresse zu schaden. <br />Ausgerechnet Garrett, der Isabel zutiefst verletzt hat, bietet erneut seine Hilfe an und liefert wertvolle Hinweise zu Isabels Großmutter. Und zu einer Wahrheit, die auch Isabels Leben grundlegend verändern könnte …<br /><br />Der Abschluss des <b>atmosphärischen Zweiteilers der Bestsellerautorin Corina Bomann </b>entführt in die faszinierende <b>Welt der Butler und Butleresses </b>– kombiniert mit einem <b>folgenschweren Familiengeheimnis und zwei schicksalshaften Liebesgeschichten</b>, wird \"Die Schatten über Hallingham Hall\" zu einem perfekten Leseerlebnis. <br /><br />Für noch mehr große Gefühle und bewegende Schicksale lesen Sie auch die anderen Romane von der Bestsellerautorin:<br /><br />Die Rosenhag-Saga:<br /><br />1. Die Frauen vom Rosenhag. Traum vom Neubeginn<br /><br />2. Die Frauen vom Rosenhag. Sehnsucht nach Freiheit<br /><br />Die Butlerschule:<br /><br />1. Das Geheimnis von Rosewell Castle<br /><br />2. Die Schatten über Hallingham Hall",
+      "artistViewUrl": "https://books.apple.com/de/artist/corina-bomann/373541953?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/die-schatten-%C3%BCber-hallingham-hall/id6761612952?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e3/5d/8b/e35d8b05-9dd7-eb44-c103-24c0256b08a8/9783641338572.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e3/5d/8b/e35d8b05-9dd7-eb44-c103-24c0256b08a8/9783641338572.jpg/100x100bb.jpg",
+      "releaseDate": "2026-11-11T08:00:00Z",
+      "price": 10.99,
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher"
+      ],
+      "country": "DEU"
+    }
+  ]
+}

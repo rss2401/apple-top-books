@@ -1,0 +1,46 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Dark Age",
+      "formattedPrice": "£6.99",
+      "artistViewUrl": "https://books.apple.com/gb/artist/pierce-brown/650564637?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/dark-age/id1327444931?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/79/2a/be/792abee2-3e24-f042-c34e-ef35344a6b89/9781473646759.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/79/2a/be/792abee2-3e24-f042-c34e-ef35344a6b89/9781473646759.jpg/100x100bb.jpg",
+      "artistId": 650564637,
+      "artistName": "Pierce Brown",
+      "price": 6.99,
+      "trackId": 1327444931,
+      "trackName": "Dark Age",
+      "artistIds": [
+        650564637
+      ],
+      "genreIds": [
+        "9032",
+        "38",
+        "9031",
+        "9020",
+        "10064",
+        "11006",
+        "10063"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<i><b>He broke the chains. Then he broke the world . . .<br /></b></i><br /><b>The epic fifth book in the explosive global sensation from <i>Sunday Times </i>and #1 <i>New York Times </i>bestselling author Pierce Brown.</b><br /><br />A decade ago Darrow led a revolution and laid the foundations for a new world. Now he's an outlaw. Cast out of the very Republic he founded, he wages rogue war on Mercury. Is he still the same hero? Or will he become the very evil he fought to destroy?<br /><br />In Darrow's darkening shadow, the Lysander au Lune, displaced heir to the old empire, rises. First, he must survive Gold backstabbing, then Darrow. Will he bring peace to mankind at the edge of his sword?<br /><br /> On Luna, Mustang, the Republic's embattled sovereign, fights to save both democracy and her exiled husband. But one may cost her the other - and her son is not yet returned.<br /><br /> Fear dims the hopes of the Rising, and as power is seized, lost and reclaimed, the worlds spin on toward a new dark age . . .<br /><br /><b>READERS LOVE THE RED RISING SERIES:<br /></b><b>'Darn this book is GOOD!' </b>⭐⭐⭐⭐⭐<br />'Everything is chefs kiss perfection' ⭐⭐⭐⭐⭐<br /><b>'That was a hell of a ride! Fantastic. Action-packed'</b> ⭐⭐⭐⭐⭐<br />'The story was complex and utterly engaging' ⭐⭐⭐⭐⭐<br /><b>'Wow, what a page-turner!' </b>⭐⭐⭐⭐⭐",
+      "releaseDate": "2019-07-30T07:00:00Z",
+      "genres": [
+        "Crime & Thrillers",
+        "Books",
+        "Fiction & Literature",
+        "Sci-Fi & Fantasy",
+        "Science Fiction",
+        "Adventure Sci‑Fi",
+        "Science Fiction"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 191,
+      "country": "GBR"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "trackId": 1592381621,
+      "trackName": "Only a Highlander Will Do",
+      "artistIds": [
+        378089932
+      ],
+      "artistId": 378089932,
+      "artistName": "Gerri Russell",
+      "genres": [
+        "Historical Romance",
+        "Books",
+        "Romance",
+        "Fiction & Literature",
+        "Historical Fiction"
+      ],
+      "price": 0,
+      "genreIds": [
+        "10059",
+        "38",
+        "9003",
+        "9031",
+        "10047"
+      ],
+      "releaseDate": "2022-04-19T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>Enemies and lovers are but two edges of the same blade…</b><br /><br />\nTormod MacLeod vows revenge on the MacDonalds, who brought war to his clan’s doorstep. Gathering a company of men to attack the MacDonald home, Tormod discovers a beautiful red-haired lass being taken to marry Garrick MacDonald, the clan’s heir. Tormod kidnaps the fiery beauty to be his own bride—and to torment her dastardly fiancé.<br /><br />\nFiona Fraser is forced to leave everything familiar when her father pledges her to a man she’s never met. But before she can meet her groom, whose cruel reputation precedes him, she’s taken hostage by a vengeful Highland rogue. Fiona’s given three days to decide her fate—marry the imposing soldier who imprisons her but ignites her passion, or choose a different MacLeod.<br /><br />\nWhen Fiona hears her father is a hostage, and the MacLeods have breached the barrier between the human and fairy worlds, she’s forced to make a terrible choice to save her people and home. Can Fiona and Tormod put aside their family bonds and clan loyalty for the love they feel for each other?",
+      "trackCensoredName": "Only a Highlander Will Do",
+      "artistViewUrl": "https://books.apple.com/us/artist/gerri-russell/378089932?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/only-a-highlander-will-do/id1592381621?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/d9/8c/89/d98c89f8-c7f9-205f-9edc-9bf4033b3e23/OnlyAHighlanderWillDo_Standard.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/d9/8c/89/d98c89f8-c7f9-205f-9edc-9bf4033b3e23/OnlyAHighlanderWillDo_Standard.jpg/100x100bb.jpg",
+      "averageUserRating": 4,
+      "userRatingCount": 194,
+      "country": "USA"
+    }
+  ]
+}

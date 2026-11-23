@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        207496005
+      ],
+      "artistId": 207496005,
+      "artistName": "Brenda Joyce",
+      "genres": [
+        "Romantic Suspense",
+        "Books",
+        "Romance",
+        "Historical Romance"
+      ],
+      "price": 0,
+      "genreIds": [
+        "10061",
+        "38",
+        "9003",
+        "10059"
+      ],
+      "releaseDate": "2007-04-01T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>From the </b><i><b>New York Times–</b></i><b>bestselling author</b><i><b>, </b></i><b>a society woman turns amateur sleuth to search for an abducted child in this historical romantic suspense.</b><br /><br />On January 18, 1902, during a society ball, a little boy is kidnapped right out of his bed. Crime-solver extraordinaire Francesca Cahill stumbles across the ransom note just as she meets New York City's newly appointed police commissioner, Rick Bragg.<br /><br />Francesca refuses to bow to convention and is determined to right the ills and injustices of society. She can no more stay out of this investigation than she can stop herself from falling in love with the city's powerful police commissioner. But little does she know that on this singular night, her life will change forever.<br /><br /><i>Deadly Love</i> is the first book in an ongoing historical romance suspense series featuring the beloved Bragg family from Brenda Joyce, orignally published under her pseudonym B.D. Joyce. Immerse yourself in a world of true danger and even truer passion as Francesca and Rick navigate a web of intrigue, deception, and desire.<br /><br />\"Joyce excels at creating twists and turns in her characters' personal lives.\" ―<i>Publishers Weekly</i><br /><br />\"Joyce carefully crafted a wonderful mystery with twists and turns and red herrings galore, then added two marvelous, witty protagonists who will appeal to romance readers.\" ―<i>RT Book Reviews</i><br /><br />\"Fast-paced, sensual, and intriguing.\" ―<i>Library Journal</i>",
+      "trackCensoredName": "Deadly Love",
+      "artistViewUrl": "https://books.apple.com/us/artist/brenda-joyce/207496005?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/deadly-love/id6783571447?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/27/fe/48/27fe4891-22c4-cc58-0106-79a57de38e99/1067180826.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/27/fe/48/27fe4891-22c4-cc58-0106-79a57de38e99/1067180826.jpg/100x100bb.jpg",
+      "trackId": 6783571447,
+      "trackName": "Deadly Love",
+      "country": "USA"
+    }
+  ]
+}

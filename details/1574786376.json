@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistId": 269443337,
+      "artistName": "Jean-Christophe Grangé",
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "price": 4.99,
+      "artistIds": [
+        269443337
+      ],
+      "releaseDate": "2021-09-08T07:00:00Z",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "trackId": 1574786376,
+      "trackName": "Les Promises",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Palmarès 2021 Les 100 livres de l'année du magazine Lire</b><br /><br /><b>Les Promises, ce sont ces grandes Dames du Reich, belles et insouciantes, qui se réunissent chaque après-midi à l’hôtel Adlon de Berlin,</b> pour bavarder et boire du Champagne, alors que l’Europe, à la veille de la Seconde Guerre Mondiale, est au bord d'imploser.<br /><b>Ce sont aussi les victimes d’un tueur mystérieux,</b> qui les surprend au bord de la Sprée ou près des lacs, les soumettant à d’horribles mutilations...&#xa0; <br /><br /><b>Dans un Berlin incandescent, frémissant comme le cratère d’un volcan, trois êtres singuliers vont s’atteler à l’enquête.</b> Simon Kraus, psychanalyste surdoué, gigolo sur les bords, toujours prêt à faire chanter ses patientes. Franz Beewen, colosse de la Gestapo, brutal et sans pitié, parti en guerre contre le monde. Mina von Hassel, riche héritière et psychiatre dévouée s'efforçant de sauver les oubliés de Reich.<br />Ces enquêteurs que tout oppose vont suivre les traces du Monstre et découvrir une vérité stupéfiante. <b>Le Mal n’est pas toujours là où on l'attend.</b><br /><br /><b>Grangé frappe un grand coup. </b>Bernard Lehut, RTL<br /><br /><b>Le nouveau Grangé tient toutes ses promesses. [...] Un récit très addictif. </b>20 minutes<br /><br /><b>Une intrigue savamment corsée qui&#xa0;balade et chamboule. </b>Lire-Le Magazine Littéraire<br /><br /><b>Une véritable prouesse littéraire.</b> Le Figaro Magazine",
+      "formattedPrice": "4,99 €",
+      "trackCensoredName": "Les Promises",
+      "artistViewUrl": "https://books.apple.com/fr/artist/jean-christophe-grang%C3%A9/269443337?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-promises/id1574786376?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f5/0f/ce/f50fce43-028e-6849-caf4-88f6af1ed0cc/9782226467492.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f5/0f/ce/f50fce43-028e-6849-caf4-88f6af1ed0cc/9782226467492.jpg/100x100bb.jpg",
+      "averageUserRating": 4,
+      "userRatingCount": 315,
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1894625026
+      ],
+      "formattedPrice": "Gratis",
+      "trackViewUrl": "https://books.apple.com/de/book/klare-k%C3%BCste-und-spuren-im-schlick-ostfrieslandkrimi/id6835667416?uo=4",
+      "trackCensoredName": "Klare Küste und Spuren im Schlick: Ostfrieslandkrimi",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/38/69/7f/38697fe8-683d-fee6-b8d0-f43f978dca31/9783757253295.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/38/69/7f/38697fe8-683d-fee6-b8d0-f43f978dca31/9783757253295.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/tom-willhaus/1894625026?uo=4",
+      "genres": [
+        "Hard-boiled-Krimis",
+        "Bücher",
+        "Krimis und Thriller",
+        "Cosy Crime"
+      ],
+      "artistId": 1894625026,
+      "artistName": "Tom Willhaus",
+      "price": 0,
+      "releaseDate": "2026-11-17T08:00:00Z",
+      "genreIds": [
+        "10050",
+        "38",
+        "9032",
+        "11259"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Ein Toter im Schlick. Keine Spuren. Ein perfektes Rätsel an der ostfriesischen Küste.\n\n\n\nAls auf der unzugänglichen Sandbank der Hundsplate in der Leybucht die Leiche des Hamburger Projektleiters Dr. Torsten Wegener gefunden wird, stehen Hauptkommissar Keno Behrends und sein Kollege Holger vor einem scheinbar unlösbaren Rätsel: Der Mann liegt im edlen Maßanzug mitten im weichen Schlick – doch weit und breit gibt es weder Fuß-, Schleif- noch Bootsspuren. Hat der Mörder ihn aus der Luft abgeworfen?\n\n\n\nWährend radikale Umweltaktivisten und ein umstrittenes Offshore-Seekabelprojekt sofort in den Fokus geraten, vertieft sich Behrends in die akribische Ermittlung. Unterstützt von der Meeresbiologin Dr. Mareike Folkerts stößt er bald auf ein Geflecht aus millionenschwerem Subventionsbetrug, gefälschten Umweltdaten und eiskalt kalkulierter Gier. Denn der Torte hat die Natur und die Gezeiten als perfekten Komplizen genutzt – bis die Ebbe das Schweigen bricht.\n\n\n\nEin atmosphärischer Ostfrieslandkrimi voller Lokalkolorit, physikalischer Rätsel und menschlicher Abgründe vor der Kulisse von Nordsee, Nebel und Gezeiten.",
+      "trackId": 6835667416,
+      "trackName": "Klare Küste und Spuren im Schlick: Ostfrieslandkrimi",
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$14.99",
+      "trackId": 6759309181,
+      "trackName": "Stuart Woods' Hostile Intent",
+      "artistIds": [
+        259527964
+      ],
+      "artistId": 259527964,
+      "artistName": "Brett Battles",
+      "genres": [
+        "Action & Adventure",
+        "Books",
+        "Fiction & Literature",
+        "Mysteries & Thrillers"
+      ],
+      "price": 14.99,
+      "genreIds": [
+        "10039",
+        "38",
+        "9031",
+        "9032"
+      ],
+      "releaseDate": "2026-11-17T08:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>In this new thrilling adventure in the #1 <i>New York Times</i> bestselling series, Stone Barrington is confronted by a new enemy who will go to dangerous lengths to get what he wants.</b><br /><br />When Stone Barrington receives a call from Ben Bachetti, asking him to attend an urgent meeting with Centurion Pictures’ board of directors, Stone wastes no time in getting to Los Angeles. After all, a date night with Josie Hale is long overdue. There, he learns a company called Zelzah International is attempting a hostile takeover of a friend’s independent film group, and Ben needs the board’s help in putting a stop to their malicious antics.<br /><br />While Stone and the board work with Ben&#xa0;to deal with Zelzah, Stone’s pilot Faith gets in a bad accident. Suspicious that she was set up, Stone must investigate who wants Faith dead and why, before both crises spiral out of control.",
+      "trackCensoredName": "Stuart Woods' Hostile Intent",
+      "artistViewUrl": "https://books.apple.com/us/artist/brett-battles/259527964?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/stuart-woods-hostile-intent/id6759309181?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/8a/70/ea/8a70eacd-c29d-4914-03a5-26debd067096/9798217179329.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/8a/70/ea/8a70eacd-c29d-4914-03a5-26debd067096/9798217179329.d.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 69,
+      "country": "USA"
+    }
+  ]
+}

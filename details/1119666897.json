@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Der Prozeß",
+      "artistIds": [
+        17268605
+      ],
+      "formattedPrice": "0,49 €",
+      "artistId": 17268605,
+      "artistName": "Franz Kafka",
+      "trackId": 1119666897,
+      "trackName": "Der Prozeß",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Franz Kafka: Der Prozeß<br/>\n<br/>\nEntstanden 1914/15. Erstdruck: Berlin 1925.<br/>\n<br/>\nVollständige Neuausgabe mit einer Biographie des Autors.<br/>\nHerausgegeben von Karl-Maria Guth.<br/>\nBerlin 2015.<br/>\n<br/>\nTextgrundlage ist die Ausgabe:<br/>\nFranz Kafka: Gesammelte Werke. Herausgegeben von Max Brod, Band 1–9, Frankfurt a.M.: S. Fischer, 1950 ff.<br/>\n<br/>\nDie Paginierung obiger Ausgabe wird in dieser Neuausgabe als Marginalie zeilengenau mitgeführt.<br/>\n<br/>\nUmschlaggestaltung von Thomas Schultz-Overhage unter Verwendung des Bildes: Vincent van Gogh, Die Runde der Gefangenen, 1890.<br/>\n<br/>\nGesetzt aus Minion Pro, 11 pt.<br/>\n<br/>\nÜber den Autor:<br/>\n<br/>\n1883 in Prag als ältestes von sechs Kindern eines deutschjüdischen Kurzwarenhändlers geboren, studiert Franz Kafka Jura und arbeitet nach seiner Promotion für eine Versicherungsgesellschaft. Gleichzeitig erscheinen seine ersten Prosastücke in der Zeitschrift »Hyperion«. Der literarische Erfolg zu Lebzeiten bleibt aus. Er ist zeit seines Lebens von Selbstzweifeln geplagt, fühlt sich von einem übermächtigen Vater belastet und unterhält nacheinander wankelmütige Beziehungen zu Felice Bauer und Milena Jesenská, die er literarisch verarbeitet. Seine schwer angeschlagene Gesundheit zwingt ihn 1922 zur Aufgabe seines Brotberufes. 1924 stirbt Franz Kafka im Sanatorium Kierling bei Wien an Tuberkulose. Sein langjähriger Freund Max Brod gibt sein nur in Teilen zu Lebzeiten veröffentlichtes Werk aus dem Nachlass heraus. Kafka hatte dessen Vernichtung ausdrücklich verfügt.",
+      "artistViewUrl": "https://books.apple.com/de/artist/franz-kafka/17268605?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/der-proze%C3%9F/id1119666897?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication18/v4/9f/72/7f/9f727fac-dda8-942b-6cb9-fe60d9135f89/9783843055420.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication18/v4/9f/72/7f/9f727fac-dda8-942b-6cb9-fe60d9135f89/9783843055420.jpg/100x100bb.jpg",
+      "releaseDate": "2015-07-10T07:00:00Z",
+      "price": 0.49,
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher"
+      ],
+      "averageUserRating": 4,
+      "userRatingCount": 34,
+      "country": "DEU"
+    }
+  ]
+}

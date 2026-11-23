@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        2024797
+      ],
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Crime & Thrillers",
+        "Sci-Fi & Fantasy",
+        "Science Fiction"
+      ],
+      "artistId": 2024797,
+      "artistName": "Stephen King",
+      "price": 5.99,
+      "genreIds": [
+        "9031",
+        "38",
+        "9032",
+        "9020",
+        "10063"
+      ],
+      "releaseDate": "2012-07-05T07:00:00Z",
+      "trackName": "11.22.63",
+      "trackId": 453468569,
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "WHAT IF you could go back in time and change the course of history?  WHAT IF the watershed moment you could change was the JFK assassination?  11.22.63, the date that Kennedy was shot - unless . . . <br /><br />\nKing takes his protagonist Jake Epping, a high school English teacher from Lisbon Falls, Maine, 2011, on a fascinating journey back to 1958 - from a world of  mobile phones and iPods to a new world of Elvis and JFK, of Plymouth Fury cars and Lindy Hopping, of a troubled loner named Lee Harvey Oswald and a beautiful high school librarian named Sadie Dunhill, who becomes the love of Jake's life - a life that transgresses all the normal rules of time.<br /><br />\nWith extraordinary imaginative power, King weaves the social, political and popular culture of his baby-boom American generation into a devastating exercise in escalating suspense.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/08/6c/74/086c747a-53b4-8244-4450-c7f412662aa5/9781444727326.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/08/6c/74/086c747a-53b4-8244-4450-c7f412662aa5/9781444727326.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/gb/artist/stephen-king/2024797?uo=4",
+      "trackCensoredName": "11.22.63",
+      "formattedPrice": "£5.99",
+      "trackViewUrl": "https://books.apple.com/gb/book/11-22-63/id453468569?uo=4",
+      "averageUserRating": 4.5,
+      "userRatingCount": 638,
+      "country": "GBR"
+    }
+  ]
+}

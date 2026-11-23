@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$0.99",
+      "trackCensoredName": "Wreck My Plans",
+      "artistViewUrl": "https://books.apple.com/us/artist/cindi-madsen/584211720?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/wreck-my-plans/id6754847799?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e4/12/ad/e412ad0b-6a1e-24dc-0fa7-3fa6fbcebbf2/9781649375810.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/e4/12/ad/e412ad0b-6a1e-24dc-0fa7-3fa6fbcebbf2/9781649375810.jpg/100x100bb.jpg",
+      "artistIds": [
+        584211720
+      ],
+      "artistId": 584211720,
+      "artistName": "Cindi Madsen",
+      "genres": [
+        "Contemporary Romance",
+        "Books",
+        "Romance",
+        "Romantic Comedies"
+      ],
+      "price": 0.99,
+      "releaseDate": "2026-01-12T08:00:00Z",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003",
+        "11042"
+      ],
+      "trackId": 6754847799,
+      "trackName": "Wreck My Plans",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>Age isn’t a number.<br /><i>It’s a state of chaos.</i></b><br /><br />When publicist Mia Andrews becomes the face of a viral disaster dubbed #PantyGate, her career implodes along with her reputation. <br /><br />Now jobless and single, Mia lands in the last place she expected—her grandmother’s anything-but-quiet retirement community in Florida. It’s chaos. It’s hilarious. It’s exactly what she didn’t know she needed.<br /><br />Even worse? The meddling retirees are determined to fix Mia’s love life. Somehow, they find time to play matchmaker—with not one but two bachelors under thirty-five.<br /><br />But amid the mayhem, Mia’s learning that the best second chances come when—and where—you least expect them.<br /><br /><b><i>For fans of witty banter, lovable troublemakers, and slow-burn romance, this is the laugh-out-loud novel that proves love never gets old.</i></b>",
+      "country": "USA"
+    }
+  ]
+}

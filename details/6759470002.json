@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Dungeon Anarchist's Cookbook",
+      "artistViewUrl": "https://books.apple.com/de/artist/matt-dinniman/713342715?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/the-dungeon-anarchists-cookbook/id6759470002?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/fc/1c/c3/fc1cc381-3dc6-2f12-895c-445da9611255/1064072042.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/fc/1c/c3/fc1cc381-3dc6-2f12-895c-445da9611255/1064072042.jpg/100x100bb.jpg",
+      "artistId": 713342715,
+      "artistName": "Matt Dinniman",
+      "genres": [
+        "Fantasy",
+        "Bücher",
+        "Science-Fiction und Fantasy",
+        "Epische Fantasy"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "The Anarchist's Cookbook ist Band 3 der irrwitzigen LitRPG-Serie von Kultautor Matt Dinniman.<br /><br />Willkommen, Crawler, im vierten Level des Dungeons.<br /><br />Das Sponsoring-Programm ist eröffnet, und der Schwierigkeitsgrad zieht an. Die ersten drei Level waren ein Witz im Vergleich zu dem, was Carl und Donut jetzt erwartet: Ein unglaublich kompliziertes U-Bahn-System, das aus den gesamten unterirdischen Schienennetzen der Welt kombiniert wurde. Oben ist unten. Nah ist fern. Die Waggons sind vollgestopft mit Monstern, die Bahnhöfe alles andere als sicher und der Ausgang ist immer ein paar Haltestellen zu viel entfernt.<br /><br />Aber es gibt Hoffnung. Zum ersten Mal arbeiten die Crawler zusammen. Und das Geheimnis, wie man dieses ganze Durcheinander entwirrt, könnte auf den Seiten eines scheinbar nutzlosen Buches versteckt sein, dem Anarchist's Cookbook.<br /><br />Band 1: Dungeon Crawler Carl<br /><br />Band 2: Carl's Doomsday Scenario",
+      "formattedPrice": "14,99 €",
+      "releaseDate": "2026-11-18T08:00:00Z",
+      "artistIds": [
+        713342715
+      ],
+      "genreIds": [
+        "10044",
+        "38",
+        "9020",
+        "11002"
+      ],
+      "trackId": 6759470002,
+      "trackName": "The Dungeon Anarchist's Cookbook",
+      "price": 14.99,
+      "country": "DEU"
+    }
+  ]
+}

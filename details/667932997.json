@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Gratuit",
+      "artistIds": [
+        252480173
+      ],
+      "artistId": 252480173,
+      "artistName": "Prosper Mérimée",
+      "genres": [
+        "Critique littéraire",
+        "Livres",
+        "Romans et littérature"
+      ],
+      "price": 0,
+      "trackId": 667932997,
+      "trackName": "Carmen",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "J'avais toujours soupçonné les géographes de ne savoir ce qu'ils disent<br />lorsqu'ils placent le champ de bataille de Munda dans le pays des<br />Bastuli-Poeni, près de la moderne Monda, à quelque deux lieues au nord<br />de Marbella. D'après mes propres conjectures sur le texte de l'anonyme,<br />auteur du Bellum Hispaniense, et quelques renseignements recueillis dans<br />l'excellente bibliothèque du duc d'ossuna, je pensais qu'il fallait chercher<br />aux environs de Montilla le lieu mémorable où, pour la dernière fois, César<br />joua quitte ou double contre les champions de la république.",
+      "trackCensoredName": "Carmen",
+      "artistViewUrl": "https://books.apple.com/fr/artist/prosper-m%C3%A9rim%C3%A9e/252480173?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/carmen/id667932997?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/1e/28/7b/1e287b52-57e5-ab83-5739-b7f3a3e6dea6/PDFR000247.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication4/v4/1e/28/7b/1e287b52-57e5-ab83-5739-b7f3a3e6dea6/PDFR000247.jpg/100x100bb.jpg",
+      "releaseDate": "2013-06-28T07:00:00Z",
+      "genreIds": [
+        "10084",
+        "38",
+        "9031"
+      ],
+      "averageUserRating": 3.5,
+      "userRatingCount": 139,
+      "country": "FRA"
+    }
+  ]
+}

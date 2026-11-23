@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E4%BB%8A%E6%9D%91%E7%BF%94%E5%90%BE-%E7%AB%8B%E6%B2%A2%E5%85%8B%E7%BE%8E/442355727?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/8a/22/d8/8a22d8ad-55c3-6612-557d-60b252d581f5/BT000133122300800801900206.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/8a/22/d8/8a22d8ad-55c3-6612-557d-60b252d581f5/BT000133122300800801900206.jpg/100x100bb.jpg",
+      "artistIds": [
+        442355727,
+        976474661
+      ],
+      "trackCensoredName": "イクサガミ(8)",
+      "formattedPrice": "¥800",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%82%A4%E3%82%AF%E3%82%B5%E3%82%AC%E3%83%9F-8/id6833393763?uo=4",
+      "artistId": 442355727,
+      "artistName": "今村翔吾 & 立沢克美",
+      "genres": [
+        "アクション",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "青年",
+        "歴史"
+      ],
+      "price": 800,
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "trackId": 6833393763,
+      "trackName": "イクサガミ(8)",
+      "genreIds": [
+        "50000071",
+        "38",
+        "9026",
+        "10016",
+        "11338",
+        "50000079"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "東海道を舞台にした大金をめぐるデスゲーム「蟲毒」。愁二郎は戦場で出会った「蟲毒」唯一の少女・双葉と東京を目指すが、続々と強敵が現れる!! 愁二郎は電報で連絡をとった明治政府の大物・前島密と浜松郵便局で合流。彼から「蟲毒」の黒幕が警視局長・川路利良という衝撃の事実を聞くことに…! 響陣は単騎で彼らの本拠地・富士山麓にある洋館に向かう! 対して川路達は大久保暗殺を計画通り仕掛け、四蔵の奮闘も空しく大久保利通は殺されてしまう…。島田宿での大乱戦を経て東京に向かう愁二郎。東京目前、京八流を狙う岡部幻刀斎の影が忍び寄る…。",
+      "country": "JPN"
+    }
+  ]
+}

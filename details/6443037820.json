@@ -10,8 +10,6 @@
       "artistIds": [
         2022675
       ],
-      "artistId": 2022675,
-      "artistName": "Kurt Vonnegut",
       "genres": [
         "Classics",
         "Books",
@@ -26,10 +24,12 @@
         "Sci-Fi & Fantasy",
         "Science Fiction"
       ],
+      "artistId": 2022675,
+      "artistName": "Kurt Vonnegut",
       "price": 0,
-      "releaseDate": "2023-11-07T08:00:00Z",
       "trackId": 6443037820,
       "trackName": "Slaughterhouse-Five",
+      "releaseDate": "2023-11-07T08:00:00Z",
       "genreIds": [
         "10042",
         "38",
@@ -49,7 +49,7 @@
       "description": "\"Slaughterhouse-Five\" by Kurt Vonnegut is a timeless classic that defies conventional storytelling. This satirical anti-war novel follows the life of Billy Pilgrim, a soldier who becomes \"unstuck in time,\" experiencing his life in a non-linear fashion. Through Billy's eyes, the book offers a unique perspective on the horrors of war, weaving a narrative that oscillates between the firebombing of Dresden during World War II and the surreal Tralfamadorian alien abduction. Vonnegut's dark humor and poignant commentary on the absurdity of human existence make this book a thought-provoking exploration of the human condition. \"Slaughterhouse-Five\" is a must-read for those seeking a powerful, unconventional, and unforgettable literary experience.",
       "formattedPrice": "Free",
       "averageUserRating": 4,
-      "userRatingCount": 156,
+      "userRatingCount": 158,
       "country": "GBR"
     }
   ]

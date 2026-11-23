@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Circle of Bones",
+      "artistViewUrl": "https://books.apple.com/gb/artist/malcolm-richards/1028147503?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/circle-of-bones/id1556278449?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/f7/6f/bd/f76fbd06-c39b-46b5-5a39-5db1e45135c3/56ecb6da-1574-496a-8ab5-8aaad20f3c2f_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication125/v4/f7/6f/bd/f76fbd06-c39b-46b5-5a39-5db1e45135c3/56ecb6da-1574-496a-8ab5-8aaad20f3c2f_cover_image.jpg/100x100bb.jpg",
+      "artistIds": [
+        1028147503
+      ],
+      "genres": [
+        "Crime & Thrillers",
+        "Books"
+      ],
+      "artistId": 1028147503,
+      "artistName": "Malcolm Richards",
+      "price": 0,
+      "trackId": 1556278449,
+      "trackName": "Circle of Bones",
+      "releaseDate": "2021-04-13T07:00:00Z",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>On the misty moors of Cornwall, a chilling discovery forces private investigator Blake Hollow to confront the darkest corners of her past.</b><br /><br />Eighteen years ago, Blake's best friend vanished without warning. Now, back in her hometown, she faces a harrowing new case: Lucy Truscott, the daughter of another childhood friend, has gone missing. When Blake discovers Lucy's body, brutally mutilated with ritualistic wounds, memories of her friend’s disappearance flood back—along with the horrifying awareness that the two cases are connected.<br /><br />As the local police hit dead ends, Blake uncovers a pattern they’ve missed: a series of unsolved disappearances spanning decades, all with the same haunting signature. With time running out, Blake must unmask a killer who’s been perfecting their craft for years—or risk another young woman becoming the next victim in this twisted circle of bones.<br /><br /><b>'Creepy and gripping... Richards returns with another nail-biter.' <i>The Bookseller</i></b><br /><br />Perfect for fans of <i>Silence of the Lambs</i> and <i>Sharp Objects</i>, 'Circle of Bones' introduces a gripping new British crime series, where a detective’s personal demons are as dangerous as the killer she hunts.",
+      "formattedPrice": "Free",
+      "averageUserRating": 4.5,
+      "userRatingCount": 121,
+      "country": "GBR"
+    }
+  ]
+}

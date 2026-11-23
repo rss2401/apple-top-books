@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Fragen Sie Ms Blunt!",
+      "artistViewUrl": "https://books.apple.com/de/artist/sophie-hopper/1805258136?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/fragen-sie-ms-blunt/id6761612832?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/98/17/81/9817817c-74bc-2f68-302e-e8f481da30e7/9783641346478.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/98/17/81/9817817c-74bc-2f68-302e-e8f481da30e7/9783641346478.jpg/100x100bb.jpg",
+      "artistId": 1805258136,
+      "artistName": "Sophie Hopper",
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher",
+        "Historische Romane"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Die Natur kennt keine Hausfrauen. Nettie Blunt auch nicht.</b><br /><br />England, 1963: Nettie Blunt, studierte Insektenforscherin, steckt in einer lieblosen Ehe zwischen Dinnerpartys und Pflichtgefühl fest. Damit sich etwas ändert, heuert sie als Sekretärin bei einer Frauenzeitschrift an und schreibt heimlich eine toxische Hausfrauenkolumne um. Aus braven Tipps werden kühne Texte über Mut und Selbstbestimmung, gewürzt mit Gleichnissen aus der Insektenwelt. Nettie wird zur Stimme einer Generation – doch niemand weiß davon. Als ihre Worte nicht mehr nur die Redaktion aufwirbeln, sondern ein Beben durchs konservative Land schicken, muss sie sich entscheiden: Schreibt sie weiter im Verborgenen oder tritt endlich als Stimme einer neuen Zeit auf?",
+      "formattedPrice": "6,99 €",
+      "releaseDate": "2026-11-01T07:00:00Z",
+      "artistIds": [
+        1805258136
+      ],
+      "genreIds": [
+        "9031",
+        "38",
+        "10047"
+      ],
+      "trackId": 6761612832,
+      "trackName": "Fragen Sie Ms Blunt!",
+      "price": 6.99,
+      "country": "DEU"
+    }
+  ]
+}

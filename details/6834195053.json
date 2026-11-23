@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Gratuit",
+      "artistIds": [
+        1734145425
+      ],
+      "artistId": 1734145425,
+      "artistName": "Alessa Steel",
+      "genres": [
+        "Thriller romantique",
+        "Livres",
+        "Romance"
+      ],
+      "price": 0,
+      "trackId": 6834195053,
+      "trackName": "Dante: Mafia et Dark Romance",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "ANGELINA<br /><br />Depuis quatre ans, je vis derrière les murs d'un couvent. À Pâques, je prononcerai mes vœux et je disparaîtrai pour de bon.<br /><br />Puis mon père, le Don sicilien, vient à la grille avec un panier d'oranges et m'annonce qu'il m'a vendue à un homme de Palerme qui a déjà enterré deux épouses.<br /><br />Et le garçon que ma famille a mutilé pour m'avoir aimée escalade le mur pour venir me chercher.<br /><br />Dante Castelli n'est pas un homme bien. C'est celui que sa famille envoie quand quelqu'un doit cesser de respirer. Il y a six ans, les hommes de mon père lui ont arraché un morceau de lui-même pour m'avoir touchée, et j'ai cru tous les mensonges qu'on m'a racontés sur la raison pour laquelle il n'est jamais revenu.<br /><br />Aujourd'hui, il veut une épouse. À l'église. Vite.<br /><br />Il dit que c'est la seule chose qui me sauvera de Palerme. Il dit que c'est un marché.<br /><br />Il me cache quelque chose. Mais je n'arrive pas à cesser de le désirer assez longtemps pour découvrir quoi.<br /><br />DANTE<br /><br />Mon père est tombé raide mort au déjeuner du dimanche. Empoisonné à sa propre table.<br /><br />Son testament nous laisse tout, à mes frères et à moi, à une condition. Nous marier à l'église dans l'année, ou tout perdre.<br /><br />J'ai juré de ne jamais me marier.<br /><br />Puis une lettre est arrivée de derrière les murs d'un couvent, d'une écriture que je n'avais pas vue depuis six ans. Un avertissement. De la seule fille que j'aie jamais aimée, dont le père veut voir toute ma famille sous terre.<br /><br />Après Pâques, il l'expédie à Palerme.<br /><br />Alors je la prends avant.<br /><br />Je l'épouserai. Je la garderai en vie. Et je fermerai ma gueule sur le pourquoi.<br /><br />Et si son père veut la récupérer, il devra me passer sur le corps.<br /><br />Ceci est le premier tome de la série «&#xa0;The Castelli Brothers&#xa0;». Ordre de lecture&#xa0;:<br /><br />Dante.<br /><br />Nero.<br /><br />Dario.",
+      "trackCensoredName": "Dante: Mafia et Dark Romance",
+      "artistViewUrl": "https://books.apple.com/fr/artist/alessa-steel/1734145425?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/dante-mafia-et-dark-romance/id6834195053?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fb/84/41/fb84411d-43e0-c6c5-194f-5241851807f7/6610001535025.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fb/84/41/fb84411d-43e0-c6c5-194f-5241851807f7/6610001535025.jpg/100x100bb.jpg",
+      "releaseDate": "2026-11-11T08:00:00Z",
+      "genreIds": [
+        "10061",
+        "38",
+        "9003"
+      ],
+      "country": "FRA"
+    }
+  ]
+}

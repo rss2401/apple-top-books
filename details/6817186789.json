@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Les Carnets de l'apothicaire T17",
+      "artistViewUrl": "https://books.apple.com/fr/artist/hyuganatsu-itsuki-nanao/1785236513?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/les-carnets-de-lapothicaire-t17/id6817186789?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/57/4e/cb/574ecb75-482a-76fb-e458-d623cf28ba46/9791032722657.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/57/4e/cb/574ecb75-482a-76fb-e458-d623cf28ba46/9791032722657.jpg/100x100bb.jpg",
+      "artistIds": [
+        1785236513,
+        1494631983
+      ],
+      "price": 4.99,
+      "genres": [
+        "Manga",
+        "Livres",
+        "BD et mangas",
+        "Manga : Seinen"
+      ],
+      "artistId": 1785236513,
+      "artistName": "Hyuganatsu & Itsuki Nanao",
+      "genreIds": [
+        "10016",
+        "38",
+        "9026",
+        "11338"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Intrigues et poison au coeur du palais impérial !<br /><br />Alors que la garde impériale, menée par un Jinshi méconnaissable, marche sur la forteresse où est retenue Mao Mao, Lolan commet un acte irréparable. Consciente des graves conséquences que la rébellion de Shisho aura sur l'intégralité de son clan, elle décide de prendre les devants, même si cela nécessite quelques sacrifices...<br /><br />La jeune femme choisit en effet d'éviter à Kyo-u et aux autres enfants une mort douloureuse en les empoisonnant avant d'affronter son père, dont la lâcheté n'a d'égale que la cruauté de dame Shenmei...<br /><br />Découvrez la face cachée du lieu le plus secret de la cité impériale ! Dans ce monde de femmes régi par les hommes, Mao Mao aura besoin de toute son intelligence et de tout son savoir pour démêler les intrigues de la cour... Avec son héroïne hors norme et ses décors magnifiques, ce manga événement adapté d'un roman à succès a tout pour plaire ! Et vous, aurez-vous le courage de goûter à ses délices ?",
+      "formattedPrice": "4,99 €",
+      "releaseDate": "2026-11-19T08:00:00Z",
+      "trackId": 6817186789,
+      "trackName": "Les Carnets de l'apothicaire T17",
+      "country": "FRA"
+    }
+  ]
+}

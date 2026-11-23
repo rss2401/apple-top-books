@@ -7,7 +7,6 @@
         401210503,
         1382622193
       ],
-      "price": 14.99,
       "artistId": 401210503,
       "artistName": "Lucinda Riley & Harry Whittaker",
       "genres": [
@@ -15,7 +14,9 @@
         "Livres",
         "Romans et littérature"
       ],
-      "releaseDate": "2026-11-05T08:00:00Z",
+      "price": 14.99,
+      "trackId": 6759993392,
+      "trackName": "Orlando",
       "genreIds": [
         "10049",
         "38",
@@ -29,8 +30,9 @@
       "trackViewUrl": "https://books.apple.com/fr/book/orlando/id6759993392?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1a/a7/db/1aa7db2e-56cb-ad5b-a25f-c138fa8b6a16/9782385298326.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/1a/a7/db/1aa7db2e-56cb-ad5b-a25f-c138fa8b6a16/9782385298326.jpg/100x100bb.jpg",
-      "trackId": 6759993392,
-      "trackName": "Orlando",
+      "releaseDate": "2026-11-05T08:00:00Z",
+      "averageUserRating": 4.5,
+      "userRatingCount": 10,
       "country": "FRA"
     }
   ]

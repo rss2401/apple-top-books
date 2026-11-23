@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        6774940820
+      ],
+      "genres": [
+        "Romance",
+        "Books",
+        "Contemporary Romance",
+        "Romantic Suspense"
+      ],
+      "artistId": 6774940820,
+      "artistName": "Emma Kelton",
+      "price": 0,
+      "genreIds": [
+        "9003",
+        "38",
+        "10057",
+        "10061"
+      ],
+      "releaseDate": "2026-11-15T08:00:00Z",
+      "trackName": "Grim's Command: A Possessive Alpha MC Romance",
+      "trackId": 6835327195,
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>She swore she'd never need anyone. Then he walked into her diner.</b><br /><br />Josie Marek has one rule: she doesn't need anyone. For five years, she's kept her grandmother's roadside diner alive through sheer stubborn will—handling drunk truckers, kitchen fires, and eighteen-hour days without asking for help. So when a ruthless developer starts threatening everything she's built, she grabs her shotgun and prepares to fight alone.<br /><br />Then <i>he</i> walks in.<br /><br />Grim didn't come to The Griddle looking for a woman. The president of the Red Dirt Outlaws MC came for intel on the enemy pushing into his territory. What he found was a dark-haired firecracker with more backbone than half his brothers—and a target on her back that made his blood run cold.<br /><br />She's not his type. She's not his business. She's definitely not his to claim.<br /><br />But when her enemies become his enemies, all bets are off.<br /><br />Now Josie's trapped in a biker compound with a man who looks at her like she's already his, speaks in commands instead of requests, and makes her feel things she swore she'd never feel again. He's dangerous. He's possessive. And he's made it very clear: she's under his protection whether she likes it or not.<br /><br />The only problem? She's starting to like it. A lot.<br /><br />As the threats escalate and the bodies start dropping, Josie has to decide: keep fighting alone, or let the most dangerous man she's ever met show her what it means to be claimed by an outlaw.<br /><br /><b>GRIM'S COMMAND is book 1 in the Red Dirt Outlaws MC series. No cliffhanger. HEA guaranteed.</b>",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/34/64/5c/34645c8a-ffcd-aa6b-7b64-795a32b6b40f/0004450331.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/34/64/5c/34645c8a-ffcd-aa6b-7b64-795a32b6b40f/0004450331.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/gb/artist/emma-kelton/6774940820?uo=4",
+      "trackCensoredName": "Grim's Command: A Possessive Alpha MC Romance",
+      "formattedPrice": "Free",
+      "trackViewUrl": "https://books.apple.com/gb/book/grims-command-a-possessive-alpha-mc-romance/id6835327195?uo=4",
+      "country": "GBR"
+    }
+  ]
+}

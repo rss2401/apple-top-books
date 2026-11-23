@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        1758423300
+      ],
+      "artistId": 1758423300,
+      "artistName": "Daisy Bloom",
+      "genres": [
+        "Romantic Suspense",
+        "Books",
+        "Romance"
+      ],
+      "price": 0,
+      "genreIds": [
+        "10061",
+        "38",
+        "9003"
+      ],
+      "releaseDate": "2026-11-08T08:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "NOEMI<br /><br />In twelve days my father is giving me to a man who wears his dead wives' wedding rings on his little finger.<br /><br />There's one way out. One man in Philadelphia that monster won't go to war with.<br /><br />He's my family's enemy. The city calls him the Saint, because he never raises his voice and never misses Mass, and because the men who cross him end up in the river.<br /><br />So I walk into his club with a pawnshop ring and ask him to marry me.<br /><br />He says yes before I can lose my nerve.<br /><br />His terms are simple. His house. His name. His bed.<br /><br />Mine is simpler. No sex.<br /><br />He just looks at me across the table and tells me I'll beg.<br /><br />SANTINO<br /><br />For eleven years I've wanted one thing. Her father in the ground.<br /><br />Then his daughter sits down at my table and hands me the only door into his house.<br /><br />I'm not a good man. I've never pretended to be. I married her for a reason she would never forgive, and I'm keeping her for reasons I refuse to say out loud.<br /><br />Every man in this city knows better than to touch what's mine.<br /><br />Now she's mine.<br /><br />The war is coming for her. So is the truth. And the one thing I swore I would never do again is want something this badly.<br /><br />I'll burn South Philly to the ground before I let anything take her from me.<br /><br />This is the first book in The Vicious Saints Series. Reading order:<br /><br />Sin.<br /><br />Vice.<br /><br />Ruin.",
+      "trackCensoredName": "Sin: Dark Mafia Romance",
+      "artistViewUrl": "https://books.apple.com/us/artist/daisy-bloom/1758423300?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/sin-dark-mafia-romance/id6832501613?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f7/de/9b/f7de9bd8-2275-6557-6258-d008c0c22d56/6610001523282.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/f7/de/9b/f7de9bd8-2275-6557-6258-d008c0c22d56/6610001523282.jpg/100x100bb.jpg",
+      "trackId": 6832501613,
+      "trackName": "Sin: Dark Mafia Romance",
+      "averageUserRating": 4.5,
+      "userRatingCount": 8,
+      "country": "USA"
+    }
+  ]
+}

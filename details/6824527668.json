@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Scouring Band 2: Terras Zorn",
+      "artistViewUrl": "https://books.apple.com/de/artist/john-french/416760550?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/the-scouring-band-2-terras-zorn/id6824527668?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/0c/c0/16/0cc0163c-5fc1-96c1-63a1-e6d4eef6b380/GER-Wrath-Of-Terra-Cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/0c/c0/16/0cc0163c-5fc1-96c1-63a1-e6d4eef6b380/GER-Wrath-Of-Terra-Cover.jpg/100x100bb.jpg",
+      "artistId": 416760550,
+      "artistName": "John French",
+      "genres": [
+        "Science-Fiction und Fantasy",
+        "Bücher"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>The Scouring Band 2</b><br /><br />\r\nDie Häresie des Horus ist beendet, doch der Krieg um die Zukunft des Imperiums fängt gerade erst an. Loyalisten versuchen verzweifelt, den Wiederaufbau voranzutreiben, bevor ihre Feinde sich neu sammeln und zurückkehren. Währenddessen hält die Debatte an, wie man ein Imperium ohne einen Imperator führt. Die Verräter fliehen um ihr Leben und ihr Glaube an die Dunklen Götter ist erschüttert. Das Schicksal des Mars muss erst noch entschieden werden. Wie werden die Überreste der Legionen auf die Anforderungen eines neuen Zeitalters reagieren?<br /><br />\r\n<b>WARUM DU DIESES BUCH LESEN SOLLTEST</b><br />\r\nDie finalen Augenblicke der Horus-Häresie rissen eine Wunde in das Imperium, von der es sich nie so richtig erholen wird. Während der Nachwehen muss die Menschheit einen neuen Weg in die Zukunft finden. Dieser Roman bietet einen weiteren Einblick in die Auswirkungen des Krieges und die Anfänge dessen, was einst die Finsternis der fernen Zukunft sein wird.<br /><br />\r\n<b>DIE GESCHICHTE</b><br />\r\nDer Imperator schweigt. Der Heilige Mars ist eine entweihte Welt albtraumhafter Maschinen inmitten der Schmiedetempel des Dunklen Mechanicum. In der Leere zwischen den Sternen setzen die fliehenden Verräterlegionen alles daran, ihr Leben zu retten.<br /><br />\r\nIn den Wirren der Zerstörung kämpft Titus Prayto darum, die Zukunft des Imperiums zu bewahren, eine Zukunft, die nur die Space Marines beschützen können. Ortag Theokon von den Iron Warriors sucht in der Einöde eines verlorenen Krieges nach einer Zuflucht. Apollyon von den Blood Angels kämpft im Angesicht des Todesschattens seines Vaters um Erlösung. Während Primarchen und Senatoren um die Macht streiten, sucht die ehemalige Auserwählte des Malcador, Mouhausen, nach einem Gleichgewicht zwischen den Notwendigkeiten der Zukunft und der Wut der Gegenwart.<br /><br />\r\nDie Engel der Vergangenheit sind zu den Ungeheuern eines Zeitalters der Asche geworden.<br /><br />\r\nGeschrieben von John French<br />\r\nÜbersetzt von Stefan Behrenbruch",
+      "formattedPrice": "12,99 €",
+      "releaseDate": "2026-11-21T08:00:00Z",
+      "artistIds": [
+        416760550
+      ],
+      "genreIds": [
+        "9020",
+        "38"
+      ],
+      "trackId": 6824527668,
+      "trackName": "The Scouring Band 2: Terras Zorn",
+      "price": 12.99,
+      "country": "DEU"
+    }
+  ]
+}

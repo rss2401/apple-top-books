@@ -1,0 +1,75 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "trackCensoredName": "The Lazarus Moment",
+      "artistIds": [
+        442885918
+      ],
+      "formattedPrice": "$0.99",
+      "artistId": 442885918,
+      "artistName": "J. Robert Kennedy",
+      "genres": [
+        "Action & Adventure",
+        "Books",
+        "Fiction & Literature",
+        "Mysteries & Thrillers"
+      ],
+      "price": 0.99,
+      "genreIds": [
+        "10039",
+        "38",
+        "9031",
+        "9032"
+      ],
+      "trackId": 1084187366,
+      "trackName": "The Lazarus Moment",
+      "releaseDate": "2016-02-13T08:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b><i>*** FROM USA TODAY BESTSELLING AUTHOR J. ROBERT KENNEDY ***</i></b><br /><br />\n<b>AIR FORCE ONE IS DOWN&#xa0;</b><br />\n<b>BUT THEIR FIGHT TO SURVIVE HAS ONLY JUST BEGUN!</b><br /><br />\nUSA Today bestselling author J. Robert Kennedy delivers another action-packed thriller in The Lazarus Moment.<br /><br />\nWhen Air Force One crashes in the jungles of Africa, it is up to America’s elite Delta Force to save the survivors not only from rebels hell-bent on capturing the President, but Mother Nature herself.<br /><br />\nFrom South Africa to Moscow, from Washington to Dubai, J. Robert Kennedy delivers an action-packed adventure torn from today’s headlines, leading readers on a roller coaster ride of adrenaline, certain to leave you breathless. A deftly-crafted novel, in true Kennedy style, The Lazarus Moment is an exciting, stunning tale with laughter, romance, heartbreak and hope, along with breakneck action, as only he can deliver.",
+      "artistViewUrl": "https://books.apple.com/us/artist/j-robert-kennedy/442885918?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-lazarus-moment/id1084187366?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e7/2e/1f/e72e1f34-4e4c-52b8-1623-d6eb3e01aacd/9300b6cb-2ebc-4e09-ae6e-7cc0c7096718_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e7/2e/1f/e72e1f34-4e4c-52b8-1623-d6eb3e01aacd/9300b6cb-2ebc-4e09-ae6e-7cc0c7096718_cover_image.jpg/100x100bb.jpg",
+      "averageUserRating": 4.5,
+      "userRatingCount": 84,
+      "country": "USA"
+    },
+    {
+      "artistIds": [
+        442885918
+      ],
+      "artistId": 442885918,
+      "artistName": "J. Robert Kennedy",
+      "genres": [
+        "Action & Adventure",
+        "Books",
+        "Fiction & Literature",
+        "Crime & Thrillers"
+      ],
+      "price": 0.99,
+      "releaseDate": "2016-02-13T08:00:00Z",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b><i>*** FROM USA TODAY BESTSELLING AUTHOR J. ROBERT KENNEDY ***</i></b><br /><br />\n<b>AIR FORCE ONE IS DOWN&#xa0;</b><br />\n<b>BUT THEIR FIGHT TO SURVIVE HAS ONLY JUST BEGUN!</b><br /><br />\nUSA Today bestselling author J. Robert Kennedy delivers another action-packed thriller in The Lazarus Moment.<br /><br />\nWhen Air Force One crashes in the jungles of Africa, it is up to America’s elite Delta Force to save the survivors not only from rebels hell-bent on capturing the President, but Mother Nature herself.<br /><br />\nFrom South Africa to Moscow, from Washington to Dubai, J. Robert Kennedy delivers an action-packed adventure torn from today’s headlines, leading readers on a roller coaster ride of adrenaline, certain to leave you breathless. A deftly-crafted novel, in true Kennedy style, The Lazarus Moment is an exciting, stunning tale with laughter, romance, heartbreak and hope, along with breakneck action, as only he can deliver.",
+      "formattedPrice": "£0.99",
+      "trackCensoredName": "The Lazarus Moment",
+      "artistViewUrl": "https://books.apple.com/gb/artist/j-robert-kennedy/442885918?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-lazarus-moment/id1084187366?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e7/2e/1f/e72e1f34-4e4c-52b8-1623-d6eb3e01aacd/9300b6cb-2ebc-4e09-ae6e-7cc0c7096718_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/e7/2e/1f/e72e1f34-4e4c-52b8-1623-d6eb3e01aacd/9300b6cb-2ebc-4e09-ae6e-7cc0c7096718_cover_image.jpg/100x100bb.jpg",
+      "genreIds": [
+        "10039",
+        "38",
+        "9031",
+        "9032"
+      ],
+      "trackId": 1084187366,
+      "trackName": "The Lazarus Moment",
+      "averageUserRating": 4.5,
+      "userRatingCount": 10,
+      "country": "GBR"
+    }
+  ]
+}

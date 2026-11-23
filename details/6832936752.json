@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/5a/ad/86/5aad8646-b0c0-4cf6-fef5-ceb77b5befd6/BT000251365100100101900206.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/5a/ad/86/5aad8646-b0c0-4cf6-fef5-ceb77b5befd6/BT000251365100100101900206.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E5%B9%B3%E6%88%90%E3%82%AA%E3%83%AF%E3%83%AA-%E9%80%A3%E6%89%93%E4%B8%80%E4%BA%BA/1547900276?uo=4",
+      "trackCensoredName": "隠退した最強暗殺者は辺境の島で静かに暮らしたい(1)",
+      "formattedPrice": "¥800",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E9%9A%A0%E9%80%80%E3%81%97%E3%81%9F%E6%9C%80%E5%BC%B7%E6%9A%97%E6%AE%BA%E8%80%85%E3%81%AF%E8%BE%BA%E5%A2%83%E3%81%AE%E5%B3%B6%E3%81%A7%E9%9D%99%E3%81%8B%E3%81%AB%E6%9A%AE%E3%82%89%E3%81%97%E3%81%9F%E3%81%84-1/id6832936752?uo=4",
+      "artistIds": [
+        1547900276,
+        633584877
+      ],
+      "artistId": 1547900276,
+      "genres": [
+        "ファンタジー",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "異世界",
+        "青年"
+      ],
+      "price": 800,
+      "genreIds": [
+        "50000074",
+        "38",
+        "9026",
+        "10016",
+        "11345",
+        "11338"
+      ],
+      "trackId": 6832936752,
+      "trackName": "隠退した最強暗殺者は辺境の島で静かに暮らしたい(1)",
+      "releaseDate": "2026-11-19T08:00:00Z",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "魔王がいなくなり平穏を取り戻した世界。その辺境の島で、道具屋の店主・シネナイは妻のルナ・娘のリンとにぎやかに、しかしひっそりと暮らしていた。そんなある日、島に“ダンジョン”が発生したことをキッカケに、王国から騎士団が、各地から冒険者たちが押し寄せてくる。そして同時に過去からの因縁が一家に忍びこんで…。かつて秘密裏に多くを葬ってきた男の、家族と暮らすための静かなる闘争譚!!",
+      "artistName": "平成オワリ & 連打一人",
+      "country": "JPN"
+    }
+  ]
+}

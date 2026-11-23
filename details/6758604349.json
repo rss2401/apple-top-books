@@ -1,0 +1,35 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$14.99",
+      "trackId": 6758604349,
+      "trackName": "The Murder Trial",
+      "artistIds": [
+        2087446,
+        1453351035
+      ],
+      "artistId": 2087446,
+      "artistName": "James Patterson & Nancy Allen",
+      "genres": [
+        "Mysteries & Thrillers",
+        "Books"
+      ],
+      "price": 14.99,
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "releaseDate": "2026-11-23T08:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>A young woman stands trial for the double murder of her parents in this thriller from the world's #1 bestselling author, James Patterson.</b><br /><br />     Eighteen-year-old Janelle Thompson is used to seeing her adoptive parents in the news. Her father is a rising political star. Her mother is the mind behind his first major campaign. Then one Friday night, the whole family makes headlines. Her parents are missing, declared dead—and all the evidence points to Janelle. <br /><br />     A perfect family destroyed by a daughter barely old enough to vote. From her cell at Westfall Justice Center, Janelle swears she’s innocent, that she loved her parents. If only she could convince someone—anyone—that she’s telling the truth.",
+      "trackCensoredName": "The Murder Trial",
+      "artistViewUrl": "https://books.apple.com/us/artist/james-patterson-nancy-allen/2087446?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-murder-trial/id6758604349?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/06/88/cf/0688cfb3-47ab-c6e0-04e7-7aeeac2fea12/9781538758533.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/06/88/cf/0688cfb3-47ab-c6e0-04e7-7aeeac2fea12/9781538758533.jpg/100x100bb.jpg",
+      "country": "USA"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        1795838703
+      ],
+      "artistId": 1795838703,
+      "artistName": "Juliet Keane",
+      "genres": [
+        "Romance",
+        "Books",
+        "Western Romance",
+        "Fiction & Literature",
+        "Contemporary Romance"
+      ],
+      "price": 0,
+      "genreIds": [
+        "9003",
+        "38",
+        "10062",
+        "9031",
+        "10057"
+      ],
+      "releaseDate": "2025-02-11T08:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<i><b>A few weeks in the country to help my best friend with her family business sounded like the perfect opportunity to get away from my life for a while.</b></i><br /><br /><i><b>Being surrounded by a bunch of hot cowboys was just an added bonus.</b></i><br /><br />I was supposed to keep a low profile and do my best not to anger Tom Sullivan's sons. I was not supposed to spend my nights dreaming about getting underneath the oldest one. The one with the piercing blue eyes and a sinful smile.<br /><br />Evan Sullivan is only focused on two things– running the family ranch and raising his two kids. He only looks my way to roll his eyes or glower at my city-girl clothes. But after we are forced to work together, the attraction between us is undeniable. The last thing I wanted was to fall for a man, but Evan isn't like any man I've ever met.<br /><br />I showed up in Crestwood Valley looking to hide from my past, but now Evan Sullivan is determined to be my future.<br /><br />I don't know if I'm ready to open my heart, but I can't imagine giving it to anyone else.",
+      "trackCensoredName": "Ready to Ride",
+      "artistViewUrl": "https://books.apple.com/us/artist/juliet-keane/1795838703?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/ready-to-ride/id6741833152?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fd/ad/21/fdad219b-f9ef-1a1a-7de4-8a909bafc985/0002716018.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fd/ad/21/fdad219b-f9ef-1a1a-7de4-8a909bafc985/0002716018.jpg/100x100bb.jpg",
+      "trackId": 6741833152,
+      "trackName": "Ready to Ride",
+      "averageUserRating": 4.5,
+      "userRatingCount": 441,
+      "country": "USA"
+    }
+  ]
+}

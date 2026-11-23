@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1725174084
+      ],
+      "genres": [
+        "Crime & Thrillers",
+        "Books",
+        "Fiction & Literature",
+        "Fairy Tales, Myths & Fables"
+      ],
+      "artistId": 1725174084,
+      "artistName": "Bonnie Burke-Patel",
+      "releaseDate": "2026-07-30T07:00:00Z",
+      "trackId": 6757921325,
+      "trackName": "We Search the Island for Grace",
+      "genreIds": [
+        "9032",
+        "38",
+        "9031",
+        "11049"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>The stunning new crime novel from rising star and multi award shortlisted author Bonnie Burke-Patel.</b><br /><br /><b>'A superb mystery in the style of Agatha Christie, its atmosphere heightened by the isolated location and the exposure of a series of concealed identities'</b> Joan Smith, The Times<br /><br /><b>'Gorgeously composed, intricate novel from a stellar literary talent'</b> Irish Independent<br /><br /><b>'Gorgeously atmospheric and tightly plotted.. a beautiful love story and a confounding locked-room thriller'</b> Rebecca Hannigan<br /><br />They gather at Saints' Climb, the only house on an island off the Somerset coast. Seven men with nowhere else to be at Christmas. Father and son George and Xavier Starvely; James, a taciturn archaeologist uneasy with the living; Victor, a French widower; Rik, the groundskeeper; and Chris and Nathan, the two men who want to make a documentary about this place and its extraordinary collection of medieval art. And the housekeeper Marianne, who seems to find peace in serving. Erected around the stone labyrinth built into the floor by monks, Saints' Climb is a house heavy with loneliness.<br /><br />Xavier Starvely is a successful academic with a real life elsewhere. Yet he is wracked with guilt over the fragmentary memories of a childhood tragedy, and when his guests arrive on the island for Christmas, the deaths begin afresh.<br /><br />A labyrinth is different from a maze. There are no false turns or dead ends: there is only one winding path, which, followed faithfully, will always lead to the centre. What will each find at the centre of the labyrinth? And can it save them?<br /><br />Bonnie's debut I Died at Fallow Hall was shortlisted for The CWA Gold Dagger, The Betty Trask and The Val McDermid Awards.",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3b/41/7a/3b417afa-6423-c070-647d-88a0a1a9d37d/1061944995.jpg/60x60bb.jpg",
+      "trackCensoredName": "We Search the Island for Grace",
+      "artistViewUrl": "https://books.apple.com/gb/artist/bonnie-burke-patel/1725174084?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/we-search-the-island-for-grace/id6757921325?uo=4",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/3b/41/7a/3b417afa-6423-c070-647d-88a0a1a9d37d/1061944995.jpg/100x100bb.jpg",
+      "formattedPrice": "£0.99",
+      "price": 0.99,
+      "country": "GBR"
+    }
+  ]
+}

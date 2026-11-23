@@ -1,0 +1,45 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$2.99",
+      "trackCensoredName": "The Three-Body Problem",
+      "artistViewUrl": "https://books.apple.com/us/artist/cixin-liu-ken-liu/866937937?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-three-body-problem/id856893409?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/25/2f/92/252f926a-1db7-c938-3477-8e78d29e8704/9781466853447.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/25/2f/92/252f926a-1db7-c938-3477-8e78d29e8704/9781466853447.jpg/100x100bb.jpg",
+      "artistIds": [
+        866937937,
+        438653577
+      ],
+      "artistId": 866937937,
+      "artistName": "Cixin Liu & Ken Liu",
+      "genres": [
+        "Science Fiction",
+        "Books",
+        "Sci-Fi & Fantasy",
+        "Fiction & Literature",
+        "Science Fiction",
+        "High Tech Sci-Fi"
+      ],
+      "price": 2.99,
+      "releaseDate": "2014-11-11T08:00:00Z",
+      "genreIds": [
+        "10063",
+        "38",
+        "9020",
+        "9031",
+        "10064",
+        "11007"
+      ],
+      "trackId": 856893409,
+      "trackName": "The Three-Body Problem",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>The inspiration for the Netflix series <i>3 Body Problem</i>!</b><br /><br /><b>WINNER OF THE HUGO AWARD FOR BEST NOVEL</b><br /><br /><b>Over 1 million copies sold in North America</b><br /><br /><b>“A mind-bending epic.”</b>—<i>The New York Times</i><b> • “<i>War of the Worlds</i> for the 21st century.”</b>—<i>The Wall Street Journal</i><b> • “Fascinating.”</b>—<i>TIME</i><b> • “Extraordinary.”</b>—<i>The New Yorker</i><b> • “Wildly imaginative.”</b>—Barack Obama<b> • “Provocative.”</b>—<i>Slate</i><b> • “A breakthrough book.”</b>—George R. R. Martin<b> • “Impossible to put down.”</b>—<i>GQ</i><b> • “Absolutely mind-unfolding.”</b>—<i>NPR</i><b> • “You should be reading Liu Cixin.”</b>—<i>The Washington Post</i><br /><br /><b><i>The Three-Body Problem</i> is the first novel in the groundbreaking, Hugo Award-winning series from China's most beloved science fiction author, Cixin Liu.</b><br /><br />Set against the backdrop of China's Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.<br /><br /><b>The Three-Body Problem Series</b><br /><i>The Three-Body Problem</i><br /><i>The Dark Forest</i><br /><i>Death's End</i><br /><br /><b>Other Books by Cixin Liu</b><br /><i>Ball Lightning</i> <br /><i>Supernova Era<br />To Hold Up the Sky</i><br /><i>The Wandering Earth</i><br /><i>A View from the Stars</i><br /><br />At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+      "averageUserRating": 4.5,
+      "userRatingCount": 2733,
+      "country": "USA"
+    }
+  ]
+}

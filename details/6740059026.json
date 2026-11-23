@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1536432053
+      ],
+      "artistId": 1536432053,
+      "artistName": "Lynn Painter",
+      "genres": [
+        "Fiction for Young Adults",
+        "Books",
+        "Young Adult",
+        "Romance for Young Adults",
+        "Sports in Young Adult Fiction",
+        "Sports for Young Adults"
+      ],
+      "price": 0.99,
+      "releaseDate": "2025-09-30T07:00:00Z",
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>From the no. 1 international bestselling author of </b><i><b>Better than the Movies</b></i><b>, childhood sweethearts reunite in a hockey-loving town where romance is about to heat up the ice.&#xa0;</b><br /><br />From play dates on the playground to sneaking into movie theatres, Dani and Alec were inseparable as kids. Until Dani moved away. Years later, Dani is back in Minnesota, and exited to reconnect with the nerdy and comforting Alec. But teenage Alec is NOTHING like the boy she remembers. He's the hockey STAR in a town where hockey players are worshipped as gods – and he loves it.&#xa0;<br /><br />When&#xa0;one thing leads to another and Dani and Alec find themselves thrown together and playing the role of boyfriend and girlfriend, “complicated” becomes an understatement. In this Minnesota town, hockey may rule, but romance is about to take its place.<br /><br />A swoony, boy-next-door fake dating romance from the&#xa0;<i>New York Times&#xa0;</i>bestseller, Lynn Painter.<br /><br />&#xa0;",
+      "formattedPrice": "£0.99",
+      "trackCensoredName": "Fake Skating",
+      "artistViewUrl": "https://books.apple.com/gb/artist/lynn-painter/1536432053?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/fake-skating/id6740059026?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/d8/21/55/d8215524-cf24-1c78-d31f-8ba13de0ca20/9781398537880.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/d8/21/55/d8215524-cf24-1c78-d31f-8ba13de0ca20/9781398537880.jpg/100x100bb.jpg",
+      "genreIds": [
+        "11177",
+        "38",
+        "11165",
+        "11194",
+        "11197",
+        "11225"
+      ],
+      "trackId": 6740059026,
+      "trackName": "Fake Skating",
+      "averageUserRating": 4.5,
+      "userRatingCount": 55,
+      "country": "GBR"
+    }
+  ]
+}

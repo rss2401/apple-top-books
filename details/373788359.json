@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Sag's nicht weiter, Liebling",
+      "artistIds": [
+        2795469
+      ],
+      "formattedPrice": "5,99 €",
+      "artistId": 2795469,
+      "artistName": "Sophie Kinsella",
+      "trackId": 373788359,
+      "trackName": "Sag's nicht weiter, Liebling",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003",
+        "11042",
+        "9031",
+        "10042"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Im Flugzeug erzählt Emma ihrem Sitznachbarn ihre tiefsten Geheimnisse. Sie kann nicht ahnen, dass er ihr Chef ist.</b><br /><br />Emma Corrigan scheint vom Pech verfolgt. Alles in ihrem Leben geht schief, und jetzt auch noch das: Sie sitzt in einem von Turbulenzen geschüttelten Flugzeug und sieht ihr letztes Stündlein gekommen. In Panik legt Emma eine dramatische Lebensbeichte ab: Jedes Geheimnis, jede jemals geäußerte Lüge bricht aus ihr heraus. Zum Beispiel, dass sie mit der Lektüre anspruchsvoller Bücher angibt, obwohl sie nur dir Rückseite überflogen hat. Oder dass sie einmal die Akte eines unverschämten Klienten in den Müll geworfen hat und dass ihre Eltern im Zimmer nebenan waren, als sie entjungfert wurde. Zu dumm, dass sich Emmas Sitznachbar ausgerechnet als ihr oberster – und zudem äußerst attraktiver – Chef entpuppt ...",
+      "artistViewUrl": "https://books.apple.com/de/artist/sophie-kinsella/2795469?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/sags-nicht-weiter-liebling/id373788359?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/35/33/3e/35333ee8-928d-22f0-d974-0ba11ba696e1/9783641032128.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/35/33/3e/35333ee8-928d-22f0-d974-0ba11ba696e1/9783641032128.jpg/100x100bb.jpg",
+      "releaseDate": "2009-10-02T07:00:00Z",
+      "price": 5.99,
+      "genres": [
+        "Zeitgenössische Liebesromane",
+        "Bücher",
+        "Liebesromane",
+        "Romantische Komödien",
+        "Belletristik und Literatur",
+        "Klassiker"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 180,
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$0.99",
+      "trackCensoredName": "Because of You",
+      "artistViewUrl": "https://books.apple.com/us/artist/cathy-maxwell/214000612?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/because-of-you/id6462700721?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9c/12/b2/9c12b209-6785-45f7-5fd0-0ab0707ef3a5/1057957050.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/9c/12/b2/9c12b209-6785-45f7-5fd0-0ab0707ef3a5/1057957050.jpg/100x100bb.jpg",
+      "artistIds": [
+        214000612
+      ],
+      "artistId": 214000612,
+      "artistName": "Cathy Maxwell",
+      "genres": [
+        "Historical Romance",
+        "Books",
+        "Romance",
+        "Fiction & Literature",
+        "Family Fiction & Literature"
+      ],
+      "price": 0.99,
+      "releaseDate": "2009-03-17T07:00:00Z",
+      "genreIds": [
+        "10059",
+        "38",
+        "9003",
+        "9031",
+        "11050"
+      ],
+      "trackId": 6462700721,
+      "trackName": "Because of You",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>The prodigal son of a nobleman returns home and is forced into a marriage of convenience in this Regency romance from a <i>New York Times </i>bestselling author.</b><br />\n   Pretty Samantha Northrup knows it is her duty to marry—but the chaste English vicar's daughter secretly desires to be swept off her feet by a man whose kisses leave her breathless. And when a seductive stranger arrives at her door one stormy night, Samantha's neat and orderly life is turned upside down—especially when she finds herself in a most compromising position . . .and is forced to marry a man she barely knows!\n   <br />\n   Samantha is unaware that her mystery bridegroom is Yale Carderock, the dashing, disinherited rakehell son of a duke, banished by his father years before. Now Lord Yale has returned—wealthier but only somewhat reformed—and he is bewitched by his lovely new bride's awakening sensuality and innocent fire. But can this marriage of convenience be something more . . . and can a confirmed cad and society outcast truly change his ways enough to merit the lady's tender love?\n   <br />\n   \"Lively dialog, concise writing, and an unusual slant on the traditional forced-marriage plot make this story of a tormented hero and a determined heroine one that Maxwell's fans will cheer.\" —<i>Library Journal</i>",
+      "averageUserRating": 4.5,
+      "userRatingCount": 50,
+      "country": "USA"
+    }
+  ]
+}

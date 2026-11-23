@@ -1,0 +1,42 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        27059386
+      ],
+      "artistId": 27059386,
+      "artistName": "Viktor E. Frankl",
+      "genres": [
+        "Psychologie",
+        "Bücher",
+        "Gesundheit, Körper und Geist",
+        "Biografien und Memoiren",
+        "Militärbiografien und Memoiren"
+      ],
+      "price": 9.99,
+      "releaseDate": "2010-12-09T08:00:00Z",
+      "genreIds": [
+        "10094",
+        "38",
+        "9025",
+        "9008",
+        "11034"
+      ],
+      "trackId": 408110897,
+      "trackName": "... trotzdem Ja zum Leben sagen",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Das internationale Erfolgsbuch von Viktor E. Frankl in Neuausgabe<br /><br />„Die Konzentrationslager Hitlers und Himmlers sind heute historisch, sie sind nur ein Beispiel für vielfach andere, neuere Höllen; und wie Viktor Frankl seine Lager-Zeit überwand, das ist inzwischen anwendbar geworden auf viele, nicht nur deutsche Situationen, die Zweifel am Sinn des Lebens nahelegen.“<br /><br />Hans Weigel im Vorwort",
+      "trackCensoredName": "... trotzdem Ja zum Leben sagen",
+      "artistViewUrl": "https://books.apple.com/de/artist/viktor-e-frankl/27059386?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/trotzdem-ja-zum-leben-sagen/id408110897?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/27/74/a3/2774a332-db0c-30f3-7a8b-31e3642c92e3/9783641059033.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/27/74/a3/2774a332-db0c-30f3-7a8b-31e3642c92e3/9783641059033.jpg/100x100bb.jpg",
+      "formattedPrice": "9,99 €",
+      "averageUserRating": 4.5,
+      "userRatingCount": 94,
+      "country": "DEU"
+    }
+  ]
+}

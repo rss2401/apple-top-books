@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        84243465
+      ],
+      "artistId": 84243465,
+      "artistName": "Juli Zeh",
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher",
+        "Lifestyle und Wohnen",
+        "Science-Fiction und Fantasy",
+        "Science-Fiction",
+        "Krimis und Thriller"
+      ],
+      "price": 9.99,
+      "releaseDate": "2018-08-06T07:00:00Z",
+      "genreIds": [
+        "9031",
+        "38",
+        "9024",
+        "9020",
+        "10063",
+        "9032"
+      ],
+      "trackId": 1410682632,
+      "trackName": "Corpus Delicti",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Wie weit geht unser Recht am eigenen Körper? Der moderne Klassiker von Juli Zeh in einer Neuausgabe</b><br /><br />Jung, attraktiv, begabt und unabhängig: Das ist Mia Holl, eine Frau von dreißig Jahren, die sich vor einem Schwurgericht verantworten muss. Zur Last gelegt wird ihr ein Zuviel an Liebe (zu ihrem Bruder), ein Zuviel an Verstand (sie denkt naturwissenschaftlich) und ein Übermaß an geistiger Unabhängigkeit. In einer Gesellschaft, in der die Sorge um den Körper alle geistigen Werte verdrängt hat, reicht dies aus, um als gefährliches Subjekt eingestuft zu werden. Juli Zeh entwirft in \"Corpus Delicti\" das spannende Science-Fiction-Szenario einer Gesundheitsdiktatur irgendwann im 21. Jahrhundert, in der Gesundheit zur höchsten Bürgerpflicht geworden ist.",
+      "trackCensoredName": "Corpus Delicti",
+      "artistViewUrl": "https://books.apple.com/de/artist/juli-zeh/84243465?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/corpus-delicti/id1410682632?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/13/a1/b6/13a1b690-dbcf-14ee-af30-22a87a845014/9783641242701.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/13/a1/b6/13a1b690-dbcf-14ee-af30-22a87a845014/9783641242701.jpg/100x100bb.jpg",
+      "formattedPrice": "9,99 €",
+      "averageUserRating": 3.5,
+      "userRatingCount": 206,
+      "country": "DEU"
+    }
+  ]
+}

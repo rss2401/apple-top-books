@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        518624214
+      ],
+      "trackCensoredName": "The Duke Deal",
+      "artistViewUrl": "https://books.apple.com/us/artist/valerie-bowman/518624214?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-duke-deal/id6443394210?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/30/fa/61/30fa61ea-c349-b58a-ce28-fdc6fc3ccf7c/The_Duke_Deal_final_cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/30/fa/61/30fa61ea-c349-b58a-ce28-fdc6fc3ccf7c/The_Duke_Deal_final_cover.jpg/100x100bb.jpg",
+      "genres": [
+        "Historical Romance",
+        "Books",
+        "Romance"
+      ],
+      "artistId": 518624214,
+      "artistName": "Valerie Bowman",
+      "trackName": "The Duke Deal",
+      "trackId": 6443394210,
+      "releaseDate": "2023-01-01T08:00:00Z",
+      "genreIds": [
+        "10059",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b><i>When his wife asks him to pretend to be happy couple to fulfill her grandfather's dying wish, a duke has one condition: he wants an heir.</i></b><br /><br /><b>The honeymoon is over…</b><br />\nWhen Veronica said “I do” to Sebastian Sinclair, Duke of Edgefield, she thought all her dreams had come true. He was dashing and doting, and she absolutely adored him—until he betrayed her trust, shattering their marriage, and her heart, into a million tiny bits. She hasn’t seen her husband in the two years since, and she’d just as soon make it twenty. But when she learns that her beloved grandfather’s dying wish is for her and Sebastian to attend the family’s Christmastide celebration, she swallows her pride and asks him a favor: to pretend they’re the happy couple they once were.<br /><br /><b>But the passion still simmers.</b><br />\nSebastian is shocked to find his lovely duchess on his doorstep, but he’s ready and willing to play the part of a devoted husband for the Christmas season…if Veronica will grant him a favor in return. All he asks is that she share his bed every night. All night. And maybe even give him the heir he needs.<br /><br />\n<b>Could their love be the real deal?</b><b></b><br />\nVeronica must be mad to agree—especially since Sebastian seems intent on using every weapon in his arsenal to charm and seduce her. She knows it’s just pretend and yet, she can’t help but wonder if the falling snow and Christmas cheer will work a little magic. Maybe she and Sebastian will end up with more than either of them bargained for…",
+      "formattedPrice": "Free",
+      "price": 0,
+      "averageUserRating": 4,
+      "userRatingCount": 386,
+      "country": "USA"
+    }
+  ]
+}

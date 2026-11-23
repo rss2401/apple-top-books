@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$3.99",
+      "trackCensoredName": "A Gentleman in Winter",
+      "artistViewUrl": "https://books.apple.com/us/artist/grace-burrowes/403746786?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/a-gentleman-in-winter/id6816759098?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/75/57/a3/7557a3da-ea66-c51a-de78-63387ab12f2b/fb9a9bcc-6995-4cd3-b66e-917f8455d58d_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/75/57/a3/7557a3da-ea66-c51a-de78-63387ab12f2b/fb9a9bcc-6995-4cd3-b66e-917f8455d58d_cover_image.jpg/100x100bb.jpg",
+      "artistIds": [
+        403746786
+      ],
+      "artistId": 403746786,
+      "artistName": "Grace Burrowes",
+      "genres": [
+        "Historical Romance",
+        "Books",
+        "Romance",
+        "Holiday Romance"
+      ],
+      "price": 3.99,
+      "releaseDate": "2026-09-27T07:00:00Z",
+      "genreIds": [
+        "10059",
+        "38",
+        "9003",
+        "11231"
+      ],
+      "trackId": 6816759098,
+      "trackName": "A Gentleman in Winter",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "Vicar Abel Faucon met Miss Amelia Hunter at a summer house party, and hasn’t been able to forget her. She is a governess devoted to her post; he’s a widower devoted to his flock, and neither one is looking for love, or so they tell themselves. Providence-abetted by some meddling and very human angels–throws Abel and Amelia together again when holiday mischief is in the air.\n\nCommon sense tells them they both have obligations that preclude any lasting attachment, but when has common sense stood a chance against Yuletide magic? Throw in some elves, mistletoe, and a few servings of wassail, and true love just might win the day!",
+      "country": "USA"
+    }
+  ]
+}

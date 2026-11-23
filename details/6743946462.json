@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Die Briefeschreiberin",
+      "artistIds": [
+        269549820
+      ],
+      "formattedPrice": "12,99 €",
+      "artistId": 269549820,
+      "artistName": "Virginia Evans",
+      "trackId": 6743946462,
+      "trackName": "Die Briefeschreiberin",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Vom Geheimtipp zum New York Times-Nr.1-Besteller: Entdecken auch Sie Ihr neues Lieblingsbuch</b><br /><br /><b>Jeden Morgen greift Sybil van Antwerp zu Füller und Papier und schreibt: an ihren Bruder, an ihre beste Freundin, an Autorinnen und Autoren. Sie hält fest, was sie begeistert, bewegt oder verärgert. Und dann gibt es da den einen Brief, an dem sie seit Jahren arbeitet, ohne ihn jemals abzusenden ...</b><br /><br />Mit ihren dreiundsiebzig Jahren nutzt Sybil ihre Klugheit und ihren geistreichen Humor, um die Welt in Wort zu fassen. Doch jenseits ihrer umfassenden Korrespondenz hält sie die Menschen, die sie liebt, seit drei Jahrzehnten auf Abstand. Bis eine Nachricht aus ihrer Vergangenheit sie zwingt, sich dem schmerzhaftesten Kapitel ihres Lebens zu stellen.<br />Nun muss Sybil jenen Brief abschicken, an dem sie all die Jahre geschrieben hat. Und sie muss den Mut finden, sich selbst zu vergeben.<br /><br /><b>Ein Leben in Briefen, zutiefst berührend und unvergesslich – Sybil von Antwerp wird sich auf unvergleichliche Weise in Ihr Herz schreiben.</b><br /><br /><i>\"Feinsinnig erzählt und grandios konstruiert. ›Die Briefeschreiberin‹ ist das fesselnde Porträt einer Frau, die gegen jede äußere Widrigkeit zu Einsicht und Veränderung fähig ist. Ein Grund zu feiern – so wie auch dieser Roman.\" Ann Patchett</i><br /><i>\"›Die Briefeschreiberin‹ wird Sie zum Lachen und zum Weinen bringen, und es wird Sie zum Nachdenken anregen, wie es nur die besten Romane tun. Lesen, lesen, lesen Sie es! Und dann kaufen Sie es für jeden, der Ihnen am Herzen liegt!\" Fran Littlewood</i><br /><br /><b>Auf der TIMES-Liste der besten Bücher des Sommers.</b>",
+      "artistViewUrl": "https://books.apple.com/de/artist/virginia-evans/269549820?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/die-briefeschreiberin/id6743946462?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/19/01/c1/1901c15d-aaa6-ee2c-4d4e-02648a3a0657/9783641323707.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/19/01/c1/1901c15d-aaa6-ee2c-4d4e-02648a3a0657/9783641323707.jpg/100x100bb.jpg",
+      "releaseDate": "2025-08-27T07:00:00Z",
+      "price": 12.99,
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher"
+      ],
+      "averageUserRating": 5,
+      "userRatingCount": 18,
+      "country": "DEU"
+    }
+  ]
+}

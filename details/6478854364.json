@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Gratuit",
+      "artistIds": [
+        701580826
+      ],
+      "artistId": 701580826,
+      "artistName": "Christian H. Godefroy",
+      "genres": [
+        "Développement personnel",
+        "Livres",
+        "Santé et bien-être"
+      ],
+      "price": 0,
+      "trackId": 6478854364,
+      "trackName": "Introduction à l'auto-hypnose",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Qu'est-ce que l'auto-hypnose, et à quoi ça sert ?\n\nDans cette courte introduction extraite du best-seller de Christian Godefroy S'aider soi-même par l'auto-hypnose, retrouvez l'essentiel des informations qui vous permettront de découvrir cette technique fabuleuse pour améliorer votre vie et reprogrammer vous-même vos habitudes et votre subconscient.\n\nC'est votre subconscient qui vous barre la route du bonheur ou qui vous ouvre les portes du succès. Avec l'auto-hypnose, vous apprendrez à corriger les blocages qui vous barrent la route vers le succès personnel.\n\nDécouvrez dans ce livre qu'est-c'est que l'auto-hypnose, comment atteindre l'auto-hypnose et des exemples pour trouver les bonnes suggestions et comment revenir de l'état de transe hypnotique. Vous n'avez pas besoin de beaucoup de temps, vous n'avez pas besoin d'expérience, vous n'avez pas besoin d'y croire, vous n'avez pas besoin de force de volonté : l'auto-hynose vous permettra de devenir la personne que vous avez toujours rêvé d'être.",
+      "trackCensoredName": "Introduction à l'auto-hypnose",
+      "artistViewUrl": "https://books.apple.com/fr/artist/christian-h-godefroy/701580826?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/introduction-%C3%A0-lauto-hypnose/id6478854364?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/9b/9b/e5/9b9be507-998b-8728-b5fc-439cdf8bcc18/d1ee1312-085b-405b-ac95-73ffa0d58fe7_cover_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication112/v4/9b/9b/e5/9b9be507-998b-8728-b5fc-439cdf8bcc18/d1ee1312-085b-405b-ac95-73ffa0d58fe7_cover_image.jpg/100x100bb.jpg",
+      "releaseDate": "2024-03-04T09:46:23Z",
+      "genreIds": [
+        "10119",
+        "38",
+        "9025"
+      ],
+      "country": "FRA"
+    }
+  ]
+}

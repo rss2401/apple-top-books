@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        893776741
+      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/be/04/42/be0442c3-15fa-5abc-6242-eba1b26b124c/1030275208.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/be/04/42/be0442c3-15fa-5abc-6242-eba1b26b124c/1030275208.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/jennifer-sucevic/893776741?uo=4",
+      "trackCensoredName": "Hate to Love you",
+      "formattedPrice": "1,99 €",
+      "trackViewUrl": "https://books.apple.com/de/book/hate-to-love-you/id1490618517?uo=4",
+      "artistId": 893776741,
+      "artistName": "Jennifer Sucevic",
+      "genres": [
+        "Zeitgenössische Liebesromane",
+        "Bücher",
+        "Liebesromane",
+        "New Adult-Liebesromane"
+      ],
+      "price": 1.99,
+      "genreIds": [
+        "10057",
+        "38",
+        "9003",
+        "11040"
+      ],
+      "releaseDate": "2019-11-29T08:00:00Z",
+      "trackId": 1490618517,
+      "trackName": "Hate to Love you",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Ich hasse ihn ... und muss so tun, als sei ich total verliebt!<br/>\n<br/>\nBrody McKinnon ist der Star-Eishockeyspieler des Whitmore College. <br/>\nNatürlich ist er populär bei den Mädchen. Er kann jede haben, und nicht immer nur eine. <br/>\n<br/>\nIch bin die Ausnahme, denn ich kann ihn nicht ausstehen. Sein arrogantes Gehabe, seine weiblichen Fans, die sich an ihn ranschmeißen, seine ständige Präsenz in den Vorlesungen – er sitzt immer in meiner Nähe, egal, welchen Platz ich wähle ... Das alles geht mir ziemlich auf die Nerven. <br/>\n<br/>\nUnd dann erlebe ich auch noch die schlimmste Woche meines Lebens. Es fängt damit an, dass mein Ex-Freund Reed auf einer Party verkündet, ich sei miserabel im Bett. <br/>\n<br/>\nNatürlich verbreitet sich diese Nachricht auf dem gesamten Campus, und ausgerechnet Brody hilft mir ...<br/>\n<br/>\n&#34;Hate to Love You: Zerbrechliche Liebe&#34; ist eine in sich abgeschlossene Sportlerromanze mit expliziten Liebesszenen.",
+      "userRatingCount": 206,
+      "averageUserRating": 4,
+      "country": "DEU"
+    }
+  ]
+}

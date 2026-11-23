@@ -1,0 +1,46 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        340997015
+      ],
+      "artistId": 340997015,
+      "artistName": "Lena Johannson",
+      "genres": [
+        "Historische Liebesromane",
+        "Bücher",
+        "Liebesromane",
+        "Zeitgenössische Liebesromane",
+        "Belletristik und Literatur",
+        "Historische Romane",
+        "Familienbelletristik und Literatur"
+      ],
+      "price": 4.99,
+      "releaseDate": "2019-01-18T08:00:00Z",
+      "genreIds": [
+        "10059",
+        "38",
+        "9003",
+        "10057",
+        "9031",
+        "10047",
+        "11050"
+      ],
+      "trackId": 1374844963,
+      "trackName": "Die Villa an der Elbchaussee",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Das Schicksal einer Schokoladen-Dynastie.  Hamburg, 1919: Das Kontor Hannemann &amp; Tietz handelt nicht nur mit Kakao, sondern betreibt auch eine eigene Schokoladenmanufaktur. Frieda, jüngster Spross der traditionsreichen Kaufmannsfamilie, würde am liebsten ihre Tage in der Speicherstadt oder in der Schokoladenküche verbringen. Als ihr Vater sie mit dem Sohn eines befreundeten Handelspartners verheiraten will, um das Überleben der Firma zu sichern, bricht für Frieda eine Welt zusammen. Nicht nur, weil ihr Herz für einen anderen schlägt. Wird es ihr gelingen, das Erbe der Familie zu retten, ohne ihre Liebe zu verraten?<br /> Authentisch und berührend: Nach dem Vorbild eines Hamburger Kakao-Kontors.",
+      "trackCensoredName": "Die Villa an der Elbchaussee",
+      "artistViewUrl": "https://books.apple.com/de/artist/lena-johannson/340997015?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/die-villa-an-der-elbchaussee/id1374844963?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/7b/c2/91/7bc29164-ebaa-d566-d36f-8a6be02433b1/9783841216083.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/7b/c2/91/7bc29164-ebaa-d566-d36f-8a6be02433b1/9783841216083.jpg/100x100bb.jpg",
+      "formattedPrice": "4,99 €",
+      "averageUserRating": 3.5,
+      "userRatingCount": 118,
+      "country": "DEU"
+    }
+  ]
+}

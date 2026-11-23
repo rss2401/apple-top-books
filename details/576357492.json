@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Mission Basilic",
+      "artistViewUrl": "https://books.apple.com/fr/artist/david-weber/2073007?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/mission-basilic/id576357492?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/44/cb/52/44cb52b0-8229-a0ed-a551-3f25e0ab5efc/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/44/cb/52/44cb52b0-8229-a0ed-a551-3f25e0ab5efc/cover.jpg/100x100bb.jpg",
+      "artistIds": [
+        2073007
+      ],
+      "price": 2.99,
+      "genres": [
+        "SF et fantasy",
+        "Livres"
+      ],
+      "artistId": 2073007,
+      "artistName": "David Weber",
+      "genreIds": [
+        "9020",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Rude début de carrière pour le capitaine de frégate <i>Honor Harrington</i>, de la Flotte royale de Manticore. Ayant humilié un haut gradé lors d’un exercice, elle se voit chargée, pour sa première affectation de commandant de bord, d’assurer seule la police du système lointain de Basilic, avec un vaisseau hors d’âge à demi désarmé et un équipage qui la rend responsable de son exil. Or une puissance hostile a des visées sur Basilic, terminus d’un « trou de ver », porte du voyage instantané, et fomente une machination complexe pour s’en emparer...<br /><br />Marine de l’espace, affrontements dans les étoiles, le <b>cycle d’Honor Harrington</b> adapte la grande tradition du roman d’aventures de mer à la science-fiction. Par la cohérence technologique de son univers et la précision du récit, David Weber y renouvelle le space opera classique avec une rare virtuosité.",
+      "formattedPrice": "2,99 €",
+      "releaseDate": "2017-05-17T07:00:00Z",
+      "trackId": 576357492,
+      "trackName": "Mission Basilic",
+      "averageUserRating": 4.5,
+      "userRatingCount": 132,
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%84%E3%83%86%E3%83%84%E3%83%AD%E3%82%A6/839486249?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/37/4b/aa/374baac3-b6c0-b25f-2115-26ac8df16516/08X10000000075276200.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/37/4b/aa/374baac3-b6c0-b25f-2115-26ac8df16516/08X10000000075276200.jpg/100x100bb.jpg",
+      "artistIds": [
+        839486249
+      ],
+      "trackCensoredName": "ドラフトキング 27",
+      "formattedPrice": "¥770",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%89%E3%83%A9%E3%83%95%E3%83%88%E3%82%AD%E3%83%B3%E3%82%B0-27/id6819137079?uo=4",
+      "artistId": 839486249,
+      "artistName": "クロマツテツロウ",
+      "genres": [
+        "スポーツ",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ"
+      ],
+      "price": 770,
+      "releaseDate": "2026-11-18T08:00:00Z",
+      "trackId": 6819137079,
+      "trackName": "ドラフトキング 27",
+      "genreIds": [
+        "50000087",
+        "38",
+        "9026",
+        "10016"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "ドラフト会議を経て、待望の正捕手候補・桃丘と、期待の成長株・常田を指名した郷原。さらに、若手天才投手・北畠の山形サンシャインホープス入団を内定させ、すべては順調に進んでいるかに思われた。しかし、ライバルスカウト・毒島の暗躍によって事態は一変! なぜか北畠は、郷原の知らぬ間に大阪大正ガスに入団していて――!?",
+      "averageUserRating": 4.5,
+      "userRatingCount": 9,
+      "country": "JPN"
+    }
+  ]
+}

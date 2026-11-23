@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "4,99 €",
+      "artistIds": [
+        1252623125,
+        1076970665
+      ],
+      "artistId": 1252623125,
+      "artistName": "Fabiano Massimi & Laura Brignon",
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "price": 4.99,
+      "trackId": 1551143113,
+      "trackName": "L'Ange de Munich",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Munich, 1931. Angela Raubal, 23 ans, est retrouvée morte dans la chambre d’un appartement de Prinzregentenplatz. À côté de son corps inerte, un pistolet Walther. Tout indique un suicide et pousse à classer l’affaire.<br />Sauf qu’Angela n’est pas n’importe qui. Son oncle et tuteur légal, avec lequel elle vivait, est le leader du parti national socialiste des travailleurs, Adolf Hitler. Les liens troubles entre lui et sa nièce font d’ailleurs l’objet de rumeurs dans les rangs des opposants comme des partisans de cet homme politique en pleine ascension. Détail troublant : l’arme qui a tué Angela appartient à Hitler.<br />Entre pressions politiques, peur du scandale et secrets sulfureux, cet événement, si il éclatait au grand jour, pourrait mettre un terme à la carrière d’Hitler. Et faire du commissaire Sauer, chargé de l’enquête, un témoin très gênant. <br />Dans une République de Weimar moribonde, secouée par les présages de la tragédie nazie, Fabiano Massimi déploie un roman fascinant, basé sur une histoire vraie et méconnue, mêlant documents d’archives et fiction avec le brio d’un Philip Kerr.",
+      "trackCensoredName": "L'Ange de Munich",
+      "artistViewUrl": "https://books.apple.com/fr/artist/fabiano-massimi-laura-brignon/1252623125?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/lange-de-munich/id1551143113?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/d6/ce/84/d6ce844a-8f78-b496-e043-938957f56713/9782226461223.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/d6/ce/84/d6ce844a-8f78-b496-e043-938957f56713/9782226461223.jpg/100x100bb.jpg",
+      "releaseDate": "2021-03-10T08:00:00Z",
+      "averageUserRating": 4.5,
+      "userRatingCount": 148,
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ba/f8/fb/baf8fbd0-481c-ef09-86fe-be11a6a210ff/BT000115662101101101900206.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ba/f8/fb/baf8fbd0-481c-ef09-86fe-be11a6a210ff/BT000115662101101101900206.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E4%B9%85%E6%85%88%E9%80%B2%E4%B9%8B%E4%BB%8B/852942587?uo=4",
+      "trackCensoredName": "陸上自衛隊特務諜報機関 別班の犬(11)",
+      "formattedPrice": "¥800",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A%E7%89%B9%E5%8B%99%E8%AB%9C%E5%A0%B1%E6%A9%9F%E9%96%A2-%E5%88%A5%E7%8F%AD%E3%81%AE%E7%8A%AC-11/id6833883898?uo=4",
+      "artistIds": [
+        852942587
+      ],
+      "artistId": 852942587,
+      "genres": [
+        "アクション",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "青年"
+      ],
+      "price": 800,
+      "genreIds": [
+        "50000071",
+        "38",
+        "9026",
+        "10016",
+        "11338"
+      ],
+      "trackId": 6833883898,
+      "trackName": "陸上自衛隊特務諜報機関 別班の犬(11)",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "中東・バラクスタンに潜入中のナナ達別班。<br /><br />武装組織「月光」を率いる宿敵イワンは、オリガ部隊と共に<br />圧倒的火力と絶望を振り撒きながら進撃!<br />世界最大の国際テロ組織「飛翔する鷲」との結託に向けて、着々と歩を進めてゆく。<br /><br />彼らのコンタクトまで、あとわずか。<br />「第三次世界大戦」勃発という最悪のシナリオが現実になろうとする中、<br />ナナは起死回生をかけ、イワンを震撼させうる「切り札」を発動する…。<br /><br />自衛隊に存在するといわれる闇の諜報組織「別班」を描いた<br />スパイアクション第11巻!",
+      "artistName": "久慈進之介",
+      "country": "JPN"
+    }
+  ]
+}

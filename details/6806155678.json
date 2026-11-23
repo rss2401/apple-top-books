@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "9,99 €",
+      "artistIds": [
+        826056162
+      ],
+      "artistId": 826056162,
+      "artistName": "Chloe Walsh",
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance",
+        "Romance jeunes adultes"
+      ],
+      "price": 9.99,
+      "trackId": 6806155678,
+      "trackName": "Boys of Tommen - Tome 6 Releasing 10",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003",
+        "11040"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "\" J'étais si désespérément amoureux d'elle que me tenir si près d'elle sans pouvoir l'enlacer me blessait physiquement. \"<br /><br />Lizzie Young a toujours été trop intense, trop fragile, trop différente. Diagnostiquée d'un trouble bipolaire très jeune, elle grandit avec le sentiment de ne pas être intégrée à sa famille, à ses amis, ou au monde qui l'entoure. Elle avance seule, avec ses traumatismes invisibles, et un seul désir : être enfin comprise. Mais lorsqu'elle rencontre un garçon bienveillant dans le bus scolaire, Lizzie sent l'espoir renaître en elle.<br /><br />Hugh Biggs est un jeune homme intelligent, réfléchi et guidé par de profondes convictions. Il perçoit chez Lizzie quelque chose que personne d'autre ne voit. Là où d'autres se détournent, lui reste. Il ne cherche pas à la réparer – il veut simplement l'aimer.<br /><br />Et Lizzie semble vouloir de lui dans sa vie.<br /><br />Le lien entre Lizzie et Hugh semble indestructible. Leur alchimie est évidente, leur amour est sincère et leur connexion profonde. Mais certains obstacles peuvent mettre à mal les sentiments les plus vrais. Et si aimer signifiait parfois savoir renoncer ?",
+      "trackCensoredName": "Boys of Tommen - Tome 6 Releasing 10",
+      "artistViewUrl": "https://books.apple.com/fr/artist/chloe-walsh/826056162?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/boys-of-tommen-tome-6-releasing-10/id6806155678?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7e/ba/7d/7eba7dcf-2524-7fb0-94b9-99fdcda6ef07/9782385791001.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7e/ba/7d/7eba7dcf-2524-7fb0-94b9-99fdcda6ef07/9782385791001.jpg/100x100bb.jpg",
+      "releaseDate": "2026-11-19T08:00:00Z",
+      "country": "FRA"
+    }
+  ]
+}

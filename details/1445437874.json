@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Whisper Network",
+      "artistIds": [
+        956357667
+      ],
+      "formattedPrice": "$2.99",
+      "artistId": 956357667,
+      "artistName": "Chandler Baker",
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Mysteries & Thrillers"
+      ],
+      "price": 2.99,
+      "genreIds": [
+        "9031",
+        "38",
+        "9032"
+      ],
+      "trackId": 1445437874,
+      "trackName": "Whisper Network",
+      "releaseDate": "2019-07-02T07:00:00Z",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>AN INSTANT <i>NEW YORK TIMES</i> BESTSELLER!<br />“Honest, timely, and completely thrilling.” <i>—</i>Reese Witherspoon (Reese’s Book Club pick)<br /></b><br /><b>“A delicious and timely thriller.” ―<i>New York Times Book Review</i></b><br /><br />Sloane, Ardie, Grace, and Rosalita have worked at Truviv, Inc. for years. The sudden death of Truviv’s CEO means their boss, Ames, will likely take over the entire company. Each of the women has a different relationship with Ames, who has always been surrounded by whispers about how he treats women. Those whispers have been ignored, swept under the rug, hidden away by those in charge. <br /><br />But the world has changed, and the women are watching this promotion differently. This time, when they find out Ames is making an inappropriate move on a colleague, they aren’t willing to let it go. This time, they’ve decided enough is enough. <br /><br />Sloane and her colleagues’ decision to take a stand sets in motion a catastrophic shift in the office. Lies will be uncovered. Secrets will be exposed. And not everyone will survive. All of their lives—as women, colleagues, mothers, wives, friends, even adversaries—will change dramatically as a result. <br /><br />\"If only you had listened to us,” they tell us on page one of Chandler Baker's <i>Whisper Network</i>, “none of this would have happened.\"<br /><br /><b>“Exciting and sprinkled with razor-sharp insights about what it is to be a woman today, <i>Whisper Network </i>is a witty and timely story that will make you cheer for sisterhood.”</b><b>—Liv Constantine, <i>USA Today</i> bestselling author of <i>The Last Mrs. Parrish</i></b>",
+      "artistViewUrl": "https://books.apple.com/us/artist/chandler-baker/956357667?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/whisper-network/id1445437874?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/19/41/85/1941857d-7443-9a31-6fde-461bdbe4fe49/9781250319494.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/19/41/85/1941857d-7443-9a31-6fde-461bdbe4fe49/9781250319494.jpg/100x100bb.jpg",
+      "averageUserRating": 4,
+      "userRatingCount": 1116,
+      "country": "USA"
+    }
+  ]
+}

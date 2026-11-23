@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Gratuit",
+      "artistIds": [
+        2764906
+      ],
+      "artistId": 2764906,
+      "artistName": "Charlotte Brontë",
+      "genres": [
+        "Classiques",
+        "Livres",
+        "Romans et littérature",
+        "Romance"
+      ],
+      "price": 0,
+      "trackId": 1540997948,
+      "trackName": "Jane Eyre",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Charlotte Brontë’s most beloved novel describes the passionate love between the courageous orphan Jane Eyre and the brilliant, brooding, and domineering Rochester.\n\nThe loneliness and cruelty of Jane’s childhood strengthens her natural independence and spirit, which prove invaluable when she takes a position as a governess at Thornfield Hall. But after she falls in love with her sardonic employer, her discovery of his terrible secret forces her to make a heart-wrenching choice. Ever since its publication in 1847, \"Jane Eyre\" has enthralled every kind of reader, from the most critical and cultivated to the youngest and most unabashedly romantic. It lives as one of the great triumphs of storytelling and as a moving and unforgettable portrayal of a woman's quest for self-respect.",
+      "trackCensoredName": "Jane Eyre",
+      "artistViewUrl": "https://books.apple.com/fr/artist/charlotte-bront%C3%AB/2764906?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/jane-eyre/id1540997948?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/82/4e/31/824e312f-bf0b-dfbd-f9f4-1d54a08141f8/9789895621408.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/82/4e/31/824e312f-bf0b-dfbd-f9f4-1d54a08141f8/9789895621408.jpg/100x100bb.jpg",
+      "releaseDate": "2026-09-25T07:00:00Z",
+      "genreIds": [
+        "10042",
+        "38",
+        "9031",
+        "9003"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 14,
+      "country": "FRA"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Nanny über Nacht",
+      "artistIds": [
+        938095317
+      ],
+      "formattedPrice": "2,49 €",
+      "artistId": 938095317,
+      "artistName": "Alexandra Zöbeli",
+      "trackId": 6748026858,
+      "trackName": "Nanny über Nacht",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Ein Neuanfang im wunderschönen englischen Lake District: Der Wohlfühlroman »Nanny über Nacht« von Alexandra Zöbeli jetzt als eBook bei dotbooks.<br/>\n<br/>\nEigentlich wollte Harriet nur ihren freien Tag genießen, als sie Zeugin eines Autounfalls wird. Sofort schaltet die Rettungssanitäterin in den Krisenmodus: Während sie dem verletzten Tom hilft, gilt dessen Sorge einzig seiner Tochter Poppy. Und ehe Harriet es sich versieht, steht sie in der alten Mühle, in der die beiden leben, und kümmert sich um Poppy, während Tom im Krankenhaus ist. Verflixtes Helfersyndrom! Glücklicherweise kommt sie besser mit dem Mädchen zurecht als gedacht. Und auch zu Tom fühlt sie sich nach dessen Rückkehr zunehmend hingezogen. Doch Harriet fallen immer mehr Ungereimtheiten auf. Wieso lebt Tom so zurückgezogen? Was hat er zu verbergen? Und wie soll sie sich gegen ihre Gefühle wehren, wenn sich Poppy und Tom doch längst in ihr Herz geschlichen haben? <br/>\n<br/>\nJetzt als eBook kaufen und genießen: Der Cosy-Romance-Roman »Nanny über Nacht« von Alexandra Zöbeli ist der erste Band ihrer »Lakeland Love«-Reihe und wird Fans von Jenny Colgan und Julie Caplin begeistern. Die Printausgabe und das Hörbuch sind bei SAGA Egmont erschienen. Wer liest, hat mehr vom Leben: dotbooks – der eBook-Verlag.",
+      "artistViewUrl": "https://books.apple.com/de/artist/alexandra-z%C3%B6beli/938095317?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/nanny-%C3%BCber-nacht/id6748026858?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3a/42/b2/3a42b22f-e3b5-02b8-2b75-8c05dda04fe2/1058999333.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/3a/42/b2/3a42b22f-e3b5-02b8-2b75-8c05dda04fe2/1058999333.jpg/100x100bb.jpg",
+      "releaseDate": "2024-07-01T07:00:00Z",
+      "price": 2.49,
+      "genres": [
+        "Zeitgenössische Liebesromane",
+        "Bücher",
+        "Liebesromane"
+      ],
+      "averageUserRating": 4.5,
+      "userRatingCount": 13,
+      "country": "DEU"
+    }
+  ]
+}

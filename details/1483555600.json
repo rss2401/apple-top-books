@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "The Book of Longings",
+      "formattedPrice": "£0.99",
+      "artistViewUrl": "https://books.apple.com/gb/artist/sue-monk-kidd/2723454?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-book-of-longings/id1483555600?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/45/9f/db/459fdb74-21a0-54bf-4a51-c7798d74330d/9781472232526.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/45/9f/db/459fdb74-21a0-54bf-4a51-c7798d74330d/9781472232526.jpg/100x100bb.jpg",
+      "artistId": 2723454,
+      "artistName": "Sue Monk Kidd",
+      "price": 0.99,
+      "trackId": 1483555600,
+      "trackName": "The Book of Longings",
+      "artistIds": [
+        2723454
+      ],
+      "genreIds": [
+        "9031",
+        "38",
+        "10049",
+        "10047"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b></b><b>THE <i>New York Times </i>BESTSELLER</b><b></b><br /><br /><b>The stunning bestseller about a woman who finds her voice and her destiny, from author of <i>The Secret Life of Bees</i> and <i>The Invention of Wings</i></b><br /><br /><b>'Transporting, life-affirming, gripping. It is simply brilliant' Mel Giedroyc</b><br /><br /><b>'Fascinating . . . Clev</b><b>er, rebellious Ana is a memorable character' <i>The Times</i></b><br /><br /><b>'Brilliant . . . Brava!\" <i>The Daily Mail</i></b><br /><br />Ana is born in Galilee at a time when women are seen as possessions, only leaving their fathers' homes to marry. <br /><br />Ana longs to control her destiny. Taught to read despite her mother's misgivings, she wants to be a writer and to find her own voice. A voice that will speak for the silenced women around her.<br /><br />Betrothed to an elderly widower, Ana almost despairs. But an encounter with a charismatic young carpenter in Nazareth awakens new longings in her, and a different future opens up. <br /><br /> Yet this is not a simple love story. Ana's journey will bring both joy and tragedy, but it will also be enriched by the female friendships she makes along the way. <br /><br /><i>The Book of Longings</i> is an exquisite tale of dreams and desire, and of the power of women to change the world.<br /><br /><b>'One of my favourites' Alicia Keys<br /></b><br /><b>'I kept having to close this novel and breathe deeply, again and again . . . It is a true masterpiece' Glennon Doyle, author of <i>Untamed</i></b><br /><br /><b><i>'</i>Unleashes the reader's imagination with glorious evocations of extraordinary times and places, allowing our minds to roam . . . Original, challenging, beautiful' Adele Parks,<i> Platinum</i></b><br /><br /><b>'Compelling . . . Ana is a truly wonderful character, strong and inspiring, and her life story so captivating that it swept me along' <i>Good Housekeeping</i></b><br /><b><br />'This moving novel by bestselling author Sue Monk Kidd persuasively imagines the marriage between a brilliant young woman and Jesus' <i>Daily Mail</i></b><br /><br /><b>'Incredible . . . A story which is full of humanity, love and tenderness - and one which touched me deeply.' <i>Brown Flopsy's Book Bureau<br /></i><br />'The way that <i>Hamnet </i>gave a voice to Shakespeare's wife, this does the same for Ana . . . One of the greats for historical fiction' <i>Books by Bindu</i></b><br /><b><br />'Not a day has passed since I finished reading it that I have not thought about Ana, her story and the beautiful lyrical words Sue has written' <i>TheFallenLibrarian</i></b><br /><b><br />'I loved it. I loved the feminist theme, I loved the language and I loved the imagery of putting voice to your longings and then giving birth to them. Just fab' <i>BetweenMyLines</i></b><br /><b><br />'Glorious. Beautiful. Life-affirming'<i> Buried Under Books</i></b>",
+      "releaseDate": "2020-04-21T07:00:00Z",
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "averageUserRating": 4,
+      "userRatingCount": 28,
+      "country": "GBR"
+    }
+  ]
+}

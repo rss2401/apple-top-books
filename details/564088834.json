@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        207146267
+      ],
+      "artistId": 207146267,
+      "artistName": "Patrick Süskind",
+      "genres": [
+        "Belletristik und Literatur",
+        "Bücher"
+      ],
+      "price": 10.99,
+      "releaseDate": "2012-09-25T07:00:00Z",
+      "genreIds": [
+        "9031",
+        "38"
+      ],
+      "trackId": 564088834,
+      "trackName": "Das Parfum",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Im achtzehnten Jahrhundert lebte in Frankreich ein Mann, der zu den genialsten und abscheulichsten Gestalten dieser an genialen und abscheulichen Gestalten nicht armen Epoche gehörte. Die spannende Geschichte – märchenhaft, witzig und zugleich fürchterlich angsteinflößend – vom finsteren Helden Grenouille.",
+      "trackCensoredName": "Das Parfum",
+      "artistViewUrl": "https://books.apple.com/de/artist/patrick-s%C3%BCskind/207146267?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/das-parfum/id564088834?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/35/a2/8f/35a28f01-ac98-7629-44e8-5a12068a476d/9783257601756.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/35/a2/8f/35a28f01-ac98-7629-44e8-5a12068a476d/9783257601756.jpg/100x100bb.jpg",
+      "formattedPrice": "10,99 €",
+      "averageUserRating": 4,
+      "userRatingCount": 193,
+      "country": "DEU"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1099107679
+      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/35/5b/c0/355bc01e-f5d0-73d3-fcda-7caa7d6c1fd6/Italienisch.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication118/v4/35/5b/c0/355bc01e-f5d0-73d3-fcda-7caa7d6c1fd6/Italienisch.jpg/100x100bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/artist/infos24-gmbh/1099107679?uo=4",
+      "trackCensoredName": "Italienisch",
+      "formattedPrice": "Gratis",
+      "trackViewUrl": "https://books.apple.com/de/book/italienisch/id1076782277?uo=4",
+      "artistId": 1099107679,
+      "artistName": "Infos24 GmbH",
+      "genres": [
+        "Fremdsprachen",
+        "Bücher",
+        "Nachschlagewerke",
+        "Italienische Sprachstudien"
+      ],
+      "price": 0,
+      "genreIds": [
+        "10066",
+        "38",
+        "9033",
+        "11286"
+      ],
+      "releaseDate": "2016-01-01T08:00:00Z",
+      "trackId": 1076782277,
+      "trackName": "Italienisch",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Dieser Sprachkurs ist eine umfassende, vollständig vertonte, Darstellung der italienischen Sprache und der einzige Sprachkurs, der durchgehend einem komparativen Ansatz folgt, das heißt, er erklärt die Besonderheiten des Italienischen, und damit auch anderer romanischen Sprachen, unter Berücksichtigung der jeweiligen Muttersprache. Dies ist die Version für Deutsch Muttersprachler. Dies erleichtert es, Konstruktionen die stark vom Deutschen abweichen, congiuntivo, Zeitensystem, abweichendes System der Modalverben etc.. zu verstehen, weil sich z.B. die Logik oft durch didaktisch motivierte Hilfsübersetzungen verständlich machen läßt.<br /><br />\r\nDer Kurs ist sehr umfangreich und umfasst den gesamten Bereich von A1 bis C1 nach dem europäischen Referenzrahmen, richtet sich also an Anfänger wie auch an weit Fortgeschrittene, die bestimmte Bereiche, etwa die Zeitenfolge,&#xa0; üben und vertiefen wollen. Es ist eine Lerngrammatik, die sich allerdings auch als Nachschlagewerk eignet. Der Kurs ist vollständig vertont. Anhand einiger Tausend interaktiver Übungen, können alle Bereiche der Grammatik gezielt vertieft werden.",
+      "userRatingCount": 7,
+      "averageUserRating": 3.5,
+      "country": "DEU"
+    }
+  ]
+}

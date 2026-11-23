@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        375644852
+      ],
+      "artistId": 375644852,
+      "artistName": "Eva Almstädt",
+      "genres": [
+        "Krimis und Thriller",
+        "Bücher"
+      ],
+      "price": 5.99,
+      "releaseDate": "2023-05-26T07:00:00Z",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "trackId": 6444155257,
+      "trackName": "Akte Nordsee - Der Teufelshof",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Anwältin Fentje Jacobsen ist auf die Hochzeit ihres Freundes aus Kindertagen eingeladen. Als eine Nachbarin am nächsten Morgen das frisch vermählte Paar auf dem Hof der Familie aufsuchen will, findet sie die Eltern des Bräutigams ermordet, den Sohn schwer verletzt vor. Nur die Schwiegertochter konnte sich retten.<br /><br />War es ein Überfall oder ein Familiendrama? Als die Polizei Letzteres vermutet, will Fentje die Unschuld ihres Freundes beweisen. Dabei trifft sie auf den Journalisten Niklas John, der im Interesse der überlebenden Ehefrau ganz eigene Ziele verfolgt.<br /><br />Dieses Mal werden sie bestimmt nicht gemeinsam ermitteln. Aber dann bricht ein Feuer aus ...",
+      "trackCensoredName": "Akte Nordsee - Der Teufelshof",
+      "artistViewUrl": "https://books.apple.com/de/artist/eva-almst%C3%A4dt/375644852?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/akte-nordsee-der-teufelshof/id6444155257?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/c7/47/8d/c7478df5-5126-0fab-224f-95b502929e86/9783751742030.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication122/v4/c7/47/8d/c7478df5-5126-0fab-224f-95b502929e86/9783751742030.jpg/100x100bb.jpg",
+      "formattedPrice": "5,99 €",
+      "averageUserRating": 4,
+      "userRatingCount": 113,
+      "country": "DEU"
+    }
+  ]
+}

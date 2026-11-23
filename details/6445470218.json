@@ -1,0 +1,49 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Die Waffen des Lichts",
+      "artistViewUrl": "https://books.apple.com/de/artist/ken-follett-dietmar-schmidt-rainer-schumacher-markus/41828779?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/die-waffen-des-lichts/id6445470218?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/12/9f/30/129f3022-771f-fece-3775-a3911d9ab331/9783751748278.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/12/9f/30/129f3022-771f-fece-3775-a3911d9ab331/9783751748278.jpg/100x100bb.jpg",
+      "artistId": 41828779,
+      "artistName": "Ken Follett, Dietmar Schmidt, Rainer Schumacher & Markus Weber",
+      "genres": [
+        "Wirtschaft",
+        "Bücher",
+        "Business und Finanzen",
+        "Belletristik und Literatur",
+        "Historische Romane",
+        "Geschichte",
+        "Europäische Geschichte"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Willkommen zurück in KINGSBRIDGE!<br /><br />Mit seinem neuesten Roman läutet Ken Follett für die Menschen in Kingsbridge eine neue Ära ein. Eine Ära, in der Tradition und Fortschritt aufeinanderprallen, Klassenkämpfe in alle Teile der Gesellschaft vordringen und der gesamte Kontinent von einem erbitterten Krieg erfasst wird: die Zeit der Industrialisierung.<br /><br /><i>Fortschritt und Niedergang</i><br /><br />Ein industrieller Wandel, wie ihn die Welt noch nicht gesehen hat, ergreift ganz England, auch Kingsbridge, und nimmt denjenigen, die in den Garn- und Tuchmanufakturen arbeiten, die Grundlage ihrer Existenz. Gefährliche neue Maschinen ersetzen die Arbeit von Hand und reißen Familien auseinander.<br /><br /><i>Krieg und Befreiung</i><br /><br />Während die Herrschenden in England alles dafür tun, um ihr Land zur dominierenden Wirtschaftsmacht zu formen, greift in Frankreich Napoleon Bonaparte nach der Macht. Bald schon dürstet es ihn nach mehr: Spanien, die Niederlande, ganz Europa. Ein großer internationaler Konflikt bahnt sich an, immer mehr Männer ziehen in den Krieg. Zugleich stellt sich eine Gruppe von Kingsbridgern - darunter Spinnerin Sal Clitheroe, Tuchhändler Amos Barrowfield, Weber David Shoveller und Kit, Sals ebenso erfinderischer wie eigenwilliger Sohn - dem Kampf einer ganzen Generation. Sie streben nach Bildung und Wissen und kämpfen für eine Zukunft ohne Unterdrückung ...<br /><br /><i>Fortschritt und Niedergang, Krieg und Befreiung, Liebe und Verrat - in seinem fünften Kingsbridge-Roman rückt Ken Follett erneut ein großes, zeitloses Thema in den Mittelpunkt: den Kampf um Bildung und Meinungsfreiheit.</i>",
+      "formattedPrice": "5,99 €",
+      "releaseDate": "2023-09-26T07:00:00Z",
+      "artistIds": [
+        41828779,
+        374944810,
+        214021100,
+        394620092
+      ],
+      "genreIds": [
+        "10011",
+        "38",
+        "9009",
+        "9031",
+        "10047",
+        "9015",
+        "10075"
+      ],
+      "trackId": 6445470218,
+      "trackName": "Die Waffen des Lichts",
+      "price": 5.99,
+      "averageUserRating": 4,
+      "userRatingCount": 166,
+      "country": "DEU"
+    }
+  ]
+}

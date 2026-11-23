@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "14,99 €",
+      "artistIds": [
+        704244056
+      ],
+      "artistId": 704244056,
+      "artistName": "Marie-Dominique Lelievre",
+      "genres": [
+        "Politique et actualité",
+        "Livres",
+        "Science politique",
+        "Biographies et mémoires"
+      ],
+      "price": 14.99,
+      "trackId": 6795688867,
+      "trackName": "Rachida Dati. En solitaire",
+      "genreIds": [
+        "9034",
+        "38",
+        "11264",
+        "9008"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "UN PORTRAIT TROUBLANT DE RACHIDA DATI, CRÉATURE POLITIQUE INÉDITE. \n\nLancée comme une icône de la diversité, Rachida Dati a atteint les sommets du pouvoir, de la célébrité et de la richesse. Mais sous la pellicule nacrée du glamour affleurent les zones d'ombre. Si le personnage fascine par sa niaque et son absence de limites, la politicienne suscite méfiance et critiques. \n\nDans son nouvel ouvrage, l'écrivaine et journaliste Marie-Dominique Lelièvre déchiffre avec humour et acuité une héroïne de la culture populaire. S'appuyant sur une enquête informée, de la jeunesse dans une cité provinciale à l'ascension parisienne, elle retrace un périple marqué par les rencontres utiles, la fabrication d'une image, les tactiques pour atteindre le sommet et, enfin, devenir la ministre la plus riche d'un gouvernement. \nCe livre est plus qu'une biographie. Miroir d'une époque, il reflète et raconte l'évolution d'un paysage politique où le casting prend le pas sur le projet de société. \n\nMarie-Dominique Lelièvre est l'auteure d'ouvrages consacrés à Serge Gainsbourg, Françoise Sagan, Yves Saint Laurent, Coco Chanel, Brigitte Bardot, Françoise Hardy, et de romans. Elle signe des portraits dans Libération.\n\n« Un portrait détaillé de cette élue pétillante et cruelle »\nLES MATINS, FRANCE CULTURE",
+      "trackCensoredName": "Rachida Dati. En solitaire",
+      "artistViewUrl": "https://books.apple.com/fr/artist/marie-dominique-lelievre/704244056?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/rachida-dati-en-solitaire/id6795688867?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ae/65/05/ae65059f-ffd9-e551-bb2b-ccd5a9047926/9782080158826.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/ae/65/05/ae65059f-ffd9-e551-bb2b-ccd5a9047926/9782080158826.jpg/100x100bb.jpg",
+      "releaseDate": "2026-11-23T08:00:00Z",
+      "country": "FRA"
+    }
+  ]
+}

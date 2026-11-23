@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistId": 1450188554,
+      "artistName": "David Lisnard",
+      "genres": [
+        "Sciences sociales",
+        "Livres",
+        "Essais et sciences humaines"
+      ],
+      "price": 15.99,
+      "artistIds": [
+        1450188554
+      ],
+      "releaseDate": "2025-03-12T07:00:00Z",
+      "genreIds": [
+        "10120",
+        "38",
+        "9002"
+      ],
+      "trackId": 6758619797,
+      "trackName": "Ainsi va la France",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Où va la France ? Quelles sont les causes et les expressions de son déclassement ? Comment la redresser ? Telles sont les questions auxquelles David Lisnard apporte de nombreuses réponses. Au fil des années, au gré de ses rencontres sur tout le territoire national avec des salariés, des chefs d’entreprises, des maires bien sûr et des élus locaux, de son vécu de décideur y compris dans le commerce, de ses échanges parfois houleux avec la haute fonction publique dont les décisions concernent de plus en plus notre quotidien, de ses constats sur le terrain, David Lisnard s’est forgé la conviction suivante : le déclassement de la France est dû avant tout à la destruction de la responsabilité individuelle par un système qualifié de « techno-conformiste » qui embolise le pays dans la bureaucratie et le collectivisme. Pour lui, la solution aux maux de notre nation et son sursaut, le retour à l’ordre, à l’unité et à la prospérité viendront d’une révolution de l’action publique par la liberté. Liberté d’expression qui le caractérise, y compris dans son combat pour défendre l’universalisme républicain attaqué par le wokisme, l’indigénisme, le racialisme et son inclination raciste. Liberté de ton et responsabilité des mots pour retrouver une espérance française fondée sur le bon sens, le travail, l’investissement, l’effort, l’innovation, le mérite, la prise de risque, la confiance. Liberté qui doit redevenir la première valeur à être transcrite dans l’action, pour défendre un certain art de vivre et régénérer la démocratie. Ainsi va la France.",
+      "formattedPrice": "15,99 €",
+      "trackCensoredName": "Ainsi va la France",
+      "artistViewUrl": "https://books.apple.com/fr/artist/david-lisnard/1450188554?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/ainsi-va-la-france/id6758619797?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/27/87/2c/27872c37-41cc-6f7f-381d-b140f50dbe93/9791032935316.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/27/87/2c/27872c37-41cc-6f7f-381d-b140f50dbe93/9791032935316.jpg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

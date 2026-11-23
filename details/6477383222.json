@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistId": 1653598253,
+      "artistName": "Gérard Saryan",
+      "genres": [
+        "Policier et suspense",
+        "Livres"
+      ],
+      "price": 5.99,
+      "artistIds": [
+        1653598253
+      ],
+      "releaseDate": "2026-11-19T08:00:00Z",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
+      "trackId": 6477383222,
+      "trackName": "L’Ombre du prédateur",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "<b>Lorsqu'un adolescent est découvert crucifié sur une plateforme au milieu du lac de Lambecq, les villageois sont consternés. Qui a pu commettre un acte aussi odieux ? La même nuit, la sœur de la victime disparaît. A-t-elle été enlevée par l'assassin de son frère ?</b><br />La capitaine de police Agnès Demare est envoyée sur place afin de prêter main-forte aux gendarmes. Ses faits et gestes sont relayés sur les réseaux sociaux par Jade, une célèbre influenceuse lilloise. Pour ces deux femmes que tout oppose, une enquête tentaculaire commence. La soif de vérité emporte Agnès et Jade dans un tourbillon où la proie n'est pas toujours celle que l'on croit.<br /><b>Méfiez-vous, la toile diabolique de Gérard Saryan va encore vous prendre au piège !</b>",
+      "formattedPrice": "5,99 €",
+      "trackCensoredName": "L’Ombre du prédateur",
+      "artistViewUrl": "https://books.apple.com/fr/artist/g%C3%A9rard-saryan/1653598253?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/lombre-du-pr%C3%A9dateur/id6477383222?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a8/01/d4/a801d4b5-dd78-05c8-8161-d74e35c26bab/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a8/01/d4/a801d4b5-dd78-05c8-8161-d74e35c26bab/cover.jpg/100x100bb.jpg",
+      "country": "FRA"
+    }
+  ]
+}

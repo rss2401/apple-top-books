@@ -10,6 +10,7 @@
       "artistIds": [
         961211914
       ],
+      "price": 4.99,
       "genres": [
         "Policier et suspense",
         "Livres"
@@ -24,10 +25,11 @@
       "currency": "EUR",
       "description": "Le lauréat de la 5e édition du Prix du roman de la gendarmerie nationale sera dévoilé par le jury, le 20 mars 2025.<br /><br />Créé en 2020 par la gendarmerie nationale et les éditions Plon, ce prix récompense un roman mettant en scène la gendarmerie.<br />Le jury, présidé par le directeur général de la gendarmerie nationale, réunit journalistes et écrivains, tels que Maxime Chattam, Caroline Roux, Maître Julia Minkowski, Christian Authier, Yves Thréard, Anne Hommel, Eric Delbecque, mais aussi des gendarmes – hauts gradés ou non.<br />Aussi exigeant que passionné, ce jury couronne chaque année un polar de qualité.",
       "formattedPrice": "4,99 €",
-      "trackName": "Les Meilleurs sont sous terre - Prix du roman de la Gendarmerie nationale 2025",
       "releaseDate": "2025-03-20T07:00:00Z",
       "trackId": 6743460271,
-      "price": 4.99,
+      "trackName": "Les Meilleurs sont sous terre - Prix du roman de la Gendarmerie nationale 2025",
+      "averageUserRating": 4.5,
+      "userRatingCount": 6,
       "country": "FRA"
     }
   ]

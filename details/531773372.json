@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        347840375
+      ],
+      "artistId": 347840375,
+      "artistName": "Seth Hunter",
+      "price": 0,
+      "trackId": 531773372,
+      "trackName": "The Time of Terror",
+      "releaseDate": "2012-08-02T07:00:00Z",
+      "genreIds": [
+        "10047",
+        "38",
+        "9031",
+        "9015",
+        "10075",
+        "10039"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "<b>PREPARE TO MEET AN UNFORGETTABLE NAVAL HERO</b><br /><br /><b>Friends turn against friends, patriots are betrayed, and lovers must pay the ultimate price . . .</b><br /><br /><b>The first gripping naval thriller in Seth Hunter's historical adventure series, for fans of Julian Stockwin and Patrick O'Brian</b><br /><br /><b>'Rousing . . . a complex plot, written with wit, suspense, intrigue, and action' <i>Publishers Weekly </i></b><br /><br /><b>1793:</b> The French have killed their king and are about to embark on the violent period of bloodletting known as the Terror. <br /><br /> Brig-sloop Commander Nathan Peake is on smuggler patrol off the Sussex coast and desperate for some real action. As revolutionary France declares war on England, he seizes his chance. Peake is given a vital mission; to destroy the French economy by smuggling millions of French banknotes across the Channel and into the heart of Paris. His operation leads him from perilous seas to the Empire of the Dead - a labyrinth of catacombs under the French capital where bodies are buried, secrets hidden and plots hatched. <br /><br />But as opposition to the Terror mounts, Peake is forced to leave Paris and join the storm-tossed British squadrons in the Atlantic in the first thunderous battle between the rival navies.<br /><br /><b>What readers are saying about THE TIME OF TERROR:</b><br /><br /><b>'A breathtaking journey </b>through revolutionary Paris . . .  masterfully blends<b> history and humanity' </b>⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'Fantastically <b>addictive</b> and within a very<b> imaginative</b> setting'  ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'A <b>thrilling</b> story  . . . both on <b>the water</b> and on<b> land</b>' ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />If you enjoy books on <b>naval history</b> you will <b>love </b>this series' ⭐ ⭐ ⭐ ⭐ ⭐",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/1b/ee/03/1bee03e4-49a3-2bac-674e-fcf9afd1296f/9780755385072.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/1b/ee/03/1bee03e4-49a3-2bac-674e-fcf9afd1296f/9780755385072.jpg/100x100bb.jpg",
+      "trackCensoredName": "The Time of Terror",
+      "trackViewUrl": "https://books.apple.com/gb/book/the-time-of-terror/id531773372?uo=4",
+      "artistViewUrl": "https://books.apple.com/gb/artist/seth-hunter/347840375?uo=4",
+      "genres": [
+        "Historical Fiction",
+        "Books",
+        "Fiction & Literature",
+        "History",
+        "European History",
+        "Action & Adventure"
+      ],
+      "averageUserRating": 4,
+      "userRatingCount": 26,
+      "country": "GBR"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistIds": [
+        1014805896
+      ],
+      "trackCensoredName": "The Suspect",
+      "artistViewUrl": "https://books.apple.com/us/artist/lr-wright/1014805896?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-suspect/id1540035685?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/69/b2/55/69b255c3-c603-0183-d891-a431da0a9aff/1058922129.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/69/b2/55/69b255c3-c603-0183-d891-a431da0a9aff/1058922129.jpg/100x100bb.jpg",
+      "genres": [
+        "Police Procedural",
+        "Books",
+        "Mysteries & Thrillers"
+      ],
+      "artistId": 1014805896,
+      "artistName": "LR Wright",
+      "trackName": "The Suspect",
+      "trackId": 1540035685,
+      "releaseDate": "2015-07-01T07:00:00Z",
+      "genreIds": [
+        "10052",
+        "38",
+        "9032"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>First in the acclaimed series that launched Fox TV and Hulu's </b><i><b>Murder in a Small Town</b></i><b>: \"Every bit as good as the novels of P. D. James and Ruth Rendell.\" —</b><i><b>People</b></i><br /><br /><b>This Edgar Award winner is \"one of the best books of the year . . . a novel with a special sense of grace\"&#xa0;(</b><i><b>The Boston Globe).</b></i><br /><br />To Karl Alberg, the coastal town of Sechelt, just north of Vancouver, looks like the perfect place to soothe a psyche that's been battered by big‑city police work. Bees buzz among the roses, and the local librarian is attractive, intriguing, and unattached. Perhaps he has at last come in from the cold. But sunny towns can conceal a lot of secrets—some of them bleak enough to make a man yearn for some nice straightforward urban crime.<br /><br />In 1986 L. R. Wright's <i>The Suspect</i> became the first Canadian novel to win an Edgar Award, beating out titles by Ruth Rendell and Jonathan Kellerman. It went on to become a cult favorite among mystery fans, who prized its delicately etched sense of melancholy and intriguing character studies of the cop, his quarry, and the enigmatic librarian who proves an unlikely bridge between the two.<br /><br /><b>\"Do yourself a favor and don't miss this one.\" —</b><i><b>The San Diego Union</b></i><br /><br /><b>\"A writer of exceptional talent.\" —</b><i><b>The Toronto Globe and Mail</b></i><br /><br /><b>\"Highly original . . . crime fiction at its most convincing.\" —</b><i><b>Ottawa Citizen</b></i><br /><br /><b>\"A tight, beautifully written account.\" —</b><i><b>Publishers Weekly</b></i><br /><br /><b>\"Splendid, with a plot that never palls and characters that quickly take up residence in your heart.\" —</b><i><b>The Star-Phoenix</b></i>",
+      "formattedPrice": "Free",
+      "price": 0,
+      "averageUserRating": 4,
+      "userRatingCount": 77,
+      "country": "USA"
+    }
+  ]
+}

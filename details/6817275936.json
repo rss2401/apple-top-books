@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackCensoredName": "Till Death Do Us Apart - Tome 01",
+      "artistViewUrl": "https://books.apple.com/fr/artist/alice-desmerveilles/1662477472?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/till-death-do-us-apart-tome-01/id6817275936?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/29/8e/a3/298ea3c7-8559-fe63-af3a-e502271abe7a/dj.eussgbhv.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/29/8e/a3/298ea3c7-8559-fe63-af3a-e502271abe7a/dj.eussgbhv.jpeg/100x100bb.jpg",
+      "artistIds": [
+        1662477472
+      ],
+      "price": 9.99,
+      "genres": [
+        "Romance contemporaine",
+        "Livres",
+        "Romance",
+        "Thriller romantique"
+      ],
+      "artistId": 1662477472,
+      "artistName": "Alice Desmerveilles",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003",
+        "10061"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "Jeune criminologue, Sky pensait avoir tiré un trait sur Dustwood,<b> laissant derrière elle les fantômes de son passé.</b><br /><br />Toutefois lorsqu’un tueur en série surnommé « le Collectionneur » frappe cette petite ville poussiéreuse, <b>elle rejoint l’unité de son oncle pour participer à l’enquête</b>.<br /><br />Mais en traquant un monstre, <b>elle ne voit pas qu’un autre l’observe déjà</b>. Dans l’ombre, il la suit. Plus dangereux que les criminels dont elle décortique les esprits, <b>il veut la faire céder. Coûte que coûte.</b><br /><br />Consciente des risques mais incapable de lui résister, Sky vacille. Entre les indices qui s’accumulent, les secrets de famille qui resurgissent et l’emprise d'un homme qu’elle devrait fuir, <b>tout menace de lui glisser entre les doigts</b>.<br /><br /><b>Dans ce jeu de pouvoir et d’obsession, ce n’est pas seulement son cœur qu’elle risque de perdre…<br /></b><b><b>Mais sa vie.</b></b>",
+      "formattedPrice": "9,99 €",
+      "releaseDate": "2026-11-04T08:00:00Z",
+      "trackId": 6817275936,
+      "trackName": "Till Death Do Us Apart - Tome 01",
+      "country": "FRA"
+    }
+  ]
+}

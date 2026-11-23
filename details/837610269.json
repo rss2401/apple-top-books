@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "formattedPrice": "$2.99",
+      "trackCensoredName": "The Tucci Table",
+      "artistViewUrl": "https://books.apple.com/us/artist/stanley-tucci/269104?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/the-tucci-table/id837610269?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/72/78/07/727807e9-ac08-e4cf-5bf0-cf1c97172273/9781476738574.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/72/78/07/727807e9-ac08-e4cf-5bf0-cf1c97172273/9781476738574.jpg/100x100bb.jpg",
+      "artistIds": [
+        269104
+      ],
+      "artistId": 269104,
+      "artistName": "Stanley Tucci",
+      "genres": [
+        "Cooking Methods",
+        "Books",
+        "Cookbooks, Food & Wine",
+        "Cookbooks"
+      ],
+      "price": 2.99,
+      "releaseDate": "2014-10-28T07:00:00Z",
+      "genreIds": [
+        "10030",
+        "38",
+        "9028",
+        "10027"
+      ],
+      "trackId": 837610269,
+      "trackName": "The Tucci Table",
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "<b>Featuring family-friendly “simple to make and magnificently delicious” (Mario Batali) recipes and stunning photography, a practical cookbook </b><b>of Italian family recipes</b> <b>from <i>New York Times</i> bestselling author, beloved actor, and respected foodie Stanley Tucci.</b><br /><br />Stanley Tucci’s association with wonderful foods began for fans with the movie <i>Big Night </i>and resonated in his role as Julia Child’s husband in <i>Julie &amp; Julia</i>. But well before these films, he was enjoying innovative homemade Italian meals throughout his childhood, when family and food were nearly inseparable and cooking was always a familial venture.<br /><br />Now, in this family-focused cookbook, Tucci captivates food lovers’ imaginations with recipes from his traditional Italian roots as well as those of his British wife, Felicity Blunt, tied together with a modern American ribbon. The time-tested recipes include pasta alla bottarga, mushroom-stuffed trout, pork chops with onions and mustard sauce, barbeque chicken wings, and much, much more! Nothing will make you happier to spend time with family than the aroma of a hearty Italian dish sizzling on the stovetop.<br /><br />Featuring 100 luscious, full-color photographs, <i>The Tucci Table</i> captures the true joys of family cooking.<i> Buon appetito</i>!",
+      "averageUserRating": 4,
+      "userRatingCount": 12,
+      "country": "USA"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "artistIds": [
+        550901410
+      ],
+      "trackCensoredName": "Christmas In Eagle Bend",
+      "artistViewUrl": "https://books.apple.com/us/artist/kathleen-shoop/550901410?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/christmas-in-eagle-bend/id6472675125?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/9e/08/b3/9e08b339-873f-cb49-df62-fe5c9b6817d0/9798215567722.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/9e/08/b3/9e08b339-873f-cb49-df62-fe5c9b6817d0/9798215567722.jpg/100x100bb.jpg",
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Family Fiction & Literature"
+      ],
+      "artistId": 550901410,
+      "artistName": "Kathleen Shoop",
+      "trackName": "Christmas In Eagle Bend",
+      "trackId": 6472675125,
+      "releaseDate": "2023-11-17T08:00:00Z",
+      "genreIds": [
+        "9031",
+        "38",
+        "11050"
+      ],
+      "kind": "ebook",
+      "currency": "USD",
+      "description": "It's the week before Christmas and the historic McFarland home is buzzing with the return of four adult children and their young families. Pop made sure this was the year they all came back to town.<br /><br />Newly married and postpartum Ivy, a TikTok famous bus-life wanderer, struggles with the best way to parent her teen son with special needs. Ava's seemingly perfect life and marriage are wearing thin. Oliver's accidental wealth makes the perfect breeding ground for doubts about his professional abilities. Levi's recent firing from a prestigious university and his wife's petition for divorce shatter him.<br /><br />And then there's Mum...<br /><br />Her new bread-making hobby with mysterious sources for centuries old bread starters only hint at what the kids will discover. For good and for bad. A glamorous Christmas Eve party, a reward for a dog who won't stop pooping all over town, a tavern crawl, and surprises at every turn force the McFarlands to re-examine their place in the world. As snow piles up and the family snuggles in, a blend of joy and tension mark the renewing of relationships and the realization that nothing stays the same. Is it too late to reconnect when they need each other most? Is it too late for them to realize there's no place like Christmas in Eagle Bend?",
+      "formattedPrice": "Free",
+      "price": 0,
+      "country": "USA"
+    },
+    {
+      "formattedPrice": "Free",
+      "artistIds": [
+        550901410
+      ],
+      "artistId": 550901410,
+      "artistName": "Kathleen Shoop",
+      "price": 0,
+      "trackId": 6472675125,
+      "trackName": "Christmas In Eagle Bend",
+      "releaseDate": "2023-11-17T08:00:00Z",
+      "genreIds": [
+        "9031",
+        "38",
+        "11050"
+      ],
+      "kind": "ebook",
+      "currency": "GBP",
+      "description": "It's the week before Christmas and the historic McFarland home is buzzing with the return of four adult children and their young families. Pop made sure this was the year they all came back to town.<br /><br />Newly married and postpartum Ivy, a TikTok famous bus-life wanderer, struggles with the best way to parent her teen son with special needs. Ava's seemingly perfect life and marriage are wearing thin. Oliver's accidental wealth makes the perfect breeding ground for doubts about his professional abilities. Levi's recent firing from a prestigious university and his wife's petition for divorce shatter him.<br /><br />And then there's Mum...<br /><br />Her new bread-making hobby with mysterious sources for centuries old bread starters only hint at what the kids will discover. For good and for bad. A glamorous Christmas Eve party, a reward for a dog who won't stop pooping all over town, a tavern crawl, and surprises at every turn force the McFarlands to re-examine their place in the world. As snow piles up and the family snuggles in, a blend of joy and tension mark the renewing of relationships and the realization that nothing stays the same. Is it too late to reconnect when they need each other most? Is it too late for them to realize there's no place like Christmas in Eagle Bend?",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/9e/08/b3/9e08b339-873f-cb49-df62-fe5c9b6817d0/9798215567722.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/9e/08/b3/9e08b339-873f-cb49-df62-fe5c9b6817d0/9798215567722.jpg/100x100bb.jpg",
+      "trackCensoredName": "Christmas In Eagle Bend",
+      "trackViewUrl": "https://books.apple.com/gb/book/christmas-in-eagle-bend/id6472675125?uo=4",
+      "artistViewUrl": "https://books.apple.com/gb/artist/kathleen-shoop/550901410?uo=4",
+      "genres": [
+        "Fiction & Literature",
+        "Books",
+        "Family Fiction & Literature"
+      ],
+      "country": "GBR"
+    }
+  ]
+}

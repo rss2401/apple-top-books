@@ -1,0 +1,44 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistViewUrl": "https://books.apple.com/jp/artist/%E7%B5%82%E6%9C%AB%E3%81%AE%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC-%E6%88%90%E7%80%AC%E4%B9%99%E5%BD%A6-%E5%B2%A1%E6%9C%AC%E4%B8%80%E5%85%B5/1505957399?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fe/88/98/fe889891-37a5-e59a-cc07-5dd048f1bcbb/BT000169136200700701900209.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/fe/88/98/fe889891-37a5-e59a-cc07-5dd048f1bcbb/BT000169136200700701900209.jpg/100x100bb.jpg",
+      "artistIds": [
+        1505957399,
+        1117772035,
+        1779742575
+      ],
+      "trackCensoredName": "終末のワルキューレ禁伝 神々の黙示録 7巻【特典イラスト付き】",
+      "formattedPrice": "¥880",
+      "trackViewUrl": "https://books.apple.com/jp/book/%E7%B5%82%E6%9C%AB%E3%81%AE%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E7%A6%81%E4%BC%9D-%E7%A5%9E%E3%80%85%E3%81%AE%E9%BB%99%E7%A4%BA%E9%8C%B2-7%E5%B7%BB-%E7%89%B9%E5%85%B8%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E4%BB%98%E3%81%8D/id6835318448?uo=4",
+      "artistId": 1505957399,
+      "artistName": "終末のワルキューレ, 成瀬乙彦 & 岡本一兵",
+      "genres": [
+        "ファンタジー",
+        "ブック",
+        "マンガ／グラフィックノベル",
+        "マンガ",
+        "青年",
+        "アクション"
+      ],
+      "price": 880,
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "trackId": 6835318448,
+      "trackName": "終末のワルキューレ禁伝 神々の黙示録 7巻【特典イラスト付き】",
+      "genreIds": [
+        "50000074",
+        "38",
+        "9026",
+        "10016",
+        "11338",
+        "50000071"
+      ],
+      "kind": "ebook",
+      "currency": "JPY",
+      "description": "苛烈を極める死神vs閻魔大王の試合!優勢だった閻魔に突如異変が!? 閻魔帳に記録された膨大な戦闘データを浴び続けたことで限界が来てしまった閻魔。それを狙っていた死神は静かにほくそ笑む。そして、いよいよ決着の時が来たる。さらに、次なる第七試合は悪魔の二柱が激突!!",
+      "country": "JPN"
+    }
+  ]
+}
